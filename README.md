@@ -12,7 +12,7 @@ A documented CoinGecko example shows how developers can bind a signed API respon
 
 [Fork Brief](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | Published 11 Sept 2026 | Guide
 
-Sources: [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
+Sources: [Fork Brief](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
 
 ## API3’s AirnodeHub offers free API access for AI agents in early access
 
@@ -20,7 +20,7 @@ AirnodeHub gives agents a common way to find and call APIs, with every current l
 
 [Chain Minute](https://chainminute.com/news/a3c2dad7-d45d-4f3d-b97f-f5f9867957aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a3c2dad7-d45d-4f3d-b97f-f5f9867957aa) | Published 11 Sept 2026
 
-Sources: [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-providers/)
+Sources: [Chain Minute](https://chainminute.com/news/a3c2dad7-d45d-4f3d-b97f-f5f9867957aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a3c2dad7-d45d-4f3d-b97f-f5f9867957aa) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-providers/)
 
 ## Bitwise sets October trading deadline for Dogecoin ETF closure
 
@@ -28,7 +28,7 @@ BWOW&#39;s final trading session is expected on October 14, followed by a cash d
 
 [Chain Minute](https://chainminute.com/news/ca2498db-799e-468d-af70-0d396c8e28b3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ca2498db-799e-468d-af70-0d396c8e28b3) | Published 11 Sept 2026
 
-Sources: [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/bitwise-announces-liquidation-of-bitwise-dogecoin-etf-nyse-bwow-302875719.html)
+Sources: [Chain Minute](https://chainminute.com/news/ca2498db-799e-468d-af70-0d396c8e28b3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ca2498db-799e-468d-af70-0d396c8e28b3) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/bitwise-announces-liquidation-of-bitwise-dogecoin-etf-nyse-bwow-302875719.html)
 
 ## MoneyGram launches stablecoin\-backed Visa card in Colombia
 
@@ -36,7 +36,7 @@ The digital card is initially available in Colombia\. MoneyGram plans a physical
 
 [Yield Dispatch](https://yielddispatch.com/news/2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5) | Published 11 Sept 2026
 
-Sources: [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/introducing-the-moneygram-card-giving-customers-more-freedom-to-use-their-money-wherever-life-takes-them-302875353.html)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/introducing-the-moneygram-card-giving-customers-more-freedom-to-use-their-money-wherever-life-takes-them-302875353.html)
 
 ## Tether and Fasanara Launch $400M Private Credit Fund, Targeting $3B Institutional Raise
 
@@ -44,4 +44,4 @@ Tether and Fasanara Capital have launched StableFund, a $400 million private cre
 
 [Yield Dispatch](https://yielddispatch.com/news/2f61ac0c-4f34-4b03-80cb-b99d99d5341c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f61ac0c-4f34-4b03-80cb-b99d99d5341c) | Published 10 Sept 2026
 
-Sources: [cointelegraph\.com](https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b) | [cryptoslate\.com](https://cryptoslate.com/tether-is-pushing-usdt-into-a-cracking-3-trillion-wall-street-debt-machine-as-defaults-hit-five-year-highs-at-major-funds/)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/2f61ac0c-4f34-4b03-80cb-b99d99d5341c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f61ac0c-4f34-4b03-80cb-b99d99d5341c) | [cointelegraph\.com](https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b) | [cryptoslate\.com](https://cryptoslate.com/tether-is-pushing-usdt-into-a-cracking-3-trillion-wall-street-debt-machine-as-defaults-hit-five-year-highs-at-major-funds/)
