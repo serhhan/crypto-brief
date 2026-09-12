@@ -6,6 +6,14 @@ Updated 12 Sept 2026.
 
 [Dated edition](archive/2026-09-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Circle sets October minting cutoff and January pause for Noble USDC
+
+The issuer outlines transfer routes, shrinking cross\-chain limits and conditions for manual redemption\.
+
+[Yield Dispatch](https://yielddispatch.com/news/20f384f8-7960-4c3e-8e8a-5f5c195a52cf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20f384f8-7960-4c3e-8e8a-5f5c195a52cf) | Published 12 Sept 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/20f384f8-7960-4c3e-8e8a-5f5c195a52cf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20f384f8-7960-4c3e-8e8a-5f5c195a52cf) | [cryptoslate\.com](https://cryptoslate.com/circles-noble-shutdown-leaves-cosmos-racing-to-move-92-million-in-usdc/) | [news\.google\.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHU3S0trd3lvSmotc3pWbWw1blZWSjFWcVVkZm8xUkNkdGpWLVFJYVRobV91VjMwcTBTWG94T2hfeTI3WTdoN2RWVnhiQ016aVdQcDZHaE1SWl9SNzhoZ0c2bDQtejdaZ1ZXSWRjemZlZTdCRjNfb19aN0I2enphSQ?oc=5)
+
 ## Robinhood&#39;s August crypto volume rebounds to $17\.5 billion, still below last year
 
 Trading increased at both the Robinhood app and Bitstamp, but each business remained below August 2025 levels\.
@@ -37,11 +45,3 @@ The digital card is initially available in Colombia\. MoneyGram plans a physical
 [Yield Dispatch](https://yielddispatch.com/news/2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5) | Published 11 Sept 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/introducing-the-moneygram-card-giving-customers-more-freedom-to-use-their-money-wherever-life-takes-them-302875353.html)
-
-## Tether and Fasanara Launch $400M Private Credit Fund, Targeting $3B Institutional Raise
-
-Tether and Fasanara Capital have launched StableFund, a $400 million private credit fund structured to raise up to $3 billion from institutional investors\. The fund will deploy capital into short\-duration, asset\-backed lending via fintech platforms in over 60 countries, with Tether providing USDT settlement infrastructure and Fasanara serving as investment manager\.
-
-[Yield Dispatch](https://yielddispatch.com/news/2f61ac0c-4f34-4b03-80cb-b99d99d5341c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f61ac0c-4f34-4b03-80cb-b99d99d5341c) | Published 10 Sept 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/2f61ac0c-4f34-4b03-80cb-b99d99d5341c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f61ac0c-4f34-4b03-80cb-b99d99d5341c) | [cointelegraph\.com](https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b) | [cryptoslate\.com](https://cryptoslate.com/tether-is-pushing-usdt-into-a-cracking-3-trillion-wall-street-debt-machine-as-defaults-hit-five-year-highs-at-major-funds/)

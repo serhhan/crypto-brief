@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [Circle sets October minting cutoff and January pause for Noble USDC](https://yielddispatch.com/news/20f384f8-7960-4c3e-8e8a-5f5c195a52cf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20f384f8-7960-4c3e-8e8a-5f5c195a52cf) | 12 Sept 2026 | Yield Dispatch
+
+  The issuer outlines transfer routes, shrinking cross\-chain limits and conditions for manual redemption\.
 
 - [MoneyGram launches stablecoin\-backed Visa card in Colombia](https://yielddispatch.com/news/2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2ff04da0-aa26-4ac7-80e9-89b7f71cd9e5) | 11 Sept 2026 | Yield Dispatch
 

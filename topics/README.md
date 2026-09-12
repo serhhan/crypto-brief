@@ -12,4 +12,4 @@ Linked pages contain at least three distinct developments.
 - Dogecoin | 1 distinct development
 - [Ethereum](ethereum.md) | 11 distinct developments
 - Tether | 1 distinct development
-- USDC | 1 distinct development
+- USDC | 2 distinct developments
