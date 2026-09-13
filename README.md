@@ -6,6 +6,14 @@ Updated 13 Sept 2026.
 
 [Dated edition](archive/2026-09-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Thailand SEC Proposes Separate Daily Limits for Stablecoin Deposits and Withdrawals
+
+Thailand’s SEC is consulting on separate five\-million\-baht daily limits for inbound and outbound stablecoin transfers per customer per operator\. The draft includes wallet\-ownership checks and exemptions, with public feedback open until 25 September 2026\.
+
+[Chain Minute](https://chainminute.com/news/b6a9b153-05fa-49e3-a827-c8ce7e72b86c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b6a9b153-05fa-49e3-a827-c8ce7e72b86c) | Published 13 Sept 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/b6a9b153-05fa-49e3-a827-c8ce7e72b86c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b6a9b153-05fa-49e3-a827-c8ce7e72b86c) | [www\.sec\.or\.th](https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13294) | [www\.sec\.or\.th](https://www.sec.or.th/TH/Pages/News_Detail.aspx?SECID=13319)
+
 ## Uniswap launches StablePair fees for two Ethereum stablecoin pools
 
 The new hook adjusts fees around a reference price, while its documentation sets out governance and audit\-scope limits\.
@@ -37,11 +45,3 @@ A documented CoinGecko example shows how developers can bind a signed API respon
 [Fork Brief](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | Published 11 Sept 2026 | Guide
 
 Sources: [Fork Brief](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
-
-## API3’s AirnodeHub offers free API access for AI agents in early access
-
-AirnodeHub gives agents a common way to find and call APIs, with every current listing free during early access and request\-based payments described for priced operations\.
-
-[Chain Minute](https://chainminute.com/news/a3c2dad7-d45d-4f3d-b97f-f5f9867957aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a3c2dad7-d45d-4f3d-b97f-f5f9867957aa) | Published 11 Sept 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/a3c2dad7-d45d-4f3d-b97f-f5f9867957aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a3c2dad7-d45d-4f3d-b97f-f5f9867957aa) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-providers/)
