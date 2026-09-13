@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [Uniswap launches StablePair fees for two Ethereum stablecoin pools](https://yielddispatch.com/news/fda5eb0b-e8bf-41fc-ba42-a6f7206e9413?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fda5eb0b-e8bf-41fc-ba42-a6f7206e9413) | 13 Sept 2026 | Yield Dispatch
+
+  The new hook adjusts fees around a reference price, while its documentation sets out governance and audit\-scope limits\.
 
 - [Circle sets October minting cutoff and January pause for Noble USDC](https://yielddispatch.com/news/20f384f8-7960-4c3e-8e8a-5f5c195a52cf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20f384f8-7960-4c3e-8e8a-5f5c195a52cf) | 12 Sept 2026 | Yield Dispatch
 

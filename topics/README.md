@@ -10,6 +10,7 @@ Linked pages contain at least three distinct developments.
 - [API3](api3.md) | 5 distinct developments
 - Bitcoin | 1 distinct development
 - Dogecoin | 1 distinct development
-- [Ethereum](ethereum.md) | 11 distinct developments
+- [Ethereum](ethereum.md) | 12 distinct developments
 - Tether | 1 distinct development
+- Uniswap | 1 distinct development
 - USDC | 2 distinct developments

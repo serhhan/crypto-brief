@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [Uniswap launches StablePair fees for two Ethereum stablecoin pools](https://yielddispatch.com/news/fda5eb0b-e8bf-41fc-ba42-a6f7206e9413?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fda5eb0b-e8bf-41fc-ba42-a6f7206e9413) | 13 Sept 2026 | Yield Dispatch
+
+  The new hook adjusts fees around a reference price, while its documentation sets out governance and audit\-scope limits\.
 
 - [Verifying an ETH price response through API3&#39;s AirnodeHub](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | 11 Sept 2026 | Fork Brief
 
