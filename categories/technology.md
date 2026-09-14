@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [S&amp;P Global backs Kaiko as its Series B reaches $110 million](https://forkbrief.com/news/0f0d6adf-ce5d-46fa-8444-d0c170f3a48f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f0d6adf-ce5d-46fa-8444-d0c170f3a48f) | 14 Sept 2026 | Fork Brief
+
+  The investment accompanies a new industry working group focused on data infrastructure for tokenized markets\.
 
 - [Verifying an ETH price response through API3&#39;s AirnodeHub](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | 11 Sept 2026 | Fork Brief
 

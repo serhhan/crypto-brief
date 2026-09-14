@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [Bitcoin ETFs lose $462\.7 million as Ether funds attract $196\.9 million](https://chainminute.com/news/034b8586-b8d3-4975-a056-ba50254e7ca0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=034b8586-b8d3-4975-a056-ba50254e7ca0) | 14 Sept 2026 | Chain Minute
+
+  US Bitcoin and Ether ETF flows diverged over 8\-11 September\. Daily totals show Bitcoin outflows throughout the period, while a strong Friday put Ether funds ahead\.
 
 - [Uniswap launches StablePair fees for two Ethereum stablecoin pools](https://yielddispatch.com/news/fda5eb0b-e8bf-41fc-ba42-a6f7206e9413?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fda5eb0b-e8bf-41fc-ba42-a6f7206e9413) | 13 Sept 2026 | Yield Dispatch
 

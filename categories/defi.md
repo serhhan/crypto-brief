@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [Kraken xStocks vaults add DeFi yield to SPYx, QQQx and NVDAx](https://yielddispatch.com/news/a981957e-a647-45ae-9d07-1cd01eeba70d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a981957e-a647-45ae-9d07-1cd01eeba70d) | 14 Sept 2026 | Yield Dispatch
+
+  Kraken&#39;s tokenized\-stock vaults use collateralized borrowing to generate rewards in the deposited asset\. The structure connects Ink and Solana and adds a withdrawal wait and liquidation risk\.
 
 - [Uniswap launches StablePair fees for two Ethereum stablecoin pools](https://yielddispatch.com/news/fda5eb0b-e8bf-41fc-ba42-a6f7206e9413?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fda5eb0b-e8bf-41fc-ba42-a6f7206e9413) | 13 Sept 2026 | Yield Dispatch
 

@@ -6,42 +6,42 @@ Updated 14 Sept 2026.
 
 [Dated edition](archive/2026-09-14.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## KULR Technology Sells Final 764 Bitcoin, Exits Crypto Treasury Holdings
+## What MetaMask Added Protection checks, and why it costs extra gas
 
-KULR Technology Group has sold its remaining 764 bitcoin for around $58\.6 million between August 20 and September 11, 2026, eliminating all Bitcoin from its treasury portfolio\. The company now holds zero Bitcoin, closing its previously active crypto treasury strategy to focus resources on its core energy business\. Further details on gain, loss, or redeployment of proceeds were not disclosed\.
+MetaMask&#39;s onchain checks can reject execution that differs from its preview\. Supported smart accounts still pay gas, including when a transaction reverts\.
 
-[Chain Minute](https://chainminute.com/news/ed99e656-22d4-4942-acb1-30a82aa3a9c0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ed99e656-22d4-4942-acb1-30a82aa3a9c0) | Published 14 Sept 2026
+[Token Primer](https://tokenprimer.com/news/ab5ddcef-44d0-4bc9-b64f-ba3dd4a44048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ab5ddcef-44d0-4bc9-b64f-ba3dd4a44048) | Published 14 Sept 2026 | Guide
 
-Sources: [Chain Minute](https://chainminute.com/news/ed99e656-22d4-4942-acb1-30a82aa3a9c0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ed99e656-22d4-4942-acb1-30a82aa3a9c0) | [cryptoslate\.com](https://cryptoslate.com/another-public-company-has-abandoned-its-bitcoin-treasury-after-selling-the-last-764-btc/) | [cryptoslate\.com](https://cryptoslate.com/hackers-mint-trillions-in-fake-bitcoin-but-15-btc-bridge-recovery-leaves-liquidity-providers-unpaid/)
+Sources: [Token Primer](https://tokenprimer.com/news/ab5ddcef-44d0-4bc9-b64f-ba3dd4a44048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ab5ddcef-44d0-4bc9-b64f-ba3dd4a44048) | [support\.metamask\.io](https://support.metamask.io/manage-crypto/transactions/simulations/)
 
-## What can you build with AirnodeHub&#39;s 35 API listings?
+## Swiss Bitcoin Pay announced server shutdown after suspected unauthorized access
 
-Five practical ways to use API3&#39;s 35 AirnodeHub listings, covering crypto markets, wallets, economic data, natural events and transport\.
+The company said it was investigating possible access to internal systems and customer email addresses\.
 
-[Token Primer](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | Published 14 Sept 2026 | Guide
+[Chain Incident](https://chainincident.com/news/070f5699-1043-4c1a-bc8c-e69749ac3643?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=070f5699-1043-4c1a-bc8c-e69749ac3643) | Published 14 Sept 2026
 
-Sources: [Token Primer](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnode\-drpc\.fly\.dev](https://airnode-drpc.fly.dev/)
+Sources: [Chain Incident](https://chainincident.com/news/070f5699-1043-4c1a-bc8c-e69749ac3643?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=070f5699-1043-4c1a-bc8c-e69749ac3643) | [x\.com](https://x.com/SwissBitcoinPay/status/2099473448162488618)
 
-## Thailand SEC Proposes Separate Daily Limits for Stablecoin Deposits and Withdrawals
+## S&amp;P Global backs Kaiko as its Series B reaches $110 million
 
-Thailand’s SEC is consulting on separate five\-million\-baht daily limits for inbound and outbound stablecoin transfers per customer per operator\. The draft includes wallet\-ownership checks and exemptions, with public feedback open until 25 September 2026\.
+The investment accompanies a new industry working group focused on data infrastructure for tokenized markets\.
 
-[Chain Minute](https://chainminute.com/news/b6a9b153-05fa-49e3-a827-c8ce7e72b86c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b6a9b153-05fa-49e3-a827-c8ce7e72b86c) | Published 13 Sept 2026
+[Fork Brief](https://forkbrief.com/news/0f0d6adf-ce5d-46fa-8444-d0c170f3a48f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f0d6adf-ce5d-46fa-8444-d0c170f3a48f) | Published 14 Sept 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/b6a9b153-05fa-49e3-a827-c8ce7e72b86c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b6a9b153-05fa-49e3-a827-c8ce7e72b86c) | [www\.sec\.or\.th](https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13294) | [www\.sec\.or\.th](https://www.sec.or.th/TH/Pages/News_Detail.aspx?SECID=13319)
+Sources: [Fork Brief](https://forkbrief.com/news/0f0d6adf-ce5d-46fa-8444-d0c170f3a48f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f0d6adf-ce5d-46fa-8444-d0c170f3a48f) | [www\.kaiko\.com](https://www.kaiko.com/news/sp-global-leads-strategic-investment-in-kaiko-extending-series-b-to-110-million)
 
-## Uniswap launches StablePair fees for two Ethereum stablecoin pools
+## Kraken xStocks vaults add DeFi yield to SPYx, QQQx and NVDAx
 
-The new hook adjusts fees around a reference price, while its documentation sets out governance and audit\-scope limits\.
+Kraken&#39;s tokenized\-stock vaults use collateralized borrowing to generate rewards in the deposited asset\. The structure connects Ink and Solana and adds a withdrawal wait and liquidation risk\.
 
-[Yield Dispatch](https://yielddispatch.com/news/fda5eb0b-e8bf-41fc-ba42-a6f7206e9413?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fda5eb0b-e8bf-41fc-ba42-a6f7206e9413) | Published 13 Sept 2026
+[Yield Dispatch](https://yielddispatch.com/news/a981957e-a647-45ae-9d07-1cd01eeba70d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a981957e-a647-45ae-9d07-1cd01eeba70d) | Published 14 Sept 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/fda5eb0b-e8bf-41fc-ba42-a6f7206e9413?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fda5eb0b-e8bf-41fc-ba42-a6f7206e9413) | [blog\.uniswap\.org](https://blog.uniswap.org/stablepair-hook-a-fee-that-moves-with-the-market) | [developers\.uniswap\.org](https://developers.uniswap.org/docs/protocols/uniswap-labs-hooks/stable-pair/security)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/a981957e-a647-45ae-9d07-1cd01eeba70d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a981957e-a647-45ae-9d07-1cd01eeba70d) | [support\.kraken\.com](https://support.kraken.com/articles/xstocks-vaults) | [veda\.tech](https://veda.tech/blog/veda-powers-krakens-push-into-xstocks-yield-with-sentora)
 
-## Circle sets October minting cutoff and January pause for Noble USDC
+## Bitcoin ETFs lose $462\.7 million as Ether funds attract $196\.9 million
 
-The issuer outlines transfer routes, shrinking cross\-chain limits and conditions for manual redemption\.
+US Bitcoin and Ether ETF flows diverged over 8\-11 September\. Daily totals show Bitcoin outflows throughout the period, while a strong Friday put Ether funds ahead\.
 
-[Yield Dispatch](https://yielddispatch.com/news/20f384f8-7960-4c3e-8e8a-5f5c195a52cf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20f384f8-7960-4c3e-8e8a-5f5c195a52cf) | Published 12 Sept 2026
+[Chain Minute](https://chainminute.com/news/034b8586-b8d3-4975-a056-ba50254e7ca0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=034b8586-b8d3-4975-a056-ba50254e7ca0) | Published 14 Sept 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/20f384f8-7960-4c3e-8e8a-5f5c195a52cf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20f384f8-7960-4c3e-8e8a-5f5c195a52cf) | [cryptoslate\.com](https://cryptoslate.com/circles-noble-shutdown-leaves-cosmos-racing-to-move-92-million-in-usdc/) | [news\.google\.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHU3S0trd3lvSmotc3pWbWw1blZWSjFWcVVkZm8xUkNkdGpWLVFJYVRobV91VjMwcTBTWG94T2hfeTI3WTdoN2RWVnhiQ016aVdQcDZHaE1SWl9SNzhoZ0c2bDQtejdaZ1ZXSWRjemZlZTdCRjNfb19aN0I2enphSQ?oc=5)
+Sources: [Chain Minute](https://chainminute.com/news/034b8586-b8d3-4975-a056-ba50254e7ca0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=034b8586-b8d3-4975-a056-ba50254e7ca0) | [farside\.co\.uk](https://farside.co.uk/bitcoin-etf-flow-all-data/) | [farside\.co\.uk](https://farside.co.uk/eth/)

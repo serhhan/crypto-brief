@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [Swiss Bitcoin Pay announced server shutdown after suspected unauthorized access](https://chainincident.com/news/070f5699-1043-4c1a-bc8c-e69749ac3643?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=070f5699-1043-4c1a-bc8c-e69749ac3643) | 14 Sept 2026 | Chain Incident
+
+  The company said it was investigating possible access to internal systems and customer email addresses\.
 
 - [How to verify API3 oracle sources before a DeFi integration](https://chainincident.com/news/c8deb210-63fa-43a8-afa7-9d318343d9f2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c8deb210-63fa-43a8-afa7-9d318343d9f2) | 11 Sept 2026 | Chain Incident
 
