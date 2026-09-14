@@ -8,7 +8,7 @@ Linked pages contain at least three distinct developments.
 
 - [Airnode Hub](airnode-hub.md) | 3 distinct developments
 - [API3](api3.md) | 6 distinct developments
-- Bitcoin | 1 distinct development
+- Bitcoin | 2 distinct developments
 - Dogecoin | 1 distinct development
 - [Ethereum](ethereum.md) | 12 distinct developments
 - Tether | 1 distinct development
