@@ -37,11 +37,3 @@ Trading increased at both the Robinhood app and Bitstamp, but each business rema
 [Chain Minute](https://chainminute.com/news/03f0bf4e-f901-4760-86d4-89c6c4c38e10?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=03f0bf4e-f901-4760-86d4-89c6c4c38e10) | Published 12 Sept 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/03f0bf4e-f901-4760-86d4-89c6c4c38e10?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=03f0bf4e-f901-4760-86d4-89c6c4c38e10) | [cointelegraph\.com](https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august) | [decrypt\.co](https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august)
-
-## Verifying an ETH price response through API3&#39;s AirnodeHub
-
-A documented CoinGecko example shows how developers can bind a signed API response to the request their agent actually made\.
-
-[Fork Brief](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | Published 11 Sept 2026 | Guide
-
-Sources: [Fork Brief](https://forkbrief.com/news/32302bf9-7110-469c-a567-58325591c44f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32302bf9-7110-469c-a567-58325591c44f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
