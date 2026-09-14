@@ -6,6 +6,14 @@ Updated 14 Sept 2026.
 
 [Dated edition](archive/2026-09-14.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## What can you build with AirnodeHub&#39;s 35 API listings?
+
+Five practical ways to use API3&#39;s 35 AirnodeHub listings, covering crypto markets, wallets, economic data, natural events and transport\.
+
+[Token Primer](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | Published 14 Sept 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnode\-drpc\.fly\.dev](https://airnode-drpc.fly.dev/)
+
 ## Thailand SEC Proposes Separate Daily Limits for Stablecoin Deposits and Withdrawals
 
 Thailand’s SEC is consulting on separate five\-million\-baht daily limits for inbound and outbound stablecoin transfers per customer per operator\. The draft includes wallet\-ownership checks and exemptions, with public feedback open until 25 September 2026\.
