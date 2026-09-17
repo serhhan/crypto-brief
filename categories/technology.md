@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [Ripple adds MPP payment tools for XRP, with separate paths for tokens and channels](https://forkbrief.com/news/34821621-0393-431e-8d26-76821fb7953b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34821621-0393-431e-8d26-76821fb7953b) | 17 Sept 2026 | Fork Brief
+
+  The SDK supports individual ledger payments and repeated XRP payments through funded channels\.
 
 - [Tonkeeper becomes Keeper, adding Bitcoin and Ethereum alongside TON](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | 17 Sept 2026 | Fork Brief
 

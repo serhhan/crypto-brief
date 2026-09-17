@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [Zcash outpaces Bitcoin with a reported 23% rally as Paradigm discloses holdings](https://chainminute.com/news/c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc) | 17 Sept 2026 | Chain Minute
+
+  ZEC led major tokens in September 17 morning trading; the move coincided with renewed attention to privacy\.
 
 - [Kraken parent plans US perpetual futures on Hyperliquid, pending approval](https://chainminute.com/news/3b780d43-ceac-4f4b-883c-cd6151f7ae51?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3b780d43-ceac-4f4b-883c-cd6151f7ae51) | 17 Sept 2026 | Chain Minute
 

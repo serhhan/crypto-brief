@@ -6,42 +6,42 @@ Updated 17 Sept 2026.
 
 [Dated edition](archive/2026-09-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Digital euro merchant applications open\: what the 2027 pilot will test
+## PYUSDx and PYUSD are different tokens\: who issues each, and what backs them?
 
-The ECB is recruiting online merchants for a controlled trial, with applications due October 27\.
+M0’s platform lets businesses build PYUSD\-backed tokens, with issuance handled by MoonPay Digital Assets\.
 
-[Token Primer](https://tokenprimer.com/news/5c4be770-bf26-45f4-adc3-b6142c2c32f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c4be770-bf26-45f4-adc3-b6142c2c32f0) | Published 17 Sept 2026 | Guide
+[Token Primer](https://tokenprimer.com/news/b1217211-70f4-4e08-a4cf-9e7f4be5f757?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1217211-70f4-4e08-a4cf-9e7f4be5f757) | Published 17 Sept 2026 | Guide
 
-Sources: [Token Primer](https://tokenprimer.com/news/5c4be770-bf26-45f4-adc3-b6142c2c32f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c4be770-bf26-45f4-adc3-b6142c2c32f0) | [www\.ecb\.europa\.eu](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260915.en.html)
+Sources: [Token Primer](https://tokenprimer.com/news/b1217211-70f4-4e08-a4cf-9e7f4be5f757?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1217211-70f4-4e08-a4cf-9e7f4be5f757) | [www\.m0\.org](https://www.m0.org/press-releases/pyusdx-stablecoin-platform-crosses-100-million-in-scale) | [www\.m0\.org](https://www.m0.org/pyusdx)
 
-## Revolut says it received no direct ransom demand after customer data disclosure
+## HP warns fake AI trading tools are replacing browser wallets with malicious copies
 
-Reuters reports a public extortion threat, while the company describes fraudulent requests from a government email domain\.
+The September report describes credential theft through lookalike Coinbase and MetaMask extensions\.
 
-[Chain Incident](https://chainincident.com/news/6f9f47e1-1e73-4840-9381-9a80a6e847df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6f9f47e1-1e73-4840-9381-9a80a6e847df) | Published 17 Sept 2026
+[Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | Published 17 Sept 2026
 
-Sources: [Chain Incident](https://chainincident.com/news/6f9f47e1-1e73-4840-9381-9a80a6e847df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6f9f47e1-1e73-4840-9381-9a80a6e847df) | [live\.euronext\.com](https://live.euronext.com/en/financial-news/revolut-says-no-direct-demand-received-over-alleged-data-breach)
+Sources: [Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | [www\.hp\.com](https://www.hp.com/us-en/newsroom/press-releases/2026/hp-research-cybercriminals-leaning-into-agentic-ai-momentum-to-steal-crypto-wallets.html)
 
-## Tonkeeper becomes Keeper, adding Bitcoin and Ethereum alongside TON
+## Ripple adds MPP payment tools for XRP, with separate paths for tokens and channels
 
-The wallet now lists seven networks, while its Battery fee feature remains limited to TON and TRON\.
+The SDK supports individual ledger payments and repeated XRP payments through funded channels\.
 
-[Fork Brief](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | Published 17 Sept 2026
+[Fork Brief](https://forkbrief.com/news/34821621-0393-431e-8d26-76821fb7953b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34821621-0393-431e-8d26-76821fb7953b) | Published 17 Sept 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | [apps\.apple\.com](https://apps.apple.com/ca/app/keeper-crypto-wallet/id1587742107?platform=mac) | [keeperwallet\.com](https://keeperwallet.com/)
+Sources: [Fork Brief](https://forkbrief.com/news/34821621-0393-431e-8d26-76821fb7953b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34821621-0393-431e-8d26-76821fb7953b) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ripple/xrpl-mpp-sdk/main/README.md) | [www\.coindesk\.com](https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit)
 
-## Zama expands confidential DeFi to 16 Morpho vaults and encrypted swaps
+## Theo introduces thSLVR, pairing silver exposure with lease income
 
-The September rollout adds five asset classes, with 12 existing vaults accepting confidential deposits\.
+The beta targets institutions and approved investors, with more than $40 million in announced lease commitments\.
 
-[Yield Dispatch](https://yielddispatch.com/news/e1ef2322-6e46-4dc9-9e4f-30d39f983dff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1ef2322-6e46-4dc9-9e4f-30d39f983dff) | Published 17 Sept 2026
+[Yield Dispatch](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | Published 17 Sept 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/e1ef2322-6e46-4dc9-9e4f-30d39f983dff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1ef2322-6e46-4dc9-9e4f-30d39f983dff) | [www\.zama\.org](https://www.zama.org/post/confidential-defi-at-scale)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | [alexablockchain\.com](https://alexablockchain.com/theo-brings-silver-leasing-onchain-with-40m-thslvr-launch/) | [www\.coindesk\.com](https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases)
 
-## Kraken parent plans US perpetual futures on Hyperliquid, pending approval
+## Zcash outpaces Bitcoin with a reported 23% rally as Paradigm discloses holdings
 
-Payward outlines a permissioned market with Bitnomial clearing and NinjaTrader customer accounts\.
+ZEC led major tokens in September 17 morning trading; the move coincided with renewed attention to privacy\.
 
-[Chain Minute](https://chainminute.com/news/3b780d43-ceac-4f4b-883c-cd6151f7ae51?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3b780d43-ceac-4f4b-883c-cd6151f7ae51) | Published 17 Sept 2026
+[Chain Minute](https://chainminute.com/news/c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc) | Published 17 Sept 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/3b780d43-ceac-4f4b-883c-cd6151f7ae51?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3b780d43-ceac-4f4b-883c-cd6151f7ae51) | [www\.payward\.com](https://www.payward.com/press-release/payward-hyperliquid-onchain-perpetual-futures)
+Sources: [Chain Minute](https://chainminute.com/news/c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc) | [www\.coindesk\.com](https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023)

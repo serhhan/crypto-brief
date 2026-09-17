@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [PYUSDx and PYUSD are different tokens\: who issues each, and what backs them?](https://tokenprimer.com/news/b1217211-70f4-4e08-a4cf-9e7f4be5f757?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1217211-70f4-4e08-a4cf-9e7f4be5f757) | 17 Sept 2026 | Token Primer
+
+  M0’s platform lets businesses build PYUSD\-backed tokens, with issuance handled by MoonPay Digital Assets\.
 
 - [Digital euro merchant applications open\: what the 2027 pilot will test](https://tokenprimer.com/news/5c4be770-bf26-45f4-adc3-b6142c2c32f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c4be770-bf26-45f4-adc3-b6142c2c32f0) | 17 Sept 2026 | Token Primer
 

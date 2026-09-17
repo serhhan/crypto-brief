@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [Theo introduces thSLVR, pairing silver exposure with lease income](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | 17 Sept 2026 | Yield Dispatch
+
+  The beta targets institutions and approved investors, with more than $40 million in announced lease commitments\.
 
 - [Zama expands confidential DeFi to 16 Morpho vaults and encrypted swaps](https://yielddispatch.com/news/e1ef2322-6e46-4dc9-9e4f-30d39f983dff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1ef2322-6e46-4dc9-9e4f-30d39f983dff) | 17 Sept 2026 | Yield Dispatch
 

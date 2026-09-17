@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [HP warns fake AI trading tools are replacing browser wallets with malicious copies](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | 17 Sept 2026 | Chain Incident
+
+  The September report describes credential theft through lookalike Coinbase and MetaMask extensions\.
 
 - [Revolut says it received no direct ransom demand after customer data disclosure](https://chainincident.com/news/6f9f47e1-1e73-4840-9381-9a80a6e847df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6f9f47e1-1e73-4840-9381-9a80a6e847df) | 17 Sept 2026 | Chain Incident
 

@@ -8,7 +8,7 @@ Linked pages contain at least three distinct developments.
 
 - [Airnode Hub](airnode-hub.md) | 3 distinct developments
 - [API3](api3.md) | 6 distinct developments
-- [Bitcoin](bitcoin.md) | 6 distinct developments
+- [Bitcoin](bitcoin.md) | 7 distinct developments
 - Dogecoin | 1 distinct development
 - [Ethereum](ethereum.md) | 14 distinct developments
 - Hyperliquid | 1 distinct development
@@ -17,3 +17,5 @@ Linked pages contain at least three distinct developments.
 - Tether | 1 distinct development
 - Uniswap | 2 distinct developments
 - [USDC](usdc.md) | 3 distinct developments
+- XRP | 1 distinct development
+- Zcash | 1 distinct development
