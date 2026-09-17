@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [0x reports malicious Uniswap v4 hooks that change swap outcomes after quoting](https://chainincident.com/news/b96d4a0c-4edf-4010-a92b-5de024675e6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b96d4a0c-4edf-4010-a92b-5de024675e6b) | 17 Sept 2026 | Chain Incident
+
+  The routing provider describes pools where execution delivers less than the quoted amount and explains its screening response\.
 
 - [Swiss Bitcoin Pay announced server shutdown after suspected unauthorized access](https://chainincident.com/news/070f5699-1043-4c1a-bc8c-e69749ac3643?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=070f5699-1043-4c1a-bc8c-e69749ac3643) | 14 Sept 2026 | Chain Incident
 

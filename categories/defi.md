@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [Ondo subsidiary joins DTCC Fund\/SERV to connect tokenized funds with distributors](https://yielddispatch.com/news/2aefb8e4-9c71-473b-8b2d-d1942ae24991?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2aefb8e4-9c71-473b-8b2d-d1942ae24991) | 17 Sept 2026 | Yield Dispatch
+
+  Oasis Pro Markets gains a standardized connection to traditional fund infrastructure, according to Ondo’s announcement\.
 
 - [Kraken xStocks vaults add DeFi yield to SPYx, QQQx and NVDAx](https://yielddispatch.com/news/a981957e-a647-45ae-9d07-1cd01eeba70d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a981957e-a647-45ae-9d07-1cd01eeba70d) | 14 Sept 2026 | Yield Dispatch
 

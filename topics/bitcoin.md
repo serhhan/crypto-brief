@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [Fed raises rates to 3\.75%\-4%; Bitcoin briefly rebounds after the decision](https://chainminute.com/news/deed7e1d-b2e1-472f-ad71-4a27ba85e262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=deed7e1d-b2e1-472f-ad71-4a27ba85e262) | 17 Sept 2026 | Chain Minute
+
+  The September rate increase was unanimous\. Decrypt reported a brief Bitcoin rebound around an announcement traders had largely expected\.
 
 - [Swiss Bitcoin Pay announced server shutdown after suspected unauthorized access](https://chainincident.com/news/070f5699-1043-4c1a-bc8c-e69749ac3643?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=070f5699-1043-4c1a-bc8c-e69749ac3643) | 14 Sept 2026 | Chain Incident
 

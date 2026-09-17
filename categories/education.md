@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [Arc uses USDC for fees\: what Circle’s ARC token mint does and does not mean](https://tokenprimer.com/news/9cae8ec7-8a25-4609-8dfa-4bc4984ba022?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9cae8ec7-8a25-4609-8dfa-4bc4984ba022) | 17 Sept 2026 | Token Primer
+
+  The mainnet launch, transaction\-fee asset and potential future network token are three different developments\.
 
 - [What MetaMask Added Protection checks, and why it costs extra gas](https://tokenprimer.com/news/ab5ddcef-44d0-4bc9-b64f-ba3dd4a44048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ab5ddcef-44d0-4bc9-b64f-ba3dd4a44048) | 14 Sept 2026 | Token Primer
 

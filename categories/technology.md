@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [Solana activates 4,096\-byte transactions, giving apps more room per operation](https://forkbrief.com/news/55795f84-8a04-44f5-89d5-bcac2083d49e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=55795f84-8a04-44f5-89d5-bcac2083d49e) | 17 Sept 2026 | Fork Brief
+
+  The v1 format expands transaction capacity while requiring updates from applications that read or index it\.
 
 - [S&amp;P Global backs Kaiko as its Series B reaches $110 million](https://forkbrief.com/news/0f0d6adf-ce5d-46fa-8444-d0c170f3a48f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f0d6adf-ce5d-46fa-8444-d0c170f3a48f) | 14 Sept 2026 | Fork Brief
 

@@ -8,10 +8,10 @@ Linked pages contain at least three distinct developments.
 
 - [Airnode Hub](airnode-hub.md) | 3 distinct developments
 - [API3](api3.md) | 6 distinct developments
-- [Bitcoin](bitcoin.md) | 4 distinct developments
+- [Bitcoin](bitcoin.md) | 5 distinct developments
 - Dogecoin | 1 distinct development
 - [Ethereum](ethereum.md) | 13 distinct developments
-- Solana | 1 distinct development
+- Solana | 2 distinct developments
 - Tether | 1 distinct development
-- Uniswap | 1 distinct development
-- USDC | 2 distinct developments
+- Uniswap | 2 distinct developments
+- [USDC](usdc.md) | 3 distinct developments
