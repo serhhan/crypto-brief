@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [Tonkeeper becomes Keeper, adding Bitcoin and Ethereum alongside TON](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | 17 Sept 2026 | Fork Brief
+
+  The wallet now lists seven networks, while its Battery fee feature remains limited to TON and TRON\.
 
 - [Fed raises rates to 3\.75%\-4%; Bitcoin briefly rebounds after the decision](https://chainminute.com/news/deed7e1d-b2e1-472f-ad71-4a27ba85e262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=deed7e1d-b2e1-472f-ad71-4a27ba85e262) | 17 Sept 2026 | Chain Minute
 

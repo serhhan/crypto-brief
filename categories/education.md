@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [Digital euro merchant applications open\: what the 2027 pilot will test](https://tokenprimer.com/news/5c4be770-bf26-45f4-adc3-b6142c2c32f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c4be770-bf26-45f4-adc3-b6142c2c32f0) | 17 Sept 2026 | Token Primer
+
+  The ECB is recruiting online merchants for a controlled trial, with applications due October 27\.
 
 - [Arc uses USDC for fees\: what Circle’s ARC token mint does and does not mean](https://tokenprimer.com/news/9cae8ec7-8a25-4609-8dfa-4bc4984ba022?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9cae8ec7-8a25-4609-8dfa-4bc4984ba022) | 17 Sept 2026 | Token Primer
 

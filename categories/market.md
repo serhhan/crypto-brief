@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [Kraken parent plans US perpetual futures on Hyperliquid, pending approval](https://chainminute.com/news/3b780d43-ceac-4f4b-883c-cd6151f7ae51?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3b780d43-ceac-4f4b-883c-cd6151f7ae51) | 17 Sept 2026 | Chain Minute
+
+  Payward outlines a permissioned market with Bitnomial clearing and NinjaTrader customer accounts\.
 
 - [Fed raises rates to 3\.75%\-4%; Bitcoin briefly rebounds after the decision](https://chainminute.com/news/deed7e1d-b2e1-472f-ad71-4a27ba85e262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=deed7e1d-b2e1-472f-ad71-4a27ba85e262) | 17 Sept 2026 | Chain Minute
 

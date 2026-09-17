@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [Tonkeeper becomes Keeper, adding Bitcoin and Ethereum alongside TON](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | 17 Sept 2026 | Fork Brief
+
+  The wallet now lists seven networks, while its Battery fee feature remains limited to TON and TRON\.
 
 - [Solana activates 4,096\-byte transactions, giving apps more room per operation](https://forkbrief.com/news/55795f84-8a04-44f5-89d5-bcac2083d49e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=55795f84-8a04-44f5-89d5-bcac2083d49e) | 17 Sept 2026 | Fork Brief
 

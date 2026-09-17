@@ -6,42 +6,42 @@ Updated 17 Sept 2026.
 
 [Dated edition](archive/2026-09-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Arc uses USDC for fees\: what Circle’s ARC token mint does and does not mean
+## Digital euro merchant applications open\: what the 2027 pilot will test
 
-The mainnet launch, transaction\-fee asset and potential future network token are three different developments\.
+The ECB is recruiting online merchants for a controlled trial, with applications due October 27\.
 
-[Token Primer](https://tokenprimer.com/news/9cae8ec7-8a25-4609-8dfa-4bc4984ba022?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9cae8ec7-8a25-4609-8dfa-4bc4984ba022) | Published 17 Sept 2026 | Guide
+[Token Primer](https://tokenprimer.com/news/5c4be770-bf26-45f4-adc3-b6142c2c32f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c4be770-bf26-45f4-adc3-b6142c2c32f0) | Published 17 Sept 2026 | Guide
 
-Sources: [Token Primer](https://tokenprimer.com/news/9cae8ec7-8a25-4609-8dfa-4bc4984ba022?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9cae8ec7-8a25-4609-8dfa-4bc4984ba022) | [www\.circle\.com](https://www.circle.com/pressroom/circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet)
+Sources: [Token Primer](https://tokenprimer.com/news/5c4be770-bf26-45f4-adc3-b6142c2c32f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c4be770-bf26-45f4-adc3-b6142c2c32f0) | [www\.ecb\.europa\.eu](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260915.en.html)
 
-## 0x reports malicious Uniswap v4 hooks that change swap outcomes after quoting
+## Revolut says it received no direct ransom demand after customer data disclosure
 
-The routing provider describes pools where execution delivers less than the quoted amount and explains its screening response\.
+Reuters reports a public extortion threat, while the company describes fraudulent requests from a government email domain\.
 
-[Chain Incident](https://chainincident.com/news/b96d4a0c-4edf-4010-a92b-5de024675e6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b96d4a0c-4edf-4010-a92b-5de024675e6b) | Published 17 Sept 2026
+[Chain Incident](https://chainincident.com/news/6f9f47e1-1e73-4840-9381-9a80a6e847df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6f9f47e1-1e73-4840-9381-9a80a6e847df) | Published 17 Sept 2026
 
-Sources: [Chain Incident](https://chainincident.com/news/b96d4a0c-4edf-4010-a92b-5de024675e6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b96d4a0c-4edf-4010-a92b-5de024675e6b) | [0x\.org](https://0x.org/post/uniswap-v4-hooks-were-a-mistake)
+Sources: [Chain Incident](https://chainincident.com/news/6f9f47e1-1e73-4840-9381-9a80a6e847df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6f9f47e1-1e73-4840-9381-9a80a6e847df) | [live\.euronext\.com](https://live.euronext.com/en/financial-news/revolut-says-no-direct-demand-received-over-alleged-data-breach)
 
-## Solana activates 4,096\-byte transactions, giving apps more room per operation
+## Tonkeeper becomes Keeper, adding Bitcoin and Ethereum alongside TON
 
-The v1 format expands transaction capacity while requiring updates from applications that read or index it\.
+The wallet now lists seven networks, while its Battery fee feature remains limited to TON and TRON\.
 
-[Fork Brief](https://forkbrief.com/news/55795f84-8a04-44f5-89d5-bcac2083d49e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=55795f84-8a04-44f5-89d5-bcac2083d49e) | Published 17 Sept 2026
+[Fork Brief](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | Published 17 Sept 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/55795f84-8a04-44f5-89d5-bcac2083d49e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=55795f84-8a04-44f5-89d5-bcac2083d49e) | [solana\.com](https://solana.com/upgrades/larger-transaction-sizes)
+Sources: [Fork Brief](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | [apps\.apple\.com](https://apps.apple.com/ca/app/keeper-crypto-wallet/id1587742107?platform=mac) | [keeperwallet\.com](https://keeperwallet.com/)
 
-## Ondo subsidiary joins DTCC Fund\/SERV to connect tokenized funds with distributors
+## Zama expands confidential DeFi to 16 Morpho vaults and encrypted swaps
 
-Oasis Pro Markets gains a standardized connection to traditional fund infrastructure, according to Ondo’s announcement\.
+The September rollout adds five asset classes, with 12 existing vaults accepting confidential deposits\.
 
-[Yield Dispatch](https://yielddispatch.com/news/2aefb8e4-9c71-473b-8b2d-d1942ae24991?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2aefb8e4-9c71-473b-8b2d-d1942ae24991) | Published 17 Sept 2026
+[Yield Dispatch](https://yielddispatch.com/news/e1ef2322-6e46-4dc9-9e4f-30d39f983dff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1ef2322-6e46-4dc9-9e4f-30d39f983dff) | Published 17 Sept 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/2aefb8e4-9c71-473b-8b2d-d1942ae24991?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2aefb8e4-9c71-473b-8b2d-d1942ae24991) | [ondo\.finance](https://ondo.finance/blog/ondo-joins-dtcc-fund-serv)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/e1ef2322-6e46-4dc9-9e4f-30d39f983dff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1ef2322-6e46-4dc9-9e4f-30d39f983dff) | [www\.zama\.org](https://www.zama.org/post/confidential-defi-at-scale)
 
-## Fed raises rates to 3\.75%\-4%; Bitcoin briefly rebounds after the decision
+## Kraken parent plans US perpetual futures on Hyperliquid, pending approval
 
-The September rate increase was unanimous\. Decrypt reported a brief Bitcoin rebound around an announcement traders had largely expected\.
+Payward outlines a permissioned market with Bitnomial clearing and NinjaTrader customer accounts\.
 
-[Chain Minute](https://chainminute.com/news/deed7e1d-b2e1-472f-ad71-4a27ba85e262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=deed7e1d-b2e1-472f-ad71-4a27ba85e262) | Published 17 Sept 2026
+[Chain Minute](https://chainminute.com/news/3b780d43-ceac-4f4b-883c-cd6151f7ae51?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3b780d43-ceac-4f4b-883c-cd6151f7ae51) | Published 17 Sept 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/deed7e1d-b2e1-472f-ad71-4a27ba85e262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=deed7e1d-b2e1-472f-ad71-4a27ba85e262) | [decrypt\.co](https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin) | [www\.federalreserve\.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
+Sources: [Chain Minute](https://chainminute.com/news/3b780d43-ceac-4f4b-883c-cd6151f7ae51?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3b780d43-ceac-4f4b-883c-cd6151f7ae51) | [www\.payward\.com](https://www.payward.com/press-release/payward-hyperliquid-onchain-perpetual-futures)

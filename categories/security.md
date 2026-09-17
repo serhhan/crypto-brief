@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [Revolut says it received no direct ransom demand after customer data disclosure](https://chainincident.com/news/6f9f47e1-1e73-4840-9381-9a80a6e847df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6f9f47e1-1e73-4840-9381-9a80a6e847df) | 17 Sept 2026 | Chain Incident
+
+  Reuters reports a public extortion threat, while the company describes fraudulent requests from a government email domain\.
 
 - [0x reports malicious Uniswap v4 hooks that change swap outcomes after quoting](https://chainincident.com/news/b96d4a0c-4edf-4010-a92b-5de024675e6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b96d4a0c-4edf-4010-a92b-5de024675e6b) | 17 Sept 2026 | Chain Incident
 

@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [Zama expands confidential DeFi to 16 Morpho vaults and encrypted swaps](https://yielddispatch.com/news/e1ef2322-6e46-4dc9-9e4f-30d39f983dff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1ef2322-6e46-4dc9-9e4f-30d39f983dff) | 17 Sept 2026 | Yield Dispatch
+
+  The September rollout adds five asset classes, with 12 existing vaults accepting confidential deposits\.
 
 - [Ondo subsidiary joins DTCC Fund\/SERV to connect tokenized funds with distributors](https://yielddispatch.com/news/2aefb8e4-9c71-473b-8b2d-d1942ae24991?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2aefb8e4-9c71-473b-8b2d-d1942ae24991) | 17 Sept 2026 | Yield Dispatch
 
