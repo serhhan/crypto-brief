@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | 17 Sept 2026 | Chain Minute
+
+  Arc applications can use familiar Ethereum development tools, but game developers face a compatibility difference\: \`block\.prevrandao\` always returns zero\. Circle&#39;s September 10 compatibility guide explicitly warns developers against relying on it for randomness\.
 
 - [Tonkeeper becomes Keeper, adding Bitcoin and Ethereum alongside TON](https://forkbrief.com/news/6a563404-c1de-4d99-820f-aee06d321fb5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6a563404-c1de-4d99-820f-aee06d321fb5) | 17 Sept 2026 | Fork Brief
 

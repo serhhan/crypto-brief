@@ -6,6 +6,14 @@ Updated 17 Sept 2026.
 
 [Dated edition](archive/2026-09-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice
+
+Arc applications can use familiar Ethereum development tools, but game developers face a compatibility difference\: \`block\.prevrandao\` always returns zero\. Circle&#39;s September 10 compatibility guide explicitly warns developers against relying on it for randomness\.
+
+[Chain Minute](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | Published 17 Sept 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | [d20dao\.org](https://d20dao.org/docs/deployments) | [d20dao\.org](https://d20dao.org/docs/security)
+
 ## PYUSDx and PYUSD are different tokens\: who issues each, and what backs them?
 
 M0’s platform lets businesses build PYUSD\-backed tokens, with issuance handled by MoonPay Digital Assets\.
@@ -37,11 +45,3 @@ The beta targets institutions and approved investors, with more than $40 million
 [Yield Dispatch](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | Published 17 Sept 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | [alexablockchain\.com](https://alexablockchain.com/theo-brings-silver-leasing-onchain-with-40m-thslvr-launch/) | [www\.coindesk\.com](https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases)
-
-## Zcash outpaces Bitcoin with a reported 23% rally as Paradigm discloses holdings
-
-ZEC led major tokens in September 17 morning trading; the move coincided with renewed attention to privacy\.
-
-[Chain Minute](https://chainminute.com/news/c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc) | Published 17 Sept 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc) | [www\.coindesk\.com](https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023)

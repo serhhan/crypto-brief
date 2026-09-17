@@ -10,7 +10,7 @@ Linked pages contain at least three distinct developments.
 - [API3](api3.md) | 6 distinct developments
 - [Bitcoin](bitcoin.md) | 7 distinct developments
 - Dogecoin | 1 distinct development
-- [Ethereum](ethereum.md) | 14 distinct developments
+- [Ethereum](ethereum.md) | 15 distinct developments
 - Hyperliquid | 1 distinct development
 - Morpho | 1 distinct development
 - Solana | 2 distinct developments

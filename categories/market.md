@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | 17 Sept 2026 | Chain Minute
+
+  Arc applications can use familiar Ethereum development tools, but game developers face a compatibility difference\: \`block\.prevrandao\` always returns zero\. Circle&#39;s September 10 compatibility guide explicitly warns developers against relying on it for randomness\.
 
 - [Zcash outpaces Bitcoin with a reported 23% rally as Paradigm discloses holdings](https://chainminute.com/news/c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc) | 17 Sept 2026 | Chain Minute
 
