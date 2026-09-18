@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [What a verifiably random game proves, and what players still need to check](https://tokenprimer.com/news/6b2d0cc1-17e5-4bba-89eb-451c7ef2cf6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6b2d0cc1-17e5-4bba-89eb-451c7ef2cf6b) | 18 Sept 2026 | Token Primer
+
+  A random\-looking result and a verifiable result are different things\. A VRF produces an output with a cryptographic proof tied to its input and public key, allowing a verifier to check the calculation rather than simply accept a server&#39;s claim\.
 
 - [PYUSDx and PYUSD are different tokens\: who issues each, and what backs them?](https://tokenprimer.com/news/b1217211-70f4-4e08-a4cf-9e7f4be5f757?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1217211-70f4-4e08-a4cf-9e7f4be5f757) | 17 Sept 2026 | Token Primer
 
