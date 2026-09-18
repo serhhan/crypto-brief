@@ -6,6 +6,14 @@ Updated 18 Sept 2026.
 
 [Dated edition](archive/2026-09-18.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## D20DAO reports 470 Arc testnet requests completed within its 60\-second deadline
+
+D20DAO has published a September 17 benchmark report covering 470 paid randomness requests across four Arc Testnet scenarios\. The provider reports that all were fulfilled within the protocol&#39;s 60\-second acceptance window, with no expired requests or refunds in those runs\.
+
+[Fork Brief](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | Published 18 Sept 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | [d20dao\.org](https://d20dao.org/benchmarks) | [d20dao\.org](https://d20dao.org/docs/service-rules)
+
 ## What a verifiably random game proves, and what players still need to check
 
 A random\-looking result and a verifiable result are different things\. A VRF produces an output with a cryptographic proof tied to its input and public key, allowing a verifier to check the calculation rather than simply accept a server&#39;s claim\.
@@ -29,14 +37,6 @@ The September report describes credential theft through lookalike Coinbase and M
 [Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | Published 17 Sept 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | [www\.hp\.com](https://www.hp.com/us-en/newsroom/press-releases/2026/hp-research-cybercriminals-leaning-into-agentic-ai-momentum-to-steal-crypto-wallets.html)
-
-## Ripple adds MPP payment tools for XRP, with separate paths for tokens and channels
-
-The SDK supports individual ledger payments and repeated XRP payments through funded channels\.
-
-[Fork Brief](https://forkbrief.com/news/34821621-0393-431e-8d26-76821fb7953b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34821621-0393-431e-8d26-76821fb7953b) | Published 17 Sept 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/34821621-0393-431e-8d26-76821fb7953b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34821621-0393-431e-8d26-76821fb7953b) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ripple/xrpl-mpp-sdk/main/README.md) | [www\.coindesk\.com](https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit)
 
 ## Theo introduces thSLVR, pairing silver exposure with lease income
 

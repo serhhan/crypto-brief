@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [D20DAO reports 470 Arc testnet requests completed within its 60\-second deadline](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | 18 Sept 2026 | Fork Brief
+
+  D20DAO has published a September 17 benchmark report covering 470 paid randomness requests across four Arc Testnet scenarios\. The provider reports that all were fulfilled within the protocol&#39;s 60\-second acceptance window, with no expired requests or refunds in those runs\.
 
 - [Ripple adds MPP payment tools for XRP, with separate paths for tokens and channels](https://forkbrief.com/news/34821621-0393-431e-8d26-76821fb7953b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34821621-0393-431e-8d26-76821fb7953b) | 17 Sept 2026 | Fork Brief
 
