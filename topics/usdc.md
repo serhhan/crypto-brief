@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [D20DAO adds x402 payments for verifiable randomness at 0\.05 USDC per call](https://chainminute.com/news/34c7c5f3-7f68-4b11-ac92-4448ee0028f9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34c7c5f3-7f68-4b11-ac92-4448ee0028f9) | 19 Sept 2026 | Chain Minute
+
+  D20DAO now documents an HTTP API that lets agents buy verifiable random results for 0\.05 USDC per call without deploying their own consumer contract\. Payments use x402 through Circle Gateway; the underlying randomness request runs on Arc Mainnet\.
 
 - [Arc uses USDC for fees\: what Circle’s ARC token mint does and does not mean](https://tokenprimer.com/news/9cae8ec7-8a25-4609-8dfa-4bc4984ba022?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9cae8ec7-8a25-4609-8dfa-4bc4984ba022) | 17 Sept 2026 | Token Primer
 

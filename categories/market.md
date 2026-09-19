@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [D20DAO adds x402 payments for verifiable randomness at 0\.05 USDC per call](https://chainminute.com/news/34c7c5f3-7f68-4b11-ac92-4448ee0028f9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34c7c5f3-7f68-4b11-ac92-4448ee0028f9) | 19 Sept 2026 | Chain Minute
+
+  D20DAO now documents an HTTP API that lets agents buy verifiable random results for 0\.05 USDC per call without deploying their own consumer contract\. Payments use x402 through Circle Gateway; the underlying randomness request runs on Arc Mainnet\.
 
 - [Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | 17 Sept 2026 | Chain Minute
 
