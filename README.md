@@ -6,6 +6,14 @@ Updated 19 Sept 2026.
 
 [Dated edition](archive/2026-09-19.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## USDC applications on Arc need to budget for randomness as well as gas
+
+An Arc application and an HTTP agent can now reach D20DAO through different payment paths\. The contract route has a configurable service fee plus transaction gas\. The agent API advertises a fixed 0\.05 USDC call price through x402\.
+
+[Yield Dispatch](https://yielddispatch.com/news/c3995a0d-018c-4abd-9cb7-90b1b18884c8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c3995a0d-018c-4abd-9cb7-90b1b18884c8) | Published 19 Sept 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/c3995a0d-018c-4abd-9cb7-90b1b18884c8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c3995a0d-018c-4abd-9cb7-90b1b18884c8) | [d20dao\.org](https://d20dao.org/docs/agents) | [d20dao\.org](https://d20dao.org/refunds)
+
 ## D20DAO adds x402 payments for verifiable randomness at 0\.05 USDC per call
 
 D20DAO now documents an HTTP API that lets agents buy verifiable random results for 0\.05 USDC per call without deploying their own consumer contract\. Payments use x402 through Circle Gateway; the underlying randomness request runs on Arc Mainnet\.
@@ -37,11 +45,3 @@ The September report describes credential theft through lookalike Coinbase and M
 [Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | Published 17 Sept 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | [www\.hp\.com](https://www.hp.com/us-en/newsroom/press-releases/2026/hp-research-cybercriminals-leaning-into-agentic-ai-momentum-to-steal-crypto-wallets.html)
-
-## Theo introduces thSLVR, pairing silver exposure with lease income
-
-The beta targets institutions and approved investors, with more than $40 million in announced lease commitments\.
-
-[Yield Dispatch](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | Published 17 Sept 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | [alexablockchain\.com](https://alexablockchain.com/theo-brings-silver-leasing-onchain-with-40m-thslvr-launch/) | [www\.coindesk\.com](https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases)

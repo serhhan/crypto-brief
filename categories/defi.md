@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [USDC applications on Arc need to budget for randomness as well as gas](https://yielddispatch.com/news/c3995a0d-018c-4abd-9cb7-90b1b18884c8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c3995a0d-018c-4abd-9cb7-90b1b18884c8) | 19 Sept 2026 | Yield Dispatch
+
+  An Arc application and an HTTP agent can now reach D20DAO through different payment paths\. The contract route has a configurable service fee plus transaction gas\. The agent API advertises a fixed 0\.05 USDC call price through x402\.
 
 - [Theo introduces thSLVR, pairing silver exposure with lease income](https://yielddispatch.com/news/399a25ff-d0ec-46aa-afdb-0cfaba41be6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=399a25ff-d0ec-46aa-afdb-0cfaba41be6b) | 17 Sept 2026 | Yield Dispatch
 

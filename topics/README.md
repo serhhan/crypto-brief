@@ -16,6 +16,6 @@ Linked pages contain at least three distinct developments.
 - Solana | 2 distinct developments
 - Tether | 1 distinct development
 - Uniswap | 2 distinct developments
-- [USDC](usdc.md) | 4 distinct developments
+- [USDC](usdc.md) | 5 distinct developments
 - XRP | 1 distinct development
 - Zcash | 1 distinct development
