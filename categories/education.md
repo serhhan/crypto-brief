@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [How AirnodeHub lets an agent find API data and verify what it receives](https://tokenprimer.com/news/794871af-c2d5-49c9-be87-a1c751971d76?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=794871af-c2d5-49c9-be87-a1c751971d76) | 20 Sept 2026 | Token Primer
+
+  An agent that can pay for an API still needs to choose a source and check the response\. API3&#39;s AirnodeHub combines a discoverable catalogue with signed responses, giving developers a concrete way to connect those steps\.
 
 - [What a verifiably random game proves, and what players still need to check](https://tokenprimer.com/news/6b2d0cc1-17e5-4bba-89eb-451c7ef2cf6b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6b2d0cc1-17e5-4bba-89eb-451c7ef2cf6b) | 18 Sept 2026 | Token Primer
 

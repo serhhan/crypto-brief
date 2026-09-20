@@ -6,8 +6,8 @@ Follow coverage of a coin, protocol or project through article summaries and dat
 
 Linked pages contain at least three distinct developments.
 
-- [Airnode Hub](airnode-hub.md) | 3 distinct developments
-- [API3](api3.md) | 6 distinct developments
+- [Airnode Hub](airnode-hub.md) | 4 distinct developments
+- [API3](api3.md) | 7 distinct developments
 - [Bitcoin](bitcoin.md) | 7 distinct developments
 - Dogecoin | 1 distinct development
 - [Ethereum](ethereum.md) | 15 distinct developments

@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [How AirnodeHub lets an agent find API data and verify what it receives](https://tokenprimer.com/news/794871af-c2d5-49c9-be87-a1c751971d76?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=794871af-c2d5-49c9-be87-a1c751971d76) | 20 Sept 2026 | Token Primer
+
+  An agent that can pay for an API still needs to choose a source and check the response\. API3&#39;s AirnodeHub combines a discoverable catalogue with signed responses, giving developers a concrete way to connect those steps\.
 
 - [What can you build with AirnodeHub&#39;s 35 API listings?](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | 14 Sept 2026 | Token Primer
 
