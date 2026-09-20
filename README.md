@@ -38,10 +38,10 @@ D20DAO has published a September 17 benchmark report covering 470 paid randomnes
 
 Sources: [Fork Brief](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | [d20dao\.org](https://d20dao.org/benchmarks) | [d20dao\.org](https://d20dao.org/docs/service-rules)
 
-## HP warns fake AI trading tools are replacing browser wallets with malicious copies
+## Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice
 
-The September report describes credential theft through lookalike Coinbase and MetaMask extensions\.
+Arc applications can use familiar Ethereum development tools, but game developers face a compatibility difference\: \`block\.prevrandao\` always returns zero\. Circle&#39;s September 10 compatibility guide explicitly warns developers against relying on it for randomness\.
 
-[Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | Published 17 Sept 2026
+[Chain Minute](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | Published 17 Sept 2026
 
-Sources: [Chain Incident](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | [www\.hp\.com](https://www.hp.com/us-en/newsroom/press-releases/2026/hp-research-cybercriminals-leaning-into-agentic-ai-momentum-to-steal-crypto-wallets.html)
+Sources: [Chain Minute](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | [d20dao\.org](https://d20dao.org/docs/deployments) | [d20dao\.org](https://d20dao.org/docs/security)
