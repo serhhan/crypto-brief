@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [A failed callback should not give an onchain game a second roll](https://chainincident.com/news/9619d817-757e-4fd5-9d86-91eda2f631ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9619d817-757e-4fd5-9d86-91eda2f631ff) | 20 Sept 2026 | Chain Incident
+
+  A randomness service can accept a valid proof even when the game&#39;s receiving function fails\. Treating that failure as permission to request a different result can introduce a new problem\: an application may end up selecting among outcomes instead of honoring the original draw\.
 
 - [HP warns fake AI trading tools are replacing browser wallets with malicious copies](https://chainincident.com/news/26e8e324-abd8-495a-959c-bc00814b6e3f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26e8e324-abd8-495a-959c-bc00814b6e3f) | 17 Sept 2026 | Chain Incident
 

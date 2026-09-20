@@ -6,6 +6,14 @@ Updated 20 Sept 2026.
 
 [Dated edition](archive/2026-09-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## A failed callback should not give an onchain game a second roll
+
+A randomness service can accept a valid proof even when the game&#39;s receiving function fails\. Treating that failure as permission to request a different result can introduce a new problem\: an application may end up selecting among outcomes instead of honoring the original draw\.
+
+[Chain Incident](https://chainincident.com/news/9619d817-757e-4fd5-9d86-91eda2f631ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9619d817-757e-4fd5-9d86-91eda2f631ff) | Published 20 Sept 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/9619d817-757e-4fd5-9d86-91eda2f631ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9619d817-757e-4fd5-9d86-91eda2f631ff) | [d20dao\.org](https://d20dao.org/docs/security) | [d20dao\.org](https://d20dao.org/docs/service-rules)
+
 ## How AirnodeHub lets an agent find API data and verify what it receives
 
 An agent that can pay for an API still needs to choose a source and check the response\. API3&#39;s AirnodeHub combines a discoverable catalogue with signed responses, giving developers a concrete way to connect those steps\.
@@ -37,11 +45,3 @@ D20DAO has published a September 17 benchmark report covering 470 paid randomnes
 [Fork Brief](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | Published 18 Sept 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | [d20dao\.org](https://d20dao.org/benchmarks) | [d20dao\.org](https://d20dao.org/docs/service-rules)
-
-## Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice
-
-Arc applications can use familiar Ethereum development tools, but game developers face a compatibility difference\: \`block\.prevrandao\` always returns zero\. Circle&#39;s September 10 compatibility guide explicitly warns developers against relying on it for randomness\.
-
-[Chain Minute](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | Published 17 Sept 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | [d20dao\.org](https://d20dao.org/docs/deployments) | [d20dao\.org](https://d20dao.org/docs/security)
