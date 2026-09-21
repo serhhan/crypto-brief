@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [Solana&#39;s 250ms slots tighten validator handoffs before the proposed 200ms step](https://forkbrief.com/news/94d32d7c-e38a-42e1-aad7-6af83f8f6900?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=94d32d7c-e38a-42e1-aad7-6af83f8f6900) | 21 Sept 2026 | Fork Brief
+
+  Solana&#39;s 250 millisecond target slot is live, but the next reduction depends on sustained evidence about handoffs, forwarding and client diversity\.
 
 - [D20DAO reports 470 Arc testnet requests completed within its 60\-second deadline](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | 18 Sept 2026 | Fork Brief
 

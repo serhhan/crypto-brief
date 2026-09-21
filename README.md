@@ -6,42 +6,42 @@ Updated 21 Sept 2026.
 
 [Dated edition](archive/2026-09-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## A failed callback should not give an onchain game a second roll
+## What the draft ERC\-8419 KYA framework is trying to verify about agents
 
-A randomness service can accept a valid proof even when the game&#39;s receiving function fails\. Treating that failure as permission to request a different result can introduce a new problem\: an application may end up selecting among outcomes instead of honoring the original draw\.
+A new Ethereum Magicians draft describes a registry for trust conclusions about agents, with optional zero\-knowledge proofs and ERC\-8004 integration\.
 
-[Chain Incident](https://chainincident.com/news/9619d817-757e-4fd5-9d86-91eda2f631ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9619d817-757e-4fd5-9d86-91eda2f631ff) | Published 20 Sept 2026
+[Token Primer](https://tokenprimer.com/news/f8d9c00d-da8d-48a1-a8f1-3da824559eed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f8d9c00d-da8d-48a1-a8f1-3da824559eed) | Published 21 Sept 2026 | Guide
 
-Sources: [Chain Incident](https://chainincident.com/news/9619d817-757e-4fd5-9d86-91eda2f631ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9619d817-757e-4fd5-9d86-91eda2f631ff) | [d20dao\.org](https://d20dao.org/docs/security) | [d20dao\.org](https://d20dao.org/docs/service-rules)
+Sources: [Token Primer](https://tokenprimer.com/news/f8d9c00d-da8d-48a1-a8f1-3da824559eed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f8d9c00d-da8d-48a1-a8f1-3da824559eed) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-know-your-agent-kya-framework-trust-assertions-for-agents-zk-kya-profile-erc-8004-binding/29735)
 
-## How AirnodeHub lets an agent find API data and verify what it receives
+## SingularityNET bridge incident expands to unauthorized AGIX and WMTx minting
 
-An agent that can pay for an API still needs to choose a source and check the response\. API3&#39;s AirnodeHub combines a discoverable catalogue with signed responses, giving developers a concrete way to connect those steps\.
+Reports link a single attack cluster to unauthorized AGIX and WMTx minting, while the incident response and supply reconciliation remain in progress\.
 
-[Token Primer](https://tokenprimer.com/news/794871af-c2d5-49c9-be87-a1c751971d76?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=794871af-c2d5-49c9-be87-a1c751971d76) | Published 20 Sept 2026 | Guide
+[Chain Incident](https://chainincident.com/news/e684e606-531a-4926-8b5b-dade24c5403d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e684e606-531a-4926-8b5b-dade24c5403d) | Published 21 Sept 2026
 
-Sources: [Token Primer](https://tokenprimer.com/news/794871af-c2d5-49c9-be87-a1c751971d76?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=794871af-c2d5-49c9-be87-a1c751971d76) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
+Sources: [Chain Incident](https://chainincident.com/news/e684e606-531a-4926-8b5b-dade24c5403d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e684e606-531a-4926-8b5b-dade24c5403d) | [news\.google\.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU09heXhiaW8yZFFkX0g2NUdmeGUxMGM2SE51ZWNDM3k0NHFkdm1NY2xXb0hjSTYzOU45aGFOa3pZMkR4UTY4a2ZfVWU1a0hyS3ZJWEhPSW9GR1JVbXE2eUtWVjY0V3hZRHowbHBkQ21aaU5aNGtBQTNxeDFVbkxJR2w5cFZsby1Hc3hETUxtNzhtVGFjQ1MyRkI4NzBEaTZuVzJNU3dXMmx1NWlhWnNUbVlZb3d5Q2dxX3RfdFFQeTA5dw?oc=5)
 
-## USDC applications on Arc need to budget for randomness as well as gas
+## Solana&#39;s 250ms slots tighten validator handoffs before the proposed 200ms step
 
-An Arc application and an HTTP agent can now reach D20DAO through different payment paths\. The contract route has a configurable service fee plus transaction gas\. The agent API advertises a fixed 0\.05 USDC call price through x402\.
+Solana&#39;s 250 millisecond target slot is live, but the next reduction depends on sustained evidence about handoffs, forwarding and client diversity\.
 
-[Yield Dispatch](https://yielddispatch.com/news/c3995a0d-018c-4abd-9cb7-90b1b18884c8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c3995a0d-018c-4abd-9cb7-90b1b18884c8) | Published 19 Sept 2026
+[Fork Brief](https://forkbrief.com/news/94d32d7c-e38a-42e1-aad7-6af83f8f6900?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=94d32d7c-e38a-42e1-aad7-6af83f8f6900) | Published 21 Sept 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/c3995a0d-018c-4abd-9cb7-90b1b18884c8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c3995a0d-018c-4abd-9cb7-90b1b18884c8) | [d20dao\.org](https://d20dao.org/docs/agents) | [d20dao\.org](https://d20dao.org/refunds)
+Sources: [Fork Brief](https://forkbrief.com/news/94d32d7c-e38a-42e1-aad7-6af83f8f6900?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=94d32d7c-e38a-42e1-aad7-6af83f8f6900) | [cryptoslate\.com](https://cryptoslate.com/solanas-250ms-slots-turn-validator-coordination-into-the-networks-next-security-test/)
 
-## D20DAO adds x402 payments for verifiable randomness at 0\.05 USDC per call
+## Aave&#39;s Arc market drew USDC liquidity before borrowers arrived
 
-D20DAO now documents an HTTP API that lets agents buy verifiable random results for 0\.05 USDC per call without deploying their own consumer contract\. Payments use x402 through Circle Gateway; the underlying randomness request runs on Arc Mainnet\.
+A point\-in\-time snapshot reported roughly $76 million supplied to Aave V4 on Arc while less than $100,000 had been borrowed\.
 
-[Chain Minute](https://chainminute.com/news/34c7c5f3-7f68-4b11-ac92-4448ee0028f9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34c7c5f3-7f68-4b11-ac92-4448ee0028f9) | Published 19 Sept 2026
+[Yield Dispatch](https://yielddispatch.com/news/ec5d0b07-e040-4bf9-9d9d-6f808e5593b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec5d0b07-e040-4bf9-9d9d-6f808e5593b8) | Published 21 Sept 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/34c7c5f3-7f68-4b11-ac92-4448ee0028f9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34c7c5f3-7f68-4b11-ac92-4448ee0028f9) | [api\.d20dao\.org](https://api.d20dao.org/v1/random) | [d20dao\.org](https://d20dao.org/docs/agents)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/ec5d0b07-e040-4bf9-9d9d-6f808e5593b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec5d0b07-e040-4bf9-9d9d-6f808e5593b8) | [cryptoslate\.com](https://cryptoslate.com/aave-v4s-arc-market-is-swimming-in-76-million-of-usdc-nobody-is-borrowing/)
 
-## D20DAO reports 470 Arc testnet requests completed within its 60\-second deadline
+## ZetaChain holders back a Solana migration as the project winds down its L1
 
-D20DAO has published a September 17 benchmark report covering 470 paid randomness requests across four Arc Testnet scenarios\. The provider reports that all were fulfilled within the protocol&#39;s 60\-second acceptance window, with no expired requests or refunds in those runs\.
+ZetaChain voters approved a proposal to retire the project&#39;s Layer 1 and move ZETA to Solana, while a second vote is still required for the migration details\.
 
-[Fork Brief](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | Published 18 Sept 2026
+[Chain Minute](https://chainminute.com/news/9e91e7b6-c658-4a5a-bbe0-c937b013d180?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e91e7b6-c658-4a5a-bbe0-c937b013d180) | Published 21 Sept 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/82a01df1-4bfc-4ba3-95fa-579f3e2e62f0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=82a01df1-4bfc-4ba3-95fa-579f3e2e62f0) | [d20dao\.org](https://d20dao.org/benchmarks) | [d20dao\.org](https://d20dao.org/docs/service-rules)
+Sources: [Chain Minute](https://chainminute.com/news/9e91e7b6-c658-4a5a-bbe0-c937b013d180?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e91e7b6-c658-4a5a-bbe0-c937b013d180) | [www\.theblock\.co](https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878)

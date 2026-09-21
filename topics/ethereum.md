@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-15 distinct developments, newest first.
+16 distinct developments, newest first.
+
+- [What the draft ERC\-8419 KYA framework is trying to verify about agents](https://tokenprimer.com/news/f8d9c00d-da8d-48a1-a8f1-3da824559eed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f8d9c00d-da8d-48a1-a8f1-3da824559eed) | 21 Sept 2026 | Token Primer
+
+  A new Ethereum Magicians draft describes a registry for trust conclusions about agents, with optional zero\-knowledge proofs and ERC\-8004 integration\.
 
 - [Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | 17 Sept 2026 | Chain Minute
 

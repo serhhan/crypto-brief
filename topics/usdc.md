@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [Aave&#39;s Arc market drew USDC liquidity before borrowers arrived](https://yielddispatch.com/news/ec5d0b07-e040-4bf9-9d9d-6f808e5593b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec5d0b07-e040-4bf9-9d9d-6f808e5593b8) | 21 Sept 2026 | Yield Dispatch
+
+  A point\-in\-time snapshot reported roughly $76 million supplied to Aave V4 on Arc while less than $100,000 had been borrowed\.
 
 - [USDC applications on Arc need to budget for randomness as well as gas](https://yielddispatch.com/news/c3995a0d-018c-4abd-9cb7-90b1b18884c8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c3995a0d-018c-4abd-9cb7-90b1b18884c8) | 19 Sept 2026 | Yield Dispatch
 

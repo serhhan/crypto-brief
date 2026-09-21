@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [ZetaChain holders back a Solana migration as the project winds down its L1](https://chainminute.com/news/9e91e7b6-c658-4a5a-bbe0-c937b013d180?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e91e7b6-c658-4a5a-bbe0-c937b013d180) | 21 Sept 2026 | Chain Minute
+
+  ZetaChain voters approved a proposal to retire the project&#39;s Layer 1 and move ZETA to Solana, while a second vote is still required for the migration details\.
 
 - [D20DAO adds x402 payments for verifiable randomness at 0\.05 USDC per call](https://chainminute.com/news/34c7c5f3-7f68-4b11-ac92-4448ee0028f9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34c7c5f3-7f68-4b11-ac92-4448ee0028f9) | 19 Sept 2026 | Chain Minute
 

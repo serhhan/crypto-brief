@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [SingularityNET bridge incident expands to unauthorized AGIX and WMTx minting](https://chainincident.com/news/e684e606-531a-4926-8b5b-dade24c5403d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e684e606-531a-4926-8b5b-dade24c5403d) | 21 Sept 2026 | Chain Incident
+
+  Reports link a single attack cluster to unauthorized AGIX and WMTx minting, while the incident response and supply reconciliation remain in progress\.
 
 - [A failed callback should not give an onchain game a second roll](https://chainincident.com/news/9619d817-757e-4fd5-9d86-91eda2f631ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9619d817-757e-4fd5-9d86-91eda2f631ff) | 20 Sept 2026 | Chain Incident
 
