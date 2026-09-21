@@ -6,13 +6,13 @@ Updated 21 Sept 2026.
 
 [Dated edition](archive/2026-09-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## What the draft ERC\-8419 KYA framework is trying to verify about agents
+## How D20DAO uses API3 AirnodeHub data in its Arc randomness workflow
 
-A new Ethereum Magicians draft describes a registry for trust conclusions about agents, with optional zero\-knowledge proofs and ERC\-8004 integration\.
+D20DAO uses signed API inputs from API3&#39;s AirnodeHub in an Arc randomness workflow\. Its new x402 interface lets agents purchase the resulting service over HTTP, while the input signatures and the VRF result remain separate pieces of evidence\.
 
-[Token Primer](https://tokenprimer.com/news/f8d9c00d-da8d-48a1-a8f1-3da824559eed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f8d9c00d-da8d-48a1-a8f1-3da824559eed) | Published 21 Sept 2026 | Guide
+[Chain Minute](https://chainminute.com/news/3eb1904b-732b-491f-89e4-aeff6defdc79?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3eb1904b-732b-491f-89e4-aeff6defdc79) | Published 21 Sept 2026 | Guide
 
-Sources: [Token Primer](https://tokenprimer.com/news/f8d9c00d-da8d-48a1-a8f1-3da824559eed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f8d9c00d-da8d-48a1-a8f1-3da824559eed) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-know-your-agent-kya-framework-trust-assertions-for-agents-zk-kya-profile-erc-8004-binding/29735)
+Sources: [Chain Minute](https://chainminute.com/news/3eb1904b-732b-491f-89e4-aeff6defdc79?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3eb1904b-732b-491f-89e4-aeff6defdc79) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [d20dao\.org](https://d20dao.org/docs/agents)
 
 ## SingularityNET bridge incident expands to unauthorized AGIX and WMTx minting
 

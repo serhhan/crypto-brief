@@ -4,7 +4,11 @@ API3 governance, oracle services and developer tools, including AirnodeHub.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [How D20DAO uses API3 AirnodeHub data in its Arc randomness workflow](https://chainminute.com/news/3eb1904b-732b-491f-89e4-aeff6defdc79?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3eb1904b-732b-491f-89e4-aeff6defdc79) | 21 Sept 2026 | Chain Minute
+
+  D20DAO uses signed API inputs from API3&#39;s AirnodeHub in an Arc randomness workflow\. Its new x402 interface lets agents purchase the resulting service over HTTP, while the input signatures and the VRF result remain separate pieces of evidence\.
 
 - [How AirnodeHub lets an agent find API data and verify what it receives](https://tokenprimer.com/news/794871af-c2d5-49c9-be87-a1c751971d76?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=794871af-c2d5-49c9-be87-a1c751971d76) | 20 Sept 2026 | Token Primer
 
