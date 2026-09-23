@@ -4,15 +4,7 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
-
-- [How D20DAO uses API3 AirnodeHub data in its Arc randomness workflow](https://chainminute.com/news/3eb1904b-732b-491f-89e4-aeff6defdc79?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3eb1904b-732b-491f-89e4-aeff6defdc79) | 21 Sept 2026 | Chain Minute
-
-  D20DAO uses signed API inputs from API3&#39;s AirnodeHub in an Arc randomness workflow\. Its new x402 interface lets agents purchase the resulting service over HTTP, while the input signatures and the VRF result remain separate pieces of evidence\.
-
-- [How AirnodeHub lets an agent find API data and verify what it receives](https://tokenprimer.com/news/794871af-c2d5-49c9-be87-a1c751971d76?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=794871af-c2d5-49c9-be87-a1c751971d76) | 20 Sept 2026 | Token Primer
-
-  An agent that can pay for an API still needs to choose a source and check the response\. API3&#39;s AirnodeHub combines a discoverable catalogue with signed responses, giving developers a concrete way to connect those steps\.
+3 distinct developments, newest first.
 
 - [What can you build with AirnodeHub&#39;s 35 API listings?](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | 14 Sept 2026 | Token Primer
 

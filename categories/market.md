@@ -4,19 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
-
-- [How D20DAO uses API3 AirnodeHub data in its Arc randomness workflow](https://chainminute.com/news/3eb1904b-732b-491f-89e4-aeff6defdc79?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3eb1904b-732b-491f-89e4-aeff6defdc79) | 21 Sept 2026 | Chain Minute
-
-  D20DAO uses signed API inputs from API3&#39;s AirnodeHub in an Arc randomness workflow\. Its new x402 interface lets agents purchase the resulting service over HTTP, while the input signatures and the VRF result remain separate pieces of evidence\.
+10 distinct developments, newest first.
 
 - [ZetaChain holders back a Solana migration as the project winds down its L1](https://chainminute.com/news/9e91e7b6-c658-4a5a-bbe0-c937b013d180?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e91e7b6-c658-4a5a-bbe0-c937b013d180) | 21 Sept 2026 | Chain Minute
 
   ZetaChain voters approved a proposal to retire the project&#39;s Layer 1 and move ZETA to Solana, while a second vote is still required for the migration details\.
-
-- [D20DAO adds x402 payments for verifiable randomness at 0\.05 USDC per call](https://chainminute.com/news/34c7c5f3-7f68-4b11-ac92-4448ee0028f9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34c7c5f3-7f68-4b11-ac92-4448ee0028f9) | 19 Sept 2026 | Chain Minute
-
-  D20DAO now documents an HTTP API that lets agents buy verifiable random results for 0\.05 USDC per call without deploying their own consumer contract\. Payments use x402 through Circle Gateway; the underlying randomness request runs on Arc Mainnet\.
 
 - [Arc&#39;s zero PREVRANDAO makes randomness a separate infrastructure choice](https://chainminute.com/news/da9906e7-88d4-4e38-af75-4e963e19b359?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da9906e7-88d4-4e38-af75-4e963e19b359) | 17 Sept 2026 | Chain Minute
 

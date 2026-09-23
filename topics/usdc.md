@@ -4,7 +4,7 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+5 distinct developments, newest first.
 
 - [Aave&#39;s Arc market drew USDC liquidity before borrowers arrived](https://yielddispatch.com/news/ec5d0b07-e040-4bf9-9d9d-6f808e5593b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec5d0b07-e040-4bf9-9d9d-6f808e5593b8) | 21 Sept 2026 | Yield Dispatch
 
@@ -13,10 +13,6 @@ USDC payments, integrations and stablecoin developments.
 - [USDC applications on Arc need to budget for randomness as well as gas](https://yielddispatch.com/news/c3995a0d-018c-4abd-9cb7-90b1b18884c8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c3995a0d-018c-4abd-9cb7-90b1b18884c8) | 19 Sept 2026 | Yield Dispatch
 
   An Arc application and an HTTP agent can now reach D20DAO through different payment paths\. The contract route has a configurable service fee plus transaction gas\. The agent API advertises a fixed 0\.05 USDC call price through x402\.
-
-- [D20DAO adds x402 payments for verifiable randomness at 0\.05 USDC per call](https://chainminute.com/news/34c7c5f3-7f68-4b11-ac92-4448ee0028f9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34c7c5f3-7f68-4b11-ac92-4448ee0028f9) | 19 Sept 2026 | Chain Minute
-
-  D20DAO now documents an HTTP API that lets agents buy verifiable random results for 0\.05 USDC per call without deploying their own consumer contract\. Payments use x402 through Circle Gateway; the underlying randomness request runs on Arc Mainnet\.
 
 - [Arc uses USDC for fees\: what Circle’s ARC token mint does and does not mean](https://tokenprimer.com/news/9cae8ec7-8a25-4609-8dfa-4bc4984ba022?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9cae8ec7-8a25-4609-8dfa-4bc4984ba022) | 17 Sept 2026 | Token Primer
 
