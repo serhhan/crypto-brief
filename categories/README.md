@@ -6,9 +6,9 @@ Browse crypto reporting by subject, with article summaries and dated links on ea
 
 Linked pages contain at least three distinct developments.
 
-- [Markets](market.md) | 10 distinct developments
-- [DeFi and stablecoins](defi.md) | 13 distinct developments
-- [Technology](technology.md) | 15 distinct developments
-- [Security](security.md) | 9 distinct developments
+- [Markets](market.md) | 11 distinct developments
+- [DeFi and stablecoins](defi.md) | 14 distinct developments
+- [Technology](technology.md) | 16 distinct developments
+- [Security](security.md) | 10 distinct developments
 - Regulation | 2 distinct developments
-- [Guides and explainers](education.md) | 9 distinct developments
+- [Guides and explainers](education.md) | 10 distinct developments

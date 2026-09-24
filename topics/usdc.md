@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [Coinbase adds fixed\-rate USDC loans backed by bitcoin through Morpho](https://yielddispatch.com/news/7bfbed33-91ef-44fd-8fdb-861bb255ce9c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7bfbed33-91ef-44fd-8fdb-861bb255ce9c) | 24 Sept 2026 | Yield Dispatch
+
+  Eligible users can lock a borrowing rate and repayment date when taking USDC against bitcoin\. The collateral can still be liquidated if its value falls\.
 
 - [Aave&#39;s Arc market drew USDC liquidity before borrowers arrived](https://yielddispatch.com/news/ec5d0b07-e040-4bf9-9d9d-6f808e5593b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec5d0b07-e040-4bf9-9d9d-6f808e5593b8) | 21 Sept 2026 | Yield Dispatch
 

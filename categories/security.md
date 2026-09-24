@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [Cosmos Hub restarts after 25\-hour halt and moves ATOM linked to Neutron attack](https://chainincident.com/news/5657959f-b54d-4ef8-98a5-f463e858f1ab?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5657959f-b54d-4ef8-98a5-f463e858f1ab) | 24 Sept 2026 | Chain Incident
+
+  Block production resumed and 1,227,121 ATOM moved from the reported attacker wallet\. Public statements had not identified who controlled the receiving address\.
 
 - [SingularityNET bridge incident expands to unauthorized AGIX and WMTx minting](https://chainincident.com/news/e684e606-531a-4926-8b5b-dade24c5403d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e684e606-531a-4926-8b5b-dade24c5403d) | 21 Sept 2026 | Chain Incident
 

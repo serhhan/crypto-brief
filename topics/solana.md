@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [Solana moves Alpenglow finality upgrade to public testnet](https://forkbrief.com/news/c88b134d-a847-4b47-b49a-a70854ca295e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c88b134d-a847-4b47-b49a-a70854ca295e) | 24 Sept 2026 | Fork Brief
+
+  The test targets roughly 150 millisecond finality by replacing TowerBFT with Votor\. Execution, programs and fees are not being replaced\.
 
 - [Solana&#39;s 250ms slots tighten validator handoffs before the proposed 200ms step](https://forkbrief.com/news/94d32d7c-e38a-42e1-aad7-6af83f8f6900?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=94d32d7c-e38a-42e1-aad7-6af83f8f6900) | 21 Sept 2026 | Fork Brief
 

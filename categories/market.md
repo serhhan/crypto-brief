@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [BitMEX ends trading after 11 years and keeps withdrawals open](https://chainminute.com/news/a617add8-83c1-4362-bc35-3a043bb09838?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a617add8-83c1-4362-bc35-3a043bb09838) | 24 Sept 2026 | Chain Minute
+
+  The derivatives exchange has stopped trading, deposits and new positions\. Customers can still access accounts and withdraw balances during the wind\-down\.
 
 - [ZetaChain holders back a Solana migration as the project winds down its L1](https://chainminute.com/news/9e91e7b6-c658-4a5a-bbe0-c937b013d180?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e91e7b6-c658-4a5a-bbe0-c937b013d180) | 21 Sept 2026 | Chain Minute
 

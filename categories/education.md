@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [What XRP Ledger permission delegation changes if the amendment activates](https://tokenprimer.com/news/c7e1b3c2-93f9-40d7-b162-d530389e4f9a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c7e1b3c2-93f9-40d7-b162-d530389e4f9a) | 24 Sept 2026 | Token Primer
+
+  The amendment lets an account grant another account a limited set of transaction permissions\. It replaces an earlier version disabled after a critical bug\.
 
 - [What the draft ERC\-8419 KYA framework is trying to verify about agents](https://tokenprimer.com/news/f8d9c00d-da8d-48a1-a8f1-3da824559eed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f8d9c00d-da8d-48a1-a8f1-3da824559eed) | 21 Sept 2026 | Token Primer
 

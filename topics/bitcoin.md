@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [Coinbase adds fixed\-rate USDC loans backed by bitcoin through Morpho](https://yielddispatch.com/news/7bfbed33-91ef-44fd-8fdb-861bb255ce9c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7bfbed33-91ef-44fd-8fdb-861bb255ce9c) | 24 Sept 2026 | Yield Dispatch
+
+  Eligible users can lock a borrowing rate and repayment date when taking USDC against bitcoin\. The collateral can still be liquidated if its value falls\.
 
 - [Zcash outpaces Bitcoin with a reported 23% rally as Paradigm discloses holdings](https://chainminute.com/news/c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c95880fd-a82a-4f24-8b21-fd0ed6d8e3dc) | 17 Sept 2026 | Chain Minute
 
