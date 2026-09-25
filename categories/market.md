@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [US spot bitcoin ETFs extend six\-day inflow streak beyond $2\.8 billion](https://chainminute.com/news/c04946de-dc22-4a6f-abd9-51b3946389a9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c04946de-dc22-4a6f-abd9-51b3946389a9) | 25 Sept 2026 | Chain Minute
+
+  The funds recorded about $191 million of net inflows on Thursday, taking their six\-session run above $2\.8 billion even as the daily pace slowed\.
 
 - [BitMEX ends trading after 11 years and keeps withdrawals open](https://chainminute.com/news/a617add8-83c1-4362-bc35-3a043bb09838?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a617add8-83c1-4362-bc35-3a043bb09838) | 24 Sept 2026 | Chain Minute
 

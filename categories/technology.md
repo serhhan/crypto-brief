@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-16 distinct developments, newest first.
+17 distinct developments, newest first.
+
+- [Ethereum Quick Slots draft receives a consensus\-layer specification](https://forkbrief.com/news/dc092304-9c70-4abf-a631-900895b2392e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc092304-9c70-4abf-a631-900895b2392e) | 25 Sept 2026 | Fork Brief
+
+  The work\-in\-progress specification makes slot duration configurable and currently describes an initial move from 12 seconds to 10 seconds\. No mainnet activation epoch has been scheduled\.
 
 - [Solana moves Alpenglow finality upgrade to public testnet](https://forkbrief.com/news/c88b134d-a847-4b47-b49a-a70854ca295e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c88b134d-a847-4b47-b49a-a70854ca295e) | 24 Sept 2026 | Fork Brief
 

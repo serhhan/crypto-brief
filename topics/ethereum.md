@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-16 distinct developments, newest first.
+17 distinct developments, newest first.
+
+- [Ethereum Quick Slots draft receives a consensus\-layer specification](https://forkbrief.com/news/dc092304-9c70-4abf-a631-900895b2392e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc092304-9c70-4abf-a631-900895b2392e) | 25 Sept 2026 | Fork Brief
+
+  The work\-in\-progress specification makes slot duration configurable and currently describes an initial move from 12 seconds to 10 seconds\. No mainnet activation epoch has been scheduled\.
 
 - [What the draft ERC\-8419 KYA framework is trying to verify about agents](https://tokenprimer.com/news/f8d9c00d-da8d-48a1-a8f1-3da824559eed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f8d9c00d-da8d-48a1-a8f1-3da824559eed) | 21 Sept 2026 | Token Primer
 

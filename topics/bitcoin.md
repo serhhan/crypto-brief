@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [US spot bitcoin ETFs extend six\-day inflow streak beyond $2\.8 billion](https://chainminute.com/news/c04946de-dc22-4a6f-abd9-51b3946389a9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c04946de-dc22-4a6f-abd9-51b3946389a9) | 25 Sept 2026 | Chain Minute
+
+  The funds recorded about $191 million of net inflows on Thursday, taking their six\-session run above $2\.8 billion even as the daily pace slowed\.
 
 - [Coinbase adds fixed\-rate USDC loans backed by bitcoin through Morpho](https://yielddispatch.com/news/7bfbed33-91ef-44fd-8fdb-861bb255ce9c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7bfbed33-91ef-44fd-8fdb-861bb255ce9c) | 24 Sept 2026 | Yield Dispatch
 

@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [API3 DAO executes 30% staking target as current APR moves to 74%](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | 25 Sept 2026 | Yield Dispatch
+
+  Proposal 264 has moved from pending to executed\. The DAO tracker now shows a 74% current APR after the previous weekly epoch recorded 75%\.
 
 - [Coinbase adds fixed\-rate USDC loans backed by bitcoin through Morpho](https://yielddispatch.com/news/7bfbed33-91ef-44fd-8fdb-861bb255ce9c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7bfbed33-91ef-44fd-8fdb-861bb255ce9c) | 24 Sept 2026 | Yield Dispatch
 

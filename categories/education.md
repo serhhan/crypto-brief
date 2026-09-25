@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [What the Federal Reserve stablecoin proposals would require](https://tokenprimer.com/news/57543fa9-5adf-4568-99fc-80a4af7dda00?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57543fa9-5adf-4568-99fc-80a4af7dda00) | 25 Sept 2026 | Token Primer
+
+  The proposals cover full reserve backing, capital and risk controls, reserve custody and the application process for supervised banks that want to issue payment stablecoins\.
 
 - [What XRP Ledger permission delegation changes if the amendment activates](https://tokenprimer.com/news/c7e1b3c2-93f9-40d7-b162-d530389e4f9a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c7e1b3c2-93f9-40d7-b162-d530389e4f9a) | 24 Sept 2026 | Token Primer
 

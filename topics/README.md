@@ -8,11 +8,11 @@ Linked pages contain at least three distinct developments.
 
 - Aave | 1 distinct development
 - [Airnode Hub](airnode-hub.md) | 3 distinct developments
-- [API3](api3.md) | 6 distinct developments
-- [Bitcoin](bitcoin.md) | 8 distinct developments
+- [API3](api3.md) | 7 distinct developments
+- [Bitcoin](bitcoin.md) | 9 distinct developments
 - Cosmos Hub | 1 distinct development
 - Dogecoin | 1 distinct development
-- [Ethereum](ethereum.md) | 16 distinct developments
+- [Ethereum](ethereum.md) | 17 distinct developments
 - Hyperliquid | 1 distinct development
 - Morpho | 2 distinct developments
 - [Solana](solana.md) | 5 distinct developments

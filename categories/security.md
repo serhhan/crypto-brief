@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [Bitget pauses withdrawals after reporting $351\.6 million wallet breach](https://chainincident.com/news/b0943d8c-f8e7-4ad5-8496-3332207b8fa2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b0943d8c-f8e7-4ad5-8496-3332207b8fa2) | 25 Sept 2026 | Chain Incident
+
+  The exchange says unauthorized transfers affected part of its hot and warm wallet infrastructure\. Withdrawals are paused while deposits and trading remain available\.
 
 - [Cosmos Hub restarts after 25\-hour halt and moves ATOM linked to Neutron attack](https://chainincident.com/news/5657959f-b54d-4ef8-98a5-f463e858f1ab?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5657959f-b54d-4ef8-98a5-f463e858f1ab) | 24 Sept 2026 | Chain Incident
 

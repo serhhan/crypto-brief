@@ -4,7 +4,11 @@ API3 governance, oracle services and developer tools, including AirnodeHub.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [API3 DAO executes 30% staking target as current APR moves to 74%](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | 25 Sept 2026 | Yield Dispatch
+
+  Proposal 264 has moved from pending to executed\. The DAO tracker now shows a 74% current APR after the previous weekly epoch recorded 75%\.
 
 - [What can you build with AirnodeHub&#39;s 35 API listings?](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | 14 Sept 2026 | Token Primer
 
