@@ -29,19 +29,3 @@ About 54 million XRP left the original attacker wallets after Bitget&#39;s Septe
 [Chain Incident](https://chainincident.com/news/c5fc05a5-254b-45ee-8fad-d581971b5baf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c5fc05a5-254b-45ee-8fad-d581971b5baf) | Published 28 Sept 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/c5fc05a5-254b-45ee-8fad-d581971b5baf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c5fc05a5-254b-45ee-8fad-d581971b5baf) | [www\.bitget\.com](https://www.bitget.com/support/articles/12560603896108) | [www\.coindesk\.com](https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze)
-
-## What the Federal Reserve stablecoin proposals would require
-
-The proposals cover full reserve backing, capital and risk controls, reserve custody and the application process for supervised banks that want to issue payment stablecoins\.
-
-[Token Primer](https://tokenprimer.com/news/57543fa9-5adf-4568-99fc-80a4af7dda00?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57543fa9-5adf-4568-99fc-80a4af7dda00) | Published 25 Sept 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/57543fa9-5adf-4568-99fc-80a4af7dda00?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57543fa9-5adf-4568-99fc-80a4af7dda00) | [news\.google\.com](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZnlBMGJCRGV3eFhzQkZrdjgwTGczcmdHeXNGZ1ZyUkhILURmQU1tSTI1M1JoRHZLS2dWMUhDN2lvYmtVZXN5RHpUR3FHd0lORnZyMlVteGVfVlZ0VENmNmRESlJkSm94NjlUVXQxcVlmZjRJNFB5dHdGQUJUTnpfd0RzaGtUWDJSdHhWY0dMNFFwb3BPbVlmTkk1bzVtOVozbXhrMVhiakZBY2NUaGVTTF9BS1A4OFZ6dlhmV1VESGxiVHAxSlFJWkE2bG5OUk8ta2tpd1hqVHB2UTg2M09zR0JFdUd0b1owd3BYbXZTWmhBeG9z0gH6AUFVX3lxTE1EZXZ5UnNFdGhXTlB2Tk4zWHBtRl9pYWpqazMwTnVnSXJzTHJHanhnVl9UOExxWldQd3NMdDJJQXJ4SDZGaFIwQzAybFdUZWEzU3Nad09EdlV3UmRtR19lYzlWQVAxdnM2X0dhS2c3Q0Z4TE1XRDVnaUNoRlpfZFJNLWlrNGxqZzNnWk5JMDJGVUlIN0tPdXcwZkV5WU1CVjBoR3EtMDlRQ0drZkpiZmFJN1dnNkJmUENmRUt4bTk4Qk1pZHNvQXR5WjdNanlYbkJGc2JPYl8wRzJsQXQxRDFEaktpYmQzZ0pyTEFkTHJiemd2bWRha2QwMEE?oc=5) | [news\.google\.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDRVSGl5RllQUFJwQ3cxNlprN3A0S0pIUHloWG9BYTdlNFpGZjhLcEs5bHk1eG9hSnVWSUdLV1pIRW1BTkN6QmR1QlF1M3RJazRtT3M4VGNicnJNVzZpS0VPay11Z1RLOFR1RXhTT3NYRzdjazB5UVJpaVhSSkhvYmdXb2s?oc=5)
-
-## API3 DAO executes 30% staking target as current APR moves to 74%
-
-Proposal 264 has moved from pending to executed\. The DAO tracker now shows a 74% current APR after the previous weekly epoch recorded 75%\.
-
-[Yield Dispatch](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | Published 25 Sept 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | [dao\-docs\.api3\.org](https://dao-docs.api3.org/overview/rewards.html) | [dao\-docs\.api3\.org](https://dao-docs.api3.org/technical/distribution.html)
