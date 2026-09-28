@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [Chainlink launches CCIP 2\.0 with issuer\-run verifiers and compliance controls](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | 28 Sept 2026 | Fork Brief
+
+  The live release adds optional Cross\-Chain Verifiers, configurable settlement speed and execution, modular fees and policy checks while keeping the existing Router interface\.
 
 - [AirnodeHub puts 36 APIs behind a keyless MCP endpoint with signed responses](https://forkbrief.com/news/aab56674-cf01-483d-9f8c-a8e7a9491e9a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=aab56674-cf01-483d-9f8c-a8e7a9491e9a) | 28 Sept 2026 | Fork Brief
 
