@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [AirnodeHub puts 36 APIs behind a keyless MCP endpoint with signed responses](https://forkbrief.com/news/aab56674-cf01-483d-9f8c-a8e7a9491e9a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=aab56674-cf01-483d-9f8c-a8e7a9491e9a) | 28 Sept 2026 | Fork Brief
+
+  A live catalogue query returned 36 listings that software agents can discover and call through one Streamable HTTP endpoint, with attestations attached to successful responses\.
 
 - [What can you build with AirnodeHub&#39;s 35 API listings?](https://tokenprimer.com/news/61737a8b-dac3-4325-ba8e-c9e20c3dd0ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=61737a8b-dac3-4325-ba8e-c9e20c3dd0ea) | 14 Sept 2026 | Token Primer
 
