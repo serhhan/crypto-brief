@@ -6,6 +6,14 @@ Updated 28 Sept 2026.
 
 [Dated edition](archive/2026-09-28.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Canary updates proposed staked INJ ETF with liquidity and validator risk details
+
+The amended SEC filing describes a plan to stake at least 90% of the trust assets under normal conditions while documenting unbonding, custody and governance risks\.
+
+[Chain Minute](https://chainminute.com/news/ad29b906-20ce-4bfe-9aab-6eafcc60e737?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad29b906-20ce-4bfe-9aab-6eafcc60e737) | Published 28 Sept 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/ad29b906-20ce-4bfe-9aab-6eafcc60e737?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad29b906-20ce-4bfe-9aab-6eafcc60e737) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/canary-s1a_092426.htm)
+
 ## Bitget attacker moves $83 million in XRP as recovery limits come into focus
 
 About 54 million XRP left the original attacker wallets after Bitget&#39;s September 24 breach, while the exchange revised its loss estimate and continued recovery work\.
@@ -37,11 +45,3 @@ Proposal 264 has moved from pending to executed\. The DAO tracker now shows a 74
 [Yield Dispatch](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | Published 25 Sept 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | [dao\-docs\.api3\.org](https://dao-docs.api3.org/overview/rewards.html) | [dao\-docs\.api3\.org](https://dao-docs.api3.org/technical/distribution.html)
-
-## US spot bitcoin ETFs extend six\-day inflow streak beyond $2\.8 billion
-
-The funds recorded about $191 million of net inflows on Thursday, taking their six\-session run above $2\.8 billion even as the daily pace slowed\.
-
-[Chain Minute](https://chainminute.com/news/c04946de-dc22-4a6f-abd9-51b3946389a9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c04946de-dc22-4a6f-abd9-51b3946389a9) | Published 25 Sept 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/c04946de-dc22-4a6f-abd9-51b3946389a9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c04946de-dc22-4a6f-abd9-51b3946389a9) | [cointelegraph\.com](https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion) | [news\.google\.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWFQ3Q25xVXU4d1ZDYmtsV1pCMUpXcVE2Tk81c2VKTTFQUC1TMWlFOWxqZ3lKcGJLVExIdFplODhZUlZwa3kwOEVnTzZOU09EUzFWTUNjSkFfOUFkaFN4dGNFWWlaMXVNMmJJSTI4X0dHV0hqNnJWNk5Tc2hBUjMtc2I4dENZMVZhZGtTdFNsTkRydUtvVmQzUjFmZ29XTG9HSWRXQW43b0VxVGpkMHpVYTdFVGdkS2tHZWVNVkV2S2VIbm1fdmc?oc=5)
