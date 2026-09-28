@@ -19,5 +19,5 @@ Linked pages contain at least three distinct developments.
 - Tether | 1 distinct development
 - Uniswap | 2 distinct developments
 - [USDC](usdc.md) | 6 distinct developments
-- XRP | 2 distinct developments
+- [XRP](xrp.md) | 3 distinct developments
 - Zcash | 1 distinct development

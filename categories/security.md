@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [Bitget attacker moves $83 million in XRP as recovery limits come into focus](https://chainincident.com/news/c5fc05a5-254b-45ee-8fad-d581971b5baf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c5fc05a5-254b-45ee-8fad-d581971b5baf) | 28 Sept 2026 | Chain Incident
+
+  About 54 million XRP left the original attacker wallets after Bitget&#39;s September 24 breach, while the exchange revised its loss estimate and continued recovery work\.
 
 - [Bitget pauses withdrawals after reporting $351\.6 million wallet breach](https://chainincident.com/news/b0943d8c-f8e7-4ad5-8496-3332207b8fa2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b0943d8c-f8e7-4ad5-8496-3332207b8fa2) | 25 Sept 2026 | Chain Incident
 
