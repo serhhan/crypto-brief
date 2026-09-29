@@ -6,6 +6,14 @@ Updated 29 Sept 2026.
 
 [Dated edition](archive/2026-09-29.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bitwise launches spot NEAR fund NRR on NYSE Arca with staking
+
+The U\.S\. exchange\-traded product holds NEAR directly, charges a 0\.75% management fee and is designed to add staking rewards to its net asset value\.
+
+[Chain Minute](https://chainminute.com/news/1515cb0a-12b0-4618-8a53-1bcf67206896?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1515cb0a-12b0-4618-8a53-1bcf67206896) | Published 29 Sept 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/1515cb0a-12b0-4618-8a53-1bcf67206896?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1515cb0a-12b0-4618-8a53-1bcf67206896) | [bitwiseinvestments\.com](https://bitwiseinvestments.com/newsroom/the-bitwise-near-etf-nrr-launches-as-first-spot-near-etp-in-the-us) | [cointelegraph\.com](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-token-surge)
+
 ## Tether says Iran\-linked USDT freezes reached $550 million as Senate scrutiny grows
 
 The issuer detailed two major 2026 freeze actions, while a Senate minority report said USDT dominated the Iran\-linked wallet set it examined and asked Treasury to investigate compliance\.
@@ -21,14 +29,6 @@ The live release adds optional Cross\-Chain Verifiers, configurable settlement s
 [Fork Brief](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | Published 28 Sept 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | [docs\.chain\.link](https://docs.chain.link/ccip) | [unchainedcrypto\.com](https://unchainedcrypto.com/chainlink-upgrade-gives-institutions-their-own-sign-off-on-cross-chain-token-transfers/)
-
-## AirnodeHub puts 36 APIs behind a keyless MCP endpoint with signed responses
-
-A live catalogue query returned 36 listings that software agents can discover and call through one Streamable HTTP endpoint, with attestations attached to successful responses\.
-
-[Fork Brief](https://forkbrief.com/news/aab56674-cf01-483d-9f8c-a8e7a9491e9a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=aab56674-cf01-483d-9f8c-a8e7a9491e9a) | Published 28 Sept 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/aab56674-cf01-483d-9f8c-a8e7a9491e9a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=aab56674-cf01-483d-9f8c-a8e7a9491e9a) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
 
 ## Canary updates proposed staked INJ ETF with liquidity and validator risk details
 
