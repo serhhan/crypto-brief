@@ -6,6 +6,14 @@ Updated 29 Sept 2026.
 
 [Dated edition](archive/2026-09-29.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Tether says Iran\-linked USDT freezes reached $550 million as Senate scrutiny grows
+
+The issuer detailed two major 2026 freeze actions, while a Senate minority report said USDT dominated the Iran\-linked wallet set it examined and asked Treasury to investigate compliance\.
+
+[Yield Dispatch](https://yielddispatch.com/news/fde1962d-2979-428a-bbe8-328293d5ada6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fde1962d-2979-428a-bbe8-328293d5ada6) | Published 29 Sept 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/fde1962d-2979-428a-bbe8-328293d5ada6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fde1962d-2979-428a-bbe8-328293d5ada6) | [cointelegraph\.com](https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year) | [tether\.io](https://tether.io/news/tether-has-supported-nearly-550-million-in-iran-linked-usdt-freezes-as-u-s-expands-sanctions-campaign/)
+
 ## Chainlink launches CCIP 2\.0 with issuer\-run verifiers and compliance controls
 
 The live release adds optional Cross\-Chain Verifiers, configurable settlement speed and execution, modular fees and policy checks while keeping the existing Router interface\.

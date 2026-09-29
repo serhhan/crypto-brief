@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-15 distinct developments, newest first.
+16 distinct developments, newest first.
+
+- [Tether says Iran\-linked USDT freezes reached $550 million as Senate scrutiny grows](https://yielddispatch.com/news/fde1962d-2979-428a-bbe8-328293d5ada6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fde1962d-2979-428a-bbe8-328293d5ada6) | 29 Sept 2026 | Yield Dispatch
+
+  The issuer detailed two major 2026 freeze actions, while a Senate minority report said USDT dominated the Iran\-linked wallet set it examined and asked Treasury to investigate compliance\.
 
 - [API3 DAO executes 30% staking target as current APR moves to 74%](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | 25 Sept 2026 | Yield Dispatch
 
