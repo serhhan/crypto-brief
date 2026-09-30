@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [SEC sues over alleged $15 million WhatsApp crypto investment scams](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | 30 Sept 2026 | Chain Incident
+
+  Two civil complaints allege fake trading platforms, withdrawal fees and false claims of SEC oversight\.
 
 - [Bitget attacker moves $83 million in XRP as recovery limits come into focus](https://chainincident.com/news/c5fc05a5-254b-45ee-8fad-d581971b5baf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c5fc05a5-254b-45ee-8fad-d581971b5baf) | 28 Sept 2026 | Chain Incident
 

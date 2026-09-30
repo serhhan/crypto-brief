@@ -6,6 +6,14 @@ Updated 30 Sept 2026.
 
 [Dated edition](archive/2026-09-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## SEC sues over alleged $15 million WhatsApp crypto investment scams
+
+Two civil complaints allege fake trading platforms, withdrawal fees and false claims of SEC oversight\.
+
+[Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | Published 30 Sept 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-cryptoaiml.pdf) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-tsai.pdf)
+
 ## Lynq adds Goldman Sachs Treasury fund access through tZERO
 
 Qualified U\.S\. participants gain access to FTIXX through the settlement network while the fund retains its conventional form\.
@@ -37,11 +45,3 @@ The amended SEC filing describes a plan to stake at least 90% of the trust asset
 [Chain Minute](https://chainminute.com/news/ad29b906-20ce-4bfe-9aab-6eafcc60e737?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad29b906-20ce-4bfe-9aab-6eafcc60e737) | Published 28 Sept 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/ad29b906-20ce-4bfe-9aab-6eafcc60e737?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad29b906-20ce-4bfe-9aab-6eafcc60e737) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/canary-s1a_092426.htm)
-
-## Bitget attacker moves $83 million in XRP as recovery limits come into focus
-
-About 54 million XRP left the original attacker wallets after Bitget&#39;s September 24 breach, while the exchange revised its loss estimate and continued recovery work\.
-
-[Chain Incident](https://chainincident.com/news/c5fc05a5-254b-45ee-8fad-d581971b5baf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c5fc05a5-254b-45ee-8fad-d581971b5baf) | Published 28 Sept 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/c5fc05a5-254b-45ee-8fad-d581971b5baf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c5fc05a5-254b-45ee-8fad-d581971b5baf) | [www\.bitget\.com](https://www.bitget.com/support/articles/12560603896108) | [www\.coindesk\.com](https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze)
