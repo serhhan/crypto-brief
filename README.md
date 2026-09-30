@@ -6,6 +6,14 @@ Updated 30 Sept 2026.
 
 [Dated edition](archive/2026-09-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Lynq adds Goldman Sachs Treasury fund access through tZERO
+
+Qualified U\.S\. participants gain access to FTIXX through the settlement network while the fund retains its conventional form\.
+
+[Yield Dispatch](https://yielddispatch.com/news/10a1c932-e02d-4070-bc0a-6165dcfaf5c3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=10a1c932-e02d-4070-bc0a-6165dcfaf5c3) | Published 30 Sept 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/10a1c932-e02d-4070-bc0a-6165dcfaf5c3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=10a1c932-e02d-4070-bc0a-6165dcfaf5c3) | [www\.thestreet\.com](https://www.thestreet.com/crypto/markets/goldman-sachs-moves-100b-treasury-fund-onto-digital-asset-rails) | [www\.tzero\.com](https://www.tzero.com/media/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing)
+
 ## Bitwise launches spot NEAR fund NRR on NYSE Arca with staking
 
 The U\.S\. exchange\-traded product holds NEAR directly, charges a 0\.75% management fee and is designed to add staking rewards to its net asset value\.
@@ -13,14 +21,6 @@ The U\.S\. exchange\-traded product holds NEAR directly, charges a 0\.75% manage
 [Chain Minute](https://chainminute.com/news/1515cb0a-12b0-4618-8a53-1bcf67206896?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1515cb0a-12b0-4618-8a53-1bcf67206896) | Published 29 Sept 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/1515cb0a-12b0-4618-8a53-1bcf67206896?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1515cb0a-12b0-4618-8a53-1bcf67206896) | [bitwiseinvestments\.com](https://bitwiseinvestments.com/newsroom/the-bitwise-near-etf-nrr-launches-as-first-spot-near-etp-in-the-us) | [cointelegraph\.com](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-token-surge)
-
-## Tether says Iran\-linked USDT freezes reached $550 million as Senate scrutiny grows
-
-The issuer detailed two major 2026 freeze actions, while a Senate minority report said USDT dominated the Iran\-linked wallet set it examined and asked Treasury to investigate compliance\.
-
-[Yield Dispatch](https://yielddispatch.com/news/fde1962d-2979-428a-bbe8-328293d5ada6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fde1962d-2979-428a-bbe8-328293d5ada6) | Published 29 Sept 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/fde1962d-2979-428a-bbe8-328293d5ada6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fde1962d-2979-428a-bbe8-328293d5ada6) | [cointelegraph\.com](https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year) | [tether\.io](https://tether.io/news/tether-has-supported-nearly-550-million-in-iran-linked-usdt-freezes-as-u-s-expands-sanctions-campaign/)
 
 ## Chainlink launches CCIP 2\.0 with issuer\-run verifiers and compliance controls
 
