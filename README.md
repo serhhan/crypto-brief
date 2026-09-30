@@ -6,6 +6,14 @@ Updated 30 Sept 2026.
 
 [Dated edition](archive/2026-09-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## AllUnity launches USDAU dollar stablecoin across six networks
+
+The European issuer adds dollar settlement and currency conversion to its business platform, with institutional onboarding required for direct minting\.
+
+[Yield Dispatch](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | Published 30 Sept 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | [allunity\.com](https://allunity.com/news/allunity-launches-usdau-a-fully-reserved-micar-compliant-us-dollar-stablecoin-and-introduces-instant-fx-capabilities) | [allunity\.com](https://allunity.com/usdau)
+
 ## SEC sues over alleged $15 million WhatsApp crypto investment scams
 
 Two civil complaints allege fake trading platforms, withdrawal fees and false claims of SEC oversight\.
@@ -13,14 +21,6 @@ Two civil complaints allege fake trading platforms, withdrawal fees and false cl
 [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | Published 30 Sept 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-cryptoaiml.pdf) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-tsai.pdf)
-
-## Lynq adds Goldman Sachs Treasury fund access through tZERO
-
-Qualified U\.S\. participants gain access to FTIXX through the settlement network while the fund retains its conventional form\.
-
-[Yield Dispatch](https://yielddispatch.com/news/10a1c932-e02d-4070-bc0a-6165dcfaf5c3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=10a1c932-e02d-4070-bc0a-6165dcfaf5c3) | Published 30 Sept 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/10a1c932-e02d-4070-bc0a-6165dcfaf5c3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=10a1c932-e02d-4070-bc0a-6165dcfaf5c3) | [www\.thestreet\.com](https://www.thestreet.com/crypto/markets/goldman-sachs-moves-100b-treasury-fund-onto-digital-asset-rails) | [www\.tzero\.com](https://www.tzero.com/media/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing)
 
 ## Bitwise launches spot NEAR fund NRR on NYSE Arca with staking
 

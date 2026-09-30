@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-17 distinct developments, newest first.
+18 distinct developments, newest first.
+
+- [AllUnity launches USDAU dollar stablecoin across six networks](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | 30 Sept 2026 | Yield Dispatch
+
+  The European issuer adds dollar settlement and currency conversion to its business platform, with institutional onboarding required for direct minting\.
 
 - [Lynq adds Goldman Sachs Treasury fund access through tZERO](https://yielddispatch.com/news/10a1c932-e02d-4070-bc0a-6165dcfaf5c3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=10a1c932-e02d-4070-bc0a-6165dcfaf5c3) | 30 Sept 2026 | Yield Dispatch
 
