@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [What ESMA&#39;s proposed MiCA rules would change for DeFi gateways](https://tokenprimer.com/news/71830f7b-f10d-46f2-9817-91a8d2093bcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=71830f7b-f10d-46f2-9817-91a8d2093bcf) | 30 Sept 2026 | Token Primer
+
+  The regulator proposes obligations for intermediaries that connect clients to protocols, while distinguishing direct staking and self\-custody from regulated services\.
 
 - [Canary updates proposed staked INJ ETF with liquidity and validator risk details](https://chainminute.com/news/ad29b906-20ce-4bfe-9aab-6eafcc60e737?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad29b906-20ce-4bfe-9aab-6eafcc60e737) | 28 Sept 2026 | Chain Minute
 

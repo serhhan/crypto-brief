@@ -6,6 +6,14 @@ Updated 30 Sept 2026.
 
 [Dated edition](archive/2026-09-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## What ESMA&#39;s proposed MiCA rules would change for DeFi gateways
+
+The regulator proposes obligations for intermediaries that connect clients to protocols, while distinguishing direct staking and self\-custody from regulated services\.
+
+[Token Primer](https://tokenprimer.com/news/71830f7b-f10d-46f2-9817-91a8d2093bcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=71830f7b-f10d-46f2-9817-91a8d2093bcf) | Published 30 Sept 2026
+
+Sources: [Token Primer](https://tokenprimer.com/news/71830f7b-f10d-46f2-9817-91a8d2093bcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=71830f7b-f10d-46f2-9817-91a8d2093bcf) | [finance\.ec\.europa\.eu](https://finance.ec.europa.eu/regulation-and-supervision/consultations-0/targeted-consultation-review-mica-regulation_en) | [www\.esma\.europa\.eu](https://www.esma.europa.eu/press-news/esma-news/esma-calls-changes-make-mica-clearer-safer-and-ready-emerging-services)
+
 ## AllUnity launches USDAU dollar stablecoin across six networks
 
 The European issuer adds dollar settlement and currency conversion to its business platform, with institutional onboarding required for direct minting\.
@@ -37,11 +45,3 @@ The live release adds optional Cross\-Chain Verifiers, configurable settlement s
 [Fork Brief](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | Published 28 Sept 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | [docs\.chain\.link](https://docs.chain.link/ccip) | [unchainedcrypto\.com](https://unchainedcrypto.com/chainlink-upgrade-gives-institutions-their-own-sign-off-on-cross-chain-token-transfers/)
-
-## Canary updates proposed staked INJ ETF with liquidity and validator risk details
-
-The amended SEC filing describes a plan to stake at least 90% of the trust assets under normal conditions while documenting unbonding, custody and governance risks\.
-
-[Chain Minute](https://chainminute.com/news/ad29b906-20ce-4bfe-9aab-6eafcc60e737?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad29b906-20ce-4bfe-9aab-6eafcc60e737) | Published 28 Sept 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/ad29b906-20ce-4bfe-9aab-6eafcc60e737?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad29b906-20ce-4bfe-9aab-6eafcc60e737) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/canary-s1a_092426.htm)
