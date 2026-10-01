@@ -6,6 +6,14 @@ Updated 1 Oct 2026.
 
 [Dated edition](archive/2026-10-01.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Fundsz promoters face $31\.48 million restitution and penalty order
+
+A Florida default judgment closes remaining CFTC claims in the older fraud case, without establishing that investors have been repaid\.
+
+[Chain Incident](https://chainincident.com/news/b99a7347-0eb1-4de8-bb80-4372ac76835b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b99a7347-0eb1-4de8-bb80-4372ac76835b) | Published 1 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/b99a7347-0eb1-4de8-bb80-4372ac76835b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b99a7347-0eb1-4de8-bb80-4372ac76835b) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/8766-23) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9305-26)
+
 ## DogeOS public testnet\: what Dogecoin app builders can test now
 
 The new EVM\-compatible environment opens development access, while application availability and a mainnet launch remain separate milestones\.
@@ -37,11 +45,3 @@ The European issuer adds dollar settlement and currency conversion to its busine
 [Yield Dispatch](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | Published 30 Sept 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | [allunity\.com](https://allunity.com/news/allunity-launches-usdau-a-fully-reserved-micar-compliant-us-dollar-stablecoin-and-introduces-instant-fx-capabilities) | [allunity\.com](https://allunity.com/usdau)
-
-## SEC sues over alleged $15 million WhatsApp crypto investment scams
-
-Two civil complaints allege fake trading platforms, withdrawal fees and false claims of SEC oversight\.
-
-[Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | Published 30 Sept 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-cryptoaiml.pdf) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-tsai.pdf)

@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [Fundsz promoters face $31\.48 million restitution and penalty order](https://chainincident.com/news/b99a7347-0eb1-4de8-bb80-4372ac76835b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b99a7347-0eb1-4de8-bb80-4372ac76835b) | 1 Oct 2026 | Chain Incident
+
+  A Florida default judgment closes remaining CFTC claims in the older fraud case, without establishing that investors have been repaid\.
 
 - [SEC sues over alleged $15 million WhatsApp crypto investment scams](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | 30 Sept 2026 | Chain Incident
 
