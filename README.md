@@ -6,6 +6,14 @@ Updated 1 Oct 2026.
 
 [Dated edition](archive/2026-10-01.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bloomberg adds hourly stablecoin analytics to its Terminal
+
+The Allium\-powered RWAS dashboard tracks supply and network activity, with hourly observations and daily historical updates\.
+
+[Chain Minute](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | Published 1 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | [fxnewsgroup\.com](https://fxnewsgroup.com/forex-news/institutional/bloomberg-adds-stablecoin-dashboard-to-bloomberg-terminal-powered-by-data-from-allium/) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/bloomberg-launches-stablecoin-dashboard-on-the-terminal-powered-by-data-from-allium-302894359.html)
+
 ## What ESMA&#39;s proposed MiCA rules would change for DeFi gateways
 
 The regulator proposes obligations for intermediaries that connect clients to protocols, while distinguishing direct staking and self\-custody from regulated services\.
@@ -29,14 +37,6 @@ Two civil complaints allege fake trading platforms, withdrawal fees and false cl
 [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | Published 30 Sept 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-cryptoaiml.pdf) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-tsai.pdf)
-
-## Bitwise launches spot NEAR fund NRR on NYSE Arca with staking
-
-The U\.S\. exchange\-traded product holds NEAR directly, charges a 0\.75% management fee and is designed to add staking rewards to its net asset value\.
-
-[Chain Minute](https://chainminute.com/news/1515cb0a-12b0-4618-8a53-1bcf67206896?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1515cb0a-12b0-4618-8a53-1bcf67206896) | Published 29 Sept 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/1515cb0a-12b0-4618-8a53-1bcf67206896?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1515cb0a-12b0-4618-8a53-1bcf67206896) | [bitwiseinvestments\.com](https://bitwiseinvestments.com/newsroom/the-bitwise-near-etf-nrr-launches-as-first-spot-near-etp-in-the-us) | [cointelegraph\.com](https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-token-surge)
 
 ## Chainlink launches CCIP 2\.0 with issuer\-run verifiers and compliance controls
 

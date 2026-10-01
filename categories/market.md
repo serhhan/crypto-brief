@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [Bloomberg adds hourly stablecoin analytics to its Terminal](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | 1 Oct 2026 | Chain Minute
+
+  The Allium\-powered RWAS dashboard tracks supply and network activity, with hourly observations and daily historical updates\.
 
 - [Bitwise launches spot NEAR fund NRR on NYSE Arca with staking](https://chainminute.com/news/1515cb0a-12b0-4618-8a53-1bcf67206896?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1515cb0a-12b0-4618-8a53-1bcf67206896) | 29 Sept 2026 | Chain Minute
 
