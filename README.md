@@ -6,6 +6,14 @@ Updated 1 Oct 2026.
 
 [Dated edition](archive/2026-10-01.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## DogeOS public testnet\: what Dogecoin app builders can test now
+
+The new EVM\-compatible environment opens development access, while application availability and a mainnet launch remain separate milestones\.
+
+[Token Primer](https://tokenprimer.com/news/46c2df22-d4d8-41d2-be35-6ff4e92d04d5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46c2df22-d4d8-41d2-be35-6ff4e92d04d5) | Published 1 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/46c2df22-d4d8-41d2-be35-6ff4e92d04d5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46c2df22-d4d8-41d2-be35-6ff4e92d04d5) | [decrypt\.co](https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet) | [www\.globenewswire\.com](https://www.globenewswire.com/news-release/2026/09/30/3372073/0/en/dogeos-opens-public-testnet-as-builders-bring-new-apps-to-dogecoin.html)
+
 ## Bloomberg adds hourly stablecoin analytics to its Terminal
 
 The Allium\-powered RWAS dashboard tracks supply and network activity, with hourly observations and daily historical updates\.
@@ -37,11 +45,3 @@ Two civil complaints allege fake trading platforms, withdrawal fees and false cl
 [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | Published 30 Sept 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/39be3c2b-a4b7-49cc-93ee-54d69abec877?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=39be3c2b-a4b7-49cc-93ee-54d69abec877) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-cryptoaiml.pdf) | [www\.sec\.gov](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-95-tsai.pdf)
-
-## Chainlink launches CCIP 2\.0 with issuer\-run verifiers and compliance controls
-
-The live release adds optional Cross\-Chain Verifiers, configurable settlement speed and execution, modular fees and policy checks while keeping the existing Router interface\.
-
-[Fork Brief](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | Published 28 Sept 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | [docs\.chain\.link](https://docs.chain.link/ccip) | [unchainedcrypto\.com](https://unchainedcrypto.com/chainlink-upgrade-gives-institutions-their-own-sign-off-on-cross-chain-token-transfers/)

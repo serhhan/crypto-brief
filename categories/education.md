@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [DogeOS public testnet\: what Dogecoin app builders can test now](https://tokenprimer.com/news/46c2df22-d4d8-41d2-be35-6ff4e92d04d5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46c2df22-d4d8-41d2-be35-6ff4e92d04d5) | 1 Oct 2026 | Token Primer
+
+  The new EVM\-compatible environment opens development access, while application availability and a mainnet launch remain separate milestones\.
 
 - [What the Federal Reserve stablecoin proposals would require](https://tokenprimer.com/news/57543fa9-5adf-4568-99fc-80a4af7dda00?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57543fa9-5adf-4568-99fc-80a4af7dda00) | 25 Sept 2026 | Token Primer
 
