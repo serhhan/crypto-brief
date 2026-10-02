@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [Blast announces shutdown and October 26 withdrawal interface cutoff](https://chainincident.com/news/9ec4fbcf-2193-4411-8d4e-a51bbfed8468?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ec4fbcf-2193-4411-8d4e-a51bbfed8468) | 2 Oct 2026 | Chain Incident
+
+  The Ethereum layer\-2 will wind down, with withdrawals moving to direct bridge\-contract access after the normal interface closes\.
 
 - [Fundsz promoters face $31\.48 million restitution and penalty order](https://chainincident.com/news/b99a7347-0eb1-4de8-bb80-4372ac76835b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b99a7347-0eb1-4de8-bb80-4372ac76835b) | 1 Oct 2026 | Chain Incident
 

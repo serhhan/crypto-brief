@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [Blast announces shutdown and October 26 withdrawal interface cutoff](https://chainincident.com/news/9ec4fbcf-2193-4411-8d4e-a51bbfed8468?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ec4fbcf-2193-4411-8d4e-a51bbfed8468) | 2 Oct 2026 | Chain Incident
+
+  The Ethereum layer\-2 will wind down, with withdrawals moving to direct bridge\-contract access after the normal interface closes\.
 
 - [AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | 2 Oct 2026 | Yield Dispatch
 
