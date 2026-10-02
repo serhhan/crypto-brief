@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [SEC proposes conditional crypto custody options for advisers and funds](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | 2 Oct 2026 | Chain Minute
+
+  The October1 proposal would expand custody choices, with conditions and a public comment process before final rules\.
 
 - [What ESMA&#39;s proposed MiCA rules would change for DeFi gateways](https://tokenprimer.com/news/71830f7b-f10d-46f2-9817-91a8d2093bcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=71830f7b-f10d-46f2-9817-91a8d2093bcf) | 30 Sept 2026 | Token Primer
 

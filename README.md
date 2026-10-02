@@ -6,6 +6,14 @@ Updated 2 Oct 2026.
 
 [Dated edition](archive/2026-10-02.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## SEC proposes conditional crypto custody options for advisers and funds
+
+The October1 proposal would expand custody choices, with conditions and a public comment process before final rules\.
+
+[Chain Minute](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | Published 2 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | [www\.sec\.gov](https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal) | [www\.sec\.gov](https://www.sec.gov/newsroom/speeches-statements/peirce-statement-proposed-amendments-custody-rules-100126)
+
 ## BitMart&#39;s proposed recovery tokens are not immediate repayments
 
 The initial restructuring proposal separates available\-asset distributions from claims on future recoveries, with court approval still ahead\.
@@ -29,14 +37,6 @@ The Allium\-powered RWAS dashboard tracks supply and network activity, with hour
 [Chain Minute](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | Published 1 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | [fxnewsgroup\.com](https://fxnewsgroup.com/forex-news/institutional/bloomberg-adds-stablecoin-dashboard-to-bloomberg-terminal-powered-by-data-from-allium/) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/bloomberg-launches-stablecoin-dashboard-on-the-terminal-powered-by-data-from-allium-302894359.html)
-
-## What ESMA&#39;s proposed MiCA rules would change for DeFi gateways
-
-The regulator proposes obligations for intermediaries that connect clients to protocols, while distinguishing direct staking and self\-custody from regulated services\.
-
-[Token Primer](https://tokenprimer.com/news/71830f7b-f10d-46f2-9817-91a8d2093bcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=71830f7b-f10d-46f2-9817-91a8d2093bcf) | Published 30 Sept 2026
-
-Sources: [Token Primer](https://tokenprimer.com/news/71830f7b-f10d-46f2-9817-91a8d2093bcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=71830f7b-f10d-46f2-9817-91a8d2093bcf) | [finance\.ec\.europa\.eu](https://finance.ec.europa.eu/regulation-and-supervision/consultations-0/targeted-consultation-review-mica-regulation_en) | [www\.esma\.europa\.eu](https://www.esma.europa.eu/press-news/esma-news/esma-calls-changes-make-mica-clearer-safer-and-ready-emerging-services)
 
 ## AllUnity launches USDAU dollar stablecoin across six networks
 
