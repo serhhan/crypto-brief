@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [BitMart&#39;s proposed recovery tokens are not immediate repayments](https://tokenprimer.com/news/2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d) | 2 Oct 2026 | Token Primer
+
+  The initial restructuring proposal separates available\-asset distributions from claims on future recoveries, with court approval still ahead\.
 
 - [DogeOS public testnet\: what Dogecoin app builders can test now](https://tokenprimer.com/news/46c2df22-d4d8-41d2-be35-6ff4e92d04d5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46c2df22-d4d8-41d2-be35-6ff4e92d04d5) | 1 Oct 2026 | Token Primer
 

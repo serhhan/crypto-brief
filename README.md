@@ -6,6 +6,14 @@ Updated 2 Oct 2026.
 
 [Dated edition](archive/2026-10-02.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## BitMart&#39;s proposed recovery tokens are not immediate repayments
+
+The initial restructuring proposal separates available\-asset distributions from claims on future recoveries, with court approval still ahead\.
+
+[Token Primer](https://tokenprimer.com/news/2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d) | Published 2 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d) | [bitmart\.zendesk\.com](https://bitmart.zendesk.com/hc/en-us/articles/54725718597531-Update-Regarding-BitMart-s-Potential-Restructuring-and-Business-Resumption-Plan) | [bitmart\.zendesk\.com](https://bitmart.zendesk.com/hc/en-us/articles/56571281537051-Announcement-on-BitMart-s-Initial-Indicative-Proposal-and-Roadmap)
+
 ## Fundsz promoters face $31\.48 million restitution and penalty order
 
 A Florida default judgment closes remaining CFTC claims in the older fraud case, without establishing that investors have been repaid\.
@@ -13,14 +21,6 @@ A Florida default judgment closes remaining CFTC claims in the older fraud case,
 [Chain Incident](https://chainincident.com/news/b99a7347-0eb1-4de8-bb80-4372ac76835b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b99a7347-0eb1-4de8-bb80-4372ac76835b) | Published 1 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/b99a7347-0eb1-4de8-bb80-4372ac76835b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b99a7347-0eb1-4de8-bb80-4372ac76835b) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/8766-23) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9305-26)
-
-## DogeOS public testnet\: what Dogecoin app builders can test now
-
-The new EVM\-compatible environment opens development access, while application availability and a mainnet launch remain separate milestones\.
-
-[Token Primer](https://tokenprimer.com/news/46c2df22-d4d8-41d2-be35-6ff4e92d04d5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46c2df22-d4d8-41d2-be35-6ff4e92d04d5) | Published 1 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/46c2df22-d4d8-41d2-be35-6ff4e92d04d5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46c2df22-d4d8-41d2-be35-6ff4e92d04d5) | [decrypt\.co](https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet) | [www\.globenewswire\.com](https://www.globenewswire.com/news-release/2026/09/30/3372073/0/en/dogeos-opens-public-testnet-as-builders-bring-new-apps-to-dogecoin.html)
 
 ## Bloomberg adds hourly stablecoin analytics to its Terminal
 
