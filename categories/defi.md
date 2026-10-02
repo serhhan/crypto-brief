@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | 2 Oct 2026 | Yield Dispatch
+
+  A live Ethereum USDC query shows how the signed\-response listing can support vault research, with clear limits on attribution and investment conclusions\.
 
 - [AllUnity launches USDAU dollar stablecoin across six networks](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | 30 Sept 2026 | Yield Dispatch
 

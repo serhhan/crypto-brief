@@ -6,6 +6,14 @@ Updated 2 Oct 2026.
 
 [Dated edition](archive/2026-10-02.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface
+
+A live Ethereum USDC query shows how the signed\-response listing can support vault research, with clear limits on attribution and investment conclusions\.
+
+[Yield Dispatch](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | Published 2 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | [airnode\-morpho\.fly\.dev](https://airnode-morpho.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
+
 ## SEC proposes conditional crypto custody options for advisers and funds
 
 The October1 proposal would expand custody choices, with conditions and a public comment process before final rules\.
@@ -37,11 +45,3 @@ The Allium\-powered RWAS dashboard tracks supply and network activity, with hour
 [Chain Minute](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | Published 1 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | [fxnewsgroup\.com](https://fxnewsgroup.com/forex-news/institutional/bloomberg-adds-stablecoin-dashboard-to-bloomberg-terminal-powered-by-data-from-allium/) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/bloomberg-launches-stablecoin-dashboard-on-the-terminal-powered-by-data-from-allium-302894359.html)
-
-## AllUnity launches USDAU dollar stablecoin across six networks
-
-The European issuer adds dollar settlement and currency conversion to its business platform, with institutional onboarding required for direct minting\.
-
-[Yield Dispatch](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | Published 30 Sept 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8bb7e3d7-cd20-47ab-bcb5-8cd00fa42d07) | [allunity\.com](https://allunity.com/news/allunity-launches-usdau-a-fully-reserved-micar-compliant-us-dollar-stablecoin-and-introduces-instant-fx-capabilities) | [allunity\.com](https://allunity.com/usdau)

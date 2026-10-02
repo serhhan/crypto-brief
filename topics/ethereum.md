@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-17 distinct developments, newest first.
+18 distinct developments, newest first.
+
+- [AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | 2 Oct 2026 | Yield Dispatch
+
+  A live Ethereum USDC query shows how the signed\-response listing can support vault research, with clear limits on attribution and investment conclusions\.
 
 - [Ethereum Quick Slots draft receives a consensus\-layer specification](https://forkbrief.com/news/dc092304-9c70-4abf-a631-900895b2392e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc092304-9c70-4abf-a631-900895b2392e) | 25 Sept 2026 | Fork Brief
 
