@@ -6,13 +6,13 @@ Updated 3 Oct 2026.
 
 [Dated edition](archive/2026-10-03.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Blast announces shutdown and October 26 withdrawal interface cutoff
+## SlowMist reports 114 ETH loss through a third\-party Safe loop module
 
-The Ethereum layer\-2 will wind down, with withdrawals moving to direct bridge\-contract access after the normal interface closes\.
+The reported authorization flaw affects an adapter enabled by two Safe wallets, rather than Aave’s core lending pools\.
 
-[Chain Incident](https://chainincident.com/news/9ec4fbcf-2193-4411-8d4e-a51bbfed8468?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ec4fbcf-2193-4411-8d4e-a51bbfed8468) | Published 2 Oct 2026
+[Chain Incident](https://chainincident.com/news/84cfc377-e1d8-4eaa-af4a-63d0b47c0b05?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=84cfc377-e1d8-4eaa-af4a-63d0b47c0b05) | Published 3 Oct 2026
 
-Sources: [Chain Incident](https://chainincident.com/news/9ec4fbcf-2193-4411-8d4e-a51bbfed8468?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ec4fbcf-2193-4411-8d4e-a51bbfed8468) | [www\.coindesk\.com](https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98) | [x\.com](https://x.com/blast/status/2106032805280891073)
+Sources: [Chain Incident](https://chainincident.com/news/84cfc377-e1d8-4eaa-af4a-63d0b47c0b05?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=84cfc377-e1d8-4eaa-af4a-63d0b47c0b05) | [docs\.safe\.global](https://docs.safe.global/advanced/smart-account-modules) | [www\.cryptotimes\.io](https://www.cryptotimes.io/2026/10/02/aave-v3-loop-module-hacked-for-114-eth-aaves-pools-not-affected/)
 
 ## AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface
 

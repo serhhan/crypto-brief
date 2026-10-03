@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-15 distinct developments, newest first.
+16 distinct developments, newest first.
+
+- [SlowMist reports 114 ETH loss through a third\-party Safe loop module](https://chainincident.com/news/84cfc377-e1d8-4eaa-af4a-63d0b47c0b05?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=84cfc377-e1d8-4eaa-af4a-63d0b47c0b05) | 3 Oct 2026 | Chain Incident
+
+  The reported authorization flaw affects an adapter enabled by two Safe wallets, rather than Aave’s core lending pools\.
 
 - [Blast announces shutdown and October 26 withdrawal interface cutoff](https://chainincident.com/news/9ec4fbcf-2193-4411-8d4e-a51bbfed8468?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ec4fbcf-2193-4411-8d4e-a51bbfed8468) | 2 Oct 2026 | Chain Incident
 
