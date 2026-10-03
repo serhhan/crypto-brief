@@ -6,13 +6,13 @@ Updated 3 Oct 2026.
 
 [Dated edition](archive/2026-10-03.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## SlowMist reports 114 ETH loss through a third\-party Safe loop module
+## NEAR Intents manager says $3\.8 million exploit funds were returned in full
 
-The reported authorization flaw affects an adapter enabled by two Safe wallets, rather than Aave’s core lending pools\.
+The October 2 statement announces recovery, while a complete public reconciliation and technical postmortem remain separate questions\.
 
-[Chain Incident](https://chainincident.com/news/84cfc377-e1d8-4eaa-af4a-63d0b47c0b05?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=84cfc377-e1d8-4eaa-af4a-63d0b47c0b05) | Published 3 Oct 2026
+[Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | Published 3 Oct 2026
 
-Sources: [Chain Incident](https://chainincident.com/news/84cfc377-e1d8-4eaa-af4a-63d0b47c0b05?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=84cfc377-e1d8-4eaa-af4a-63d0b47c0b05) | [docs\.safe\.global](https://docs.safe.global/advanced/smart-account-modules) | [www\.cryptotimes\.io](https://www.cryptotimes.io/2026/10/02/aave-v3-loop-module-hacked-for-114-eth-aaves-pools-not-affected/)
+Sources: [Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | [crypto\.news](https://crypto.news/near-intents-resumes-service-after-3-8m-exploit/) | [itokenly\.com](https://itokenly.com/hacks/near-intents-omni-october-2026)
 
 ## AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface
 

@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-16 distinct developments, newest first.
+17 distinct developments, newest first.
+
+- [NEAR Intents manager says $3\.8 million exploit funds were returned in full](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | 3 Oct 2026 | Chain Incident
+
+  The October 2 statement announces recovery, while a complete public reconciliation and technical postmortem remain separate questions\.
 
 - [SlowMist reports 114 ETH loss through a third\-party Safe loop module](https://chainincident.com/news/84cfc377-e1d8-4eaa-af4a-63d0b47c0b05?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=84cfc377-e1d8-4eaa-af4a-63d0b47c0b05) | 3 Oct 2026 | Chain Incident
 
