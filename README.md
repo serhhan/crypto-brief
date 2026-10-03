@@ -6,6 +6,14 @@ Updated 3 Oct 2026.
 
 [Dated edition](archive/2026-10-03.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## SEC clears 3x Bitcoin and Ether listings\: what the daily target means
+
+The October 2 exchange rule approval covers daily leveraged products, whose longer\-term returns can diverge sharply from a simple three\-times calculation\.
+
+[Token Primer](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | Published 3 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | [coinness\.com](https://coinness.com/en/news/1170661) | [www\.investor\.gov](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec)
+
 ## NEAR Intents manager says $3\.8 million exploit funds were returned in full
 
 The October 2 statement announces recovery, while a complete public reconciliation and technical postmortem remain separate questions\.
@@ -29,14 +37,6 @@ The October1 proposal would expand custody choices, with conditions and a public
 [Chain Minute](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | Published 2 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | [www\.sec\.gov](https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal) | [www\.sec\.gov](https://www.sec.gov/newsroom/speeches-statements/peirce-statement-proposed-amendments-custody-rules-100126)
-
-## BitMart&#39;s proposed recovery tokens are not immediate repayments
-
-The initial restructuring proposal separates available\-asset distributions from claims on future recoveries, with court approval still ahead\.
-
-[Token Primer](https://tokenprimer.com/news/2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d) | Published 2 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d) | [bitmart\.zendesk\.com](https://bitmart.zendesk.com/hc/en-us/articles/54725718597531-Update-Regarding-BitMart-s-Potential-Restructuring-and-Business-Resumption-Plan) | [bitmart\.zendesk\.com](https://bitmart.zendesk.com/hc/en-us/articles/56571281537051-Announcement-on-BitMart-s-Initial-Indicative-Proposal-and-Roadmap)
 
 ## Bloomberg adds hourly stablecoin analytics to its Terminal
 

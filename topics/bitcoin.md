@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [SEC clears 3x Bitcoin and Ether listings\: what the daily target means](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | 3 Oct 2026 | Token Primer
+
+  The October 2 exchange rule approval covers daily leveraged products, whose longer\-term returns can diverge sharply from a simple three\-times calculation\.
 
 - [US spot bitcoin ETFs extend six\-day inflow streak beyond $2\.8 billion](https://chainminute.com/news/c04946de-dc22-4a6f-abd9-51b3946389a9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c04946de-dc22-4a6f-abd9-51b3946389a9) | 25 Sept 2026 | Chain Minute
 

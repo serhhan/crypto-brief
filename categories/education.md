@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [SEC clears 3x Bitcoin and Ether listings\: what the daily target means](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | 3 Oct 2026 | Token Primer
+
+  The October 2 exchange rule approval covers daily leveraged products, whose longer\-term returns can diverge sharply from a simple three\-times calculation\.
 
 - [BitMart&#39;s proposed recovery tokens are not immediate repayments](https://tokenprimer.com/news/2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f333d51-c3ac-4bc7-bcd2-6cb5206c1f7d) | 2 Oct 2026 | Token Primer
 
