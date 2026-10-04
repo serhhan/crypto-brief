@@ -6,6 +6,14 @@ Updated 4 Oct 2026.
 
 [Dated edition](archive/2026-10-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Drift opens DFX recovery claims with launch redemptions near 1% of losses
+
+One DFX per USDT lost measures the claim allocation, while available payouts depend on the recovery pool and redemption burns future participation for those tokens\.
+
+[Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | Published 4 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | [dfx\.drift\.trade](https://dfx.drift.trade/) | [www\.drift\.trade](https://www.drift.trade/updates/dfx-claim-and-redemptions)
+
 ## AirnodeHub test cuts a signed market response from 1,244 to 352 bytes
 
 An October 4 live comparison shows how selecting two fields reduces response size while preserving request binding, with clear limits on what the signature proves\.
@@ -37,11 +45,3 @@ An October 2 SEC notice covers crypto\-backed trust options and IBIT contract li
 [Chain Minute](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | Published 4 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | [www\.iex\.io](https://www.iex.io/options/resources) | [www\.sec\.gov](https://www.sec.gov/files/rules/sro/iex/2026/34-106575.pdf)
-
-## NEAR Intents manager says $3\.8 million exploit funds were returned in full
-
-The October 2 statement announces recovery, while a complete public reconciliation and technical postmortem remain separate questions\.
-
-[Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | Published 3 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | [crypto\.news](https://crypto.news/near-intents-resumes-service-after-3-8m-exploit/) | [itokenly\.com](https://itokenly.com/hacks/near-intents-omni-october-2026)

@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-17 distinct developments, newest first.
+18 distinct developments, newest first.
+
+- [Drift opens DFX recovery claims with launch redemptions near 1% of losses](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | 4 Oct 2026 | Chain Incident
+
+  One DFX per USDT lost measures the claim allocation, while available payouts depend on the recovery pool and redemption burns future participation for those tokens\.
 
 - [NEAR Intents manager says $3\.8 million exploit funds were returned in full](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | 3 Oct 2026 | Chain Incident
 
