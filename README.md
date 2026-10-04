@@ -6,6 +6,14 @@ Updated 4 Oct 2026.
 
 [Dated edition](archive/2026-10-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Aave Labs proposes independent foundation for protocol brand and IP
+
+Phase 1 would establish a legal entity and independent officers, while asset transfers require later governance decisions\.
+
+[Yield Dispatch](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | Published 4 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | [governance\.aave\.com](https://governance.aave.com/t/arfc-the-aave-foundation-phase-1/25756) | [www\.tokenpost\.com](https://www.tokenpost.com/news/technology/26575)
+
 ## IEX sets crypto trust options criteria ahead of its symbol rollout
 
 An October 2 SEC notice covers crypto\-backed trust options and IBIT contract limits, while individual contract availability remains a separate check\.
@@ -29,14 +37,6 @@ The October 2 statement announces recovery, while a complete public reconciliati
 [Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | Published 3 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | [crypto\.news](https://crypto.news/near-intents-resumes-service-after-3-8m-exploit/) | [itokenly\.com](https://itokenly.com/hacks/near-intents-omni-october-2026)
-
-## AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface
-
-A live Ethereum USDC query shows how the signed\-response listing can support vault research, with clear limits on attribution and investment conclusions\.
-
-[Yield Dispatch](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | Published 2 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | [airnode\-morpho\.fly\.dev](https://airnode-morpho.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
 
 ## SEC proposes conditional crypto custody options for advisers and funds
 

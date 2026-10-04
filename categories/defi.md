@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-19 distinct developments, newest first.
+20 distinct developments, newest first.
+
+- [Aave Labs proposes independent foundation for protocol brand and IP](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | 4 Oct 2026 | Yield Dispatch
+
+  Phase 1 would establish a legal entity and independent officers, while asset transfers require later governance decisions\.
 
 - [AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | 2 Oct 2026 | Yield Dispatch
 
