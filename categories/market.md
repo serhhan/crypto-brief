@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [IEX sets crypto trust options criteria ahead of its symbol rollout](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | 4 Oct 2026 | Chain Minute
+
+  An October 2 SEC notice covers crypto\-backed trust options and IBIT contract limits, while individual contract availability remains a separate check\.
 
 - [Bloomberg adds hourly stablecoin analytics to its Terminal](https://chainminute.com/news/c4043081-9525-40ad-b6a9-d9d4e6b26233?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4043081-9525-40ad-b6a9-d9d4e6b26233) | 1 Oct 2026 | Chain Minute
 
