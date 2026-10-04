@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [AirnodeHub test cuts a signed market response from 1,244 to 352 bytes](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | 4 Oct 2026 | Token Primer
+
+  An October 4 live comparison shows how selecting two fields reduces response size while preserving request binding, with clear limits on what the signature proves\.
 
 - [SEC clears 3x Bitcoin and Ether listings\: what the daily target means](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | 3 Oct 2026 | Token Primer
 

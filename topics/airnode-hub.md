@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [AirnodeHub test cuts a signed market response from 1,244 to 352 bytes](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | 4 Oct 2026 | Token Primer
+
+  An October 4 live comparison shows how selecting two fields reduces response size while preserving request binding, with clear limits on what the signature proves\.
 
 - [AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | 2 Oct 2026 | Yield Dispatch
 

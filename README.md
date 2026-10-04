@@ -6,6 +6,14 @@ Updated 4 Oct 2026.
 
 [Dated edition](archive/2026-10-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## AirnodeHub test cuts a signed market response from 1,244 to 352 bytes
+
+An October 4 live comparison shows how selecting two fields reduces response size while preserving request binding, with clear limits on what the signature proves\.
+
+[Token Primer](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | Published 4 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation)
+
 ## IMF clears $138 million for El Salvador as Bitcoin conditions remain
 
 The October 1 Board decision completes two financing reviews, while documented donations remain the stated exception to further Bitcoin accumulation\.
@@ -29,14 +37,6 @@ An October 2 SEC notice covers crypto\-backed trust options and IBIT contract li
 [Chain Minute](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | Published 4 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | [www\.iex\.io](https://www.iex.io/options/resources) | [www\.sec\.gov](https://www.sec.gov/files/rules/sro/iex/2026/34-106575.pdf)
-
-## SEC clears 3x Bitcoin and Ether listings\: what the daily target means
-
-The October 2 exchange rule approval covers daily leveraged products, whose longer\-term returns can diverge sharply from a simple three\-times calculation\.
-
-[Token Primer](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | Published 3 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | [coinness\.com](https://coinness.com/en/news/1170661) | [www\.investor\.gov](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec)
 
 ## NEAR Intents manager says $3\.8 million exploit funds were returned in full
 
