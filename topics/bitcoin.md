@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [IMF clears $138 million for El Salvador as Bitcoin conditions remain](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | 4 Oct 2026 | Chain Minute
+
+  The October 1 Board decision completes two financing reviews, while documented donations remain the stated exception to further Bitcoin accumulation\.
 
 - [SEC clears 3x Bitcoin and Ether listings\: what the daily target means](https://tokenprimer.com/news/9b8eb4dc-f877-4259-9146-1b27b0bdf8be?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9b8eb4dc-f877-4259-9146-1b27b0bdf8be) | 3 Oct 2026 | Token Primer
 

@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [IMF clears $138 million for El Salvador as Bitcoin conditions remain](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | 4 Oct 2026 | Chain Minute
+
+  The October 1 Board decision completes two financing reviews, while documented donations remain the stated exception to further Bitcoin accumulation\.
 
 - [SEC proposes conditional crypto custody options for advisers and funds](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | 2 Oct 2026 | Chain Minute
 

@@ -6,6 +6,14 @@ Updated 4 Oct 2026.
 
 [Dated edition](archive/2026-10-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## IMF clears $138 million for El Salvador as Bitcoin conditions remain
+
+The October 1 Board decision completes two financing reviews, while documented donations remain the stated exception to further Bitcoin accumulation\.
+
+[Chain Minute](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | Published 4 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | [cointelegraph\.com](https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted) | [www\.imf\.org](https://www.imf.org/en/news/articles/2026/09/03/pr26285-el-salvador-imf-reaches-sla-on-combined-2nd-and-3rd-rev-under-eff-arrangement)
+
 ## Aave Labs proposes independent foundation for protocol brand and IP
 
 Phase 1 would establish a legal entity and independent officers, while asset transfers require later governance decisions\.
@@ -37,11 +45,3 @@ The October 2 statement announces recovery, while a complete public reconciliati
 [Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | Published 3 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/7adf5fff-8d8f-4360-ab5d-cab623c6bc0d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7adf5fff-8d8f-4360-ab5d-cab623c6bc0d) | [crypto\.news](https://crypto.news/near-intents-resumes-service-after-3-8m-exploit/) | [itokenly\.com](https://itokenly.com/hacks/near-intents-omni-october-2026)
-
-## SEC proposes conditional crypto custody options for advisers and funds
-
-The October1 proposal would expand custody choices, with conditions and a public comment process before final rules\.
-
-[Chain Minute](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | Published 2 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/3710ab94-cdb7-4dd7-959c-758aceae55e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3710ab94-cdb7-4dd7-959c-758aceae55e4) | [www\.sec\.gov](https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal) | [www\.sec\.gov](https://www.sec.gov/newsroom/speeches-statements/peirce-statement-proposed-amendments-custody-rules-100126)
