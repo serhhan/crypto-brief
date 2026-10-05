@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-15 distinct developments, newest first.
+16 distinct developments, newest first.
+
+- [Coin Metrics rebuilds ETH flows\: why historical exchange charts can change](https://tokenprimer.com/news/fc644aa6-d516-405d-91f9-9a985883cbe9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fc644aa6-d516-405d-91f9-9a985883cbe9) | 5 Oct 2026 | Token Primer
+
+  An October 1 recalculation highlights the difference between revised historical exchange data and information available when a trading decision was made\.
 
 - [AirnodeHub test cuts a signed market response from 1,244 to 352 bytes](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | 4 Oct 2026 | Token Primer
 

@@ -6,6 +6,14 @@ Updated 5 Oct 2026.
 
 [Dated edition](archive/2026-10-05.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Coin Metrics rebuilds ETH flows\: why historical exchange charts can change
+
+An October 1 recalculation highlights the difference between revised historical exchange data and information available when a trading decision was made\.
+
+[Token Primer](https://tokenprimer.com/news/fc644aa6-d516-405d-91f9-9a985883cbe9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fc644aa6-d516-405d-91f9-9a985883cbe9) | Published 5 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/fc644aa6-d516-405d-91f9-9a985883cbe9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fc644aa6-d516-405d-91f9-9a985883cbe9) | [status\.coinmetrics\.io](https://status.coinmetrics.io/incidents/h0wwbbvzfhhn) | [userguide\.cryptoquant\.com](https://userguide.cryptoquant.com/api/eth-exchange-flows)
+
 ## Drift opens DFX recovery claims with launch redemptions near 1% of losses
 
 One DFX per USDT lost measures the claim allocation, while available payouts depend on the recovery pool and redemption burns future participation for those tokens\.
@@ -13,14 +21,6 @@ One DFX per USDT lost measures the claim allocation, while available payouts dep
 [Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | Published 4 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | [dfx\.drift\.trade](https://dfx.drift.trade/) | [www\.drift\.trade](https://www.drift.trade/updates/dfx-claim-and-redemptions)
-
-## AirnodeHub test cuts a signed market response from 1,244 to 352 bytes
-
-An October 4 live comparison shows how selecting two fields reduces response size while preserving request binding, with clear limits on what the signature proves\.
-
-[Token Primer](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | Published 4 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation)
 
 ## IMF clears $138 million for El Salvador as Bitcoin conditions remain
 

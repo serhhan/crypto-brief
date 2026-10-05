@@ -11,4 +11,4 @@ Linked pages contain at least three distinct developments.
 - [Technology](technology.md) | 19 distinct developments
 - [Security](security.md) | 18 distinct developments
 - [Regulation](regulation.md) | 6 distinct developments
-- [Guides and explainers](education.md) | 15 distinct developments
+- [Guides and explainers](education.md) | 16 distinct developments
