@@ -6,6 +6,14 @@ Updated 5 Oct 2026.
 
 [Dated edition](archive/2026-10-05.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Zcash activates NU7 on public testnet with 25\-second target blocks
+
+The October 4 testnet activation lets operators trial new consensus rules while the mainnet height remains unassigned\.
+
+[Fork Brief](https://forkbrief.com/news/28707624-aff6-4e4e-87d3-76f49481c680?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=28707624-aff6-4e4e-87d3-76f49481c680) | Published 5 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/28707624-aff6-4e4e-87d3-76f49481c680?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=28707624-aff6-4e4e-87d3-76f49481c680) | [cointelegraph\.com](https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet) | [forum\.zcashcommunity\.com](https://forum.zcashcommunity.com/t/zebra-7-0-0-rc-0-nu7-arrives-on-testnet/58006)
+
 ## Coin Metrics rebuilds ETH flows\: why historical exchange charts can change
 
 An October 1 recalculation highlights the difference between revised historical exchange data and information available when a trading decision was made\.
@@ -37,11 +45,3 @@ Phase 1 would establish a legal entity and independent officers, while asset tra
 [Yield Dispatch](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | Published 4 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | [governance\.aave\.com](https://governance.aave.com/t/arfc-the-aave-foundation-phase-1/25756) | [www\.tokenpost\.com](https://www.tokenpost.com/news/technology/26575)
-
-## IEX sets crypto trust options criteria ahead of its symbol rollout
-
-An October 2 SEC notice covers crypto\-backed trust options and IBIT contract limits, while individual contract availability remains a separate check\.
-
-[Chain Minute](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | Published 4 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | [www\.iex\.io](https://www.iex.io/options/resources) | [www\.sec\.gov](https://www.sec.gov/files/rules/sro/iex/2026/34-106575.pdf)

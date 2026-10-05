@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-19 distinct developments, newest first.
+20 distinct developments, newest first.
+
+- [Zcash activates NU7 on public testnet with 25\-second target blocks](https://forkbrief.com/news/28707624-aff6-4e4e-87d3-76f49481c680?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=28707624-aff6-4e4e-87d3-76f49481c680) | 5 Oct 2026 | Fork Brief
+
+  The October 4 testnet activation lets operators trial new consensus rules while the mainnet height remains unassigned\.
 
 - [Chainlink launches CCIP 2\.0 with issuer\-run verifiers and compliance controls](https://forkbrief.com/news/86ee781b-eb9b-47e4-8c52-89fa0e14e112?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=86ee781b-eb9b-47e4-8c52-89fa0e14e112) | 28 Sept 2026 | Fork Brief
 
