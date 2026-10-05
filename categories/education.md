@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-16 distinct developments, newest first.
+17 distinct developments, newest first.
+
+- [FinCEN withdraws wallet and mixing proposals\: what the decision changes](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | 5 Oct 2026 | Token Primer
+
+  The October 5 action ends two proposed rulemaking measures without announcing a general exemption from financial crime controls\.
 
 - [Coin Metrics rebuilds ETH flows\: why historical exchange charts can change](https://tokenprimer.com/news/fc644aa6-d516-405d-91f9-9a985883cbe9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fc644aa6-d516-405d-91f9-9a985883cbe9) | 5 Oct 2026 | Token Primer
 

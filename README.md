@@ -6,6 +6,14 @@ Updated 5 Oct 2026.
 
 [Dated edition](archive/2026-10-05.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## FinCEN withdraws wallet and mixing proposals\: what the decision changes
+
+The October 5 action ends two proposed rulemaking measures without announcing a general exemption from financial crime controls\.
+
+[Token Primer](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | Published 5 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
+
 ## Zcash activates NU7 on public testnet with 25\-second target blocks
 
 The October 4 testnet activation lets operators trial new consensus rules while the mainnet height remains unassigned\.
@@ -13,14 +21,6 @@ The October 4 testnet activation lets operators trial new consensus rules while 
 [Fork Brief](https://forkbrief.com/news/28707624-aff6-4e4e-87d3-76f49481c680?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=28707624-aff6-4e4e-87d3-76f49481c680) | Published 5 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/28707624-aff6-4e4e-87d3-76f49481c680?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=28707624-aff6-4e4e-87d3-76f49481c680) | [cointelegraph\.com](https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet) | [forum\.zcashcommunity\.com](https://forum.zcashcommunity.com/t/zebra-7-0-0-rc-0-nu7-arrives-on-testnet/58006)
-
-## Coin Metrics rebuilds ETH flows\: why historical exchange charts can change
-
-An October 1 recalculation highlights the difference between revised historical exchange data and information available when a trading decision was made\.
-
-[Token Primer](https://tokenprimer.com/news/fc644aa6-d516-405d-91f9-9a985883cbe9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fc644aa6-d516-405d-91f9-9a985883cbe9) | Published 5 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/fc644aa6-d516-405d-91f9-9a985883cbe9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fc644aa6-d516-405d-91f9-9a985883cbe9) | [status\.coinmetrics\.io](https://status.coinmetrics.io/incidents/h0wwbbvzfhhn) | [userguide\.cryptoquant\.com](https://userguide.cryptoquant.com/api/eth-exchange-flows)
 
 ## Drift opens DFX recovery claims with launch redemptions near 1% of losses
 
