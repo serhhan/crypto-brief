@@ -4,7 +4,11 @@ Aave lending markets, protocol updates and governance proposals.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [Aave Monad faces October 8 PT\-AUSD maturity as December collateral listing is proposed](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | 6 Oct 2026 | Yield Dispatch
+
+  LlamaRisk recorded 67\.4M October PT supplied on Aave, while the proposed December replacement has a smaller starting cap and pool\.
 
 - [Aave Labs proposes independent foundation for protocol brand and IP](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | 4 Oct 2026 | Yield Dispatch
 

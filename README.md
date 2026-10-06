@@ -6,6 +6,14 @@ Updated 6 Oct 2026.
 
 [Dated edition](archive/2026-10-06.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Aave Monad faces October 8 PT\-AUSD maturity as December collateral listing is proposed
+
+LlamaRisk recorded 67\.4M October PT supplied on Aave, while the proposed December replacement has a smaller starting cap and pool\.
+
+[Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | Published 6 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | [cryptoslate\.com](https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/) | [governance\.aave\.com](https://governance.aave.com/t/direct-to-aip-onboard-pt-ausd-17dec2026-to-aave-v3-monad-instance/25701/2)
+
 ## Prysm 7\.2\.1 adds 200M gas default ahead of Sepolia Glamsterdam test
 
 The October 5 release incorporates Sepolia’s fork gas schedule; the testnet activation is still scheduled and mainnet dates remain undecided\.
@@ -37,11 +45,3 @@ One DFX per USDT lost measures the claim allocation, while available payouts dep
 [Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | Published 4 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | [dfx\.drift\.trade](https://dfx.drift.trade/) | [www\.drift\.trade](https://www.drift.trade/updates/dfx-claim-and-redemptions)
-
-## IMF clears $138 million for El Salvador as Bitcoin conditions remain
-
-The October 1 Board decision completes two financing reviews, while documented donations remain the stated exception to further Bitcoin accumulation\.
-
-[Chain Minute](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | Published 4 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | [cointelegraph\.com](https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted) | [www\.imf\.org](https://www.imf.org/en/news/articles/2026/09/03/pr26285-el-salvador-imf-reaches-sla-on-combined-2nd-and-3rd-rev-under-eff-arrangement)
