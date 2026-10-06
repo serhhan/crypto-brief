@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-20 distinct developments, newest first.
+21 distinct developments, newest first.
+
+- [Prysm 7\.2\.1 adds 200M gas default ahead of Sepolia Glamsterdam test](https://forkbrief.com/news/a8310819-89ce-45a4-807f-32e2ebaa0473?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8310819-89ce-45a4-807f-32e2ebaa0473) | 6 Oct 2026 | Fork Brief
+
+  The October 5 release incorporates Sepolia’s fork gas schedule; the testnet activation is still scheduled and mainnet dates remain undecided\.
 
 - [Zcash activates NU7 on public testnet with 25\-second target blocks](https://forkbrief.com/news/28707624-aff6-4e4e-87d3-76f49481c680?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=28707624-aff6-4e4e-87d3-76f49481c680) | 5 Oct 2026 | Fork Brief
 
