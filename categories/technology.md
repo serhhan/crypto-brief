@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-21 distinct developments, newest first.
+22 distinct developments, newest first.
+
+- [AirnodeHub test verifies CoinGecko responses without changing their JSON format](https://forkbrief.com/news/34f5c9f1-c3f1-49c2-9f52-5176184ea173?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34f5c9f1-c3f1-49c2-9f52-5176184ea173) | 6 Oct 2026 | Fork Brief
+
+  An October 6 HTTP test preserved the price\-response body and verified the signature locally, with a changed value failing verification\.
 
 - [Prysm 7\.2\.1 adds 200M gas default ahead of Sepolia Glamsterdam test](https://forkbrief.com/news/a8310819-89ce-45a4-807f-32e2ebaa0473?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8310819-89ce-45a4-807f-32e2ebaa0473) | 6 Oct 2026 | Fork Brief
 

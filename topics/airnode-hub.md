@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [AirnodeHub test verifies CoinGecko responses without changing their JSON format](https://forkbrief.com/news/34f5c9f1-c3f1-49c2-9f52-5176184ea173?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34f5c9f1-c3f1-49c2-9f52-5176184ea173) | 6 Oct 2026 | Fork Brief
+
+  An October 6 HTTP test preserved the price\-response body and verified the signature locally, with a changed value failing verification\.
 
 - [AirnodeHub test cuts a signed market response from 1,244 to 352 bytes](https://tokenprimer.com/news/69415bee-fdb6-43f5-9555-27d4ed5c0223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=69415bee-fdb6-43f5-9555-27d4ed5c0223) | 4 Oct 2026 | Token Primer
 
