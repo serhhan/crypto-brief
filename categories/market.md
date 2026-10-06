@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-15 distinct developments, newest first.
+16 distinct developments, newest first.
+
+- [CFTC opens consultation on federal framework for retail crypto trading](https://chainminute.com/news/d5656b4b-bfe6-4828-bfe2-6629217f7f8a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d5656b4b-bfe6-4828-bfe2-6629217f7f8a) | 6 Oct 2026 | Chain Minute
+
+  The October 5 advance notice seeks comments on crypto transaction rules and a tailored market registration category; it is not a final authorization\.
 
 - [IEX sets crypto trust options criteria ahead of its symbol rollout](https://chainminute.com/news/dc9faf0c-8d7d-429d-a155-542633fa2887?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dc9faf0c-8d7d-429d-a155-542633fa2887) | 4 Oct 2026 | Chain Minute
 

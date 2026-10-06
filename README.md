@@ -6,6 +6,14 @@ Updated 6 Oct 2026.
 
 [Dated edition](archive/2026-10-06.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## CFTC opens consultation on federal framework for retail crypto trading
+
+The October 5 advance notice seeks comments on crypto transaction rules and a tailored market registration category; it is not a final authorization\.
+
+[Chain Minute](https://chainminute.com/news/d5656b4b-bfe6-4828-bfe2-6629217f7f8a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d5656b4b-bfe6-4828-bfe2-6629217f7f8a) | Published 6 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/d5656b4b-bfe6-4828-bfe2-6629217f7f8a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d5656b4b-bfe6-4828-bfe2-6629217f7f8a) | [cryptoslate\.com](https://cryptoslate.com/cftc-makes-its-biggest-move-yet-to-bring-offshore-crypto-trading-back-to-the-us/) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9307-26)
+
 ## FinCEN withdraws wallet and mixing proposals\: what the decision changes
 
 The October 5 action ends two proposed rulemaking measures without announcing a general exemption from financial crime controls\.
@@ -37,11 +45,3 @@ The October 1 Board decision completes two financing reviews, while documented d
 [Chain Minute](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | Published 4 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | [cointelegraph\.com](https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted) | [www\.imf\.org](https://www.imf.org/en/news/articles/2026/09/03/pr26285-el-salvador-imf-reaches-sla-on-combined-2nd-and-3rd-rev-under-eff-arrangement)
-
-## Aave Labs proposes independent foundation for protocol brand and IP
-
-Phase 1 would establish a legal entity and independent officers, while asset transfers require later governance decisions\.
-
-[Yield Dispatch](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | Published 4 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/564ac50e-ede6-4797-b2a6-8473416a074a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=564ac50e-ede6-4797-b2a6-8473416a074a) | [governance\.aave\.com](https://governance.aave.com/t/arfc-the-aave-foundation-phase-1/25756) | [www\.tokenpost\.com](https://www.tokenpost.com/news/technology/26575)
