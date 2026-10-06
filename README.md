@@ -6,6 +6,14 @@ Updated 6 Oct 2026.
 
 [Dated edition](archive/2026-10-06.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Firelight launches DeFi cover phase with staker capital exposed to claims
+
+The October 6 launch announcement names initial Sentora integrations and makes slashing exposure part of the staking position\.
+
+[Chain Incident](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | Published 6 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | [firelight\.finance](https://firelight.finance/articles/firelight-is-live-institutional-grade-cover-for-defi) | [thedefiant\.io](https://thedefiant.io/news/defi/firelight-raises-8-million-to-backstop-defi-vaults-with-staked-xrp)
+
 ## Aave Monad faces October 8 PT\-AUSD maturity as December collateral listing is proposed
 
 LlamaRisk recorded 67\.4M October PT supplied on Aave, while the proposed December replacement has a smaller starting cap and pool\.
@@ -37,11 +45,3 @@ The October 5 action ends two proposed rulemaking measures without announcing a 
 [Token Primer](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | Published 5 Oct 2026 | Guide
 
 Sources: [Token Primer](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
-
-## Drift opens DFX recovery claims with launch redemptions near 1% of losses
-
-One DFX per USDT lost measures the claim allocation, while available payouts depend on the recovery pool and redemption burns future participation for those tokens\.
-
-[Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | Published 4 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | [dfx\.drift\.trade](https://dfx.drift.trade/) | [www\.drift\.trade](https://www.drift.trade/updates/dfx-claim-and-redemptions)

@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [Firelight launches DeFi cover phase with staker capital exposed to claims](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | 6 Oct 2026 | Chain Incident
+
+  The October 6 launch announcement names initial Sentora integrations and makes slashing exposure part of the staking position\.
 
 - [Drift opens DFX recovery claims with launch redemptions near 1% of losses](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | 4 Oct 2026 | Chain Incident
 
