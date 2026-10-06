@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-16 distinct developments, newest first.
+17 distinct developments, newest first.
+
+- [Anchorage buys Routable, with integrated settlement offerings still ahead](https://chainminute.com/news/bcd5e047-664d-4b50-9bec-b7d62b61f803?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bcd5e047-664d-4b50-9bec-b7d62b61f803) | 6 Oct 2026 | Chain Minute
+
+  The completed acquisition adds corporate payout infrastructure; the companies say combined offerings will roll out over the coming quarters\.
 
 - [CFTC opens consultation on federal framework for retail crypto trading](https://chainminute.com/news/d5656b4b-bfe6-4828-bfe2-6629217f7f8a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d5656b4b-bfe6-4828-bfe2-6629217f7f8a) | 6 Oct 2026 | Chain Minute
 

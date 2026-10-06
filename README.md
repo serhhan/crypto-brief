@@ -6,6 +6,14 @@ Updated 6 Oct 2026.
 
 [Dated edition](archive/2026-10-06.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Anchorage buys Routable, with integrated settlement offerings still ahead
+
+The completed acquisition adds corporate payout infrastructure; the companies say combined offerings will roll out over the coming quarters\.
+
+[Chain Minute](https://chainminute.com/news/bcd5e047-664d-4b50-9bec-b7d62b61f803?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bcd5e047-664d-4b50-9bec-b7d62b61f803) | Published 6 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/bcd5e047-664d-4b50-9bec-b7d62b61f803?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bcd5e047-664d-4b50-9bec-b7d62b61f803) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-acquires-routable-extending-its-institutional-platform-to-the-payment-rails-of-the-worlds-largest-companies) | [www\.routable\.com](https://www.routable.com/press/routable-joins-anchorage/)
+
 ## AirnodeHub test verifies CoinGecko responses without changing their JSON format
 
 An October 6 HTTP test preserved the price\-response body and verified the signature locally, with a changed value failing verification\.
@@ -29,14 +37,6 @@ LlamaRisk recorded 67\.4M October PT supplied on Aave, while the proposed Decemb
 [Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | Published 6 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | [cryptoslate\.com](https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/) | [governance\.aave\.com](https://governance.aave.com/t/direct-to-aip-onboard-pt-ausd-17dec2026-to-aave-v3-monad-instance/25701/2)
-
-## CFTC opens consultation on federal framework for retail crypto trading
-
-The October 5 advance notice seeks comments on crypto transaction rules and a tailored market registration category; it is not a final authorization\.
-
-[Chain Minute](https://chainminute.com/news/d5656b4b-bfe6-4828-bfe2-6629217f7f8a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d5656b4b-bfe6-4828-bfe2-6629217f7f8a) | Published 6 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/d5656b4b-bfe6-4828-bfe2-6629217f7f8a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d5656b4b-bfe6-4828-bfe2-6629217f7f8a) | [cryptoslate\.com](https://cryptoslate.com/cftc-makes-its-biggest-move-yet-to-bring-offshore-crypto-trading-back-to-the-us/) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9307-26)
 
 ## FinCEN withdraws wallet and mixing proposals\: what the decision changes
 
