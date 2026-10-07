@@ -6,6 +6,14 @@ Updated 7 Oct 2026.
 
 [Dated edition](archive/2026-10-07.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Sui reports 40\.6M TPS in offchain tunnel test, with detailed review pending
+
+The October 7 demonstration measured tunnel activity with mainnet settlement, rather than individually recorded base\-layer transactions\.
+
+[Fork Brief](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | Published 7 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | [cryptobriefing\.com](https://cryptobriefing.com/sui-40-million-tps-basecamp-record/) | [www\.sui\.io](https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain)
+
 ## Anchorage buys Routable, with integrated settlement offerings still ahead
 
 The completed acquisition adds corporate payout infrastructure; the companies say combined offerings will roll out over the coming quarters\.
@@ -13,14 +21,6 @@ The completed acquisition adds corporate payout infrastructure; the companies sa
 [Chain Minute](https://chainminute.com/news/bcd5e047-664d-4b50-9bec-b7d62b61f803?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bcd5e047-664d-4b50-9bec-b7d62b61f803) | Published 6 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/bcd5e047-664d-4b50-9bec-b7d62b61f803?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bcd5e047-664d-4b50-9bec-b7d62b61f803) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-acquires-routable-extending-its-institutional-platform-to-the-payment-rails-of-the-worlds-largest-companies) | [www\.routable\.com](https://www.routable.com/press/routable-joins-anchorage/)
-
-## AirnodeHub test verifies CoinGecko responses without changing their JSON format
-
-An October 6 HTTP test preserved the price\-response body and verified the signature locally, with a changed value failing verification\.
-
-[Fork Brief](https://forkbrief.com/news/34f5c9f1-c3f1-49c2-9f52-5176184ea173?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34f5c9f1-c3f1-49c2-9f52-5176184ea173) | Published 6 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/34f5c9f1-c3f1-49c2-9f52-5176184ea173?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34f5c9f1-c3f1-49c2-9f52-5176184ea173) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
 
 ## Firelight launches DeFi cover phase with staker capital exposed to claims
 

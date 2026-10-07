@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-22 distinct developments, newest first.
+23 distinct developments, newest first.
+
+- [Sui reports 40\.6M TPS in offchain tunnel test, with detailed review pending](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | 7 Oct 2026 | Fork Brief
+
+  The October 7 demonstration measured tunnel activity with mainnet settlement, rather than individually recorded base\-layer transactions\.
 
 - [AirnodeHub test verifies CoinGecko responses without changing their JSON format](https://forkbrief.com/news/34f5c9f1-c3f1-49c2-9f52-5176184ea173?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34f5c9f1-c3f1-49c2-9f52-5176184ea173) | 6 Oct 2026 | Fork Brief
 
