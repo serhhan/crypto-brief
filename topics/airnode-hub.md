@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [x402 Explained\: What an Agent Needs to Pay for an API Call](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | 7 Oct 2026 | Token Primer
+
+  A practical guide to payment requirements, wallet authorization and spending limits, with AirnodeHub’s current free access and documented V1 payment flow kept distinct\.
 
 - [AirnodeHub test verifies CoinGecko responses without changing their JSON format](https://forkbrief.com/news/34f5c9f1-c3f1-49c2-9f52-5176184ea173?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=34f5c9f1-c3f1-49c2-9f52-5176184ea173) | 6 Oct 2026 | Fork Brief
 

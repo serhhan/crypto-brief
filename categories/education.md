@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-17 distinct developments, newest first.
+18 distinct developments, newest first.
+
+- [x402 Explained\: What an Agent Needs to Pay for an API Call](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | 7 Oct 2026 | Token Primer
+
+  A practical guide to payment requirements, wallet authorization and spending limits, with AirnodeHub’s current free access and documented V1 payment flow kept distinct\.
 
 - [FinCEN withdraws wallet and mixing proposals\: what the decision changes](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | 5 Oct 2026 | Token Primer
 

@@ -6,6 +6,14 @@ Updated 7 Oct 2026.
 
 [Dated edition](archive/2026-10-07.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## x402 Explained\: What an Agent Needs to Pay for an API Call
+
+A practical guide to payment requirements, wallet authorization and spending limits, with AirnodeHub’s current free access and documented V1 payment flow kept distinct\.
+
+[Token Primer](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | Published 7 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
+
 ## Sui reports 40\.6M TPS in offchain tunnel test, with detailed review pending
 
 The October 7 demonstration measured tunnel activity with mainnet settlement, rather than individually recorded base\-layer transactions\.
@@ -37,11 +45,3 @@ LlamaRisk recorded 67\.4M October PT supplied on Aave, while the proposed Decemb
 [Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | Published 6 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | [cryptoslate\.com](https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/) | [governance\.aave\.com](https://governance.aave.com/t/direct-to-aip-onboard-pt-ausd-17dec2026-to-aave-v3-monad-instance/25701/2)
-
-## FinCEN withdraws wallet and mixing proposals\: what the decision changes
-
-The October 5 action ends two proposed rulemaking measures without announcing a general exemption from financial crime controls\.
-
-[Token Primer](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | Published 5 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/4fbb5063-9cad-4b39-9cda-06a1a9ef7b94?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4fbb5063-9cad-4b39-9cda-06a1a9ef7b94) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
