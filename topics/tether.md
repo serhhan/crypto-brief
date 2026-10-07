@@ -4,7 +4,11 @@ Tether, USDT and related business developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [Polygon adds TRON to Open Money Stack for USDT payment routing](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | 7 Oct 2026 | Yield Dispatch
+
+  The first phase connects fiat access, TRON wallets and supported cross\-chain routes, while further assets and markets remain planned\.
 
 - [Drift opens DFX recovery claims with launch redemptions near 1% of losses](https://chainincident.com/news/144e0bde-0146-47cc-b44c-6dd831a33e30?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=144e0bde-0146-47cc-b44c-6dd831a33e30) | 4 Oct 2026 | Chain Incident
 

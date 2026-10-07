@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-21 distinct developments, newest first.
+22 distinct developments, newest first.
+
+- [Polygon adds TRON to Open Money Stack for USDT payment routing](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | 7 Oct 2026 | Yield Dispatch
+
+  The first phase connects fiat access, TRON wallets and supported cross\-chain routes, while further assets and markets remain planned\.
 
 - [Aave Monad faces October 8 PT\-AUSD maturity as December collateral listing is proposed](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | 6 Oct 2026 | Yield Dispatch
 

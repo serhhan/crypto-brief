@@ -6,6 +6,14 @@ Updated 7 Oct 2026.
 
 [Dated edition](archive/2026-10-07.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Polygon adds TRON to Open Money Stack for USDT payment routing
+
+The first phase connects fiat access, TRON wallets and supported cross\-chain routes, while further assets and markets remain planned\.
+
+[Yield Dispatch](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | Published 7 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | [polygon\.technology](https://polygon.technology/blog/polygon-oms-supports-tron) | [trondao\.org](https://trondao.org/announcements/polygon-open-money-stack-expands-to-tron-extending-network-access-to-regulated-u.s.-payment-rails)
+
 ## x402 Explained\: What an Agent Needs to Pay for an API Call
 
 A practical guide to payment requirements, wallet authorization and spending limits, with AirnodeHub’s current free access and documented V1 payment flow kept distinct\.
@@ -37,11 +45,3 @@ The October 6 launch announcement names initial Sentora integrations and makes s
 [Chain Incident](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | Published 6 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | [firelight\.finance](https://firelight.finance/articles/firelight-is-live-institutional-grade-cover-for-defi) | [thedefiant\.io](https://thedefiant.io/news/defi/firelight-raises-8-million-to-backstop-defi-vaults-with-staked-xrp)
-
-## Aave Monad faces October 8 PT\-AUSD maturity as December collateral listing is proposed
-
-LlamaRisk recorded 67\.4M October PT supplied on Aave, while the proposed December replacement has a smaller starting cap and pool\.
-
-[Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | Published 6 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | [cryptoslate\.com](https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/) | [governance\.aave\.com](https://governance.aave.com/t/direct-to-aip-onboard-pt-ausd-17dec2026-to-aave-v3-monad-instance/25701/2)
