@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-17 distinct developments, newest first.
+18 distinct developments, newest first.
+
+- [Paxos adds XRP trading and custody support for brokerage partners](https://chainminute.com/news/e25e14eb-108b-4c06-8da1-6372d2d386c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e25e14eb-108b-4c06-8da1-6372d2d386c1) | 8 Oct 2026 | Chain Minute
+
+  Current documentation lists native XRP Ledger support, while availability at individual partner applications remains unconfirmed\.
 
 - [Anchorage buys Routable, with integrated settlement offerings still ahead](https://chainminute.com/news/bcd5e047-664d-4b50-9bec-b7d62b61f803?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bcd5e047-664d-4b50-9bec-b7d62b61f803) | 6 Oct 2026 | Chain Minute
 

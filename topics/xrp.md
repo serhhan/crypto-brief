@@ -4,7 +4,11 @@ XRP market news, network developments and related products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [Paxos adds XRP trading and custody support for brokerage partners](https://chainminute.com/news/e25e14eb-108b-4c06-8da1-6372d2d386c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e25e14eb-108b-4c06-8da1-6372d2d386c1) | 8 Oct 2026 | Chain Minute
+
+  Current documentation lists native XRP Ledger support, while availability at individual partner applications remains unconfirmed\.
 
 - [Bitget attacker moves $83 million in XRP as recovery limits come into focus](https://chainincident.com/news/c5fc05a5-254b-45ee-8fad-d581971b5baf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c5fc05a5-254b-45ee-8fad-d581971b5baf) | 28 Sept 2026 | Chain Incident
 
