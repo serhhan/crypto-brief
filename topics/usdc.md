@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [Circle brings CCTP V2 to Sui mainnet and testnet](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | 8 Oct 2026 | Fork Brief
+
+  October 8 release notes and deployed Move\-package references confirm the V2 expansion\. Native USDC and Sui’s earlier CCTP integration predate this update\.
 
 - [AirnodeHub exposes Morpho vault allocations and oracle data through a read\-only interface](https://yielddispatch.com/news/4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=4a81ea48-4df2-4a54-b5a5-cf4e6c986b0b) | 2 Oct 2026 | Yield Dispatch
 

@@ -6,6 +6,14 @@ Updated 8 Oct 2026.
 
 [Dated edition](archive/2026-10-08.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Circle brings CCTP V2 to Sui mainnet and testnet
+
+October 8 release notes and deployed Move\-package references confirm the V2 expansion\. Native USDC and Sui’s earlier CCTP integration predate this update\.
+
+[Fork Brief](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | Published 8 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | [developers\.circle\.com](https://developers.circle.com/cctp/concepts/supported-chains-and-domains) | [developers\.circle\.com](https://developers.circle.com/cctp/references/sui-packages)
+
 ## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
 
 An October 7 memorandum sets out stablecoin research and tokenization pilots with Kazakhstan’s central bank and Alatau authorities\. Issuance and deployment remain unannounced\.
@@ -37,11 +45,3 @@ A practical guide to payment requirements, wallet authorization and spending lim
 [Token Primer](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | Published 7 Oct 2026 | Guide
 
 Sources: [Token Primer](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
-
-## Sui reports 40\.6M TPS in offchain tunnel test, with detailed review pending
-
-The October 7 demonstration measured tunnel activity with mainnet settlement, rather than individually recorded base\-layer transactions\.
-
-[Fork Brief](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | Published 7 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | [cryptobriefing\.com](https://cryptobriefing.com/sui-40-million-tps-basecamp-record/) | [www\.sui\.io](https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain)

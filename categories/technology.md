@@ -4,7 +4,15 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-23 distinct developments, newest first.
+25 distinct developments, newest first.
+
+- [Circle brings CCTP V2 to Sui mainnet and testnet](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | 8 Oct 2026 | Fork Brief
+
+  October 8 release notes and deployed Move\-package references confirm the V2 expansion\. Native USDC and Sui’s earlier CCTP integration predate this update\.
+
+- [Read a treasury wallet through dRPC on AirnodeHub](https://forkbrief.com/news/0f683771-c3bb-4367-bef9-9950d2bfb5f3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f683771-c3bb-4367-bef9-9950d2bfb5f3) | 8 Oct 2026 | Fork Brief
+
+  A bounded wallet\-reading workflow for treasury tools\: check indexed coverage, request balances and recent transfers, and retain verifiable receipts alongside the summary\.
 
 - [Sui reports 40\.6M TPS in offchain tunnel test, with detailed review pending](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | 7 Oct 2026 | Fork Brief
 
