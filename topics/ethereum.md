@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-22 distinct developments, newest first.
+23 distinct developments, newest first.
+
+- [EIP\-8141 clarifies approval rollback for reverted nested calls](https://forkbrief.com/news/30661c99-d024-47a9-8ed0-b5ac20ffefc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=30661c99-d024-47a9-8ed0-b5ac20ffefc4) | 8 Oct 2026 | Fork Brief
+
+  The October 8 specification edit journals payer and sender approval state at the call level\. Frame transactions remain a Draft proposal, not a mainnet feature\.
 
 - [Coin Metrics rebuilds ETH flows\: why historical exchange charts can change](https://tokenprimer.com/news/fc644aa6-d516-405d-91f9-9a985883cbe9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fc644aa6-d516-405d-91f9-9a985883cbe9) | 5 Oct 2026 | Token Primer
 

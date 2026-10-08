@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-25 distinct developments, newest first.
+26 distinct developments, newest first.
+
+- [EIP\-8141 clarifies approval rollback for reverted nested calls](https://forkbrief.com/news/30661c99-d024-47a9-8ed0-b5ac20ffefc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=30661c99-d024-47a9-8ed0-b5ac20ffefc4) | 8 Oct 2026 | Fork Brief
+
+  The October 8 specification edit journals payer and sender approval state at the call level\. Frame transactions remain a Draft proposal, not a mainnet feature\.
 
 - [Circle brings CCTP V2 to Sui mainnet and testnet](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | 8 Oct 2026 | Fork Brief
 

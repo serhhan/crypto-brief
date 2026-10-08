@@ -6,13 +6,13 @@ Updated 8 Oct 2026.
 
 [Dated edition](archive/2026-10-08.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Circle brings CCTP V2 to Sui mainnet and testnet
+## EIP\-8141 clarifies approval rollback for reverted nested calls
 
-October 8 release notes and deployed Move\-package references confirm the V2 expansion\. Native USDC and Sui’s earlier CCTP integration predate this update\.
+The October 8 specification edit journals payer and sender approval state at the call level\. Frame transactions remain a Draft proposal, not a mainnet feature\.
 
-[Fork Brief](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | Published 8 Oct 2026
+[Fork Brief](https://forkbrief.com/news/30661c99-d024-47a9-8ed0-b5ac20ffefc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=30661c99-d024-47a9-8ed0-b5ac20ffefc4) | Published 8 Oct 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | [developers\.circle\.com](https://developers.circle.com/cctp/concepts/supported-chains-and-domains) | [developers\.circle\.com](https://developers.circle.com/cctp/references/sui-packages)
+Sources: [Fork Brief](https://forkbrief.com/news/30661c99-d024-47a9-8ed0-b5ac20ffefc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=30661c99-d024-47a9-8ed0-b5ac20ffefc4) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8141) | [github\.com](https://github.com/ethereum/EIPs/commit/af80fc1c4122c4990b8c84bfd10be60c6e343bb2)
 
 ## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
 
