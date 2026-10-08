@@ -6,6 +6,14 @@ Updated 8 Oct 2026.
 
 [Dated edition](archive/2026-10-08.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
+
+An October 7 memorandum sets out stablecoin research and tokenization pilots with Kazakhstan’s central bank and Alatau authorities\. Issuance and deployment remain unannounced\.
+
+[Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | Published 8 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | [cointelegraph\.com](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization) | [tether\.io](https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/)
+
 ## Paxos adds XRP trading and custody support for brokerage partners
 
 Current documentation lists native XRP Ledger support, while availability at individual partner applications remains unconfirmed\.
@@ -37,11 +45,3 @@ The October 7 demonstration measured tunnel activity with mainnet settlement, ra
 [Fork Brief](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | Published 7 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/32dc8d1c-4e14-4368-94a1-fa8e8f7c6223?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=32dc8d1c-4e14-4368-94a1-fa8e8f7c6223) | [cryptobriefing\.com](https://cryptobriefing.com/sui-40-million-tps-basecamp-record/) | [www\.sui\.io](https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain)
-
-## Firelight launches DeFi cover phase with staker capital exposed to claims
-
-The October 6 launch announcement names initial Sentora integrations and makes slashing exposure part of the staking position\.
-
-[Chain Incident](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | Published 6 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | [firelight\.finance](https://firelight.finance/articles/firelight-is-live-institutional-grade-cover-for-defi) | [thedefiant\.io](https://thedefiant.io/news/defi/firelight-raises-8-million-to-backstop-defi-vaults-with-staked-xrp)

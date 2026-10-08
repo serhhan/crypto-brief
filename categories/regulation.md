@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [Tether outlines tenge stablecoin research with Kazakhstan’s central bank](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | 8 Oct 2026 | Yield Dispatch
+
+  An October 7 memorandum sets out stablecoin research and tokenization pilots with Kazakhstan’s central bank and Alatau authorities\. Issuance and deployment remain unannounced\.
 
 - [IMF clears $138 million for El Salvador as Bitcoin conditions remain](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | 4 Oct 2026 | Chain Minute
 

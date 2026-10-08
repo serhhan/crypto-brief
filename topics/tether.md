@@ -4,7 +4,11 @@ Tether, USDT and related business developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [Tether outlines tenge stablecoin research with Kazakhstan’s central bank](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | 8 Oct 2026 | Yield Dispatch
+
+  An October 7 memorandum sets out stablecoin research and tokenization pilots with Kazakhstan’s central bank and Alatau authorities\. Issuance and deployment remain unannounced\.
 
 - [Polygon adds TRON to Open Money Stack for USDT payment routing](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | 7 Oct 2026 | Yield Dispatch
 
