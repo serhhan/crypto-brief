@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [Orca and Loopscale announce merger under Formation](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | 9 Oct 2026 | Chain Minute
+
+  The Solana trading and lending teams announce a combined business while existing apps retain their identities and a separate governance vote remains pending\.
 
 - [Solana moves Alpenglow finality upgrade to public testnet](https://forkbrief.com/news/c88b134d-a847-4b47-b49a-a70854ca295e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c88b134d-a847-4b47-b49a-a70854ca295e) | 24 Sept 2026 | Fork Brief
 

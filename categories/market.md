@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [Orca and Loopscale announce merger under Formation](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | 9 Oct 2026 | Chain Minute
+
+  The Solana trading and lending teams announce a combined business while existing apps retain their identities and a separate governance vote remains pending\.
 
 - [Paxos adds XRP trading and custody support for brokerage partners](https://chainminute.com/news/e25e14eb-108b-4c06-8da1-6372d2d386c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e25e14eb-108b-4c06-8da1-6372d2d386c1) | 8 Oct 2026 | Chain Minute
 

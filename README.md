@@ -6,6 +6,14 @@ Updated 9 Oct 2026.
 
 [Dated edition](archive/2026-10-09.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Orca and Loopscale announce merger under Formation
+
+The Solana trading and lending teams announce a combined business while existing apps retain their identities and a separate governance vote remains pending\.
+
+[Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | Published 9 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | [docs\.loopscale\.com](https://docs.loopscale.com/resources/formation) | [docs\.orca\.so](https://docs.orca.so/formation/faqs)
+
 ## EIP\-8141 clarifies approval rollback for reverted nested calls
 
 The October 8 specification edit journals payer and sender approval state at the call level\. Frame transactions remain a Draft proposal, not a mainnet feature\.
@@ -21,14 +29,6 @@ An October 7 memorandum sets out stablecoin research and tokenization pilots wit
 [Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | Published 8 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | [cointelegraph\.com](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization) | [tether\.io](https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/)
-
-## Paxos adds XRP trading and custody support for brokerage partners
-
-Current documentation lists native XRP Ledger support, while availability at individual partner applications remains unconfirmed\.
-
-[Chain Minute](https://chainminute.com/news/e25e14eb-108b-4c06-8da1-6372d2d386c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e25e14eb-108b-4c06-8da1-6372d2d386c1) | Published 8 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/e25e14eb-108b-4c06-8da1-6372d2d386c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e25e14eb-108b-4c06-8da1-6372d2d386c1) | [docs\.paxos\.com](https://docs.paxos.com/guides/crypto-brokerage) | [docs\.paxos\.com](https://docs.paxos.com/guides/developer/blockchains)
 
 ## Polygon adds TRON to Open Money Stack for USDT payment routing
 
