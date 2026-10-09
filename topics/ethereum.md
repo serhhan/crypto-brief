@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-23 distinct developments, newest first.
+24 distinct developments, newest first.
+
+- [Ethereum repository adds EIP\-8247 draft for ancestor\-indexed block access lists](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | 9 Oct 2026 | Fork Brief
+
+  The draft replaces repeated addresses and storage keys with references to eight recent ancestor lists\. First submitted in May, it remains Draft and requires a hard fork\.
 
 - [EIP\-8141 clarifies approval rollback for reverted nested calls](https://forkbrief.com/news/30661c99-d024-47a9-8ed0-b5ac20ffefc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=30661c99-d024-47a9-8ed0-b5ac20ffefc4) | 8 Oct 2026 | Fork Brief
 

@@ -13,7 +13,7 @@ Linked pages contain at least three distinct developments.
 - Chainlink | 1 distinct development
 - Cosmos Hub | 1 distinct development
 - Dogecoin | 2 distinct developments
-- [Ethereum](ethereum.md) | 23 distinct developments
+- [Ethereum](ethereum.md) | 24 distinct developments
 - Hyperliquid | 1 distinct development
 - [Morpho](morpho.md) | 3 distinct developments
 - [Solana](solana.md) | 6 distinct developments

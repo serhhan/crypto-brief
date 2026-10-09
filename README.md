@@ -6,6 +6,14 @@ Updated 9 Oct 2026.
 
 [Dated edition](archive/2026-10-09.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Ethereum repository adds EIP\-8247 draft for ancestor\-indexed block access lists
+
+The draft replaces repeated addresses and storage keys with references to eight recent ancestor lists\. First submitted in May, it remains Draft and requires a hard fork\.
+
+[Fork Brief](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | Published 9 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8247) | [github\.com](https://github.com/ethereum/EIPs/commit/a7b5980a55117611aa572531a30c97c709af8f4a)
+
 ## Orca and Loopscale announce merger under Formation
 
 The Solana trading and lending teams announce a combined business while existing apps retain their identities and a separate governance vote remains pending\.
@@ -13,14 +21,6 @@ The Solana trading and lending teams announce a combined business while existing
 [Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | Published 9 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | [docs\.loopscale\.com](https://docs.loopscale.com/resources/formation) | [docs\.orca\.so](https://docs.orca.so/formation/faqs)
-
-## EIP\-8141 clarifies approval rollback for reverted nested calls
-
-The October 8 specification edit journals payer and sender approval state at the call level\. Frame transactions remain a Draft proposal, not a mainnet feature\.
-
-[Fork Brief](https://forkbrief.com/news/30661c99-d024-47a9-8ed0-b5ac20ffefc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=30661c99-d024-47a9-8ed0-b5ac20ffefc4) | Published 8 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/30661c99-d024-47a9-8ed0-b5ac20ffefc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=30661c99-d024-47a9-8ed0-b5ac20ffefc4) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8141) | [github\.com](https://github.com/ethereum/EIPs/commit/af80fc1c4122c4990b8c84bfd10be60c6e343bb2)
 
 ## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
 
