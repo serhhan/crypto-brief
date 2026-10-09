@@ -8,7 +8,7 @@ Linked pages contain at least three distinct developments.
 
 - [Markets](market.md) | 19 distinct developments
 - [DeFi and stablecoins](defi.md) | 22 distinct developments
-- [Technology](technology.md) | 27 distinct developments
+- [Technology](technology.md) | 28 distinct developments
 - [Security](security.md) | 19 distinct developments
 - [Regulation](regulation.md) | 7 distinct developments
 - [Guides and explainers](education.md) | 18 distinct developments

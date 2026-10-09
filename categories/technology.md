@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-27 distinct developments, newest first.
+28 distinct developments, newest first.
+
+- [HSBC and Ant Digital report agent\-payment trial on Jovay Testnet](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | 9 Oct 2026 | Fork Brief
+
+  The reported technical verification combined HSBC tokenized deposits, Anvita Flow and Jovay Testnet\. It is not a commercial launch, and execution details remain limited\.
 
 - [Ethereum repository adds EIP\-8247 draft for ancestor\-indexed block access lists](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | 9 Oct 2026 | Fork Brief
 
