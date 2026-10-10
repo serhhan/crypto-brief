@@ -30,6 +30,14 @@ The reported technical verification combined HSBC tokenized deposits, Anvita Flo
 
 Sources: [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | [cointelegraph\.com](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits) | [www\.prnewswire\.com](https://www.prnewswire.com/apac/news-releases/ant-digital-technologies-and-hsbc-announce-successful-ai-agent-micropayment-technical-verification-test-302903333.html)
 
+## Ethereum repository adds EIP\-8247 draft for ancestor\-indexed block access lists
+
+The draft replaces repeated addresses and storage keys with references to eight recent ancestor lists\. First submitted in May, it remains Draft and requires a hard fork\.
+
+[Fork Brief](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | Published 9 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8247) | [github\.com](https://github.com/ethereum/EIPs/commit/a7b5980a55117611aa572531a30c97c709af8f4a)
+
 ## Polygon adds TRON to Open Money Stack for USDT payment routing
 
 The first phase connects fiat access, TRON wallets and supported cross\-chain routes, while further assets and markets remain planned\.
@@ -37,11 +45,3 @@ The first phase connects fiat access, TRON wallets and supported cross\-chain ro
 [Yield Dispatch](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | Published 7 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | [polygon\.technology](https://polygon.technology/blog/polygon-oms-supports-tron) | [trondao\.org](https://trondao.org/announcements/polygon-open-money-stack-expands-to-tron-extending-network-access-to-regulated-u.s.-payment-rails)
-
-## x402 Explained\: What an Agent Needs to Pay for an API Call
-
-A practical guide to payment requirements, wallet authorization and spending limits, with AirnodeHub’s current free access and documented V1 payment flow kept distinct\.
-
-[Token Primer](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | Published 7 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | [airnode\-coingecko\.fly\.dev](https://airnode-coingecko.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
