@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-19 distinct developments, newest first.
+20 distinct developments, newest first.
+
+- [Evernorth closes Armada merger ahead of October 12 Nasdaq transition](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | 10 Oct 2026 | Chain Minute
+
+  Evernorth completed its Armada combination on October 9\. Nasdaq has set October 12 for the XRPN share and XRPNW warrant symbols to transfer to the combined company\.
 
 - [Orca and Loopscale announce merger under Formation](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | 9 Oct 2026 | Chain Minute
 

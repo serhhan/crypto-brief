@@ -6,6 +6,14 @@ Updated 10 Oct 2026.
 
 [Dated edition](archive/2026-10-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Evernorth closes Armada merger ahead of October 12 Nasdaq transition
+
+Evernorth completed its Armada combination on October 9\. Nasdaq has set October 12 for the XRPN share and XRPNW warrant symbols to transfer to the combined company\.
+
+[Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | Published 10 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | [crypto\.news](https://crypto.news/evernorth-completes-merger-with-473m-xrp-nasdaq-debut/) | [www\.evernorth\.xyz](https://www.evernorth.xyz/press-release-10-09-2026)
+
 ## Thailand sets October 16 start for Bitcoin and Ether ETF framework
 
 Thailand has issued a domestic crypto ETF framework effective October 16, initially covering Bitcoin and Ether\. Funds must use SEC\-regulated custody and trade on the SET\.
@@ -21,14 +29,6 @@ The reported technical verification combined HSBC tokenized deposits, Anvita Flo
 [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | Published 9 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | [cointelegraph\.com](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits) | [www\.prnewswire\.com](https://www.prnewswire.com/apac/news-releases/ant-digital-technologies-and-hsbc-announce-successful-ai-agent-micropayment-technical-verification-test-302903333.html)
-
-## Orca and Loopscale announce merger under Formation
-
-The Solana trading and lending teams announce a combined business while existing apps retain their identities and a separate governance vote remains pending\.
-
-[Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | Published 9 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | [docs\.loopscale\.com](https://docs.loopscale.com/resources/formation) | [docs\.orca\.so](https://docs.orca.so/formation/faqs)
 
 ## Polygon adds TRON to Open Money Stack for USDT payment routing
 
