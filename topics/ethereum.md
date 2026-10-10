@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-24 distinct developments, newest first.
+25 distinct developments, newest first.
+
+- [Thailand sets October 16 start for Bitcoin and Ether ETF framework](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | 10 Oct 2026 | Chain Minute
+
+  Thailand has issued a domestic crypto ETF framework effective October 16, initially covering Bitcoin and Ether\. Funds must use SEC\-regulated custody and trade on the SET\.
 
 - [Ethereum repository adds EIP\-8247 draft for ancestor\-indexed block access lists](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | 9 Oct 2026 | Fork Brief
 

@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [Thailand sets October 16 start for Bitcoin and Ether ETF framework](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | 10 Oct 2026 | Chain Minute
+
+  Thailand has issued a domestic crypto ETF framework effective October 16, initially covering Bitcoin and Ether\. Funds must use SEC\-regulated custody and trade on the SET\.
 
 - [IMF clears $138 million for El Salvador as Bitcoin conditions remain](https://chainminute.com/news/2c772e14-d208-44b1-9060-7cbd89d733f8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2c772e14-d208-44b1-9060-7cbd89d733f8) | 4 Oct 2026 | Chain Minute
 

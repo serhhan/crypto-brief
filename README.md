@@ -6,6 +6,14 @@ Updated 10 Oct 2026.
 
 [Dated edition](archive/2026-10-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Thailand sets October 16 start for Bitcoin and Ether ETF framework
+
+Thailand has issued a domestic crypto ETF framework effective October 16, initially covering Bitcoin and Ether\. Funds must use SEC\-regulated custody and trade on the SET\.
+
+[Chain Minute](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | Published 10 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | [cryptoadventure\.com](https://cryptoadventure.com/thailand-finalizes-bitcoin-and-ether-etf-rules-for-stock-exchange-trading/) | [www\.sec\.or\.th](https://www.sec.or.th/EN/Pages/News_Detail.aspx?Lang=EN&NewsNo=216&NewsYear=2026&SECID=13411)
+
 ## HSBC and Ant Digital report agent\-payment trial on Jovay Testnet
 
 The reported technical verification combined HSBC tokenized deposits, Anvita Flow and Jovay Testnet\. It is not a commercial launch, and execution details remain limited\.
@@ -21,14 +29,6 @@ The Solana trading and lending teams announce a combined business while existing
 [Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | Published 9 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | [docs\.loopscale\.com](https://docs.loopscale.com/resources/formation) | [docs\.orca\.so](https://docs.orca.so/formation/faqs)
-
-## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
-
-An October 7 memorandum sets out stablecoin research and tokenization pilots with Kazakhstan’s central bank and Alatau authorities\. Issuance and deployment remain unannounced\.
-
-[Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | Published 8 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | [cointelegraph\.com](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization) | [tether\.io](https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/)
 
 ## Polygon adds TRON to Open Money Stack for USDT payment routing
 
