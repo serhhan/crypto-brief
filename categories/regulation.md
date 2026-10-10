@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [CFTC pairs event\-contract proposal with casino\-gambling swap exclusion](https://chainminute.com/news/74783c35-4245-4dab-82c3-62ffa0ffee1c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=74783c35-4245-4dab-82c3-62ffa0ffee1c) | 10 Oct 2026 | Chain Minute
+
+  The October 9 measures distinguish an event\-contract proposal from an interim final gambling exclusion, with comment periods tied to Federal Register publication\.
 
 - [Thailand sets October 16 start for Bitcoin and Ether ETF framework](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | 10 Oct 2026 | Chain Minute
 

@@ -6,6 +6,14 @@ Updated 10 Oct 2026.
 
 [Dated edition](archive/2026-10-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## CFTC pairs event\-contract proposal with casino\-gambling swap exclusion
+
+The October 9 measures distinguish an event\-contract proposal from an interim final gambling exclusion, with comment periods tied to Federal Register publication\.
+
+[Chain Minute](https://chainminute.com/news/74783c35-4245-4dab-82c3-62ffa0ffee1c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=74783c35-4245-4dab-82c3-62ffa0ffee1c) | Published 10 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/74783c35-4245-4dab-82c3-62ffa0ffee1c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=74783c35-4245-4dab-82c3-62ffa0ffee1c) | [decrypt\.co](https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9309-26)
+
 ## Evernorth closes Armada merger ahead of October 12 Nasdaq transition
 
 Evernorth completed its Armada combination on October 9\. Nasdaq has set October 12 for the XRPN share and XRPNW warrant symbols to transfer to the combined company\.
@@ -13,14 +21,6 @@ Evernorth completed its Armada combination on October 9\. Nasdaq has set October
 [Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | Published 10 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | [crypto\.news](https://crypto.news/evernorth-completes-merger-with-473m-xrp-nasdaq-debut/) | [www\.evernorth\.xyz](https://www.evernorth.xyz/press-release-10-09-2026)
-
-## Thailand sets October 16 start for Bitcoin and Ether ETF framework
-
-Thailand has issued a domestic crypto ETF framework effective October 16, initially covering Bitcoin and Ether\. Funds must use SEC\-regulated custody and trade on the SET\.
-
-[Chain Minute](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | Published 10 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | [cryptoadventure\.com](https://cryptoadventure.com/thailand-finalizes-bitcoin-and-ether-etf-rules-for-stock-exchange-trading/) | [www\.sec\.or\.th](https://www.sec.or.th/EN/Pages/News_Detail.aspx?Lang=EN&NewsNo=216&NewsYear=2026&SECID=13411)
 
 ## HSBC and Ant Digital report agent\-payment trial on Jovay Testnet
 
@@ -38,10 +38,10 @@ The draft replaces repeated addresses and storage keys with references to eight 
 
 Sources: [Fork Brief](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8247) | [github\.com](https://github.com/ethereum/EIPs/commit/a7b5980a55117611aa572531a30c97c709af8f4a)
 
-## Polygon adds TRON to Open Money Stack for USDT payment routing
+## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
 
-The first phase connects fiat access, TRON wallets and supported cross\-chain routes, while further assets and markets remain planned\.
+An October 7 memorandum sets out stablecoin research and tokenization pilots with Kazakhstan’s central bank and Alatau authorities\. Issuance and deployment remain unannounced\.
 
-[Yield Dispatch](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | Published 7 Oct 2026
+[Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | Published 8 Oct 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | [polygon\.technology](https://polygon.technology/blog/polygon-oms-supports-tron) | [trondao\.org](https://trondao.org/announcements/polygon-open-money-stack-expands-to-tron-extending-network-access-to-regulated-u.s.-payment-rails)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | [cointelegraph\.com](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization) | [tether\.io](https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/)
