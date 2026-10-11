@@ -37,11 +37,3 @@ The reported technical verification combined HSBC tokenized deposits, Anvita Flo
 [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | Published 9 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | [cointelegraph\.com](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits) | [www\.prnewswire\.com](https://www.prnewswire.com/apac/news-releases/ant-digital-technologies-and-hsbc-announce-successful-ai-agent-micropayment-technical-verification-test-302903333.html)
-
-## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
-
-An October 7 memorandum sets out stablecoin research and tokenization pilots with Kazakhstan’s central bank and Alatau authorities\. Issuance and deployment remain unannounced\.
-
-[Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | Published 8 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/8e3a993b-852a-495b-9f7d-798ec656125c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a993b-852a-495b-9f7d-798ec656125c) | [cointelegraph\.com](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization) | [tether\.io](https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/)
