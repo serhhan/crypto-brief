@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 10 Oct 2026.
+Updated 11 Oct 2026.
 
-[Dated edition](archive/2026-10-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## CFTC pairs event\-contract proposal with casino\-gambling swap exclusion
 
