@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [ESMA asks supervisors to resolve legacy stablecoin exposure within three months](https://yielddispatch.com/news/49375c83-8358-4e00-9946-2eaa130e6534?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49375c83-8358-4e00-9946-2eaa130e6534) | 11 Oct 2026 | Yield Dispatch
+
+  An October 8 supervisory opinion extends expectations across MiCA services\. The three\-month ceiling concerns remaining legacy exposures, with continued services restricted to winding down existing holdings\.
 
 - [CFTC pairs event\-contract proposal with casino\-gambling swap exclusion](https://chainminute.com/news/74783c35-4245-4dab-82c3-62ffa0ffee1c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=74783c35-4245-4dab-82c3-62ffa0ffee1c) | 10 Oct 2026 | Chain Minute
 
