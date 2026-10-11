@@ -6,6 +6,14 @@ Updated 11 Oct 2026.
 
 [Dated edition](archive/2026-10-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## ERC\-8403 author publishes local account\-key demo
+
+A new research post links a two\-node Nethermind demo for changing account keys through committed roots\. The ERC remains an open draft, and the demo uses conventional keys\.
+
+[Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | Published 11 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | [ethresear\.ch](https://ethresear.ch/t/erc-8403-an-account-as-one-hash-and-post-quantum-keys/26147) | [github\.com](https://github.com/AnkushinDaniil/erc8403-demo)
+
 ## CFTC pairs event\-contract proposal with casino\-gambling swap exclusion
 
 The October 9 measures distinguish an event\-contract proposal from an interim final gambling exclusion, with comment periods tied to Federal Register publication\.
@@ -29,14 +37,6 @@ The reported technical verification combined HSBC tokenized deposits, Anvita Flo
 [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | Published 9 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | [cointelegraph\.com](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits) | [www\.prnewswire\.com](https://www.prnewswire.com/apac/news-releases/ant-digital-technologies-and-hsbc-announce-successful-ai-agent-micropayment-technical-verification-test-302903333.html)
-
-## Ethereum repository adds EIP\-8247 draft for ancestor\-indexed block access lists
-
-The draft replaces repeated addresses and storage keys with references to eight recent ancestor lists\. First submitted in May, it remains Draft and requires a hard fork\.
-
-[Fork Brief](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | Published 9 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/85437201-0cc7-45ee-b252-0ed72143600a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85437201-0cc7-45ee-b252-0ed72143600a) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8247) | [github\.com](https://github.com/ethereum/EIPs/commit/a7b5980a55117611aa572531a30c97c709af8f4a)
 
 ## Tether outlines tenge stablecoin research with Kazakhstan’s central bank
 

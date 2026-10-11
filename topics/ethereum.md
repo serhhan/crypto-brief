@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-25 distinct developments, newest first.
+26 distinct developments, newest first.
+
+- [ERC\-8403 author publishes local account\-key demo](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | 11 Oct 2026 | Fork Brief
+
+  A new research post links a two\-node Nethermind demo for changing account keys through committed roots\. The ERC remains an open draft, and the demo uses conventional keys\.
 
 - [Thailand sets October 16 start for Bitcoin and Ether ETF framework](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | 10 Oct 2026 | Chain Minute
 

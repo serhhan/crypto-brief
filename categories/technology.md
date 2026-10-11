@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-28 distinct developments, newest first.
+29 distinct developments, newest first.
+
+- [ERC\-8403 author publishes local account\-key demo](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | 11 Oct 2026 | Fork Brief
+
+  A new research post links a two\-node Nethermind demo for changing account keys through committed roots\. The ERC remains an open draft, and the demo uses conventional keys\.
 
 - [HSBC and Ant Digital report agent\-payment trial on Jovay Testnet](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | 9 Oct 2026 | Fork Brief
 
