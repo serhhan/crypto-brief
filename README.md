@@ -2,9 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 11 Oct 2026.
+Updated 12 Oct 2026.
 
-[Dated edition](archive/2026-10-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+
+## DATA Network plans move to Sui and retirement of its standalone chain
+
+An October 12 announcement puts Trace and DATA Foundation applications on a path toward the Sui stack and Walrus storage\. The existing chain will run until the upgrade is complete\.
+
+[Fork Brief](https://forkbrief.com/news/d1cbe969-0d5a-4546-a0f2-acae870a5e3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d1cbe969-0d5a-4546-a0f2-acae870a5e3d) | Published 12 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/d1cbe969-0d5a-4546-a0f2-acae870a5e3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d1cbe969-0d5a-4546-a0f2-acae870a5e3d) | [cointelegraph\.com](https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain) | [www\.sui\.io](https://www.sui.io/blog/data-network-joins-sui-walrus)
 
 ## ESMA asks supervisors to resolve legacy stablecoin exposure within three months
 
@@ -37,11 +45,3 @@ Evernorth completed its Armada combination on October 9\. Nasdaq has set October
 [Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | Published 10 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | [crypto\.news](https://crypto.news/evernorth-completes-merger-with-473m-xrp-nasdaq-debut/) | [www\.evernorth\.xyz](https://www.evernorth.xyz/press-release-10-09-2026)
-
-## HSBC and Ant Digital report agent\-payment trial on Jovay Testnet
-
-The reported technical verification combined HSBC tokenized deposits, Anvita Flow and Jovay Testnet\. It is not a commercial launch, and execution details remain limited\.
-
-[Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | Published 9 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/327f4a36-078c-4de6-9eca-54dc1e9f7adf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=327f4a36-078c-4de6-9eca-54dc1e9f7adf) | [cointelegraph\.com](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits) | [www\.prnewswire\.com](https://www.prnewswire.com/apac/news-releases/ant-digital-technologies-and-hsbc-announce-successful-ai-agent-micropayment-technical-verification-test-302903333.html)

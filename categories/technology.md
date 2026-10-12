@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-29 distinct developments, newest first.
+30 distinct developments, newest first.
+
+- [DATA Network plans move to Sui and retirement of its standalone chain](https://forkbrief.com/news/d1cbe969-0d5a-4546-a0f2-acae870a5e3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d1cbe969-0d5a-4546-a0f2-acae870a5e3d) | 12 Oct 2026 | Fork Brief
+
+  An October 12 announcement puts Trace and DATA Foundation applications on a path toward the Sui stack and Walrus storage\. The existing chain will run until the upgrade is complete\.
 
 - [ERC\-8403 author publishes local account\-key demo](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | 11 Oct 2026 | Fork Brief
 
