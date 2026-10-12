@@ -6,6 +6,14 @@ Updated 12 Oct 2026.
 
 [Dated edition](archive/2026-10-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Australia’s ASIC proposes adding crypto\-settled contracts to CFD rules
+
+An October 12 consultation would extend the CFD definition to certain digital\-asset settlements, including contracts tracking non\-crypto references\. Feedback closes November 9\.
+
+[Chain Minute](https://chainminute.com/news/9f3d45b5-e189-4e41-9605-021db727f620?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9f3d45b5-e189-4e41-9605-021db727f620) | Published 12 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/9f3d45b5-e189-4e41-9605-021db727f620?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9f3d45b5-e189-4e41-9605-021db727f620) | [cointelegraph\.com](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections) | [download\.asic\.gov\.au](https://download.asic.gov.au/media/uc3b3zo3/attachment-to-cs64-published-12-october-2026.pdf)
+
 ## DATA Network plans move to Sui and retirement of its standalone chain
 
 An October 12 announcement puts Trace and DATA Foundation applications on a path toward the Sui stack and Walrus storage\. The existing chain will run until the upgrade is complete\.
@@ -29,14 +37,6 @@ A new research post links a two\-node Nethermind demo for changing account keys 
 [Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | Published 11 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | [ethresear\.ch](https://ethresear.ch/t/erc-8403-an-account-as-one-hash-and-post-quantum-keys/26147) | [github\.com](https://github.com/AnkushinDaniil/erc8403-demo)
-
-## CFTC pairs event\-contract proposal with casino\-gambling swap exclusion
-
-The October 9 measures distinguish an event\-contract proposal from an interim final gambling exclusion, with comment periods tied to Federal Register publication\.
-
-[Chain Minute](https://chainminute.com/news/74783c35-4245-4dab-82c3-62ffa0ffee1c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=74783c35-4245-4dab-82c3-62ffa0ffee1c) | Published 10 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/74783c35-4245-4dab-82c3-62ffa0ffee1c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=74783c35-4245-4dab-82c3-62ffa0ffee1c) | [decrypt\.co](https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9309-26)
 
 ## Evernorth closes Armada merger ahead of October 12 Nasdaq transition
 

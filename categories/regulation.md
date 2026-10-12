@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [Australia’s ASIC proposes adding crypto\-settled contracts to CFD rules](https://chainminute.com/news/9f3d45b5-e189-4e41-9605-021db727f620?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9f3d45b5-e189-4e41-9605-021db727f620) | 12 Oct 2026 | Chain Minute
+
+  An October 12 consultation would extend the CFD definition to certain digital\-asset settlements, including contracts tracking non\-crypto references\. Feedback closes November 9\.
 
 - [ESMA asks supervisors to resolve legacy stablecoin exposure within three months](https://yielddispatch.com/news/49375c83-8358-4e00-9946-2eaa130e6534?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49375c83-8358-4e00-9946-2eaa130e6534) | 11 Oct 2026 | Yield Dispatch
 
