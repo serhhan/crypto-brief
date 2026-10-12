@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [Kraken targets UAE launch after Payward secures full Dubai approval](https://chainminute.com/news/d108c0b8-d551-4b94-be64-0a4ddf8f0d87?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d108c0b8-d551-4b94-be64-0a4ddf8f0d87) | 12 Oct 2026 | Chain Minute
+
+  Payward announced an upcoming UAE rollout on October 12\. VARA’s register dates the active licence to October 6; derivatives remain subject to further approval\.
 
 - [Australia’s ASIC proposes adding crypto\-settled contracts to CFD rules](https://chainminute.com/news/9f3d45b5-e189-4e41-9605-021db727f620?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9f3d45b5-e189-4e41-9605-021db727f620) | 12 Oct 2026 | Chain Minute
 

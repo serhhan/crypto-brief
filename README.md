@@ -6,13 +6,13 @@ Updated 12 Oct 2026.
 
 [Dated edition](archive/2026-10-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Australia’s ASIC proposes adding crypto\-settled contracts to CFD rules
+## Kraken targets UAE launch after Payward secures full Dubai approval
 
-An October 12 consultation would extend the CFD definition to certain digital\-asset settlements, including contracts tracking non\-crypto references\. Feedback closes November 9\.
+Payward announced an upcoming UAE rollout on October 12\. VARA’s register dates the active licence to October 6; derivatives remain subject to further approval\.
 
-[Chain Minute](https://chainminute.com/news/9f3d45b5-e189-4e41-9605-021db727f620?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9f3d45b5-e189-4e41-9605-021db727f620) | Published 12 Oct 2026
+[Chain Minute](https://chainminute.com/news/d108c0b8-d551-4b94-be64-0a4ddf8f0d87?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d108c0b8-d551-4b94-be64-0a4ddf8f0d87) | Published 12 Oct 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/9f3d45b5-e189-4e41-9605-021db727f620?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9f3d45b5-e189-4e41-9605-021db727f620) | [cointelegraph\.com](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections) | [download\.asic\.gov\.au](https://download.asic.gov.au/media/uc3b3zo3/attachment-to-cs64-published-12-october-2026.pdf)
+Sources: [Chain Minute](https://chainminute.com/news/d108c0b8-d551-4b94-be64-0a4ddf8f0d87?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d108c0b8-d551-4b94-be64-0a4ddf8f0d87) | [blog\.kraken\.com](https://blog.kraken.com/news/uae-vara-authorization) | [cointelegraph\.com](https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion)
 
 ## DATA Network plans move to Sui and retirement of its standalone chain
 
