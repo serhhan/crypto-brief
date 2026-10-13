@@ -6,6 +6,14 @@ Updated 13 Oct 2026.
 
 [Dated edition](archive/2026-10-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Ripple and Privy announce XRPL embedded\-wallet partnership
+
+Privy’s October 13 announcement links its wallet infrastructure to XRPL\. Current developer documentation separates transaction signing from submission to the network\.
+
+[Fork Brief](https://forkbrief.com/news/bd2be1aa-d579-4f14-978c-bcef71c44ab6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bd2be1aa-d579-4f14-978c-bcef71c44ab6) | Published 13 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/bd2be1aa-d579-4f14-978c-bcef71c44ab6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bd2be1aa-d579-4f14-978c-bcef71c44ab6) | [coingape\.com](https://coingape.com/ripple-partners-with-privy-to-expand-xrpl-access-for-xrp-and-rlusd-payments/) | [docs\.privy\.io](https://docs.privy.io/wallets/using-wallets/xrpl/overview)
+
 ## South Korea announces website blocks for 27 unregistered crypto operators
 
 An October 13 FIU notice announces website restrictions approved on October 6–7\. The list includes KuCoin, MEXC and BitMart, extending earlier mobile\-app access controls\.
@@ -29,14 +37,6 @@ Anodos says its DEX, embedded wallet and validator will be disabled after Octobe
 [Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | Published 13 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | [blockzeit\.com](https://blockzeit.com/anodos-ditches-xrpl-in-favor-of-solana/) | [x\.com](https://x.com/AnodosFinance/status/2109665451680710775)
-
-## DATA Network plans move to Sui and retirement of its standalone chain
-
-An October 12 announcement puts Trace and DATA Foundation applications on a path toward the Sui stack and Walrus storage\. The existing chain will run until the upgrade is complete\.
-
-[Fork Brief](https://forkbrief.com/news/d1cbe969-0d5a-4546-a0f2-acae870a5e3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d1cbe969-0d5a-4546-a0f2-acae870a5e3d) | Published 12 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/d1cbe969-0d5a-4546-a0f2-acae870a5e3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d1cbe969-0d5a-4546-a0f2-acae870a5e3d) | [cointelegraph\.com](https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain) | [www\.sui\.io](https://www.sui.io/blog/data-network-joins-sui-walrus)
 
 ## ESMA asks supervisors to resolve legacy stablecoin exposure within three months
 

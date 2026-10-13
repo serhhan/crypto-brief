@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-31 distinct developments, newest first.
+32 distinct developments, newest first.
+
+- [Ripple and Privy announce XRPL embedded\-wallet partnership](https://forkbrief.com/news/bd2be1aa-d579-4f14-978c-bcef71c44ab6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bd2be1aa-d579-4f14-978c-bcef71c44ab6) | 13 Oct 2026 | Fork Brief
+
+  Privy’s October 13 announcement links its wallet infrastructure to XRPL\. Current developer documentation separates transaction signing from submission to the network\.
 
 - [Context7 appears on AirnodeHub with sponsored early\-access calls](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | 13 Oct 2026 | Fork Brief
 
