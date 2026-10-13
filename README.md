@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 12 Oct 2026.
+Updated 13 Oct 2026.
 
-[Dated edition](archive/2026-10-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Kraken targets UAE launch after Payward secures full Dubai approval
 
