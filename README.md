@@ -6,6 +6,14 @@ Updated 13 Oct 2026.
 
 [Dated edition](archive/2026-10-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Guide\: Keep individual ETF data separate from country\-wide flow totals
+
+A SoSoValue example separates one fund ticker from an asset\-and\-country aggregate, with matching dates and no invented market figures\.
+
+[Chain Minute](https://chainminute.com/news/cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef) | Published 13 Oct 2026 | Guide
+
+Sources: [Chain Minute](https://chainminute.com/news/cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef) | [airnode\-sosovalue\.fly\.dev](https://airnode-sosovalue.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation)
+
 ## Ripple and Privy announce XRPL embedded\-wallet partnership
 
 Privy’s October 13 announcement links its wallet infrastructure to XRPL\. Current developer documentation separates transaction signing from submission to the network\.
@@ -29,14 +37,6 @@ The new catalog entry exposes library documentation searches with version prefer
 [Fork Brief](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | Published 13 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | [airnode\-context7\.fly\.dev](https://airnode-context7.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
-
-## Anodos schedules XRPL service shutdown as it focuses on Solana app
-
-Anodos says its DEX, embedded wallet and validator will be disabled after October 31\. The October 12 announcement sets a new development focus; it does not establish a completed migration\.
-
-[Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | Published 13 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | [blockzeit\.com](https://blockzeit.com/anodos-ditches-xrpl-in-favor-of-solana/) | [x\.com](https://x.com/AnodosFinance/status/2109665451680710775)
 
 ## ESMA asks supervisors to resolve legacy stablecoin exposure within three months
 

@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-21 distinct developments, newest first.
+22 distinct developments, newest first.
+
+- [Guide\: Keep individual ETF data separate from country\-wide flow totals](https://chainminute.com/news/cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef) | 13 Oct 2026 | Chain Minute
+
+  A SoSoValue example separates one fund ticker from an asset\-and\-country aggregate, with matching dates and no invented market figures\.
 
 - [Anodos schedules XRPL service shutdown as it focuses on Solana app](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | 13 Oct 2026 | Chain Minute
 
