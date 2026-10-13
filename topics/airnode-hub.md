@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [Context7 appears on AirnodeHub with sponsored early\-access calls](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | 13 Oct 2026 | Fork Brief
+
+  The new catalog entry exposes library documentation searches with version preferences\. Calls are currently sponsored during early access; a requested release can still fall back to current documentation\.
 
 - [Read a treasury wallet through dRPC on AirnodeHub](https://forkbrief.com/news/0f683771-c3bb-4367-bef9-9950d2bfb5f3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f683771-c3bb-4367-bef9-9950d2bfb5f3) | 8 Oct 2026 | Fork Brief
 

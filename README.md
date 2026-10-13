@@ -6,6 +6,14 @@ Updated 13 Oct 2026.
 
 [Dated edition](archive/2026-10-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Context7 appears on AirnodeHub with sponsored early\-access calls
+
+The new catalog entry exposes library documentation searches with version preferences\. Calls are currently sponsored during early access; a requested release can still fall back to current documentation\.
+
+[Fork Brief](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | Published 13 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | [airnode\-context7\.fly\.dev](https://airnode-context7.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
+
 ## Anodos schedules XRPL service shutdown as it focuses on Solana app
 
 Anodos says its DEX, embedded wallet and validator will be disabled after October 31\. The October 12 announcement sets a new development focus; it does not establish a completed migration\.
@@ -37,11 +45,3 @@ An October 8 supervisory opinion extends expectations across MiCA services\. The
 [Yield Dispatch](https://yielddispatch.com/news/49375c83-8358-4e00-9946-2eaa130e6534?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49375c83-8358-4e00-9946-2eaa130e6534) | Published 11 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/49375c83-8358-4e00-9946-2eaa130e6534?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49375c83-8358-4e00-9946-2eaa130e6534) | [www\.esma\.europa\.eu](https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised) | [www\.esma\.europa\.eu](https://www.esma.europa.eu/sites/default/files/2026-10/ESMA75-113276571-1742_Opinion_on_the_provision_of_crypto_asset_services_in_relation_to_non-MiCA-compliant_asset-referenced_tokens_and_e-money_tokens.pdf)
-
-## ERC\-8403 author publishes local account\-key demo
-
-A new research post links a two\-node Nethermind demo for changing account keys through committed roots\. The ERC remains an open draft, and the demo uses conventional keys\.
-
-[Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | Published 11 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | [ethresear\.ch](https://ethresear.ch/t/erc-8403-an-account-as-one-hash-and-post-quantum-keys/26147) | [github\.com](https://github.com/AnkushinDaniil/erc8403-demo)

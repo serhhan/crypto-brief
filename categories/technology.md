@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-30 distinct developments, newest first.
+31 distinct developments, newest first.
+
+- [Context7 appears on AirnodeHub with sponsored early\-access calls](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | 13 Oct 2026 | Fork Brief
+
+  The new catalog entry exposes library documentation searches with version preferences\. Calls are currently sponsored during early access; a requested release can still fall back to current documentation\.
 
 - [DATA Network plans move to Sui and retirement of its standalone chain](https://forkbrief.com/news/d1cbe969-0d5a-4546-a0f2-acae870a5e3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d1cbe969-0d5a-4546-a0f2-acae870a5e3d) | 12 Oct 2026 | Fork Brief
 
