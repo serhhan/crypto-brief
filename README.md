@@ -6,6 +6,14 @@ Updated 13 Oct 2026.
 
 [Dated edition](archive/2026-10-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Anodos schedules XRPL service shutdown as it focuses on Solana app
+
+Anodos says its DEX, embedded wallet and validator will be disabled after October 31\. The October 12 announcement sets a new development focus; it does not establish a completed migration\.
+
+[Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | Published 13 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | [blockzeit\.com](https://blockzeit.com/anodos-ditches-xrpl-in-favor-of-solana/) | [x\.com](https://x.com/AnodosFinance/status/2109665451680710775)
+
 ## Kraken targets UAE launch after Payward secures full Dubai approval
 
 Payward announced an upcoming UAE rollout on October 12\. VARA’s register dates the active licence to October 6; derivatives remain subject to further approval\.
@@ -37,11 +45,3 @@ A new research post links a two\-node Nethermind demo for changing account keys 
 [Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | Published 11 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | [ethresear\.ch](https://ethresear.ch/t/erc-8403-an-account-as-one-hash-and-post-quantum-keys/26147) | [github\.com](https://github.com/AnkushinDaniil/erc8403-demo)
-
-## Evernorth closes Armada merger ahead of October 12 Nasdaq transition
-
-Evernorth completed its Armada combination on October 9\. Nasdaq has set October 12 for the XRPN share and XRPNW warrant symbols to transfer to the combined company\.
-
-[Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | Published 10 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | [crypto\.news](https://crypto.news/evernorth-completes-merger-with-473m-xrp-nasdaq-debut/) | [www\.evernorth\.xyz](https://www.evernorth.xyz/press-release-10-09-2026)

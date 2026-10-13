@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-20 distinct developments, newest first.
+21 distinct developments, newest first.
+
+- [Anodos schedules XRPL service shutdown as it focuses on Solana app](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | 13 Oct 2026 | Chain Minute
+
+  Anodos says its DEX, embedded wallet and validator will be disabled after October 31\. The October 12 announcement sets a new development focus; it does not establish a completed migration\.
 
 - [Evernorth closes Armada merger ahead of October 12 Nasdaq transition](https://chainminute.com/news/75ff781c-089e-4831-b157-2f834680a699?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=75ff781c-089e-4831-b157-2f834680a699) | 10 Oct 2026 | Chain Minute
 

@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [Anodos schedules XRPL service shutdown as it focuses on Solana app](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | 13 Oct 2026 | Chain Minute
+
+  Anodos says its DEX, embedded wallet and validator will be disabled after October 31\. The October 12 announcement sets a new development focus; it does not establish a completed migration\.
 
 - [Orca and Loopscale announce merger under Formation](https://chainminute.com/news/006ff52d-d7d0-43ec-a93e-ab1c7ea40c01?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=006ff52d-d7d0-43ec-a93e-ab1c7ea40c01) | 9 Oct 2026 | Chain Minute
 
