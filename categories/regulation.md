@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [South Korea announces website blocks for 27 unregistered crypto operators](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | 13 Oct 2026 | Chain Minute
+
+  An October 13 FIU notice announces website restrictions approved on October 6–7\. The list includes KuCoin, MEXC and BitMart, extending earlier mobile\-app access controls\.
 
 - [Kraken targets UAE launch after Payward secures full Dubai approval](https://chainminute.com/news/d108c0b8-d551-4b94-be64-0a4ddf8f0d87?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d108c0b8-d551-4b94-be64-0a4ddf8f0d87) | 12 Oct 2026 | Chain Minute
 

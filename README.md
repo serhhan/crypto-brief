@@ -6,6 +6,14 @@ Updated 13 Oct 2026.
 
 [Dated edition](archive/2026-10-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## South Korea announces website blocks for 27 unregistered crypto operators
+
+An October 13 FIU notice announces website restrictions approved on October 6–7\. The list includes KuCoin, MEXC and BitMart, extending earlier mobile\-app access controls\.
+
+[Chain Minute](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | Published 13 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | [www\.coindesk\.com](https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin) | [www\.fsc\.go\.kr](https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87916&fileTy=ATTACH&fileNo=2)
+
 ## Context7 appears on AirnodeHub with sponsored early\-access calls
 
 The new catalog entry exposes library documentation searches with version preferences\. Calls are currently sponsored during early access; a requested release can still fall back to current documentation\.
@@ -21,14 +29,6 @@ Anodos says its DEX, embedded wallet and validator will be disabled after Octobe
 [Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | Published 13 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | [blockzeit\.com](https://blockzeit.com/anodos-ditches-xrpl-in-favor-of-solana/) | [x\.com](https://x.com/AnodosFinance/status/2109665451680710775)
-
-## Kraken targets UAE launch after Payward secures full Dubai approval
-
-Payward announced an upcoming UAE rollout on October 12\. VARA’s register dates the active licence to October 6; derivatives remain subject to further approval\.
-
-[Chain Minute](https://chainminute.com/news/d108c0b8-d551-4b94-be64-0a4ddf8f0d87?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d108c0b8-d551-4b94-be64-0a4ddf8f0d87) | Published 12 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/d108c0b8-d551-4b94-be64-0a4ddf8f0d87?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d108c0b8-d551-4b94-be64-0a4ddf8f0d87) | [blog\.kraken\.com](https://blog.kraken.com/news/uae-vara-authorization) | [cointelegraph\.com](https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion)
 
 ## DATA Network plans move to Sui and retirement of its standalone chain
 
