@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-19 distinct developments, newest first.
+20 distinct developments, newest first.
+
+- [Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | 14 Oct 2026 | Chain Incident
+
+  Ledger’s October 13 update asks regional resellers and distributors to suspend device sales and remove shelf stock while its investigation continues\.
 
 - [Firelight launches DeFi cover phase with staker capital exposed to claims](https://chainincident.com/news/d3ce9179-9310-452b-984a-c3355f087b08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3ce9179-9310-452b-984a-c3355f087b08) | 6 Oct 2026 | Chain Incident
 

@@ -6,6 +6,14 @@ Updated 14 Oct 2026.
 
 [Dated edition](archive/2026-10-14.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales
+
+Ledger’s October 13 update asks regional resellers and distributors to suspend device sales and remove shelf stock while its investigation continues\.
+
+[Chain Incident](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | Published 14 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | [cointelegraph\.com](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong) | [x\.com](https://x.com/Ledger/status/2110129361382994076)
+
 ## Guide\: Keep individual ETF data separate from country\-wide flow totals
 
 A SoSoValue example separates one fund ticker from an asset\-and\-country aggregate, with matching dates and no invented market figures\.
@@ -37,11 +45,3 @@ The new catalog entry exposes library documentation searches with version prefer
 [Fork Brief](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | Published 13 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | [airnode\-context7\.fly\.dev](https://airnode-context7.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/api-consumers/)
-
-## ESMA asks supervisors to resolve legacy stablecoin exposure within three months
-
-An October 8 supervisory opinion extends expectations across MiCA services\. The three\-month ceiling concerns remaining legacy exposures, with continued services restricted to winding down existing holdings\.
-
-[Yield Dispatch](https://yielddispatch.com/news/49375c83-8358-4e00-9946-2eaa130e6534?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49375c83-8358-4e00-9946-2eaa130e6534) | Published 11 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/49375c83-8358-4e00-9946-2eaa130e6534?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49375c83-8358-4e00-9946-2eaa130e6534) | [www\.esma\.europa\.eu](https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised) | [www\.esma\.europa\.eu](https://www.esma.europa.eu/sites/default/files/2026-10/ESMA75-113276571-1742_Opinion_on_the_provision_of_crypto_asset_services_in_relation_to_non-MiCA-compliant_asset-referenced_tokens_and_e-money_tokens.pdf)
