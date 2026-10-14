@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-26 distinct developments, newest first.
+27 distinct developments, newest first.
+
+- [Standard Chartered launches BTC and ETH trading for UAE professional investors](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | 14 Oct 2026 | Chain Minute
+
+  The new wealth\-client service starts with eligible UAE Professional Investors\. Its closed\-loop model does not support crypto transfers to or from external wallets\.
 
 - [ERC\-8403 author publishes local account\-key demo](https://forkbrief.com/news/13b47794-eaf1-4efc-96d5-e7d9c46fdacb?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=13b47794-eaf1-4efc-96d5-e7d9c46fdacb) | 11 Oct 2026 | Fork Brief
 

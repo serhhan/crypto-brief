@@ -6,6 +6,14 @@ Updated 14 Oct 2026.
 
 [Dated edition](archive/2026-10-14.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Standard Chartered launches BTC and ETH trading for UAE professional investors
+
+The new wealth\-client service starts with eligible UAE Professional Investors\. Its closed\-loop model does not support crypto transfers to or from external wallets\.
+
+[Chain Minute](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | Published 14 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | [decrypt\.co](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading) | [www\.sc\.com](https://www.sc.com/ae/investments/cryptocurrency/)
+
 ## Guide\: Build a stablecoin supply notebook with DeFiLlama on AirnodeHub
 
 An unexecuted workflow for identifying a stablecoin by its API ID, recording chain and date coverage, and keeping price data apart from supply measures\.
@@ -37,11 +45,3 @@ An October 13 FIU notice announces website restrictions approved on October 6–
 [Chain Minute](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | Published 13 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | [www\.coindesk\.com](https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin) | [www\.fsc\.go\.kr](https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87916&fileTy=ATTACH&fileNo=2)
-
-## Anodos schedules XRPL service shutdown as it focuses on Solana app
-
-Anodos says its DEX, embedded wallet and validator will be disabled after October 31\. The October 12 announcement sets a new development focus; it does not establish a completed migration\.
-
-[Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | Published 13 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | [blockzeit\.com](https://blockzeit.com/anodos-ditches-xrpl-in-favor-of-solana/) | [x\.com](https://x.com/AnodosFinance/status/2109665451680710775)

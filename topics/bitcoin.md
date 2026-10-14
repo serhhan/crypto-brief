@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [Standard Chartered launches BTC and ETH trading for UAE professional investors](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | 14 Oct 2026 | Chain Minute
+
+  The new wealth\-client service starts with eligible UAE Professional Investors\. Its closed\-loop model does not support crypto transfers to or from external wallets\.
 
 - [Thailand sets October 16 start for Bitcoin and Ether ETF framework](https://chainminute.com/news/945e63a1-8d86-4850-aba2-8109d72e4a59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=945e63a1-8d86-4850-aba2-8109d72e4a59) | 10 Oct 2026 | Chain Minute
 

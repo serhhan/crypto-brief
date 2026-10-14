@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-22 distinct developments, newest first.
+23 distinct developments, newest first.
+
+- [Standard Chartered launches BTC and ETH trading for UAE professional investors](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | 14 Oct 2026 | Chain Minute
+
+  The new wealth\-client service starts with eligible UAE Professional Investors\. Its closed\-loop model does not support crypto transfers to or from external wallets\.
 
 - [Guide\: Keep individual ETF data separate from country\-wide flow totals](https://chainminute.com/news/cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cc4b1af3-d50d-4a90-a293-ff3d20cfc2ef) | 13 Oct 2026 | Chain Minute
 
