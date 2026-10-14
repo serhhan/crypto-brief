@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [Guide\: Build a stablecoin supply notebook with DeFiLlama on AirnodeHub](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | 14 Oct 2026 | Yield Dispatch
+
+  An unexecuted workflow for identifying a stablecoin by its API ID, recording chain and date coverage, and keeping price data apart from supply measures\.
 
 - [Context7 appears on AirnodeHub with sponsored early\-access calls](https://forkbrief.com/news/dfcc982a-e9bd-4bfd-afed-4696cf4c4fee?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfcc982a-e9bd-4bfd-afed-4696cf4c4fee) | 13 Oct 2026 | Fork Brief
 

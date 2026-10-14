@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-22 distinct developments, newest first.
+23 distinct developments, newest first.
+
+- [Guide\: Build a stablecoin supply notebook with DeFiLlama on AirnodeHub](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | 14 Oct 2026 | Yield Dispatch
+
+  An unexecuted workflow for identifying a stablecoin by its API ID, recording chain and date coverage, and keeping price data apart from supply measures\.
 
 - [Polygon adds TRON to Open Money Stack for USDT payment routing](https://yielddispatch.com/news/0d13a852-88e8-4e93-9979-569b15976584?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0d13a852-88e8-4e93-9979-569b15976584) | 7 Oct 2026 | Yield Dispatch
 
