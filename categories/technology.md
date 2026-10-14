@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-32 distinct developments, newest first.
+33 distinct developments, newest first.
+
+- [Starknet introduces app\-specific Shadow Accounts with wallet integration requirements](https://forkbrief.com/news/22325005-df79-463f-a943-17dc233a9596?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=22325005-df79-463f-a943-17dc233a9596) | 14 Oct 2026 | Fork Brief
+
+  The October 13 introduction separates an app identity from the main wallet link while keeping its onchain activity public\. The Vesu example is a mainnet demo\.
 
 - [Ripple and Privy announce XRPL embedded\-wallet partnership](https://forkbrief.com/news/bd2be1aa-d579-4f14-978c-bcef71c44ab6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bd2be1aa-d579-4f14-978c-bcef71c44ab6) | 13 Oct 2026 | Fork Brief
 
