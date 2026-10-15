@@ -6,6 +6,14 @@ Updated 15 Oct 2026.
 
 [Dated edition](archive/2026-10-15.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Starknet opens non\-binding poll on researching an independent L1
+
+An October 15 Snapshot poll asks STRK holders whether to support research into an independent L1\. Voting closes October 22, and the poll does not authorize a network transition\.
+
+[Fork Brief](https://forkbrief.com/news/222f6193-2859-46f6-93e6-4b7103cc5305?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=222f6193-2859-46f6-93e6-4b7103cc5305) | Published 15 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/222f6193-2859-46f6-93e6-4b7103cc5305?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=222f6193-2859-46f6-93e6-4b7103cc5305) | [cointelegraph\.com](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1) | [community\.starknet\.io](https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392)
+
 ## EBA designates USDC significant, with split supervision starting November 12
 
 The October 14 announcement covers USDC\. Specified supervisory functions move to the EBA on November 12, while France’s ACPR retains governance and other responsibilities\.
@@ -29,14 +37,6 @@ An unexecuted workflow for identifying a stablecoin by its API ID, recording cha
 [Yield Dispatch](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | Published 14 Oct 2026 | Guide
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | [airnode\-defillama\.fly\.dev](https://airnode-defillama.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/explore/defillama)
-
-## Starknet introduces app\-specific Shadow Accounts with wallet integration requirements
-
-The October 13 introduction separates an app identity from the main wallet link while keeping its onchain activity public\. The Vesu example is a mainnet demo\.
-
-[Fork Brief](https://forkbrief.com/news/22325005-df79-463f-a943-17dc233a9596?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=22325005-df79-463f-a943-17dc233a9596) | Published 14 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/22325005-df79-463f-a943-17dc233a9596?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=22325005-df79-463f-a943-17dc233a9596) | [cointelegraph\.com](https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/starkience/shadow-account-demo/main/README.md)
 
 ## Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales
 
