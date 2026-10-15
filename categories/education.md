@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [Guide\: Read an address label without treating it as an endorsement](https://tokenprimer.com/news/f3934e98-3e6c-49a4-9685-f7b46ac041e2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f3934e98-3e6c-49a4-9685-f7b46ac041e2) | 15 Oct 2026 | Token Primer
+
+  A Kleros Scout example keeps chain and contract identity, registry state and relay provenance separate from claims about safety\.
 
 - [x402 Explained\: What an Agent Needs to Pay for an API Call](https://tokenprimer.com/news/e0c363ea-7a53-495e-bd9c-73876c037961?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e0c363ea-7a53-495e-bd9c-73876c037961) | 7 Oct 2026 | Token Primer
 

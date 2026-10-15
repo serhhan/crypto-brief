@@ -6,6 +6,14 @@ Updated 15 Oct 2026.
 
 [Dated edition](archive/2026-10-15.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Guide\: Read an address label without treating it as an endorsement
+
+A Kleros Scout example keeps chain and contract identity, registry state and relay provenance separate from claims about safety\.
+
+[Token Primer](https://tokenprimer.com/news/f3934e98-3e6c-49a4-9685-f7b46ac041e2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f3934e98-3e6c-49a4-9685-f7b46ac041e2) | Published 15 Oct 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/f3934e98-3e6c-49a4-9685-f7b46ac041e2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f3934e98-3e6c-49a4-9685-f7b46ac041e2) | [airnode\-kleros\-scout\.fly\.dev](https://airnode-kleros-scout.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation)
+
 ## Starknet opens non\-binding poll on researching an independent L1
 
 An October 15 Snapshot poll asks STRK holders whether to support research into an independent L1\. Voting closes October 22, and the poll does not authorize a network transition\.
@@ -29,14 +37,6 @@ The new wealth\-client service starts with eligible UAE Professional Investors\.
 [Chain Minute](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | Published 14 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | [decrypt\.co](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading) | [www\.sc\.com](https://www.sc.com/ae/investments/cryptocurrency/)
-
-## Guide\: Build a stablecoin supply notebook with DeFiLlama on AirnodeHub
-
-An unexecuted workflow for identifying a stablecoin by its API ID, recording chain and date coverage, and keeping price data apart from supply measures\.
-
-[Yield Dispatch](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | Published 14 Oct 2026 | Guide
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | [airnode\-defillama\.fly\.dev](https://airnode-defillama.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/explore/defillama)
 
 ## Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales
 
