@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [EBA designates USDC significant, with split supervision starting November 12](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | 15 Oct 2026 | Yield Dispatch
+
+  The October 14 announcement covers USDC\. Specified supervisory functions move to the EBA on November 12, while France’s ACPR retains governance and other responsibilities\.
 
 - [Circle brings CCTP V2 to Sui mainnet and testnet](https://forkbrief.com/news/afadc8c3-397b-4720-bae7-84c3d944a2ba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afadc8c3-397b-4720-bae7-84c3d944a2ba) | 8 Oct 2026 | Fork Brief
 

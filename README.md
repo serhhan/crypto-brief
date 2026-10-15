@@ -6,13 +6,13 @@ Updated 15 Oct 2026.
 
 [Dated edition](archive/2026-10-15.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## VanEck asks to withdraw proposed Lido ETF registration
+## EBA designates USDC significant, with split supervision starting November 12
 
-An October 14 Form RW concerns file 333\-290918 for the proposed VanEck Lido Staked Ethereum ETF\. EDGAR identifies the submission as a registration withdrawal request\.
+The October 14 announcement covers USDC\. Specified supervisory functions move to the EBA on November 12, while France’s ACPR retains governance and other responsibilities\.
 
-[Token Primer](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | Published 15 Oct 2026
+[Yield Dispatch](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | Published 15 Oct 2026
 
-Sources: [Token Primer](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | [cryptonews\.net](https://cryptonews.net/news/ethereum/33593953/) | [data\.sec\.gov](https://data.sec.gov/submissions/CIK0002091159.json)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | [www\.cryptotimes\.io](https://www.cryptotimes.io/2026/10/15/eba-names-circles-usdc-eus-first-significant-e-money-token/) | [www\.eba\.europa\.eu](https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica)
 
 ## Standard Chartered launches BTC and ETH trading for UAE professional investors
 

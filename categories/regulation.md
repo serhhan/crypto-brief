@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [EBA designates USDC significant, with split supervision starting November 12](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | 15 Oct 2026 | Yield Dispatch
+
+  The October 14 announcement covers USDC\. Specified supervisory functions move to the EBA on November 12, while France’s ACPR retains governance and other responsibilities\.
 
 - [VanEck asks to withdraw proposed Lido ETF registration](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | 15 Oct 2026 | Token Primer
 
