@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 14 Oct 2026.
+Updated 15 Oct 2026.
 
-[Dated edition](archive/2026-10-14.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-15.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Standard Chartered launches BTC and ETH trading for UAE professional investors
 
