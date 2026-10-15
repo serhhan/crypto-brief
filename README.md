@@ -6,6 +6,14 @@ Updated 15 Oct 2026.
 
 [Dated edition](archive/2026-10-15.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## VanEck asks to withdraw proposed Lido ETF registration
+
+An October 14 Form RW concerns file 333\-290918 for the proposed VanEck Lido Staked Ethereum ETF\. EDGAR identifies the submission as a registration withdrawal request\.
+
+[Token Primer](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | Published 15 Oct 2026
+
+Sources: [Token Primer](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | [cryptonews\.net](https://cryptonews.net/news/ethereum/33593953/) | [data\.sec\.gov](https://data.sec.gov/submissions/CIK0002091159.json)
+
 ## Standard Chartered launches BTC and ETH trading for UAE professional investors
 
 The new wealth\-client service starts with eligible UAE Professional Investors\. Its closed\-loop model does not support crypto transfers to or from external wallets\.
@@ -37,11 +45,3 @@ Ledger’s October 13 update asks regional resellers and distributors to suspend
 [Chain Incident](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | Published 14 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | [cointelegraph\.com](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong) | [x\.com](https://x.com/Ledger/status/2110129361382994076)
-
-## South Korea announces website blocks for 27 unregistered crypto operators
-
-An October 13 FIU notice announces website restrictions approved on October 6–7\. The list includes KuCoin, MEXC and BitMart, extending earlier mobile\-app access controls\.
-
-[Chain Minute](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | Published 13 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | [www\.coindesk\.com](https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin) | [www\.fsc\.go\.kr](https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87916&fileTy=ATTACH&fileNo=2)

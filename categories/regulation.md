@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [VanEck asks to withdraw proposed Lido ETF registration](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | 15 Oct 2026 | Token Primer
+
+  An October 14 Form RW concerns file 333\-290918 for the proposed VanEck Lido Staked Ethereum ETF\. EDGAR identifies the submission as a registration withdrawal request\.
 
 - [South Korea announces website blocks for 27 unregistered crypto operators](https://chainminute.com/news/fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa88e754-d0fd-4b00-b2f9-8c20a9ebbb69) | 13 Oct 2026 | Chain Minute
 

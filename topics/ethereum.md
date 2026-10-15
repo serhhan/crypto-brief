@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-27 distinct developments, newest first.
+28 distinct developments, newest first.
+
+- [VanEck asks to withdraw proposed Lido ETF registration](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | 15 Oct 2026 | Token Primer
+
+  An October 14 Form RW concerns file 333\-290918 for the proposed VanEck Lido Staked Ethereum ETF\. EDGAR identifies the submission as a registration withdrawal request\.
 
 - [Standard Chartered launches BTC and ETH trading for UAE professional investors](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | 14 Oct 2026 | Chain Minute
 
