@@ -6,6 +6,14 @@ Updated 16 Oct 2026.
 
 [Dated edition](archive/2026-10-16.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Judge rejects joint Gemini and CFTC bid to undo consent order
+
+An October 15 ruling keeps the January 2025 order in place while preserving the CFTC’s enforcement discretion\.
+
+[Chain Minute](https://chainminute.com/news/c36204cf-6022-418b-9e09-cc9134fb8455?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c36204cf-6022-418b-9e09-cc9134fb8455) | Published 16 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/c36204cf-6022-418b-9e09-cc9134fb8455?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c36204cf-6022-418b-9e09-cc9134fb8455) | [cointelegraph\.com](https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal) | [storage\.courtlistener\.com](https://storage.courtlistener.com/recap/gov.uscourts.nysd.580874/gov.uscourts.nysd.580874.223.0.pdf)
+
 ## MSCI adopts operating\-company screen for November index review
 
 MSCI’s October 15 decision takes effect November 30\. The final affected\-company list is due November 11\.
@@ -29,14 +37,6 @@ An October 15 Snapshot poll asks STRK holders whether to support research into a
 [Fork Brief](https://forkbrief.com/news/222f6193-2859-46f6-93e6-4b7103cc5305?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=222f6193-2859-46f6-93e6-4b7103cc5305) | Published 15 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/222f6193-2859-46f6-93e6-4b7103cc5305?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=222f6193-2859-46f6-93e6-4b7103cc5305) | [cointelegraph\.com](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1) | [community\.starknet\.io](https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392)
-
-## EBA designates USDC significant, with split supervision starting November 12
-
-The October 14 announcement covers USDC\. Specified supervisory functions move to the EBA on November 12, while France’s ACPR retains governance and other responsibilities\.
-
-[Yield Dispatch](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | Published 15 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | [www\.cryptotimes\.io](https://www.cryptotimes.io/2026/10/15/eba-names-circles-usdc-eus-first-significant-e-money-token/) | [www\.eba\.europa\.eu](https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica)
 
 ## Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales
 

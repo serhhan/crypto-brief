@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-15 distinct developments, newest first.
+16 distinct developments, newest first.
+
+- [Judge rejects joint Gemini and CFTC bid to undo consent order](https://chainminute.com/news/c36204cf-6022-418b-9e09-cc9134fb8455?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c36204cf-6022-418b-9e09-cc9134fb8455) | 16 Oct 2026 | Chain Minute
+
+  An October 15 ruling keeps the January 2025 order in place while preserving the CFTC’s enforcement discretion\.
 
 - [EBA designates USDC significant, with split supervision starting November 12](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | 15 Oct 2026 | Yield Dispatch
 
