@@ -6,13 +6,13 @@ Updated 16 Oct 2026.
 
 [Dated edition](archive/2026-10-16.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Visa Direct moves USDC prefunding into production with Inyo Global
+## Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards
 
-Visa names Inyo as its first USDC prefunding production enabler\. Availability depends on client eligibility and geography\.
+The announced collaboration divides stablecoin custody, conversion and card processing responsibilities, with rollout details still undisclosed\.
 
-[Yield Dispatch](https://yielddispatch.com/news/8f58b128-1763-42e5-a2d0-96f377262883?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f58b128-1763-42e5-a2d0-96f377262883) | Published 16 Oct 2026
+[Yield Dispatch](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | Published 16 Oct 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/8f58b128-1763-42e5-a2d0-96f377262883?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f58b128-1763-42e5-a2d0-96f377262883) | [corporate\.visa\.com](https://corporate.visa.com/en/sites/visa-perspectives/newsroom/visa-direct-moves-stablecoin-pilots-production.html) | [corporate\.visa\.com](https://corporate.visa.com/en/solutions/commercial-solutions/knowledge-hub/b2b-stablecoin-payments.html)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | [atlanta\.newsnetmedia\.com](https://atlanta.newsnetmedia.com/story/379000/marqeta-and-coinbase-collaborate-to-enable-stablecoin-backed-card-payments/) | [www\.digitaltransactions\.net](https://www.digitaltransactions.net/marqeta-works-with-coinbase-on-cards-backed-by-stablecoins/)
 
 ## Judge rejects joint Gemini and CFTC bid to undo consent order
 

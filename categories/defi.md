@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-24 distinct developments, newest first.
+25 distinct developments, newest first.
+
+- [Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | 16 Oct 2026 | Yield Dispatch
+
+  The announced collaboration divides stablecoin custody, conversion and card processing responsibilities, with rollout details still undisclosed\.
 
 - [Visa Direct moves USDC prefunding into production with Inyo Global](https://yielddispatch.com/news/8f58b128-1763-42e5-a2d0-96f377262883?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f58b128-1763-42e5-a2d0-96f377262883) | 16 Oct 2026 | Yield Dispatch
 
