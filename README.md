@@ -6,6 +6,14 @@ Updated 16 Oct 2026.
 
 [Dated edition](archive/2026-10-16.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Visa Direct moves USDC prefunding into production with Inyo Global
+
+Visa names Inyo as its first USDC prefunding production enabler\. Availability depends on client eligibility and geography\.
+
+[Yield Dispatch](https://yielddispatch.com/news/8f58b128-1763-42e5-a2d0-96f377262883?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f58b128-1763-42e5-a2d0-96f377262883) | Published 16 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/8f58b128-1763-42e5-a2d0-96f377262883?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f58b128-1763-42e5-a2d0-96f377262883) | [corporate\.visa\.com](https://corporate.visa.com/en/sites/visa-perspectives/newsroom/visa-direct-moves-stablecoin-pilots-production.html) | [corporate\.visa\.com](https://corporate.visa.com/en/solutions/commercial-solutions/knowledge-hub/b2b-stablecoin-payments.html)
+
 ## Judge rejects joint Gemini and CFTC bid to undo consent order
 
 An October 15 ruling keeps the January 2025 order in place while preserving the CFTC’s enforcement discretion\.
@@ -37,11 +45,3 @@ An October 15 Snapshot poll asks STRK holders whether to support research into a
 [Fork Brief](https://forkbrief.com/news/222f6193-2859-46f6-93e6-4b7103cc5305?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=222f6193-2859-46f6-93e6-4b7103cc5305) | Published 15 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/222f6193-2859-46f6-93e6-4b7103cc5305?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=222f6193-2859-46f6-93e6-4b7103cc5305) | [cointelegraph\.com](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1) | [community\.starknet\.io](https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392)
-
-## Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales
-
-Ledger’s October 13 update asks regional resellers and distributors to suspend device sales and remove shelf stock while its investigation continues\.
-
-[Chain Incident](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | Published 14 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | [cointelegraph\.com](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong) | [x\.com](https://x.com/Ledger/status/2110129361382994076)

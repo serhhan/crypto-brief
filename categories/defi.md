@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-23 distinct developments, newest first.
+24 distinct developments, newest first.
+
+- [Visa Direct moves USDC prefunding into production with Inyo Global](https://yielddispatch.com/news/8f58b128-1763-42e5-a2d0-96f377262883?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f58b128-1763-42e5-a2d0-96f377262883) | 16 Oct 2026 | Yield Dispatch
+
+  Visa names Inyo as its first USDC prefunding production enabler\. Availability depends on client eligibility and geography\.
 
 - [Guide\: Build a stablecoin supply notebook with DeFiLlama on AirnodeHub](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | 14 Oct 2026 | Yield Dispatch
 

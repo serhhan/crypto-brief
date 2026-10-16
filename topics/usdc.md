@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [Visa Direct moves USDC prefunding into production with Inyo Global](https://yielddispatch.com/news/8f58b128-1763-42e5-a2d0-96f377262883?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f58b128-1763-42e5-a2d0-96f377262883) | 16 Oct 2026 | Yield Dispatch
+
+  Visa names Inyo as its first USDC prefunding production enabler\. Availability depends on client eligibility and geography\.
 
 - [EBA designates USDC significant, with split supervision starting November 12](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | 15 Oct 2026 | Yield Dispatch
 
