@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-23 distinct developments, newest first.
+24 distinct developments, newest first.
+
+- [MSCI adopts operating\-company screen for November index review](https://chainminute.com/news/7df530b8-e5f4-4360-8c65-d9fc34cf723c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7df530b8-e5f4-4360-8c65-d9fc34cf723c) | 16 Oct 2026 | Chain Minute
+
+  MSCI’s October 15 decision takes effect November 30\. The final affected\-company list is due November 11\.
 
 - [Standard Chartered launches BTC and ETH trading for UAE professional investors](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | 14 Oct 2026 | Chain Minute
 

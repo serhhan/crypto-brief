@@ -6,6 +6,14 @@ Updated 16 Oct 2026.
 
 [Dated edition](archive/2026-10-16.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## MSCI adopts operating\-company screen for November index review
+
+MSCI’s October 15 decision takes effect November 30\. The final affected\-company list is due November 11\.
+
+[Chain Minute](https://chainminute.com/news/7df530b8-e5f4-4360-8c65-d9fc34cf723c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7df530b8-e5f4-4360-8c65-d9fc34cf723c) | Published 16 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/7df530b8-e5f4-4360-8c65-d9fc34cf723c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7df530b8-e5f4-4360-8c65-d9fc34cf723c) | [app2\.msci\.com](https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=aq0wbkjxPgo%3D) | [finance\.yahoo\.com](https://finance.yahoo.com/markets/stocks/articles/microstrategy-could-removed-major-global-230851499.html)
+
 ## Guide\: Read an address label without treating it as an endorsement
 
 A Kleros Scout example keeps chain and contract identity, registry state and relay provenance separate from claims about safety\.
@@ -29,14 +37,6 @@ The October 14 announcement covers USDC\. Specified supervisory functions move t
 [Yield Dispatch](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | Published 15 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/0f696ae8-70ff-4f04-baef-d45c70db259a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0f696ae8-70ff-4f04-baef-d45c70db259a) | [www\.cryptotimes\.io](https://www.cryptotimes.io/2026/10/15/eba-names-circles-usdc-eus-first-significant-e-money-token/) | [www\.eba\.europa\.eu](https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica)
-
-## Standard Chartered launches BTC and ETH trading for UAE professional investors
-
-The new wealth\-client service starts with eligible UAE Professional Investors\. Its closed\-loop model does not support crypto transfers to or from external wallets\.
-
-[Chain Minute](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | Published 14 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | [decrypt\.co](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading) | [www\.sc\.com](https://www.sc.com/ae/investments/cryptocurrency/)
 
 ## Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales
 
