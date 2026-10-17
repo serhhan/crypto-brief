@@ -6,6 +6,14 @@ Updated 17 Oct 2026.
 
 [Dated edition](archive/2026-10-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Guide\: Preserve CVE identity and timestamps in an incident note with AirnodeHub
+
+Use the documented NVD interface to preserve CVE identifiers, record timestamps and original advisory references, while keeping relay attestation separate from incident evidence\.
+
+[Chain Incident](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | Published 17 Oct 2026 | Guide
+
+Sources: [Chain Incident](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | [airnode\-nvd\.fly\.dev](https://airnode-nvd.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/explore/nvd)
+
 ## Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards
 
 The announced collaboration divides stablecoin custody, conversion and card processing responsibilities, with rollout details still undisclosed\.
@@ -29,14 +37,6 @@ MSCI’s October 15 decision takes effect November 30\. The final affected\-comp
 [Chain Minute](https://chainminute.com/news/7df530b8-e5f4-4360-8c65-d9fc34cf723c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7df530b8-e5f4-4360-8c65-d9fc34cf723c) | Published 16 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/7df530b8-e5f4-4360-8c65-d9fc34cf723c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7df530b8-e5f4-4360-8c65-d9fc34cf723c) | [app2\.msci\.com](https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=aq0wbkjxPgo%3D) | [finance\.yahoo\.com](https://finance.yahoo.com/markets/stocks/articles/microstrategy-could-removed-major-global-230851499.html)
-
-## Guide\: Read an address label without treating it as an endorsement
-
-A Kleros Scout example keeps chain and contract identity, registry state and relay provenance separate from claims about safety\.
-
-[Token Primer](https://tokenprimer.com/news/f3934e98-3e6c-49a4-9685-f7b46ac041e2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f3934e98-3e6c-49a4-9685-f7b46ac041e2) | Published 15 Oct 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/f3934e98-3e6c-49a4-9685-f7b46ac041e2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f3934e98-3e6c-49a4-9685-f7b46ac041e2) | [airnode\-kleros\-scout\.fly\.dev](https://airnode-kleros-scout.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation)
 
 ## Starknet opens non\-binding poll on researching an independent L1
 

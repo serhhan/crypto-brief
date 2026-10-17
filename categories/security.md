@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-20 distinct developments, newest first.
+21 distinct developments, newest first.
+
+- [Guide\: Preserve CVE identity and timestamps in an incident note with AirnodeHub](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | 17 Oct 2026 | Chain Incident
+
+  Use the documented NVD interface to preserve CVE identifiers, record timestamps and original advisory references, while keeping relay attestation separate from incident evidence\.
 
 - [Ledger asks resellers in six Southeast Asian countries and Hong Kong to pause sales](https://chainincident.com/news/bb315b07-38fc-4cd4-872d-126bdcfc2b5d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bb315b07-38fc-4cd4-872d-126bdcfc2b5d) | 14 Oct 2026 | Chain Incident
 

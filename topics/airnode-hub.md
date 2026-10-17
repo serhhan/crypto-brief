@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [Guide\: Preserve CVE identity and timestamps in an incident note with AirnodeHub](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | 17 Oct 2026 | Chain Incident
+
+  Use the documented NVD interface to preserve CVE identifiers, record timestamps and original advisory references, while keeping relay attestation separate from incident evidence\.
 
 - [Guide\: Build a stablecoin supply notebook with DeFiLlama on AirnodeHub](https://yielddispatch.com/news/3615f6f7-2416-4be8-b9e6-6d4326d9808d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3615f6f7-2416-4be8-b9e6-6d4326d9808d) | 14 Oct 2026 | Yield Dispatch
 
