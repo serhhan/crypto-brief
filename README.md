@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 16 Oct 2026.
+Updated 17 Oct 2026.
 
-[Dated edition](archive/2026-10-16.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards
 
