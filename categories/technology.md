@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-34 distinct developments, newest first.
+35 distinct developments, newest first.
+
+- [Quantum Alliance announces four workstreams for blockchain standards](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | 17 Oct 2026 | Fork Brief
+
+  Nine founding organizations plan public criteria, benchmarks and migration designs for post\-quantum readiness across networks and wallets\.
 
 - [Starknet opens non\-binding poll on researching an independent L1](https://forkbrief.com/news/222f6193-2859-46f6-93e6-4b7103cc5305?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=222f6193-2859-46f6-93e6-4b7103cc5305) | 15 Oct 2026 | Fork Brief
 
