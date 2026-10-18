@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-21 distinct developments, newest first.
+22 distinct developments, newest first.
+
+- [Cysic keeps bridge closed after reporting unauthorized 10 million CYS mint](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | 18 Oct 2026 | Chain Incident
+
+  Cysic Foundation disclosed an October 17 unauthorized mint on BNB Smart Chain and says its cross\-chain bridge remains unavailable while the cause and token movements are investigated\.
 
 - [Guide\: Preserve CVE identity and timestamps in an incident note with AirnodeHub](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | 17 Oct 2026 | Chain Incident
 

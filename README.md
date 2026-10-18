@@ -2,9 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 17 Oct 2026.
+Updated 18 Oct 2026.
 
-[Dated edition](archive/2026-10-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-18.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+
+## Cysic keeps bridge closed after reporting unauthorized 10 million CYS mint
+
+Cysic Foundation disclosed an October 17 unauthorized mint on BNB Smart Chain and says its cross\-chain bridge remains unavailable while the cause and token movements are investigated\.
+
+[Chain Incident](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | Published 18 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | [cointelegraph\.com](https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys) | [x\.com](https://x.com/cysic_fdn/status/2111761749116637687)
 
 ## Quantum Alliance announces four workstreams for blockchain standards
 
@@ -13,14 +21,6 @@ Nine founding organizations plan public criteria, benchmarks and migration desig
 [Fork Brief](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | Published 17 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | [hacken\.io](https://hacken.io/network/hacken-joins-the-quantum-alliance-as-a-founding-member/) | [quip\.network](https://quip.network/blog/postquant-labs-joins-the-quantum-alliance)
-
-## Guide\: Preserve CVE identity and timestamps in an incident note with AirnodeHub
-
-Use the documented NVD interface to preserve CVE identifiers, record timestamps and original advisory references, while keeping relay attestation separate from incident evidence\.
-
-[Chain Incident](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | Published 17 Oct 2026 | Guide
-
-Sources: [Chain Incident](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | [airnode\-nvd\.fly\.dev](https://airnode-nvd.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/explore/nvd)
 
 ## Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards
 
