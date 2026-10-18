@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-35 distinct developments, newest first.
+36 distinct developments, newest first.
+
+- [Guide\: Read an Ethereum transaction receipt through AirnodeHub](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | 18 Oct 2026 | Fork Brief
+
+  A documented dRPC workflow keeps the network, transaction hash and receipt fields together, without treating an API signature as blockchain finality\.
 
 - [Quantum Alliance announces four workstreams for blockchain standards](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | 17 Oct 2026 | Fork Brief
 

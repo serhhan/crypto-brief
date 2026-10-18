@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-28 distinct developments, newest first.
+29 distinct developments, newest first.
+
+- [Guide\: Read an Ethereum transaction receipt through AirnodeHub](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | 18 Oct 2026 | Fork Brief
+
+  A documented dRPC workflow keeps the network, transaction hash and receipt fields together, without treating an API signature as blockchain finality\.
 
 - [VanEck asks to withdraw proposed Lido ETF registration](https://tokenprimer.com/news/8dae831e-5518-4bc7-841e-4f3452ecc1d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8dae831e-5518-4bc7-841e-4f3452ecc1d4) | 15 Oct 2026 | Token Primer
 

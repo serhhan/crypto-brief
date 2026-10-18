@@ -6,6 +6,14 @@ Updated 18 Oct 2026.
 
 [Dated edition](archive/2026-10-18.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Guide\: Read an Ethereum transaction receipt through AirnodeHub
+
+A documented dRPC workflow keeps the network, transaction hash and receipt fields together, without treating an API signature as blockchain finality\.
+
+[Fork Brief](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | Published 18 Oct 2026 | Guide
+
+Sources: [Fork Brief](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | [airnode\-drpc\.fly\.dev](https://airnode-drpc.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation)
+
 ## Cysic keeps bridge closed after reporting unauthorized 10 million CYS mint
 
 Cysic Foundation disclosed an October 17 unauthorized mint on BNB Smart Chain and says its cross\-chain bridge remains unavailable while the cause and token movements are investigated\.
@@ -13,14 +21,6 @@ Cysic Foundation disclosed an October 17 unauthorized mint on BNB Smart Chain an
 [Chain Incident](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | Published 18 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | [cointelegraph\.com](https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys) | [x\.com](https://x.com/cysic_fdn/status/2111761749116637687)
-
-## Quantum Alliance announces four workstreams for blockchain standards
-
-Nine founding organizations plan public criteria, benchmarks and migration designs for post\-quantum readiness across networks and wallets\.
-
-[Fork Brief](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | Published 17 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | [hacken\.io](https://hacken.io/network/hacken-joins-the-quantum-alliance-as-a-founding-member/) | [quip\.network](https://quip.network/blog/postquant-labs-joins-the-quantum-alliance)
 
 ## Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards
 

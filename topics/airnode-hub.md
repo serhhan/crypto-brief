@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [Guide\: Read an Ethereum transaction receipt through AirnodeHub](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | 18 Oct 2026 | Fork Brief
+
+  A documented dRPC workflow keeps the network, transaction hash and receipt fields together, without treating an API signature as blockchain finality\.
 
 - [Guide\: Preserve CVE identity and timestamps in an incident note with AirnodeHub](https://chainincident.com/news/a38b516c-197c-4e31-bbb7-9132dcafd2fc?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a38b516c-197c-4e31-bbb7-9132dcafd2fc) | 17 Oct 2026 | Chain Incident
 

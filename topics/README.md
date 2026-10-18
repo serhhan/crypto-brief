@@ -7,14 +7,14 @@ Follow coverage of a coin, protocol or project through article summaries and dat
 Linked pages contain at least three distinct developments.
 
 - [Aave](aave.md) | 4 distinct developments
-- [Airnode Hub](airnode-hub.md) | 12 distinct developments
+- [Airnode Hub](airnode-hub.md) | 13 distinct developments
 - [API3](api3.md) | 7 distinct developments
 - [Bitcoin](bitcoin.md) | 13 distinct developments
 - BNB Chain | 1 distinct development
 - Chainlink | 1 distinct development
 - Cosmos Hub | 1 distinct development
 - Dogecoin | 2 distinct developments
-- [Ethereum](ethereum.md) | 28 distinct developments
+- [Ethereum](ethereum.md) | 29 distinct developments
 - Hyperliquid | 1 distinct development
 - [Morpho](morpho.md) | 3 distinct developments
 - [Solana](solana.md) | 7 distinct developments
