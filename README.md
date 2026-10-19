@@ -6,6 +6,14 @@ Updated 19 Oct 2026.
 
 [Dated edition](archive/2026-10-19.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Revolut gains Gibraltar DLT permission for international crypto expansion
+
+The government confirmed permission for order handling, custody and staking, while international target markets and rollout dates remain unannounced\.
+
+[Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | Published 19 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | [cointelegraph\.com](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion) | [www\.gibraltar\.gov\.gi](https://www.gibraltar.gov.gi/press-releases/government-of-gibraltar-welcomes-revoluts-full-resumption-of-customer-onboarding-in-gibraltar-and-new-regulatory-permission-7962026-12475)
+
 ## JPMorgan announces Ethereum expansion for JPM Coin deposit token
 
 The bank’s deposit token is set to extend beyond Base, while public materials leave Ethereum client rollout timing unclear\.
@@ -37,11 +45,3 @@ Nine founding organizations plan public criteria, benchmarks and migration desig
 [Fork Brief](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | Published 17 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/cede00a0-a0c7-4dec-97ee-d080e7d0228e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=cede00a0-a0c7-4dec-97ee-d080e7d0228e) | [hacken\.io](https://hacken.io/network/hacken-joins-the-quantum-alliance-as-a-founding-member/) | [quip\.network](https://quip.network/blog/postquant-labs-joins-the-quantum-alliance)
-
-## Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards
-
-The announced collaboration divides stablecoin custody, conversion and card processing responsibilities, with rollout details still undisclosed\.
-
-[Yield Dispatch](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | Published 16 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | [atlanta\.newsnetmedia\.com](https://atlanta.newsnetmedia.com/story/379000/marqeta-and-coinbase-collaborate-to-enable-stablecoin-backed-card-payments/) | [www\.digitaltransactions\.net](https://www.digitaltransactions.net/marqeta-works-with-coinbase-on-cards-backed-by-stablecoins/)

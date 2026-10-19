@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-16 distinct developments, newest first.
+17 distinct developments, newest first.
+
+- [Revolut gains Gibraltar DLT permission for international crypto expansion](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | 19 Oct 2026 | Chain Minute
+
+  The government confirmed permission for order handling, custody and staking, while international target markets and rollout dates remain unannounced\.
 
 - [Judge rejects joint Gemini and CFTC bid to undo consent order](https://chainminute.com/news/c36204cf-6022-418b-9e09-cc9134fb8455?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c36204cf-6022-418b-9e09-cc9134fb8455) | 16 Oct 2026 | Chain Minute
 
