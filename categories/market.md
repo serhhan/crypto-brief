@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-24 distinct developments, newest first.
+25 distinct developments, newest first.
+
+- [JPMorgan announces Ethereum expansion for JPM Coin deposit token](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | 19 Oct 2026 | Chain Minute
+
+  The bank’s deposit token is set to extend beyond Base, while public materials leave Ethereum client rollout timing unclear\.
 
 - [MSCI adopts operating\-company screen for November index review](https://chainminute.com/news/7df530b8-e5f4-4360-8c65-d9fc34cf723c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7df530b8-e5f4-4360-8c65-d9fc34cf723c) | 16 Oct 2026 | Chain Minute
 

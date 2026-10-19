@@ -6,6 +6,14 @@ Updated 19 Oct 2026.
 
 [Dated edition](archive/2026-10-19.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## JPMorgan announces Ethereum expansion for JPM Coin deposit token
+
+The bank’s deposit token is set to extend beyond Base, while public materials leave Ethereum client rollout timing unclear\.
+
+[Chain Minute](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | Published 19 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | [theedgemalaysia\.com](https://theedgemalaysia.com/node/822321) | [www\.coindesk\.com](https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg)
+
 ## Guide\: Read an Ethereum transaction receipt through AirnodeHub
 
 A documented dRPC workflow keeps the network, transaction hash and receipt fields together, without treating an API signature as blockchain finality\.
@@ -37,11 +45,3 @@ The announced collaboration divides stablecoin custody, conversion and card proc
 [Yield Dispatch](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | Published 16 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | [atlanta\.newsnetmedia\.com](https://atlanta.newsnetmedia.com/story/379000/marqeta-and-coinbase-collaborate-to-enable-stablecoin-backed-card-payments/) | [www\.digitaltransactions\.net](https://www.digitaltransactions.net/marqeta-works-with-coinbase-on-cards-backed-by-stablecoins/)
-
-## Judge rejects joint Gemini and CFTC bid to undo consent order
-
-An October 15 ruling keeps the January 2025 order in place while preserving the CFTC’s enforcement discretion\.
-
-[Chain Minute](https://chainminute.com/news/c36204cf-6022-418b-9e09-cc9134fb8455?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c36204cf-6022-418b-9e09-cc9134fb8455) | Published 16 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/c36204cf-6022-418b-9e09-cc9134fb8455?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c36204cf-6022-418b-9e09-cc9134fb8455) | [cointelegraph\.com](https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal) | [storage\.courtlistener\.com](https://storage.courtlistener.com/recap/gov.uscourts.nysd.580874/gov.uscourts.nysd.580874.223.0.pdf)

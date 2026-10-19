@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-29 distinct developments, newest first.
+30 distinct developments, newest first.
+
+- [JPMorgan announces Ethereum expansion for JPM Coin deposit token](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | 19 Oct 2026 | Chain Minute
+
+  The bank’s deposit token is set to extend beyond Base, while public materials leave Ethereum client rollout timing unclear\.
 
 - [Guide\: Read an Ethereum transaction receipt through AirnodeHub](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | 18 Oct 2026 | Fork Brief
 
