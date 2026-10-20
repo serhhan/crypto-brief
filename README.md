@@ -6,6 +6,14 @@ Updated 20 Oct 2026.
 
 [Dated edition](archive/2026-10-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bitget identifies its role in planned purchase of GMO’s Thai exchange
+
+Bitget’s October 20 announcement identifies its participation through BTGT Management\. GMO’s proposed sale remains subject to approvals and conditions\.
+
+[Chain Minute](https://chainminute.com/news/3e5c6f07-8f39-4630-8f12-aac587d6d580?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3e5c6f07-8f39-4630-8f12-aac587d6d580) | Published 20 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/3e5c6f07-8f39-4630-8f12-aac587d6d580?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3e5c6f07-8f39-4630-8f12-aac587d6d580) | [internet\.gmo](https://internet.gmo/en/ir/pdf/irlibrary/gmointernet_e_disclose_20260924.pdf) | [www\.bitget\.com](https://www.bitget.com/blog/articles/bitget-thailand-crypto-exchange-acquisition)
+
 ## API3 track and workshop listed for TUM’s October 30–31 hackathon
 
 The organizer lists a €2,000 API3 track and a 30\-minute workshop, with its challenge brief, prize breakdown and session timing still pending\.
@@ -13,14 +21,6 @@ The organizer lists a €2,000 API3 track and a 30\-minute workshop, with its ch
 [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | Published 20 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | [conference26\.tum\-blockchain\.com](https://conference26.tum-blockchain.com/) | [hackathon\.tum\-blockchain\.com](https://hackathon.tum-blockchain.com/)
-
-## First Sparkassen begin DekaBank crypto rollout through banking app
-
-The October 19 start covers participating savings banks; DekaBank supplies the separate crypto account and custody as institutions join individually\.
-
-[Chain Minute](https://chainminute.com/news/1f28ceb8-c3fc-4e9f-86cd-c120684ad177?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1f28ceb8-c3fc-4e9f-86cd-c120684ad177) | Published 20 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/1f28ceb8-c3fc-4e9f-86cd-c120684ad177?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1f28ceb8-c3fc-4e9f-86cd-c120684ad177) | [deka\.de](https://deka.de/krypto/footer_content/weiterfuehrende-inhalte) | [www\.deka\.de](https://www.deka.de/krypto/angebot)
 
 ## Revolut gains Gibraltar DLT permission for international crypto expansion
 

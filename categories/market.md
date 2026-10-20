@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-27 distinct developments, newest first.
+28 distinct developments, newest first.
+
+- [Bitget identifies its role in planned purchase of GMO’s Thai exchange](https://chainminute.com/news/3e5c6f07-8f39-4630-8f12-aac587d6d580?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3e5c6f07-8f39-4630-8f12-aac587d6d580) | 20 Oct 2026 | Chain Minute
+
+  Bitget’s October 20 announcement identifies its participation through BTGT Management\. GMO’s proposed sale remains subject to approvals and conditions\.
 
 - [First Sparkassen begin DekaBank crypto rollout through banking app](https://chainminute.com/news/1f28ceb8-c3fc-4e9f-86cd-c120684ad177?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1f28ceb8-c3fc-4e9f-86cd-c120684ad177) | 20 Oct 2026 | Chain Minute
 
