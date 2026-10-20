@@ -6,6 +6,14 @@ Updated 20 Oct 2026.
 
 [Dated edition](archive/2026-10-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## API3 track and workshop listed for TUM’s October 30–31 hackathon
+
+The organizer lists a €2,000 API3 track and a 30\-minute workshop, with its challenge brief, prize breakdown and session timing still pending\.
+
+[Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | Published 20 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | [conference26\.tum\-blockchain\.com](https://conference26.tum-blockchain.com/) | [hackathon\.tum\-blockchain\.com](https://hackathon.tum-blockchain.com/)
+
 ## First Sparkassen begin DekaBank crypto rollout through banking app
 
 The October 19 start covers participating savings banks; DekaBank supplies the separate crypto account and custody as institutions join individually\.

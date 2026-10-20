@@ -4,7 +4,11 @@ API3 governance, oracle services and developer tools, including AirnodeHub.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [API3 track and workshop listed for TUM’s October 30–31 hackathon](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | 20 Oct 2026 | Fork Brief
+
+  The organizer lists a €2,000 API3 track and a 30\-minute workshop, with its challenge brief, prize breakdown and session timing still pending\.
 
 - [API3 DAO executes 30% staking target as current APR moves to 74%](https://yielddispatch.com/news/3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3879d5ec-6fcd-4d44-bbf0-e3a7b5ccac1a) | 25 Sept 2026 | Yield Dispatch
 
