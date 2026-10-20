@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-25 distinct developments, newest first.
+26 distinct developments, newest first.
+
+- [Anchorage links Securitize to direct stablecoin minting and redemption](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | 20 Oct 2026 | Yield Dispatch
+
+  The partnership puts stablecoin issuance, custody and settlement with Anchorage Digital Bank\. Supported networks, fees and rollout timing were not specified\.
 
 - [Marqeta plans Coinbase expansion for enterprise stablecoin\-backed cards](https://yielddispatch.com/news/70ba053a-4545-4572-82f8-7e6efb365264?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70ba053a-4545-4572-82f8-7e6efb365264) | 16 Oct 2026 | Yield Dispatch
 

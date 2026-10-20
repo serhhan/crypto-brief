@@ -6,6 +6,14 @@ Updated 20 Oct 2026.
 
 [Dated edition](archive/2026-10-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Anchorage links Securitize to direct stablecoin minting and redemption
+
+The partnership puts stablecoin issuance, custody and settlement with Anchorage Digital Bank\. Supported networks, fees and rollout timing were not specified\.
+
+[Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | Published 20 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | [developers\.anchorage\.com](https://developers.anchorage.com/docs/convert-stablecoins) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-brings-federally-issued-stablecoins-to-securitize-the-worlds-largest-tokenization-platform)
+
 ## Bitget identifies its role in planned purchase of GMO’s Thai exchange
 
 Bitget’s October 20 announcement identifies its participation through BTGT Management\. GMO’s proposed sale remains subject to approvals and conditions\.
@@ -29,14 +37,6 @@ The government confirmed permission for order handling, custody and staking, whi
 [Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | Published 19 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | [cointelegraph\.com](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion) | [www\.gibraltar\.gov\.gi](https://www.gibraltar.gov.gi/press-releases/government-of-gibraltar-welcomes-revoluts-full-resumption-of-customer-onboarding-in-gibraltar-and-new-regulatory-permission-7962026-12475)
-
-## Guide\: Read an Ethereum transaction receipt through AirnodeHub
-
-A documented dRPC workflow keeps the network, transaction hash and receipt fields together, without treating an API signature as blockchain finality\.
-
-[Fork Brief](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | Published 18 Oct 2026 | Guide
-
-Sources: [Fork Brief](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | [airnode\-drpc\.fly\.dev](https://airnode-drpc.fly.dev/) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation)
 
 ## Cysic keeps bridge closed after reporting unauthorized 10 million CYS mint
 
