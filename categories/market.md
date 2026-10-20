@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-26 distinct developments, newest first.
+27 distinct developments, newest first.
+
+- [First Sparkassen begin DekaBank crypto rollout through banking app](https://chainminute.com/news/1f28ceb8-c3fc-4e9f-86cd-c120684ad177?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1f28ceb8-c3fc-4e9f-86cd-c120684ad177) | 20 Oct 2026 | Chain Minute
+
+  The October 19 start covers participating savings banks; DekaBank supplies the separate crypto account and custody as institutions join individually\.
 
 - [BlackRock files for PBIT bitcoin ETF using options](https://chainminute.com/news/a8a1a3db-c362-4300-bbbc-546a6420d9b1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8a1a3db-c362-4300-bbbc-546a6420d9b1) | 20 Oct 2026 | Chain Minute
 
