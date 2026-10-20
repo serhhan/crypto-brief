@@ -6,6 +6,14 @@ Updated 20 Oct 2026.
 
 [Dated edition](archive/2026-10-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## BlackRock files for PBIT bitcoin ETF using options
+
+An iShares filing proposes overlapping options and fixed\-income holdings; its management fee and listing exchange remain unfinished\.
+
+[Chain Minute](https://chainminute.com/news/a8a1a3db-c362-4300-bbbc-546a6420d9b1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8a1a3db-c362-4300-bbbc-546a6420d9b1) | Published 20 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/a8a1a3db-c362-4300-bbbc-546a6420d9b1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8a1a3db-c362-4300-bbbc-546a6420d9b1) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/1100663/000119312526425335/d144515d485apos.htm) | [www\.theblock\.co](https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087)
+
 ## Revolut gains Gibraltar DLT permission for international crypto expansion
 
 The government confirmed permission for order handling, custody and staking, while international target markets and rollout dates remain unannounced\.
@@ -13,14 +21,6 @@ The government confirmed permission for order handling, custody and staking, whi
 [Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | Published 19 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | [cointelegraph\.com](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion) | [www\.gibraltar\.gov\.gi](https://www.gibraltar.gov.gi/press-releases/government-of-gibraltar-welcomes-revoluts-full-resumption-of-customer-onboarding-in-gibraltar-and-new-regulatory-permission-7962026-12475)
-
-## JPMorgan announces Ethereum expansion for JPM Coin deposit token
-
-The bank’s deposit token is set to extend beyond Base, while public materials leave Ethereum client rollout timing unclear\.
-
-[Chain Minute](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | Published 19 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | [theedgemalaysia\.com](https://theedgemalaysia.com/node/822321) | [www\.coindesk\.com](https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg)
 
 ## Guide\: Read an Ethereum transaction receipt through AirnodeHub
 

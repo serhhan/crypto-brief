@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [BlackRock files for PBIT bitcoin ETF using options](https://chainminute.com/news/a8a1a3db-c362-4300-bbbc-546a6420d9b1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8a1a3db-c362-4300-bbbc-546a6420d9b1) | 20 Oct 2026 | Chain Minute
+
+  An iShares filing proposes overlapping options and fixed\-income holdings; its management fee and listing exchange remain unfinished\.
 
 - [Standard Chartered launches BTC and ETH trading for UAE professional investors](https://chainminute.com/news/2364a0c7-6ccd-48cd-871f-c605915fd830?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2364a0c7-6ccd-48cd-871f-c605915fd830) | 14 Oct 2026 | Chain Minute
 

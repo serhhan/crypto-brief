@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-25 distinct developments, newest first.
+26 distinct developments, newest first.
+
+- [BlackRock files for PBIT bitcoin ETF using options](https://chainminute.com/news/a8a1a3db-c362-4300-bbbc-546a6420d9b1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8a1a3db-c362-4300-bbbc-546a6420d9b1) | 20 Oct 2026 | Chain Minute
+
+  An iShares filing proposes overlapping options and fixed\-income holdings; its management fee and listing exchange remain unfinished\.
 
 - [JPMorgan announces Ethereum expansion for JPM Coin deposit token](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | 19 Oct 2026 | Chain Minute
 
