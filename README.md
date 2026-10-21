@@ -14,6 +14,14 @@ The final GENIUS Act rule keeps the issuer yield ban and two\-business\-day rede
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/b74f7bb1-2e25-4760-a344-67e6a7e50fe3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b74f7bb1-2e25-4760-a344-67e6a7e50fe3) | [www\.occ\.gov](https://www.occ.gov/news-issuances/federal-register/2026/91fr10202.pdf) | [www\.occ\.gov](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html)
 
+## FINMA approves first Swiss retail Bitcoin ETF
+
+The October 20 announcement approves a Swiss\-law fund investing directly in Bitcoin but leaves its issuer and trading start unspecified\.
+
+[Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | Published 21 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | [www\.finma\.ch](https://www.finma.ch/en/news/2021/09/20210929-mm-genehmigung-schweizer-kryptofonds/) | [www\.finma\.ch](https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/)
+
 ## Anchorage links Securitize to direct stablecoin minting and redemption
 
 The partnership puts stablecoin issuance, custody and settlement with Anchorage Digital Bank\. Supported networks, fees and rollout timing were not specified\.
@@ -37,11 +45,3 @@ The organizer lists a €2,000 API3 track and a 30\-minute workshop, with its ch
 [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | Published 20 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | [conference26\.tum\-blockchain\.com](https://conference26.tum-blockchain.com/) | [hackathon\.tum\-blockchain\.com](https://hackathon.tum-blockchain.com/)
-
-## Cysic keeps bridge closed after reporting unauthorized 10 million CYS mint
-
-Cysic Foundation disclosed an October 17 unauthorized mint on BNB Smart Chain and says its cross\-chain bridge remains unavailable while the cause and token movements are investigated\.
-
-[Chain Incident](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | Published 18 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | [cointelegraph\.com](https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys) | [x\.com](https://x.com/cysic_fdn/status/2111761749116637687)
