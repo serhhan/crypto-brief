@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-28 distinct developments, newest first.
+29 distinct developments, newest first.
+
+- [Standard Chartered signs definitive agreements to acquire Zodia Custody](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | 21 Oct 2026 | Chain Minute
+
+  The conditional acquisition covers the custody parent, while software assets would move to a separate SC Ventures entity\.
 
 - [Bitget identifies its role in planned purchase of GMO’s Thai exchange](https://chainminute.com/news/3e5c6f07-8f39-4630-8f12-aac587d6d580?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3e5c6f07-8f39-4630-8f12-aac587d6d580) | 20 Oct 2026 | Chain Minute
 

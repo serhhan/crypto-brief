@@ -6,6 +6,14 @@ Updated 21 Oct 2026.
 
 [Dated edition](archive/2026-10-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Standard Chartered signs definitive agreements to acquire Zodia Custody
+
+The conditional acquisition covers the custody parent, while software assets would move to a separate SC Ventures entity\.
+
+[Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | Published 21 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | [www\.sc\.com](https://www.sc.com/en/press-release/standard-chartered-to-acquire-zodia-custodys-custody-business/) | [www\.sc\.com](https://www.sc.com/en/press-release/t/)
+
 ## OCC drops proposed stablecoin yield presumption and automatic redemption extension
 
 The final GENIUS Act rule keeps the issuer yield ban and two\-business\-day redemption ceiling, with implementation set for January 18\.
@@ -29,14 +37,6 @@ The partnership puts stablecoin issuance, custody and settlement with Anchorage 
 [Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | Published 20 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | [developers\.anchorage\.com](https://developers.anchorage.com/docs/convert-stablecoins) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-brings-federally-issued-stablecoins-to-securitize-the-worlds-largest-tokenization-platform)
-
-## Bitget identifies its role in planned purchase of GMO’s Thai exchange
-
-Bitget’s October 20 announcement identifies its participation through BTGT Management\. GMO’s proposed sale remains subject to approvals and conditions\.
-
-[Chain Minute](https://chainminute.com/news/3e5c6f07-8f39-4630-8f12-aac587d6d580?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3e5c6f07-8f39-4630-8f12-aac587d6d580) | Published 20 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/3e5c6f07-8f39-4630-8f12-aac587d6d580?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3e5c6f07-8f39-4630-8f12-aac587d6d580) | [internet\.gmo](https://internet.gmo/en/ir/pdf/irlibrary/gmointernet_e_disclose_20260924.pdf) | [www\.bitget\.com](https://www.bitget.com/blog/articles/bitget-thailand-crypto-exchange-acquisition)
 
 ## API3 track and workshop listed for TUM’s October 30–31 hackathon
 
