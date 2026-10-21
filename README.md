@@ -6,13 +6,13 @@ Updated 21 Oct 2026.
 
 [Dated edition](archive/2026-10-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## FINMA approves first Swiss retail Bitcoin ETF
+## OCC drops proposed stablecoin yield presumption and automatic redemption extension
 
-The October 20 announcement approves a Swiss\-law fund investing directly in Bitcoin but leaves its issuer and trading start unspecified\.
+The final GENIUS Act rule keeps the issuer yield ban and two\-business\-day redemption ceiling, with implementation set for January 18\.
 
-[Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | Published 21 Oct 2026
+[Yield Dispatch](https://yielddispatch.com/news/b74f7bb1-2e25-4760-a344-67e6a7e50fe3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b74f7bb1-2e25-4760-a344-67e6a7e50fe3) | Published 21 Oct 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | [www\.finma\.ch](https://www.finma.ch/en/news/2021/09/20210929-mm-genehmigung-schweizer-kryptofonds/) | [www\.finma\.ch](https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/b74f7bb1-2e25-4760-a344-67e6a7e50fe3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b74f7bb1-2e25-4760-a344-67e6a7e50fe3) | [www\.occ\.gov](https://www.occ.gov/news-issuances/federal-register/2026/91fr10202.pdf) | [www\.occ\.gov](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html)
 
 ## Anchorage links Securitize to direct stablecoin minting and redemption
 

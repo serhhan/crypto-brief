@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-19 distinct developments, newest first.
+20 distinct developments, newest first.
+
+- [OCC drops proposed stablecoin yield presumption and automatic redemption extension](https://yielddispatch.com/news/b74f7bb1-2e25-4760-a344-67e6a7e50fe3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b74f7bb1-2e25-4760-a344-67e6a7e50fe3) | 21 Oct 2026 | Yield Dispatch
+
+  The final GENIUS Act rule keeps the issuer yield ban and two\-business\-day redemption ceiling, with implementation set for January 18\.
 
 - [FINMA approves first Swiss retail Bitcoin ETF](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | 21 Oct 2026 | Chain Minute
 
