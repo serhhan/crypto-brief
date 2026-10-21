@@ -6,13 +6,13 @@ Updated 21 Oct 2026.
 
 [Dated edition](archive/2026-10-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Bitwise and Hyperliquid Policy Center differ on public token disclosures
+## FINMA approves first Swiss retail Bitcoin ETF
 
-Bitwise wants supporting analysis in proposed transition reports\. Hyperliquid Policy Center asks for certification without public analysis, with confidential submission if the SEC requires more\.
+The October 20 announcement approves a Swiss\-law fund investing directly in Bitcoin but leaves its issuer and trading start unspecified\.
 
-[Chain Minute](https://chainminute.com/news/f2407ca5-de95-4b19-a884-c7b003884443?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f2407ca5-de95-4b19-a884-c7b003884443) | Published 21 Oct 2026
+[Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | Published 21 Oct 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/f2407ca5-de95-4b19-a884-c7b003884443?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f2407ca5-de95-4b19-a884-c7b003884443) | [www\.sec\.gov](https://www.sec.gov/comments/S7-2026-27/s7202627-1098379-3868467.pdf) | [www\.sec\.gov](https://www.sec.gov/comments/S7-2026-27/s7202627-1099339-3870848.pdf)
+Sources: [Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | [www\.finma\.ch](https://www.finma.ch/en/news/2021/09/20210929-mm-genehmigung-schweizer-kryptofonds/) | [www\.finma\.ch](https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/)
 
 ## Anchorage links Securitize to direct stablecoin minting and redemption
 

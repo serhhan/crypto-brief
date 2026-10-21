@@ -9,7 +9,7 @@ Linked pages contain at least three distinct developments.
 - [Aave](aave.md) | 4 distinct developments
 - [Airnode Hub](airnode-hub.md) | 13 distinct developments
 - [API3](api3.md) | 8 distinct developments
-- [Bitcoin](bitcoin.md) | 14 distinct developments
+- [Bitcoin](bitcoin.md) | 15 distinct developments
 - BNB Chain | 1 distinct development
 - Chainlink | 1 distinct development
 - Cosmos Hub | 1 distinct development

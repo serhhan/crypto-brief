@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [FINMA approves first Swiss retail Bitcoin ETF](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | 21 Oct 2026 | Chain Minute
+
+  The October 20 announcement approves a Swiss\-law fund investing directly in Bitcoin but leaves its issuer and trading start unspecified\.
 
 - [Bitwise and Hyperliquid Policy Center differ on public token disclosures](https://chainminute.com/news/f2407ca5-de95-4b19-a884-c7b003884443?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f2407ca5-de95-4b19-a884-c7b003884443) | 21 Oct 2026 | Chain Minute
 
