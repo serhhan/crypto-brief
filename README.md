@@ -6,6 +6,14 @@ Updated 21 Oct 2026.
 
 [Dated edition](archive/2026-10-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bitwise and Hyperliquid Policy Center differ on public token disclosures
+
+Bitwise wants supporting analysis in proposed transition reports\. Hyperliquid Policy Center asks for certification without public analysis, with confidential submission if the SEC requires more\.
+
+[Chain Minute](https://chainminute.com/news/f2407ca5-de95-4b19-a884-c7b003884443?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f2407ca5-de95-4b19-a884-c7b003884443) | Published 21 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/f2407ca5-de95-4b19-a884-c7b003884443?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f2407ca5-de95-4b19-a884-c7b003884443) | [www\.sec\.gov](https://www.sec.gov/comments/S7-2026-27/s7202627-1098379-3868467.pdf) | [www\.sec\.gov](https://www.sec.gov/comments/S7-2026-27/s7202627-1099339-3870848.pdf)
+
 ## Anchorage links Securitize to direct stablecoin minting and redemption
 
 The partnership puts stablecoin issuance, custody and settlement with Anchorage Digital Bank\. Supported networks, fees and rollout timing were not specified\.
@@ -29,14 +37,6 @@ The organizer lists a €2,000 API3 track and a 30\-minute workshop, with its ch
 [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | Published 20 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | [conference26\.tum\-blockchain\.com](https://conference26.tum-blockchain.com/) | [hackathon\.tum\-blockchain\.com](https://hackathon.tum-blockchain.com/)
-
-## Revolut gains Gibraltar DLT permission for international crypto expansion
-
-The government confirmed permission for order handling, custody and staking, while international target markets and rollout dates remain unannounced\.
-
-[Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | Published 19 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=54bc62f7-7a5c-43aa-bbaa-ad47772d7fe8) | [cointelegraph\.com](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion) | [www\.gibraltar\.gov\.gi](https://www.gibraltar.gov.gi/press-releases/government-of-gibraltar-welcomes-revoluts-full-resumption-of-customer-onboarding-in-gibraltar-and-new-regulatory-permission-7962026-12475)
 
 ## Cysic keeps bridge closed after reporting unauthorized 10 million CYS mint
 

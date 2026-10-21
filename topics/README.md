@@ -15,7 +15,7 @@ Linked pages contain at least three distinct developments.
 - Cosmos Hub | 1 distinct development
 - Dogecoin | 2 distinct developments
 - [Ethereum](ethereum.md) | 30 distinct developments
-- Hyperliquid | 1 distinct development
+- Hyperliquid | 2 distinct developments
 - [Morpho](morpho.md) | 3 distinct developments
 - [Solana](solana.md) | 7 distinct developments
 - Starknet | 2 distinct developments
