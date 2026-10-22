@@ -6,6 +6,14 @@ Updated 22 Oct 2026.
 
 [Dated edition](archive/2026-10-22.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## FCA opens consultations on DeFi obligations and crypto permission boundaries
+
+Responses are due November 18 on existing\-requirement guidance and proposed interpretations of cryptoasset exclusions, including technical access to DeFi\.
+
+[Yield Dispatch](https://yielddispatch.com/news/90573ae8-09be-4cef-adfa-37d9196bfc96?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=90573ae8-09be-4cef-adfa-37d9196bfc96) | Published 22 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/90573ae8-09be-4cef-adfa-37d9196bfc96?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=90573ae8-09be-4cef-adfa-37d9196bfc96) | [cointelegraph\.com](https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws) | [www\.fca\.org\.uk](https://www.fca.org.uk/publication/consultation/cp26-36.pdf)
+
 ## Standard Chartered signs definitive agreements to acquire Zodia Custody
 
 The conditional acquisition covers the custody parent, while software assets would move to a separate SC Ventures entity\.
@@ -13,14 +21,6 @@ The conditional acquisition covers the custody parent, while software assets wou
 [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | Published 21 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | [www\.sc\.com](https://www.sc.com/en/press-release/standard-chartered-to-acquire-zodia-custodys-custody-business/) | [www\.sc\.com](https://www.sc.com/en/press-release/t/)
-
-## OCC drops proposed stablecoin yield presumption and automatic redemption extension
-
-The final GENIUS Act rule keeps the issuer yield ban and two\-business\-day redemption ceiling, with implementation set for January 18\.
-
-[Yield Dispatch](https://yielddispatch.com/news/b74f7bb1-2e25-4760-a344-67e6a7e50fe3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b74f7bb1-2e25-4760-a344-67e6a7e50fe3) | Published 21 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/b74f7bb1-2e25-4760-a344-67e6a7e50fe3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b74f7bb1-2e25-4760-a344-67e6a7e50fe3) | [www\.occ\.gov](https://www.occ.gov/news-issuances/federal-register/2026/91fr10202.pdf) | [www\.occ\.gov](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html)
 
 ## FINMA approves first Swiss retail Bitcoin ETF
 

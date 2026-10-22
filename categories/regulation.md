@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-20 distinct developments, newest first.
+21 distinct developments, newest first.
+
+- [FCA opens consultations on DeFi obligations and crypto permission boundaries](https://yielddispatch.com/news/90573ae8-09be-4cef-adfa-37d9196bfc96?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=90573ae8-09be-4cef-adfa-37d9196bfc96) | 22 Oct 2026 | Yield Dispatch
+
+  Responses are due November 18 on existing\-requirement guidance and proposed interpretations of cryptoasset exclusions, including technical access to DeFi\.
 
 - [OCC drops proposed stablecoin yield presumption and automatic redemption extension](https://yielddispatch.com/news/b74f7bb1-2e25-4760-a344-67e6a7e50fe3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b74f7bb1-2e25-4760-a344-67e6a7e50fe3) | 21 Oct 2026 | Yield Dispatch
 
