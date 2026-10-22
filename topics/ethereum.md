@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-30 distinct developments, newest first.
+31 distinct developments, newest first.
+
+- [Ethereum postpones Hoodi&#39;s October 26 Glamsterdam test](https://forkbrief.com/news/1e93ee4e-747b-4693-be07-6de1c7931882?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1e93ee4e-747b-4693-be07-6de1c7931882) | 22 Oct 2026 | Fork Brief
+
+  The planned testnet fork and gas\-limit increase have been removed from configuration\. Besu and Lodestar have published releases incorporating the postponement\.
 
 - [JPMorgan announces Ethereum expansion for JPM Coin deposit token](https://chainminute.com/news/908ac219-bb19-43cd-bb89-f35fcdffd709?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=908ac219-bb19-43cd-bb89-f35fcdffd709) | 19 Oct 2026 | Chain Minute
 

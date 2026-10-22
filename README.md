@@ -6,6 +6,14 @@ Updated 22 Oct 2026.
 
 [Dated edition](archive/2026-10-22.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Ethereum postpones Hoodi&#39;s October 26 Glamsterdam test
+
+The planned testnet fork and gas\-limit increase have been removed from configuration\. Besu and Lodestar have published releases incorporating the postponement\.
+
+[Fork Brief](https://forkbrief.com/news/1e93ee4e-747b-4693-be07-6de1c7931882?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1e93ee4e-747b-4693-be07-6de1c7931882) | Published 22 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/1e93ee4e-747b-4693-be07-6de1c7931882?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1e93ee4e-747b-4693-be07-6de1c7931882) | [blog\.ethereum\.org](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) | [github\.com](https://github.com/ChainSafe/lodestar/releases/tag/v1.50.1)
+
 ## Solana activates Alpenglow Votor consensus on mainnet\-beta
 
 The October 21 handover changes block finality and vote accounting, while the separate Rotor data\-distribution upgrade remains unscheduled\.
@@ -29,14 +37,6 @@ The conditional acquisition covers the custody parent, while software assets wou
 [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | Published 21 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | [www\.sc\.com](https://www.sc.com/en/press-release/standard-chartered-to-acquire-zodia-custodys-custody-business/) | [www\.sc\.com](https://www.sc.com/en/press-release/t/)
-
-## FINMA approves first Swiss retail Bitcoin ETF
-
-The October 20 announcement approves a Swiss\-law fund investing directly in Bitcoin but leaves its issuer and trading start unspecified\.
-
-[Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | Published 21 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/2b1c4e5e-bc8b-4d72-a82a-4227d878ea27?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b1c4e5e-bc8b-4d72-a82a-4227d878ea27) | [www\.finma\.ch](https://www.finma.ch/en/news/2021/09/20210929-mm-genehmigung-schweizer-kryptofonds/) | [www\.finma\.ch](https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/)
 
 ## Anchorage links Securitize to direct stablecoin minting and redemption
 
