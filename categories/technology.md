@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-37 distinct developments, newest first.
+38 distinct developments, newest first.
+
+- [Solana activates Alpenglow Votor consensus on mainnet\-beta](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | 22 Oct 2026 | Fork Brief
+
+  The October 21 handover changes block finality and vote accounting, while the separate Rotor data\-distribution upgrade remains unscheduled\.
 
 - [API3 track and workshop listed for TUM’s October 30–31 hackathon](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | 20 Oct 2026 | Fork Brief
 

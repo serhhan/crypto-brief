@@ -6,6 +6,14 @@ Updated 22 Oct 2026.
 
 [Dated edition](archive/2026-10-22.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Solana activates Alpenglow Votor consensus on mainnet\-beta
+
+The October 21 handover changes block finality and vote accounting, while the separate Rotor data\-distribution upgrade remains unscheduled\.
+
+[Fork Brief](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | Published 22 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | [docs\.anza\.xyz](https://docs.anza.xyz/consensus/alpenglow) | [github\.com](https://github.com/anza-xyz/agave/releases/tag/v4.3.2)
+
 ## FCA opens consultations on DeFi obligations and crypto permission boundaries
 
 Responses are due November 18 on existing\-requirement guidance and proposed interpretations of cryptoasset exclusions, including technical access to DeFi\.
@@ -37,11 +45,3 @@ The partnership puts stablecoin issuance, custody and settlement with Anchorage 
 [Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | Published 20 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | [developers\.anchorage\.com](https://developers.anchorage.com/docs/convert-stablecoins) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-brings-federally-issued-stablecoins-to-securitize-the-worlds-largest-tokenization-platform)
-
-## API3 track and workshop listed for TUM’s October 30–31 hackathon
-
-The organizer lists a €2,000 API3 track and a 30\-minute workshop, with its challenge brief, prize breakdown and session timing still pending\.
-
-[Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | Published 20 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | [conference26\.tum\-blockchain\.com](https://conference26.tum-blockchain.com/) | [hackathon\.tum\-blockchain\.com](https://hackathon.tum-blockchain.com/)

@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [Solana activates Alpenglow Votor consensus on mainnet\-beta](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | 22 Oct 2026 | Fork Brief
+
+  The October 21 handover changes block finality and vote accounting, while the separate Rotor data\-distribution upgrade remains unscheduled\.
 
 - [Anodos schedules XRPL service shutdown as it focuses on Solana app](https://chainminute.com/news/afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=afd7ca2e-fdf4-4624-8f8e-a9ee7da4051a) | 13 Oct 2026 | Chain Minute
 
