@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-39 distinct developments, newest first.
+40 distinct developments, newest first.
+
+- [Starknet poll backs independent L1 research with 93\.52% voting support](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | 23 Oct 2026 | Fork Brief
+
+  Final voting scores support research, while any L1 transition still requires a dedicated governance process\.
 
 - [Ethereum postpones Hoodi&#39;s October 26 Glamsterdam test](https://forkbrief.com/news/1e93ee4e-747b-4693-be07-6de1c7931882?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1e93ee4e-747b-4693-be07-6de1c7931882) | 22 Oct 2026 | Fork Brief
 
