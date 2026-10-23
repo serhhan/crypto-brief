@@ -6,6 +6,14 @@ Updated 23 Oct 2026.
 
 [Dated edition](archive/2026-10-23.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Initia halts layer\-1 network and rollups after security incident
+
+Initia confirmed an October 23 halt across its L1 and rollups while teams investigate the scope of the incident\.
+
+[Chain Incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | Published 23 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/initia-l1) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/rollups/introduction)
+
 ## Starknet poll backs independent L1 research with 93\.52% voting support
 
 Final voting scores support research, while any L1 transition still requires a dedicated governance process\.
@@ -37,11 +45,3 @@ The conditional acquisition covers the custody parent, while software assets wou
 [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | Published 21 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | [www\.sc\.com](https://www.sc.com/en/press-release/standard-chartered-to-acquire-zodia-custodys-custody-business/) | [www\.sc\.com](https://www.sc.com/en/press-release/t/)
-
-## Anchorage links Securitize to direct stablecoin minting and redemption
-
-The partnership puts stablecoin issuance, custody and settlement with Anchorage Digital Bank\. Supported networks, fees and rollout timing were not specified\.
-
-[Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | Published 20 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | [developers\.anchorage\.com](https://developers.anchorage.com/docs/convert-stablecoins) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-brings-federally-issued-stablecoins-to-securitize-the-worlds-largest-tokenization-platform)

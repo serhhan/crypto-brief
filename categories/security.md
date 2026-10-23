@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-23 distinct developments, newest first.
+24 distinct developments, newest first.
+
+- [Initia halts layer\-1 network and rollups after security incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | 23 Oct 2026 | Chain Incident
+
+  Initia confirmed an October 23 halt across its L1 and rollups while teams investigate the scope of the incident\.
 
 - [Bitcoin Core revises disclosure for easily discoverable flaws](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | 23 Oct 2026 | Chain Incident
 
