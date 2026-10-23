@@ -6,6 +6,14 @@ Updated 23 Oct 2026.
 
 [Dated edition](archive/2026-10-23.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bitcoin Core revises disclosure for easily discoverable flaws
+
+October 22 update creates an embargo exception\.
+
+[Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | Published 23 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | [bitcoincore\.org](https://bitcoincore.org/en/security-advisories/) | [cointelegraph\.com](https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find)
+
 ## Pentagon memo prohibits trades based on nonpublic information
 
 The October 20 directive explicitly covers prediction markets, indirect transactions and unclassified information\.
@@ -21,14 +29,6 @@ The planned testnet fork and gas\-limit increase have been removed from configur
 [Fork Brief](https://forkbrief.com/news/1e93ee4e-747b-4693-be07-6de1c7931882?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1e93ee4e-747b-4693-be07-6de1c7931882) | Published 22 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/1e93ee4e-747b-4693-be07-6de1c7931882?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1e93ee4e-747b-4693-be07-6de1c7931882) | [blog\.ethereum\.org](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) | [github\.com](https://github.com/ChainSafe/lodestar/releases/tag/v1.50.1)
-
-## Solana activates Alpenglow Votor consensus on mainnet\-beta
-
-The October 21 handover changes block finality and vote accounting, while the separate Rotor data\-distribution upgrade remains unscheduled\.
-
-[Fork Brief](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | Published 22 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | [docs\.anza\.xyz](https://docs.anza.xyz/consensus/alpenglow) | [github\.com](https://github.com/anza-xyz/agave/releases/tag/v4.3.2)
 
 ## Standard Chartered signs definitive agreements to acquire Zodia Custody
 

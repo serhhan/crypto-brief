@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-22 distinct developments, newest first.
+23 distinct developments, newest first.
+
+- [Bitcoin Core revises disclosure for easily discoverable flaws](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | 23 Oct 2026 | Chain Incident
+
+  October 22 update creates an embargo exception\.
 
 - [Cysic keeps bridge closed after reporting unauthorized 10 million CYS mint](https://chainincident.com/news/ec27e5dd-d922-4588-acad-a706911c71b8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ec27e5dd-d922-4588-acad-a706911c71b8) | 18 Oct 2026 | Chain Incident
 
