@@ -6,6 +6,14 @@ Updated 23 Oct 2026.
 
 [Dated edition](archive/2026-10-23.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Pentagon memo prohibits trades based on nonpublic information
+
+The October 20 directive explicitly covers prediction markets, indirect transactions and unclassified information\.
+
+[Chain Minute](https://chainminute.com/news/26070241-6145-4da4-9185-d88dfbe9162a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26070241-6145-4da4-9185-d88dfbe9162a) | Published 23 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/26070241-6145-4da4-9185-d88dfbe9162a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26070241-6145-4da4-9185-d88dfbe9162a) | [assets1\.cbsnewsstatic\.com](https://assets1.cbsnewsstatic.com/hub/cms/prod_cms_alt/file/2026/10/22/58a4e0e3-ea5f-49e2-b7fe-3bb3381c5987/hegseth_memo__1_.jpg.pdf) | [cointelegraph\.com](https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets)
+
 ## Ethereum postpones Hoodi&#39;s October 26 Glamsterdam test
 
 The planned testnet fork and gas\-limit increase have been removed from configuration\. Besu and Lodestar have published releases incorporating the postponement\.
@@ -21,14 +29,6 @@ The October 21 handover changes block finality and vote accounting, while the se
 [Fork Brief](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | Published 22 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | [docs\.anza\.xyz](https://docs.anza.xyz/consensus/alpenglow) | [github\.com](https://github.com/anza-xyz/agave/releases/tag/v4.3.2)
-
-## FCA opens consultations on DeFi obligations and crypto permission boundaries
-
-Responses are due November 18 on existing\-requirement guidance and proposed interpretations of cryptoasset exclusions, including technical access to DeFi\.
-
-[Yield Dispatch](https://yielddispatch.com/news/90573ae8-09be-4cef-adfa-37d9196bfc96?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=90573ae8-09be-4cef-adfa-37d9196bfc96) | Published 22 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/90573ae8-09be-4cef-adfa-37d9196bfc96?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=90573ae8-09be-4cef-adfa-37d9196bfc96) | [cointelegraph\.com](https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws) | [www\.fca\.org\.uk](https://www.fca.org.uk/publication/consultation/cp26-36.pdf)
 
 ## Standard Chartered signs definitive agreements to acquire Zodia Custody
 

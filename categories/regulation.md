@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-21 distinct developments, newest first.
+22 distinct developments, newest first.
+
+- [Pentagon memo prohibits trades based on nonpublic information](https://chainminute.com/news/26070241-6145-4da4-9185-d88dfbe9162a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26070241-6145-4da4-9185-d88dfbe9162a) | 23 Oct 2026 | Chain Minute
+
+  The October 20 directive explicitly covers prediction markets, indirect transactions and unclassified information\.
 
 - [FCA opens consultations on DeFi obligations and crypto permission boundaries](https://yielddispatch.com/news/90573ae8-09be-4cef-adfa-37d9196bfc96?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=90573ae8-09be-4cef-adfa-37d9196bfc96) | 22 Oct 2026 | Yield Dispatch
 
