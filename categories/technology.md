@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-41 distinct developments, newest first.
+42 distinct developments, newest first.
+
+- [Draft EIP\-8425 clarifies account recovery and retained delegations](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | 24 Oct 2026 | Fork Brief
+
+  The October 24 specification update makes delegated\-code callability and recovery boundaries explicit while the proposal remains Draft\.
 
 - [ERC\-7964 pull request proposes a breaking change to signatures](https://forkbrief.com/news/ad8ec443-9491-4a58-b05c-213463abae7f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad8ec443-9491-4a58-b05c-213463abae7f) | 24 Oct 2026 | Fork Brief
 

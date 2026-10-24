@@ -6,6 +6,14 @@ Updated 24 Oct 2026.
 
 [Dated edition](archive/2026-10-24.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Draft EIP\-8425 clarifies account recovery and retained delegations
+
+The October 24 specification update makes delegated\-code callability and recovery boundaries explicit while the proposal remains Draft\.
+
+[Fork Brief](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | Published 24 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | [github\.com](https://github.com/ethereum/EIPs/commit/e858e912ff55370eb8125873455af531e322d9b2) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ethereum/EIPs/e858e912ff55370eb8125873455af531e322d9b2/EIPS/eip-8425.md)
+
 ## Malaysian and Thai central banks join Singapore&#39;s BLOOM
 
 The October 23 announcement expands policymaker participation in cross\-border settlement work involving regulated stablecoins and tokenized deposits\.
@@ -30,18 +38,10 @@ Initia confirmed an October 23 halt across its L1 and rollups while teams invest
 
 Sources: [Chain Incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/initia-l1) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/rollups/introduction)
 
-## Starknet poll backs independent L1 research with 93\.52% voting support
+## Bitcoin Core revises disclosure for easily discoverable flaws
 
-Final voting scores support research, while any L1 transition still requires a dedicated governance process\.
+October 22 update creates an embargo exception\.
 
-[Fork Brief](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | Published 23 Oct 2026
+[Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | Published 23 Oct 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | [cointelegraph\.com](https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum) | [community\.starknet\.io](https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392)
-
-## Standard Chartered signs definitive agreements to acquire Zodia Custody
-
-The conditional acquisition covers the custody parent, while software assets would move to a separate SC Ventures entity\.
-
-[Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | Published 21 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | [www\.sc\.com](https://www.sc.com/en/press-release/standard-chartered-to-acquire-zodia-custodys-custody-business/) | [www\.sc\.com](https://www.sc.com/en/press-release/t/)
+Sources: [Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | [bitcoincore\.org](https://bitcoincore.org/en/security-advisories/) | [cointelegraph\.com](https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find)
