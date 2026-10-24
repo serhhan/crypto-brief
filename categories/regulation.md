@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-22 distinct developments, newest first.
+23 distinct developments, newest first.
+
+- [Malaysian and Thai central banks join Singapore&#39;s BLOOM](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | 24 Oct 2026 | Yield Dispatch
+
+  The October 23 announcement expands policymaker participation in cross\-border settlement work involving regulated stablecoins and tokenized deposits\.
 
 - [Pentagon memo prohibits trades based on nonpublic information](https://chainminute.com/news/26070241-6145-4da4-9185-d88dfbe9162a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26070241-6145-4da4-9185-d88dfbe9162a) | 23 Oct 2026 | Chain Minute
 

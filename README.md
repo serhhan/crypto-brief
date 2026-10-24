@@ -6,6 +6,14 @@ Updated 24 Oct 2026.
 
 [Dated edition](archive/2026-10-24.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Malaysian and Thai central banks join Singapore&#39;s BLOOM
+
+The October 23 announcement expands policymaker participation in cross\-border settlement work involving regulated stablecoins and tokenized deposits\.
+
+[Yield Dispatch](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | Published 24 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | [unchainedcrypto\.com](https://unchainedcrypto.com/singapores-bloom-adds-malaysian-and-thai-central-banks-but-mas-names-no-token/) | [www\.mas\.gov\.sg](https://www.mas.gov.sg/news/media-releases/2026/mas-bnm-and-bot-partner-with-industry-to-advance-cross-border-settlement-in-digital-money)
+
 ## ERC\-7964 pull request proposes a breaking change to signatures
 
 An open proposal would remove a field byte and change how verifiers build the main signing domain\.
@@ -29,14 +37,6 @@ Final voting scores support research, while any L1 transition still requires a d
 [Fork Brief](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | Published 23 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | [cointelegraph\.com](https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum) | [community\.starknet\.io](https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392)
-
-## Pentagon memo prohibits trades based on nonpublic information
-
-The October 20 directive explicitly covers prediction markets, indirect transactions and unclassified information\.
-
-[Chain Minute](https://chainminute.com/news/26070241-6145-4da4-9185-d88dfbe9162a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26070241-6145-4da4-9185-d88dfbe9162a) | Published 23 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/26070241-6145-4da4-9185-d88dfbe9162a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=26070241-6145-4da4-9185-d88dfbe9162a) | [assets1\.cbsnewsstatic\.com](https://assets1.cbsnewsstatic.com/hub/cms/prod_cms_alt/file/2026/10/22/58a4e0e3-ea5f-49e2-b7fe-3bb3381c5987/hegseth_memo__1_.jpg.pdf) | [cointelegraph\.com](https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets)
 
 ## Standard Chartered signs definitive agreements to acquire Zodia Custody
 
