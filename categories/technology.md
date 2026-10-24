@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-40 distinct developments, newest first.
+41 distinct developments, newest first.
+
+- [ERC\-7964 pull request proposes a breaking change to signatures](https://forkbrief.com/news/ad8ec443-9491-4a58-b05c-213463abae7f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad8ec443-9491-4a58-b05c-213463abae7f) | 24 Oct 2026 | Fork Brief
+
+  An open proposal would remove a field byte and change how verifiers build the main signing domain\.
 
 - [Starknet poll backs independent L1 research with 93\.52% voting support](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | 23 Oct 2026 | Fork Brief
 

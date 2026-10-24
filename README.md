@@ -6,6 +6,14 @@ Updated 24 Oct 2026.
 
 [Dated edition](archive/2026-10-24.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## ERC\-7964 pull request proposes a breaking change to signatures
+
+An open proposal would remove a field byte and change how verifiers build the main signing domain\.
+
+[Fork Brief](https://forkbrief.com/news/ad8ec443-9491-4a58-b05c-213463abae7f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad8ec443-9491-4a58-b05c-213463abae7f) | Published 24 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/ad8ec443-9491-4a58-b05c-213463abae7f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad8ec443-9491-4a58-b05c-213463abae7f) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-7964) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-7964-cross-chain-signatures-for-account-abstraction/24452/11)
+
 ## Initia halts layer\-1 network and rollups after security incident
 
 Initia confirmed an October 23 halt across its L1 and rollups while teams investigate the scope of the incident\.
@@ -21,14 +29,6 @@ Final voting scores support research, while any L1 transition still requires a d
 [Fork Brief](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | Published 23 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/97f0cfe6-0e13-4671-a63b-6879c8c84db0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=97f0cfe6-0e13-4671-a63b-6879c8c84db0) | [cointelegraph\.com](https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum) | [community\.starknet\.io](https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392)
-
-## Bitcoin Core revises disclosure for easily discoverable flaws
-
-October 22 update creates an embargo exception\.
-
-[Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | Published 23 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | [bitcoincore\.org](https://bitcoincore.org/en/security-advisories/) | [cointelegraph\.com](https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find)
 
 ## Pentagon memo prohibits trades based on nonpublic information
 

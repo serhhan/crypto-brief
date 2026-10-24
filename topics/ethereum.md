@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-31 distinct developments, newest first.
+32 distinct developments, newest first.
+
+- [ERC\-7964 pull request proposes a breaking change to signatures](https://forkbrief.com/news/ad8ec443-9491-4a58-b05c-213463abae7f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad8ec443-9491-4a58-b05c-213463abae7f) | 24 Oct 2026 | Fork Brief
+
+  An open proposal would remove a field byte and change how verifiers build the main signing domain\.
 
 - [Ethereum postpones Hoodi&#39;s October 26 Glamsterdam test](https://forkbrief.com/news/1e93ee4e-747b-4693-be07-6de1c7931882?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1e93ee4e-747b-4693-be07-6de1c7931882) | 22 Oct 2026 | Fork Brief
 
