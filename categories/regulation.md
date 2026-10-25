@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-23 distinct developments, newest first.
+24 distinct developments, newest first.
+
+- [Bank of Israel challenges Netanyahu&#39;s proposed crypto plan for possible sanctions](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | 25 Oct 2026 | Chain Minute
+
+  The central bank&#39;s reported October 24 objection follows Netanyahu&#39;s request for a plan, with implementation details still unspecified\.
 
 - [Malaysian and Thai central banks join Singapore&#39;s BLOOM](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | 24 Oct 2026 | Yield Dispatch
 

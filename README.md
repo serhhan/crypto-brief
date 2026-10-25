@@ -6,6 +6,14 @@ Updated 25 Oct 2026.
 
 [Dated edition](archive/2026-10-25.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bank of Israel challenges Netanyahu&#39;s proposed crypto plan for possible sanctions
+
+The central bank&#39;s reported October 24 objection follows Netanyahu&#39;s request for a plan, with implementation details still unspecified\.
+
+[Chain Minute](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | Published 25 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | [www\.jpost\.com](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-912667) | [www\.jpost\.com](https://www.jpost.com/israel-election-2026/article-912715)
+
 ## Draft EIP\-8425 clarifies account recovery and retained delegations
 
 The October 24 specification update makes delegated\-code callability and recovery boundaries explicit while the proposal remains Draft\.
@@ -37,11 +45,3 @@ Initia confirmed an October 23 halt across its L1 and rollups while teams invest
 [Chain Incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | Published 23 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/initia-l1) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/rollups/introduction)
-
-## Bitcoin Core revises disclosure for easily discoverable flaws
-
-October 22 update creates an embargo exception\.
-
-[Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | Published 23 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | [bitcoincore\.org](https://bitcoincore.org/en/security-advisories/) | [cointelegraph\.com](https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find)
