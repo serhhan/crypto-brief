@@ -6,6 +6,14 @@ Updated 25 Oct 2026.
 
 [Dated edition](archive/2026-10-25.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Draft ASF proposal would register versioned commitments for Ethereum agents
+
+An open ERC filing proposes attributable bindings and registry checks, while leaving permission and enforcement verification to applications\.
+
+[Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | Published 25 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-safety-framework-asf-attributable-adoption-of-versioned-safety-specifications/30073) | [github\.com](https://github.com/ethereum/ERCs/blob/94e318a643e00f886dc638ffacb93916103ab203/ERCS/erc-9999.md)
+
 ## Bank of Israel challenges Netanyahu&#39;s proposed crypto plan for possible sanctions
 
 The central bank&#39;s reported October 24 objection follows Netanyahu&#39;s request for a plan, with implementation details still unspecified\.
@@ -29,14 +37,6 @@ The October 23 announcement expands policymaker participation in cross\-border s
 [Yield Dispatch](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | Published 24 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | [unchainedcrypto\.com](https://unchainedcrypto.com/singapores-bloom-adds-malaysian-and-thai-central-banks-but-mas-names-no-token/) | [www\.mas\.gov\.sg](https://www.mas.gov.sg/news/media-releases/2026/mas-bnm-and-bot-partner-with-industry-to-advance-cross-border-settlement-in-digital-money)
-
-## ERC\-7964 pull request proposes a breaking change to signatures
-
-An open proposal would remove a field byte and change how verifiers build the main signing domain\.
-
-[Fork Brief](https://forkbrief.com/news/ad8ec443-9491-4a58-b05c-213463abae7f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad8ec443-9491-4a58-b05c-213463abae7f) | Published 24 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/ad8ec443-9491-4a58-b05c-213463abae7f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad8ec443-9491-4a58-b05c-213463abae7f) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-7964) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-7964-cross-chain-signatures-for-account-abstraction/24452/11)
 
 ## Initia halts layer\-1 network and rollups after security incident
 

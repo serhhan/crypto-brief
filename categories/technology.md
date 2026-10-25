@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-42 distinct developments, newest first.
+43 distinct developments, newest first.
+
+- [Draft ASF proposal would register versioned commitments for Ethereum agents](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | 25 Oct 2026 | Fork Brief
+
+  An open ERC filing proposes attributable bindings and registry checks, while leaving permission and enforcement verification to applications\.
 
 - [Draft EIP\-8425 clarifies account recovery and retained delegations](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | 24 Oct 2026 | Fork Brief
 
