@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-29 distinct developments, newest first.
+30 distinct developments, newest first.
+
+- [Aviva launches Sterling Liquidity Fund share class on XRP Ledger](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | 26 Oct 2026 | Chain Minute
+
+  The October 26 launch adds a sterling share class using a digital representation of holdings while retaining the existing off\-chain fund structure\.
 
 - [Standard Chartered signs definitive agreements to acquire Zodia Custody](https://chainminute.com/news/6768ea4b-9deb-4e20-bfff-cd0cea341c0c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6768ea4b-9deb-4e20-bfff-cd0cea341c0c) | 21 Oct 2026 | Chain Minute
 

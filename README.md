@@ -6,6 +6,14 @@ Updated 26 Oct 2026.
 
 [Dated edition](archive/2026-10-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Aviva launches Sterling Liquidity Fund share class on XRP Ledger
+
+The October 26 launch adds a sterling share class using a digital representation of holdings while retaining the existing off\-chain fund structure\.
+
+[Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | Published 26 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | [cointelegraph\.com](https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger) | [www\.avivainvestors\.com](https://www.avivainvestors.com/en-gb/about/company-news/2026/10/aviva-investors-launches-tokenised-share-class-for-sterling-liquidity-fund/)
+
 ## Canada proposes stablecoin redemptions with no minimum amount and a 1% fee cap
 
 The October 24 draft separates issuer processing from bank receipt and preserves its proposed fee ceiling during a reserve\-market liquidity exception\.
@@ -29,14 +37,6 @@ An open ERC filing proposes attributable bindings and registry checks, while lea
 [Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | Published 25 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-safety-framework-asf-attributable-adoption-of-versioned-safety-specifications/30073) | [github\.com](https://github.com/ethereum/ERCs/blob/94e318a643e00f886dc638ffacb93916103ab203/ERCS/erc-9999.md)
-
-## Bank of Israel challenges Netanyahu&#39;s proposed crypto plan for possible sanctions
-
-The central bank&#39;s reported October 24 objection follows Netanyahu&#39;s request for a plan, with implementation details still unspecified\.
-
-[Chain Minute](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | Published 25 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | [www\.jpost\.com](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-912667) | [www\.jpost\.com](https://www.jpost.com/israel-election-2026/article-912715)
 
 ## Initia halts layer\-1 network and rollups after security incident
 

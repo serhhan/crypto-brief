@@ -4,7 +4,11 @@ XRP market news, network developments and related products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [Aviva launches Sterling Liquidity Fund share class on XRP Ledger](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | 26 Oct 2026 | Chain Minute
+
+  The October 26 launch adds a sterling share class using a digital representation of holdings while retaining the existing off\-chain fund structure\.
 
 - [Paxos adds XRP trading and custody support for brokerage partners](https://chainminute.com/news/e25e14eb-108b-4c06-8da1-6372d2d386c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e25e14eb-108b-4c06-8da1-6372d2d386c1) | 8 Oct 2026 | Chain Minute
 
