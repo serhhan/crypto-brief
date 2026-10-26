@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-26 distinct developments, newest first.
+27 distinct developments, newest first.
+
+- [HSBC rolls out RedCoin in PayMe before its planned banking\-app wallet](https://yielddispatch.com/news/997ff6bf-00dc-418a-b187-7ec2dadd0da3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=997ff6bf-00dc-418a-b187-7ec2dadd0da3) | 26 Oct 2026 | Yield Dispatch
+
+  The October 23 rollout starts with PayMe payments, while HSBC documents separate app wallets and keeps banking\-app investment access forthcoming\.
 
 - [Anchorage links Securitize to direct stablecoin minting and redemption](https://yielddispatch.com/news/2b10bd4e-a55e-4162-bffe-3339bdc81d81?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2b10bd4e-a55e-4162-bffe-3339bdc81d81) | 20 Oct 2026 | Yield Dispatch
 

@@ -6,6 +6,14 @@ Updated 26 Oct 2026.
 
 [Dated edition](archive/2026-10-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## HSBC rolls out RedCoin in PayMe before its planned banking\-app wallet
+
+The October 23 rollout starts with PayMe payments, while HSBC documents separate app wallets and keeps banking\-app investment access forthcoming\.
+
+[Yield Dispatch](https://yielddispatch.com/news/997ff6bf-00dc-418a-b187-7ec2dadd0da3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=997ff6bf-00dc-418a-b187-7ec2dadd0da3) | Published 26 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/997ff6bf-00dc-418a-b187-7ec2dadd0da3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=997ff6bf-00dc-418a-b187-7ec2dadd0da3) | [cryptoslate\.com](https://cryptoslate.com/3-3m-users-gain-hsbc-redcoin-yet-1-strict-rule-blocks-them/) | [www\.about\.hsbc\.com\.hk](https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today)
+
 ## Draft ASF proposal would register versioned commitments for Ethereum agents
 
 An open ERC filing proposes attributable bindings and registry checks, while leaving permission and enforcement verification to applications\.
@@ -29,14 +37,6 @@ The October 24 specification update makes delegated\-code callability and recove
 [Fork Brief](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | Published 24 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | [github\.com](https://github.com/ethereum/EIPs/commit/e858e912ff55370eb8125873455af531e322d9b2) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ethereum/EIPs/e858e912ff55370eb8125873455af531e322d9b2/EIPS/eip-8425.md)
-
-## Malaysian and Thai central banks join Singapore&#39;s BLOOM
-
-The October 23 announcement expands policymaker participation in cross\-border settlement work involving regulated stablecoins and tokenized deposits\.
-
-[Yield Dispatch](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | Published 24 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/be532671-1dc5-4efb-a43e-11e40a60efc4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=be532671-1dc5-4efb-a43e-11e40a60efc4) | [unchainedcrypto\.com](https://unchainedcrypto.com/singapores-bloom-adds-malaysian-and-thai-central-banks-but-mas-names-no-token/) | [www\.mas\.gov\.sg](https://www.mas.gov.sg/news/media-releases/2026/mas-bnm-and-bot-partner-with-industry-to-advance-cross-border-settlement-in-digital-money)
 
 ## Initia halts layer\-1 network and rollups after security incident
 
