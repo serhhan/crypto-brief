@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-24 distinct developments, newest first.
+25 distinct developments, newest first.
+
+- [Canada proposes stablecoin redemptions with no minimum amount and a 1% fee cap](https://yielddispatch.com/news/dadbc509-470d-4d75-8700-56fda9b01979?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dadbc509-470d-4d75-8700-56fda9b01979) | 26 Oct 2026 | Yield Dispatch
+
+  The October 24 draft separates issuer processing from bank receipt and preserves its proposed fee ceiling during a reserve\-market liquidity exception\.
 
 - [Bank of Israel challenges Netanyahu&#39;s proposed crypto plan for possible sanctions](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | 25 Oct 2026 | Chain Minute
 

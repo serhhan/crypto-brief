@@ -6,6 +6,14 @@ Updated 26 Oct 2026.
 
 [Dated edition](archive/2026-10-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Canada proposes stablecoin redemptions with no minimum amount and a 1% fee cap
+
+The October 24 draft separates issuer processing from bank receipt and preserves its proposed fee ceiling during a reserve\-market liquidity exception\.
+
+[Yield Dispatch](https://yielddispatch.com/news/dadbc509-470d-4d75-8700-56fda9b01979?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dadbc509-470d-4d75-8700-56fda9b01979) | Published 26 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/dadbc509-470d-4d75-8700-56fda9b01979?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dadbc509-470d-4d75-8700-56fda9b01979) | [cryptoslate\.com](https://cryptoslate.com/canada-proposes-direct-stablecoin-cash-outs-for-small-holders-with-a-1-fee-cap/) | [gazette\.gc\.ca](https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html)
+
 ## HSBC rolls out RedCoin in PayMe before its planned banking\-app wallet
 
 The October 23 rollout starts with PayMe payments, while HSBC documents separate app wallets and keeps banking\-app investment access forthcoming\.
@@ -29,14 +37,6 @@ The central bank&#39;s reported October 24 objection follows Netanyahu&#39;s req
 [Chain Minute](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | Published 25 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/77759a9e-232f-41ac-8e0b-4764d62a171b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=77759a9e-232f-41ac-8e0b-4764d62a171b) | [www\.jpost\.com](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-912667) | [www\.jpost\.com](https://www.jpost.com/israel-election-2026/article-912715)
-
-## Draft EIP\-8425 clarifies account recovery and retained delegations
-
-The October 24 specification update makes delegated\-code callability and recovery boundaries explicit while the proposal remains Draft\.
-
-[Fork Brief](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | Published 24 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/91701c74-c363-490c-ac5c-c61406e092aa?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=91701c74-c363-490c-ac5c-c61406e092aa) | [github\.com](https://github.com/ethereum/EIPs/commit/e858e912ff55370eb8125873455af531e322d9b2) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ethereum/EIPs/e858e912ff55370eb8125873455af531e322d9b2/EIPS/eip-8425.md)
 
 ## Initia halts layer\-1 network and rollups after security incident
 
