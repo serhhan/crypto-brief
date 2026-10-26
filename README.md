@@ -6,6 +6,14 @@ Updated 26 Oct 2026.
 
 [Dated edition](archive/2026-10-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## NBA names Kalshi and Polymarket partners for official data and event markets
+
+The October 26 agreements combine league data and operator restrictions with a separate CFTC information\-sharing memorandum whose published terms keep cooperation discretionary\.
+
+[Chain Minute](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | Published 26 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | [cointelegraph\.com](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9314-26)
+
 ## Aviva launches Sterling Liquidity Fund share class on XRP Ledger
 
 The October 26 launch adds a sterling share class using a digital representation of holdings while retaining the existing off\-chain fund structure\.
@@ -37,11 +45,3 @@ An open ERC filing proposes attributable bindings and registry checks, while lea
 [Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | Published 25 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-safety-framework-asf-attributable-adoption-of-versioned-safety-specifications/30073) | [github\.com](https://github.com/ethereum/ERCs/blob/94e318a643e00f886dc638ffacb93916103ab203/ERCS/erc-9999.md)
-
-## Initia halts layer\-1 network and rollups after security incident
-
-Initia confirmed an October 23 halt across its L1 and rollups while teams investigate the scope of the incident\.
-
-[Chain Incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | Published 23 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/initia-l1) | [docs\.initia\.xyz](https://docs.initia.xyz/home/core-concepts/initia-and-rollups/rollups/introduction)

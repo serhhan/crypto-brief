@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-25 distinct developments, newest first.
+26 distinct developments, newest first.
+
+- [NBA names Kalshi and Polymarket partners for official data and event markets](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | 26 Oct 2026 | Chain Minute
+
+  The October 26 agreements combine league data and operator restrictions with a separate CFTC information\-sharing memorandum whose published terms keep cooperation discretionary\.
 
 - [Canada proposes stablecoin redemptions with no minimum amount and a 1% fee cap](https://yielddispatch.com/news/dadbc509-470d-4d75-8700-56fda9b01979?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dadbc509-470d-4d75-8700-56fda9b01979) | 26 Oct 2026 | Yield Dispatch
 
