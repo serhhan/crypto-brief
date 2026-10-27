@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-44 distinct developments, newest first.
+45 distinct developments, newest first.
+
+- [Ritual mainnet goes live with delegated AI execution for EVM contracts](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | 27 Oct 2026 | Fork Brief
+
+  Ritual’s October 26 mainnet announcement comes with documented EVM integration paths for delegated AI and HTTP work, including a one\-async\-call constraint\.
 
 - [Akash opens Solana migration vote with marketplace cutover still undecided](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | 27 Oct 2026 | Fork Brief
 

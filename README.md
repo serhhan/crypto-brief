@@ -6,6 +6,14 @@ Updated 27 Oct 2026.
 
 [Dated edition](archive/2026-10-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Ritual mainnet goes live with delegated AI execution for EVM contracts
+
+Ritual’s October 26 mainnet announcement comes with documented EVM integration paths for delegated AI and HTTP work, including a one\-async\-call constraint\.
+
+[Fork Brief](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | Published 27 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | [docs\.ritualfoundation\.org](https://docs.ritualfoundation.org/) | [www\.ritualfoundation\.org](https://www.ritualfoundation.org/blog/ritual-mainnet-is-live)
+
 ## Akash opens Solana migration vote with marketplace cutover still undecided
 
 Proposal 346 remains in its voting period; its text separates migration authorization, a later token launch and a separately approved marketplace cutover\.
@@ -29,14 +37,6 @@ The October 26 launch adds a sterling share class using a digital representation
 [Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | Published 26 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | [cointelegraph\.com](https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger) | [www\.avivainvestors\.com](https://www.avivainvestors.com/en-gb/about/company-news/2026/10/aviva-investors-launches-tokenised-share-class-for-sterling-liquidity-fund/)
-
-## Canada proposes stablecoin redemptions with no minimum amount and a 1% fee cap
-
-The October 24 draft separates issuer processing from bank receipt and preserves its proposed fee ceiling during a reserve\-market liquidity exception\.
-
-[Yield Dispatch](https://yielddispatch.com/news/dadbc509-470d-4d75-8700-56fda9b01979?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dadbc509-470d-4d75-8700-56fda9b01979) | Published 26 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/dadbc509-470d-4d75-8700-56fda9b01979?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dadbc509-470d-4d75-8700-56fda9b01979) | [cryptoslate\.com](https://cryptoslate.com/canada-proposes-direct-stablecoin-cash-outs-for-small-holders-with-a-1-fee-cap/) | [gazette\.gc\.ca](https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html)
 
 ## HSBC rolls out RedCoin in PayMe before its planned banking\-app wallet
 
