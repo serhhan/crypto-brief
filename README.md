@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 26 Oct 2026.
+Updated 27 Oct 2026.
 
-[Dated edition](archive/2026-10-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## NBA names Kalshi and Polymarket partners for official data and event markets
 
