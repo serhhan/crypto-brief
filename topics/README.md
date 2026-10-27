@@ -21,6 +21,6 @@ Linked pages contain at least three distinct developments.
 - [Starknet](starknet.md) | 3 distinct developments
 - [Tether](tether.md) | 5 distinct developments
 - Uniswap | 2 distinct developments
-- [USDC](usdc.md) | 10 distinct developments
+- [USDC](usdc.md) | 11 distinct developments
 - [XRP](xrp.md) | 5 distinct developments
 - Zcash | 2 distinct developments

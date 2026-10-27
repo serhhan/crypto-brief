@@ -6,6 +6,14 @@ Updated 27 Oct 2026.
 
 [Dated edition](archive/2026-10-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Circle and ACI announce Colombia pilot for USDC settlement alongside existing payment rails
+
+The October 27 collaboration uses ACI Connetic to demonstrate how financial institutions can evaluate USDC settlement within existing payment operations\.
+
+[Yield Dispatch](https://yielddispatch.com/news/c4e0765d-ad68-4ac6-89b6-828cd6fa29e8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4e0765d-ad68-4ac6-89b6-828cd6fa29e8) | Published 27 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/c4e0765d-ad68-4ac6-89b6-828cd6fa29e8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4e0765d-ad68-4ac6-89b6-828cd6fa29e8) | [decrypt\.co](https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia) | [investor\.circle\.com](https://investor.circle.com/news/news-details/2026/ACI-Worldwide-and-Circle-Collaborate-to-Bring-USDC-Settlement-to-Existing-Payments-Infrastructure-in-Latin-America/default.aspx)
+
 ## Ritual mainnet goes live with delegated AI execution for EVM contracts
 
 Ritual’s October 26 mainnet announcement comes with documented EVM integration paths for delegated AI and HTTP work, including a one\-async\-call constraint\.
@@ -37,11 +45,3 @@ The October 26 launch adds a sterling share class using a digital representation
 [Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | Published 26 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | [cointelegraph\.com](https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger) | [www\.avivainvestors\.com](https://www.avivainvestors.com/en-gb/about/company-news/2026/10/aviva-investors-launches-tokenised-share-class-for-sterling-liquidity-fund/)
-
-## HSBC rolls out RedCoin in PayMe before its planned banking\-app wallet
-
-The October 23 rollout starts with PayMe payments, while HSBC documents separate app wallets and keeps banking\-app investment access forthcoming\.
-
-[Yield Dispatch](https://yielddispatch.com/news/997ff6bf-00dc-418a-b187-7ec2dadd0da3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=997ff6bf-00dc-418a-b187-7ec2dadd0da3) | Published 26 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/997ff6bf-00dc-418a-b187-7ec2dadd0da3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=997ff6bf-00dc-418a-b187-7ec2dadd0da3) | [cryptoslate\.com](https://cryptoslate.com/3-3m-users-gain-hsbc-redcoin-yet-1-strict-rule-blocks-them/) | [www\.about\.hsbc\.com\.hk](https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today)
