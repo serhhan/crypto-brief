@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-43 distinct developments, newest first.
+44 distinct developments, newest first.
+
+- [Akash opens Solana migration vote with marketplace cutover still undecided](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | 27 Oct 2026 | Fork Brief
+
+  Proposal 346 remains in its voting period; its text separates migration authorization, a later token launch and a separately approved marketplace cutover\.
 
 - [Draft ASF proposal would register versioned commitments for Ethereum agents](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | 25 Oct 2026 | Fork Brief
 

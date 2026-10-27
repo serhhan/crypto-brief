@@ -6,6 +6,14 @@ Updated 27 Oct 2026.
 
 [Dated edition](archive/2026-10-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Akash opens Solana migration vote with marketplace cutover still undecided
+
+Proposal 346 remains in its voting period; its text separates migration authorization, a later token launch and a separately approved marketplace cutover\.
+
+[Fork Brief](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | Published 27 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | [akash\.network](https://akash.network/blog/why-we-selected-solana-for-akash/) | [rest\.cosmos\.directory](https://rest.cosmos.directory/akash/cosmos/gov/v1/proposals/346)
+
 ## NBA names Kalshi and Polymarket partners for official data and event markets
 
 The October 26 agreements combine league data and operator restrictions with a separate CFTC information\-sharing memorandum whose published terms keep cooperation discretionary\.
@@ -37,11 +45,3 @@ The October 23 rollout starts with PayMe payments, while HSBC documents separate
 [Yield Dispatch](https://yielddispatch.com/news/997ff6bf-00dc-418a-b187-7ec2dadd0da3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=997ff6bf-00dc-418a-b187-7ec2dadd0da3) | Published 26 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/997ff6bf-00dc-418a-b187-7ec2dadd0da3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=997ff6bf-00dc-418a-b187-7ec2dadd0da3) | [cryptoslate\.com](https://cryptoslate.com/3-3m-users-gain-hsbc-redcoin-yet-1-strict-rule-blocks-them/) | [www\.about\.hsbc\.com\.hk](https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today)
-
-## Draft ASF proposal would register versioned commitments for Ethereum agents
-
-An open ERC filing proposes attributable bindings and registry checks, while leaving permission and enforcement verification to applications\.
-
-[Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | Published 25 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-safety-framework-asf-attributable-adoption-of-versioned-safety-specifications/30073) | [github\.com](https://github.com/ethereum/ERCs/blob/94e318a643e00f886dc638ffacb93916103ab203/ERCS/erc-9999.md)

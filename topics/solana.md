@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [Akash opens Solana migration vote with marketplace cutover still undecided](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | 27 Oct 2026 | Fork Brief
+
+  Proposal 346 remains in its voting period; its text separates migration authorization, a later token launch and a separately approved marketplace cutover\.
 
 - [Solana activates Alpenglow Votor consensus on mainnet\-beta](https://forkbrief.com/news/bc0258d4-95d7-4fcc-a19b-a221f50b107c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=bc0258d4-95d7-4fcc-a19b-a221f50b107c) | 22 Oct 2026 | Fork Brief
 
