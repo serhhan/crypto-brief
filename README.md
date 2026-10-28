@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 27 Oct 2026.
+Updated 28 Oct 2026.
 
-[Dated edition](archive/2026-10-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-28.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Circle and ACI announce Colombia pilot for USDC settlement alongside existing payment rails
 
