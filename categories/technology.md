@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-45 distinct developments, newest first.
+46 distinct developments, newest first.
+
+- [EIP\-8455 draft clarifies combined gas readings after child calls](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | 28 Oct 2026 | Fork Brief
+
+  An October 28 revision adds guidance and documented cases for refills that move between gas counters\. The RESERVOIR proposal remains Draft and unmerged\.
 
 - [Ritual mainnet goes live with delegated AI execution for EVM contracts](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | 27 Oct 2026 | Fork Brief
 

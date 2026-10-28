@@ -6,6 +6,14 @@ Updated 28 Oct 2026.
 
 [Dated edition](archive/2026-10-28.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## EIP\-8455 draft clarifies combined gas readings after child calls
+
+An October 28 revision adds guidance and documented cases for refills that move between gas counters\. The RESERVOIR proposal remains Draft and unmerged\.
+
+[Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | Published 28 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8455-reservoir-opcode/30116) | [github\.com](https://github.com/ethereum/EIPs/blob/d269755c78f726d8c9ceab5c940d9e8af78e221c/EIPS/eip-8455.md)
+
 ## Circle and ACI announce Colombia pilot for USDC settlement alongside existing payment rails
 
 The October 27 collaboration uses ACI Connetic to demonstrate how financial institutions can evaluate USDC settlement within existing payment operations\.
@@ -21,14 +29,6 @@ Ritual’s October 26 mainnet announcement comes with documented EVM integration
 [Fork Brief](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | Published 27 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | [docs\.ritualfoundation\.org](https://docs.ritualfoundation.org/) | [www\.ritualfoundation\.org](https://www.ritualfoundation.org/blog/ritual-mainnet-is-live)
-
-## Akash opens Solana migration vote with marketplace cutover still undecided
-
-Proposal 346 remains in its voting period; its text separates migration authorization, a later token launch and a separately approved marketplace cutover\.
-
-[Fork Brief](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | Published 27 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | [akash\.network](https://akash.network/blog/why-we-selected-solana-for-akash/) | [rest\.cosmos\.directory](https://rest.cosmos.directory/akash/cosmos/gov/v1/proposals/346)
 
 ## NBA names Kalshi and Polymarket partners for official data and event markets
 

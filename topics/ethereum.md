@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-34 distinct developments, newest first.
+35 distinct developments, newest first.
+
+- [EIP\-8455 draft clarifies combined gas readings after child calls](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | 28 Oct 2026 | Fork Brief
+
+  An October 28 revision adds guidance and documented cases for refills that move between gas counters\. The RESERVOIR proposal remains Draft and unmerged\.
 
 - [Draft ASF proposal would register versioned commitments for Ethereum agents](https://forkbrief.com/news/49ec25ce-871e-43d6-a70e-182f9f292c6f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=49ec25ce-871e-43d6-a70e-182f9f292c6f) | 25 Oct 2026 | Fork Brief
 
