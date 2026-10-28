@@ -6,6 +6,14 @@ Updated 28 Oct 2026.
 
 [Dated edition](archive/2026-10-28.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Guide\: Configure a Bearer prefix for an Airnode API\-key header
+
+Keep a custom header name, its Bearer\-style prefix and the deployment key value distinct in a documented Airnode configuration\.
+
+[Fork Brief](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | Published 28 Oct 2026 | Guide
+
+Sources: [Fork Brief](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api) | [spec\.openapis\.org](https://spec.openapis.org/oas/v3.1.1.html)
+
 ## EIP\-8455 draft clarifies combined gas readings after child calls
 
 An October 28 revision adds guidance and documented cases for refills that move between gas counters\. The RESERVOIR proposal remains Draft and unmerged\.
@@ -21,14 +29,6 @@ The October 27 collaboration uses ACI Connetic to demonstrate how financial inst
 [Yield Dispatch](https://yielddispatch.com/news/c4e0765d-ad68-4ac6-89b6-828cd6fa29e8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4e0765d-ad68-4ac6-89b6-828cd6fa29e8) | Published 27 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/c4e0765d-ad68-4ac6-89b6-828cd6fa29e8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4e0765d-ad68-4ac6-89b6-828cd6fa29e8) | [decrypt\.co](https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia) | [investor\.circle\.com](https://investor.circle.com/news/news-details/2026/ACI-Worldwide-and-Circle-Collaborate-to-Bring-USDC-Settlement-to-Existing-Payments-Infrastructure-in-Latin-America/default.aspx)
-
-## Ritual mainnet goes live with delegated AI execution for EVM contracts
-
-Ritual’s October 26 mainnet announcement comes with documented EVM integration paths for delegated AI and HTTP work, including a one\-async\-call constraint\.
-
-[Fork Brief](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | Published 27 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/609d4b4b-7b9b-4880-b4f9-bccdcc45ff80?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=609d4b4b-7b9b-4880-b4f9-bccdcc45ff80) | [docs\.ritualfoundation\.org](https://docs.ritualfoundation.org/) | [www\.ritualfoundation\.org](https://www.ritualfoundation.org/blog/ritual-mainnet-is-live)
 
 ## NBA names Kalshi and Polymarket partners for official data and event markets
 

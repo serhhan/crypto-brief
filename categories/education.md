@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-19 distinct developments, newest first.
+20 distinct developments, newest first.
+
+- [Guide\: Configure a Bearer prefix for an Airnode API\-key header](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | 28 Oct 2026 | Fork Brief
+
+  Keep a custom header name, its Bearer\-style prefix and the deployment key value distinct in a documented Airnode configuration\.
 
 - [Guide\: Read an address label without treating it as an endorsement](https://tokenprimer.com/news/f3934e98-3e6c-49a4-9685-f7b46ac041e2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f3934e98-3e6c-49a4-9685-f7b46ac041e2) | 15 Oct 2026 | Token Primer
 
