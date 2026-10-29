@@ -6,6 +6,14 @@ Updated 29 Oct 2026.
 
 [Dated edition](archive/2026-10-29.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Curve announces StableSwap on Stellar with a beta interface
+
+Curve says its Soroban implementation is live on mainnet; the beta supports swaps and deposits, while interface pool deployment and FXSwap remain future features\.
+
+[Yield Dispatch](https://yielddispatch.com/news/9ff44b12-1fe2-497f-9e76-082cadba27df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ff44b12-1fe2-497f-9e76-082cadba27df) | Published 29 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/9ff44b12-1fe2-497f-9e76-082cadba27df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ff44b12-1fe2-497f-9e76-082cadba27df) | [news\.curve\.finance](https://news.curve.finance/curve-is-live-on-stellar/) | [stellar\.org](https://stellar.org/press/curve-brings-onchain-liquidity-infrastructure-to-the-stellar-network-in-its-first-native-non-evm-integration)
+
 ## BitGo adds Jupiter validator option for institutional SOL custody clients
 
 The October 28 integration lets eligible institutions delegate SOL through existing BitGo custody workflows, with Jupiter operating the validator independently\.
@@ -29,14 +37,6 @@ An October 28 revision adds guidance and documented cases for refills that move 
 [Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | Published 28 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8455-reservoir-opcode/30116) | [github\.com](https://github.com/ethereum/EIPs/blob/d269755c78f726d8c9ceab5c940d9e8af78e221c/EIPS/eip-8455.md)
-
-## Circle and ACI announce Colombia pilot for USDC settlement alongside existing payment rails
-
-The October 27 collaboration uses ACI Connetic to demonstrate how financial institutions can evaluate USDC settlement within existing payment operations\.
-
-[Yield Dispatch](https://yielddispatch.com/news/c4e0765d-ad68-4ac6-89b6-828cd6fa29e8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4e0765d-ad68-4ac6-89b6-828cd6fa29e8) | Published 27 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/c4e0765d-ad68-4ac6-89b6-828cd6fa29e8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4e0765d-ad68-4ac6-89b6-828cd6fa29e8) | [decrypt\.co](https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia) | [investor\.circle\.com](https://investor.circle.com/news/news-details/2026/ACI-Worldwide-and-Circle-Collaborate-to-Bring-USDC-Settlement-to-Existing-Payments-Infrastructure-in-Latin-America/default.aspx)
 
 ## NBA names Kalshi and Polymarket partners for official data and event markets
 

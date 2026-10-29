@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-28 distinct developments, newest first.
+29 distinct developments, newest first.
+
+- [Curve announces StableSwap on Stellar with a beta interface](https://yielddispatch.com/news/9ff44b12-1fe2-497f-9e76-082cadba27df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ff44b12-1fe2-497f-9e76-082cadba27df) | 29 Oct 2026 | Yield Dispatch
+
+  Curve says its Soroban implementation is live on mainnet; the beta supports swaps and deposits, while interface pool deployment and FXSwap remain future features\.
 
 - [Circle and ACI announce Colombia pilot for USDC settlement alongside existing payment rails](https://yielddispatch.com/news/c4e0765d-ad68-4ac6-89b6-828cd6fa29e8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4e0765d-ad68-4ac6-89b6-828cd6fa29e8) | 27 Oct 2026 | Yield Dispatch
 
