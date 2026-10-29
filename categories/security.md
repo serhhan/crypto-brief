@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-24 distinct developments, newest first.
+25 distinct developments, newest first.
+
+- [Binance investigates potential security issue as CZ describes apparent hack](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | 29 Oct 2026 | Chain Incident
+
+  Binance says it is investigating reports of a potential security issue\. CZ separately described an apparent hack, while Ethereum records show wallet transfers\.
 
 - [Initia halts layer\-1 network and rollups after security incident](https://chainincident.com/news/6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6aad7ccf-c166-4e8e-9a53-13bdfb3c5c9f) | 23 Oct 2026 | Chain Incident
 

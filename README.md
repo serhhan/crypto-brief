@@ -6,6 +6,14 @@ Updated 29 Oct 2026.
 
 [Dated edition](archive/2026-10-29.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Binance investigates potential security issue as CZ describes apparent hack
+
+Binance says it is investigating reports of a potential security issue\. CZ separately described an apparent hack, while Ethereum records show wallet transfers\.
+
+[Chain Incident](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | Published 29 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | [etherscan\.io](https://etherscan.io/tx/0x53bd38b816c23e74134786c29a8c18d792777998a3b9326047b583100e88e2f3) | [x\.com](https://x.com/binance/status/2115918888429133902)
+
 ## Curve announces StableSwap on Stellar with a beta interface
 
 Curve says its Soroban implementation is live on mainnet; the beta supports swaps and deposits, while interface pool deployment and FXSwap remain future features\.
@@ -37,11 +45,3 @@ An October 28 revision adds guidance and documented cases for refills that move 
 [Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | Published 28 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8455-reservoir-opcode/30116) | [github\.com](https://github.com/ethereum/EIPs/blob/d269755c78f726d8c9ceab5c940d9e8af78e221c/EIPS/eip-8455.md)
-
-## NBA names Kalshi and Polymarket partners for official data and event markets
-
-The October 26 agreements combine league data and operator restrictions with a separate CFTC information\-sharing memorandum whose published terms keep cooperation discretionary\.
-
-[Chain Minute](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | Published 26 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | [cointelegraph\.com](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9314-26)

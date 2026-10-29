@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-35 distinct developments, newest first.
+36 distinct developments, newest first.
+
+- [Binance investigates potential security issue as CZ describes apparent hack](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | 29 Oct 2026 | Chain Incident
+
+  Binance says it is investigating reports of a potential security issue\. CZ separately described an apparent hack, while Ethereum records show wallet transfers\.
 
 - [EIP\-8455 draft clarifies combined gas readings after child calls](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | 28 Oct 2026 | Fork Brief
 
