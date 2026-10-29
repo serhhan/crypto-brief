@@ -6,6 +6,14 @@ Updated 29 Oct 2026.
 
 [Dated edition](archive/2026-10-29.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## BitGo adds Jupiter validator option for institutional SOL custody clients
+
+The October 28 integration lets eligible institutions delegate SOL through existing BitGo custody workflows, with Jupiter operating the validator independently\.
+
+[Chain Minute](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | Published 29 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | [unchainedcrypto\.com](https://unchainedcrypto.com/bitgo-adds-jupiter-operator-of-a-993-million-solana-validator-to-its-custody-staking-options/) | [www\.bitgo\.com](https://www.bitgo.com/resources/blog/bitgo-and-jupiter-enable-institutional-sol-staking-directly-from-regulated-custody/)
+
 ## Guide\: Configure a Bearer prefix for an Airnode API\-key header
 
 Keep a custom header name, its Bearer\-style prefix and the deployment key value distinct in a documented Airnode configuration\.
@@ -37,11 +45,3 @@ The October 26 agreements combine league data and operator restrictions with a s
 [Chain Minute](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | Published 26 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | [cointelegraph\.com](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9314-26)
-
-## Aviva launches Sterling Liquidity Fund share class on XRP Ledger
-
-The October 26 launch adds a sterling share class using a digital representation of holdings while retaining the existing off\-chain fund structure\.
-
-[Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | Published 26 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | [cointelegraph\.com](https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger) | [www\.avivainvestors\.com](https://www.avivainvestors.com/en-gb/about/company-news/2026/10/aviva-investors-launches-tokenised-share-class-for-sterling-liquidity-fund/)

@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-30 distinct developments, newest first.
+31 distinct developments, newest first.
+
+- [BitGo adds Jupiter validator option for institutional SOL custody clients](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | 29 Oct 2026 | Chain Minute
+
+  The October 28 integration lets eligible institutions delegate SOL through existing BitGo custody workflows, with Jupiter operating the validator independently\.
 
 - [Aviva launches Sterling Liquidity Fund share class on XRP Ledger](https://chainminute.com/news/3d60a823-12da-4a9e-9bc9-adbf421c108a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3d60a823-12da-4a9e-9bc9-adbf421c108a) | 26 Oct 2026 | Chain Minute
 
