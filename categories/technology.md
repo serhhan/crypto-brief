@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-49 distinct developments, newest first.
+50 distinct developments, newest first.
+
+- [Ethereum EIP\-8450 draft adds builders and changes key authorization](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | 30 Oct 2026 | Fork Brief
+
+  An October 30 revision would let BLS signing keys authorize replacement of dormant consensus keys and extends the proposed registry to builders\. Activation remains unassigned\.
 
 - [Ethereum draft proposes permanent EOA opt\-out from EIP\-7702 delegation](https://forkbrief.com/news/627c6402-6131-4908-9e8a-0cf1ffbcca8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=627c6402-6131-4908-9e8a-0cf1ffbcca8f) | 30 Oct 2026 | Fork Brief
 

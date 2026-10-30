@@ -6,13 +6,13 @@ Updated 30 Oct 2026.
 
 [Dated edition](archive/2026-10-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Ethereum draft proposes permanent EOA opt\-out from EIP\-7702 delegation
+## Ethereum EIP\-8450 draft adds builders and changes key authorization
 
-An unnumbered October 30 Core proposal would add a permanent account\-code marker through a constrained set\-code transaction, with encoding and compatibility choices still open\.
+An October 30 revision would let BLS signing keys authorize replacement of dormant consensus keys and extends the proposed registry to builders\. Activation remains unassigned\.
 
-[Fork Brief](https://forkbrief.com/news/627c6402-6131-4908-9e8a-0cf1ffbcca8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=627c6402-6131-4908-9e8a-0cf1ffbcca8f) | Published 30 Oct 2026
+[Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | Published 30 Oct 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/627c6402-6131-4908-9e8a-0cf1ffbcca8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=627c6402-6131-4908-9e8a-0cf1ffbcca8f) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-draft-permanent-eoa-delegation-opt-out-disable-eip-7702/30134) | [github\.com](https://github.com/ethereum/EIPs/blob/cca68a2cf5703ea7fc9015ac40e05df9b7d2c5a1/EIPS%2Feip-draft_permanent_7702_opt_out.md)
+Sources: [Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | [github\.com](https://github.com/ethereum/EIPs/blob/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93/EIPS%2Feip-8450.md) | [github\.com](https://github.com/ethereum/EIPs/commit/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93)
 
 ## Aave provider details reserve freezes across V3 and V4 markets
 
