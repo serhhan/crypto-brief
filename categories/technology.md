@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-46 distinct developments, newest first.
+47 distinct developments, newest first.
+
+- [ERC\-8330 returns to Review with a changed NAV aggregation interface](https://forkbrief.com/news/ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91) | 30 Oct 2026 | Fork Brief
+
+  The October 27 revision changes the proposed aggregate return layout and requires a fresh quorum at query time\. An October 29 follow\-up explains the compatibility consequence\.
 
 - [EIP\-8455 draft clarifies combined gas readings after child calls](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | 28 Oct 2026 | Fork Brief
 

@@ -6,6 +6,14 @@ Updated 30 Oct 2026.
 
 [Dated edition](archive/2026-10-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## ERC\-8330 returns to Review with a changed NAV aggregation interface
+
+The October 27 revision changes the proposed aggregate return layout and requires a fresh quorum at query time\. An October 29 follow\-up explains the compatibility consequence\.
+
+[Fork Brief](https://forkbrief.com/news/ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91) | Published 30 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-8330-subject-linked-nav-snapshot-oracle/28939/11) | [github\.com](https://github.com/ethereum/ERCs/blob/cc7f5495b4457cfdfd3b852df9d9c6718cfe2f24/ERCS/erc-8330.md)
+
 ## Binance investigates potential security issue as CZ describes apparent hack
 
 Binance says it is investigating reports of a potential security issue\. CZ separately described an apparent hack, while Ethereum records show wallet transfers\.
@@ -37,11 +45,3 @@ Keep a custom header name, its Bearer\-style prefix and the deployment key value
 [Fork Brief](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | Published 28 Oct 2026 | Guide
 
 Sources: [Fork Brief](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api) | [spec\.openapis\.org](https://spec.openapis.org/oas/v3.1.1.html)
-
-## EIP\-8455 draft clarifies combined gas readings after child calls
-
-An October 28 revision adds guidance and documented cases for refills that move between gas counters\. The RESERVOIR proposal remains Draft and unmerged\.
-
-[Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | Published 28 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/8ab7cdf0-7f5b-4257-8e71-6367682d6721?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8ab7cdf0-7f5b-4257-8e71-6367682d6721) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8455-reservoir-opcode/30116) | [github\.com](https://github.com/ethereum/EIPs/blob/d269755c78f726d8c9ceab5c940d9e8af78e221c/EIPS/eip-8455.md)

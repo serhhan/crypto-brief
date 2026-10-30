@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-36 distinct developments, newest first.
+37 distinct developments, newest first.
+
+- [ERC\-8330 returns to Review with a changed NAV aggregation interface](https://forkbrief.com/news/ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91) | 30 Oct 2026 | Fork Brief
+
+  The October 27 revision changes the proposed aggregate return layout and requires a fresh quorum at query time\. An October 29 follow\-up explains the compatibility consequence\.
 
 - [Binance investigates potential security issue as CZ describes apparent hack](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | 29 Oct 2026 | Chain Incident
 
