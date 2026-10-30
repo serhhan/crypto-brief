@@ -6,6 +6,14 @@ Updated 30 Oct 2026.
 
 [Dated edition](archive/2026-10-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Aave provider details reserve freezes across V3 and V4 markets
+
+LlamaRisk reported completed guardian freezes covering 175 V3 reserves and 117 V4 reserves, while distinguishing the restrictions from a market pause\.
+
+[Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | Published 30 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | [governance\.aave\.com](https://governance.aave.com/t/binance-hot-wallet-exploit-aaves-response/25954/1)
+
 ## ERC\-8330 returns to Review with a changed NAV aggregation interface
 
 The October 27 revision changes the proposed aggregate return layout and requires a fresh quorum at query time\. An October 29 follow\-up explains the compatibility consequence\.
@@ -21,14 +29,6 @@ Binance says it is investigating reports of a potential security issue\. CZ sepa
 [Chain Incident](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | Published 29 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | [etherscan\.io](https://etherscan.io/tx/0x53bd38b816c23e74134786c29a8c18d792777998a3b9326047b583100e88e2f3) | [x\.com](https://x.com/binance/status/2115918888429133902)
-
-## Curve announces StableSwap on Stellar with a beta interface
-
-Curve says its Soroban implementation is live on mainnet; the beta supports swaps and deposits, while interface pool deployment and FXSwap remain future features\.
-
-[Yield Dispatch](https://yielddispatch.com/news/9ff44b12-1fe2-497f-9e76-082cadba27df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ff44b12-1fe2-497f-9e76-082cadba27df) | Published 29 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/9ff44b12-1fe2-497f-9e76-082cadba27df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ff44b12-1fe2-497f-9e76-082cadba27df) | [news\.curve\.finance](https://news.curve.finance/curve-is-live-on-stellar/) | [stellar\.org](https://stellar.org/press/curve-brings-onchain-liquidity-infrastructure-to-the-stellar-network-in-its-first-native-non-evm-integration)
 
 ## BitGo adds Jupiter validator option for institutional SOL custody clients
 

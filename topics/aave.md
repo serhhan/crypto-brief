@@ -4,7 +4,11 @@ Aave lending markets, protocol updates and governance proposals.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-4 distinct developments, newest first.
+5 distinct developments, newest first.
+
+- [Aave provider details reserve freezes across V3 and V4 markets](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | 30 Oct 2026 | Yield Dispatch
+
+  LlamaRisk reported completed guardian freezes covering 175 V3 reserves and 117 V4 reserves, while distinguishing the restrictions from a market pause\.
 
 - [Aave Monad faces October 8 PT\-AUSD maturity as December collateral listing is proposed](https://yielddispatch.com/news/d16d77b6-89c3-4452-916f-f0d5344684fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d16d77b6-89c3-4452-916f-f0d5344684fe) | 6 Oct 2026 | Yield Dispatch
 

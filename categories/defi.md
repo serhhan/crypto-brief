@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-29 distinct developments, newest first.
+30 distinct developments, newest first.
+
+- [Aave provider details reserve freezes across V3 and V4 markets](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | 30 Oct 2026 | Yield Dispatch
+
+  LlamaRisk reported completed guardian freezes covering 175 V3 reserves and 117 V4 reserves, while distinguishing the restrictions from a market pause\.
 
 - [Curve announces StableSwap on Stellar with a beta interface](https://yielddispatch.com/news/9ff44b12-1fe2-497f-9e76-082cadba27df?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9ff44b12-1fe2-497f-9e76-082cadba27df) | 29 Oct 2026 | Yield Dispatch
 
