@@ -6,6 +6,14 @@ Updated 30 Oct 2026.
 
 [Dated edition](archive/2026-10-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## EIP\-8148 draft moves sweep thresholds into withdrawal credentials
+
+October 30 specification edits replace a separate validator\-state mapping with a two\-byte credential field and clarify the contract input, log and request encodings\.
+
+[Fork Brief](https://forkbrief.com/news/88d0bf65-d143-4e15-adde-a49494af2d24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=88d0bf65-d143-4e15-adde-a49494af2d24) | Published 30 Oct 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/88d0bf65-d143-4e15-adde-a49494af2d24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=88d0bf65-d143-4e15-adde-a49494af2d24) | [github\.com](https://github.com/ethereum/EIPs/commit/2484d1e8eec504adb89a4bc921b91cc855eca81f) | [github\.com](https://github.com/ethereum/EIPs/commit/298dd6799a35591506e8d202c23be6aafdc27c14)
+
 ## Aave provider details reserve freezes across V3 and V4 markets
 
 LlamaRisk reported completed guardian freezes covering 175 V3 reserves and 117 V4 reserves, while distinguishing the restrictions from a market pause\.
@@ -13,14 +21,6 @@ LlamaRisk reported completed guardian freezes covering 175 V3 reserves and 117 V
 [Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | Published 30 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | [governance\.aave\.com](https://governance.aave.com/t/binance-hot-wallet-exploit-aaves-response/25954/1)
-
-## ERC\-8330 returns to Review with a changed NAV aggregation interface
-
-The October 27 revision changes the proposed aggregate return layout and requires a fresh quorum at query time\. An October 29 follow\-up explains the compatibility consequence\.
-
-[Fork Brief](https://forkbrief.com/news/ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91) | Published 30 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-8330-subject-linked-nav-snapshot-oracle/28939/11) | [github\.com](https://github.com/ethereum/ERCs/blob/cc7f5495b4457cfdfd3b852df9d9c6718cfe2f24/ERCS/erc-8330.md)
 
 ## Binance investigates potential security issue as CZ describes apparent hack
 

@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-37 distinct developments, newest first.
+38 distinct developments, newest first.
+
+- [EIP\-8148 draft moves sweep thresholds into withdrawal credentials](https://forkbrief.com/news/88d0bf65-d143-4e15-adde-a49494af2d24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=88d0bf65-d143-4e15-adde-a49494af2d24) | 30 Oct 2026 | Fork Brief
+
+  October 30 specification edits replace a separate validator\-state mapping with a two\-byte credential field and clarify the contract input, log and request encodings\.
 
 - [ERC\-8330 returns to Review with a changed NAV aggregation interface](https://forkbrief.com/news/ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ea1dc8bd-8d5f-41a7-9a82-b8c520fecc91) | 30 Oct 2026 | Fork Brief
 
