@@ -6,13 +6,13 @@ Updated 30 Oct 2026.
 
 [Dated edition](archive/2026-10-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## EIP\-8148 draft moves sweep thresholds into withdrawal credentials
+## Ethereum draft proposes permanent EOA opt\-out from EIP\-7702 delegation
 
-October 30 specification edits replace a separate validator\-state mapping with a two\-byte credential field and clarify the contract input, log and request encodings\.
+An unnumbered October 30 Core proposal would add a permanent account\-code marker through a constrained set\-code transaction, with encoding and compatibility choices still open\.
 
-[Fork Brief](https://forkbrief.com/news/88d0bf65-d143-4e15-adde-a49494af2d24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=88d0bf65-d143-4e15-adde-a49494af2d24) | Published 30 Oct 2026
+[Fork Brief](https://forkbrief.com/news/627c6402-6131-4908-9e8a-0cf1ffbcca8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=627c6402-6131-4908-9e8a-0cf1ffbcca8f) | Published 30 Oct 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/88d0bf65-d143-4e15-adde-a49494af2d24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=88d0bf65-d143-4e15-adde-a49494af2d24) | [github\.com](https://github.com/ethereum/EIPs/commit/2484d1e8eec504adb89a4bc921b91cc855eca81f) | [github\.com](https://github.com/ethereum/EIPs/commit/298dd6799a35591506e8d202c23be6aafdc27c14)
+Sources: [Fork Brief](https://forkbrief.com/news/627c6402-6131-4908-9e8a-0cf1ffbcca8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=627c6402-6131-4908-9e8a-0cf1ffbcca8f) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-draft-permanent-eoa-delegation-opt-out-disable-eip-7702/30134) | [github\.com](https://github.com/ethereum/EIPs/blob/cca68a2cf5703ea7fc9015ac40e05df9b7d2c5a1/EIPS%2Feip-draft_permanent_7702_opt_out.md)
 
 ## Aave provider details reserve freezes across V3 and V4 markets
 

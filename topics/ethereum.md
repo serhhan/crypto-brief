@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-38 distinct developments, newest first.
+39 distinct developments, newest first.
+
+- [Ethereum draft proposes permanent EOA opt\-out from EIP\-7702 delegation](https://forkbrief.com/news/627c6402-6131-4908-9e8a-0cf1ffbcca8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=627c6402-6131-4908-9e8a-0cf1ffbcca8f) | 30 Oct 2026 | Fork Brief
+
+  An unnumbered October 30 Core proposal would add a permanent account\-code marker through a constrained set\-code transaction, with encoding and compatibility choices still open\.
 
 - [EIP\-8148 draft moves sweep thresholds into withdrawal credentials](https://forkbrief.com/news/88d0bf65-d143-4e15-adde-a49494af2d24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=88d0bf65-d143-4e15-adde-a49494af2d24) | 30 Oct 2026 | Fork Brief
 
