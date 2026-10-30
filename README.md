@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 29 Oct 2026.
+Updated 30 Oct 2026.
 
-[Dated edition](archive/2026-10-29.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-10-30.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Binance investigates potential security issue as CZ describes apparent hack
 
