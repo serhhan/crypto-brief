@@ -10,5 +10,5 @@ Linked pages contain at least three distinct developments.
 - [DeFi and stablecoins](defi.md) | 30 distinct developments
 - [Technology](technology.md) | 50 distinct developments
 - [Security](security.md) | 25 distinct developments
-- [Regulation](regulation.md) | 26 distinct developments
+- [Regulation](regulation.md) | 27 distinct developments
 - [Guides and explainers](education.md) | 20 distinct developments

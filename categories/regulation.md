@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-26 distinct developments, newest first.
+27 distinct developments, newest first.
+
+- [SEC says BG Wealth and DSJ filings were removed as it announces civil charges](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | 31 Oct 2026 | Chain Minute
+
+  The October 29 announcement identifies two removed filings and alleges the firms used public SEC records as supposed proof that the agency had licensed or approved them\.
 
 - [NBA names Kalshi and Polymarket partners for official data and event markets](https://chainminute.com/news/3bda27fc-736d-42fc-aad9-1377f36a7f60?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3bda27fc-736d-42fc-aad9-1377f36a7f60) | 26 Oct 2026 | Chain Minute
 

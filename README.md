@@ -6,6 +6,14 @@ Updated 31 Oct 2026.
 
 [Dated edition](archive/2026-10-31.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## SEC says BG Wealth and DSJ filings were removed as it announces civil charges
+
+The October 29 announcement identifies two removed filings and alleges the firms used public SEC records as supposed proof that the agency had licensed or approved them\.
+
+[Chain Minute](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | Published 31 Oct 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | [www\.investor\.gov](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/ERA-filing-scams) | [www\.investor\.gov](https://www.investor.gov/protect-your-investments/fraud/types-fraud/false-claims-sec-registration)
+
 ## Ethereum EIP\-8450 draft adds builders and changes key authorization
 
 An October 30 revision would let BLS signing keys authorize replacement of dormant consensus keys and extends the proposed registry to builders\. Activation remains unassigned\.
@@ -37,11 +45,3 @@ The October 28 integration lets eligible institutions delegate SOL through exist
 [Chain Minute](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | Published 29 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | [unchainedcrypto\.com](https://unchainedcrypto.com/bitgo-adds-jupiter-operator-of-a-993-million-solana-validator-to-its-custody-staking-options/) | [www\.bitgo\.com](https://www.bitgo.com/resources/blog/bitgo-and-jupiter-enable-institutional-sol-staking-directly-from-regulated-custody/)
-
-## Guide\: Configure a Bearer prefix for an Airnode API\-key header
-
-Keep a custom header name, its Bearer\-style prefix and the deployment key value distinct in a documented Airnode configuration\.
-
-[Fork Brief](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | Published 28 Oct 2026 | Guide
-
-Sources: [Fork Brief](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api) | [spec\.openapis\.org](https://spec.openapis.org/oas/v3.1.1.html)
