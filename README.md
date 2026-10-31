@@ -6,6 +6,14 @@ Updated 31 Oct 2026.
 
 [Dated edition](archive/2026-10-31.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
+
+LlamaRisk reports a tBTC\-specific guardian action on Ethereum Core\.
+
+[Yield Dispatch](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | Published 31 Oct 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | [governance\.aave\.com](https://governance.aave.com/t/tbtc-mint-redeem-pause-aaves-response/25965/1)
+
 ## Chainalysis says account details were accessed as incident investigation continues
 
 The company’s October 30 notice identifies accessed profile fields while describing its findings on investigation content and login\-related data as preliminary\. Affected\-record breakdowns remain pending\.
@@ -29,14 +37,6 @@ An October 30 revision would let BLS signing keys authorize replacement of dorma
 [Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | Published 30 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | [github\.com](https://github.com/ethereum/EIPs/blob/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93/EIPS%2Feip-8450.md) | [github\.com](https://github.com/ethereum/EIPs/commit/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93)
-
-## Aave provider details reserve freezes across V3 and V4 markets
-
-LlamaRisk reported completed guardian freezes covering 175 V3 reserves and 117 V4 reserves, while distinguishing the restrictions from a market pause\.
-
-[Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | Published 30 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | [governance\.aave\.com](https://governance.aave.com/t/binance-hot-wallet-exploit-aaves-response/25954/1)
 
 ## BitGo adds Jupiter validator option for institutional SOL custody clients
 

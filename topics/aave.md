@@ -4,7 +4,11 @@ Aave lending markets, protocol updates and governance proposals.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-5 distinct developments, newest first.
+6 distinct developments, newest first.
+
+- [LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | 31 Oct 2026 | Yield Dispatch
+
+  LlamaRisk reports a tBTC\-specific guardian action on Ethereum Core\.
 
 - [Aave provider details reserve freezes across V3 and V4 markets](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | 30 Oct 2026 | Yield Dispatch
 

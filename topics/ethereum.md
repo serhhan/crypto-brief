@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-40 distinct developments, newest first.
+41 distinct developments, newest first.
+
+- [LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | 31 Oct 2026 | Yield Dispatch
+
+  LlamaRisk reports a tBTC\-specific guardian action on Ethereum Core\.
 
 - [Ethereum EIP\-8450 draft adds builders and changes key authorization](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | 30 Oct 2026 | Fork Brief
 
