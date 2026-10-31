@@ -6,6 +6,14 @@ Updated 31 Oct 2026.
 
 [Dated edition](archive/2026-10-31.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Chainalysis says account details were accessed as incident investigation continues
+
+The company’s October 30 notice identifies accessed profile fields while describing its findings on investigation content and login\-related data as preliminary\. Affected\-record breakdowns remain pending\.
+
+[Chain Incident](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | Published 31 Oct 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | [cointelegraph\.com](https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident) | [www\.chainalysis\.com](https://www.chainalysis.com/blog/security-incident-october-30/)
+
 ## SEC says BG Wealth and DSJ filings were removed as it announces civil charges
 
 The October 29 announcement identifies two removed filings and alleges the firms used public SEC records as supposed proof that the agency had licensed or approved them\.
@@ -29,14 +37,6 @@ LlamaRisk reported completed guardian freezes covering 175 V3 reserves and 117 V
 [Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | Published 30 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/632c2daa-69f3-4d2f-9aea-ada91bd0778e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=632c2daa-69f3-4d2f-9aea-ada91bd0778e) | [governance\.aave\.com](https://governance.aave.com/t/binance-hot-wallet-exploit-aaves-response/25954/1)
-
-## Binance investigates potential security issue as CZ describes apparent hack
-
-Binance says it is investigating reports of a potential security issue\. CZ separately described an apparent hack, while Ethereum records show wallet transfers\.
-
-[Chain Incident](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | Published 29 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | [etherscan\.io](https://etherscan.io/tx/0x53bd38b816c23e74134786c29a8c18d792777998a3b9326047b583100e88e2f3) | [x\.com](https://x.com/binance/status/2115918888429133902)
 
 ## BitGo adds Jupiter validator option for institutional SOL custody clients
 

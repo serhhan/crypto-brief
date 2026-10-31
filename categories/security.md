@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-25 distinct developments, newest first.
+26 distinct developments, newest first.
+
+- [Chainalysis says account details were accessed as incident investigation continues](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | 31 Oct 2026 | Chain Incident
+
+  The company’s October 30 notice identifies accessed profile fields while describing its findings on investigation content and login\-related data as preliminary\. Affected\-record breakdowns remain pending\.
 
 - [Binance investigates potential security issue as CZ describes apparent hack](https://chainincident.com/news/47b28d94-23f7-4e2b-9202-169630d9e77a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=47b28d94-23f7-4e2b-9202-169630d9e77a) | 29 Oct 2026 | Chain Incident
 
