@@ -6,6 +6,14 @@ Updated 1 Nov 2026.
 
 [Dated edition](archive/2026-11-01.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Add ERC\: Sovereign Multi\-Issuer Cross\-Chain Transfer
+
+An October 31 forum proposal describes issuer\-specific signer policies within a shared, three\-layer ERC\-20 transfer design\.
+
+[Fork Brief](https://forkbrief.com/news/dd5da0f3-fdf1-4253-acb3-e4699d543aba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dd5da0f3-fdf1-4253-acb3-e4699d543aba) | Published 1 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/dd5da0f3-fdf1-4253-acb3-e4699d543aba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dd5da0f3-fdf1-4253-acb3-e4699d543aba) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/add-erc-sovereign-multi-issuer-cross-chain-transfer/30144/1)
+
 ## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
 
 LlamaRisk reports a tBTC\-specific guardian action on Ethereum Core\.
@@ -37,11 +45,3 @@ An October 30 revision would let BLS signing keys authorize replacement of dorma
 [Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | Published 30 Oct 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | [github\.com](https://github.com/ethereum/EIPs/blob/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93/EIPS%2Feip-8450.md) | [github\.com](https://github.com/ethereum/EIPs/commit/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93)
-
-## BitGo adds Jupiter validator option for institutional SOL custody clients
-
-The October 28 integration lets eligible institutions delegate SOL through existing BitGo custody workflows, with Jupiter operating the validator independently\.
-
-[Chain Minute](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | Published 29 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | [unchainedcrypto\.com](https://unchainedcrypto.com/bitgo-adds-jupiter-operator-of-a-993-million-solana-validator-to-its-custody-staking-options/) | [www\.bitgo\.com](https://www.bitgo.com/resources/blog/bitgo-and-jupiter-enable-institutional-sol-staking-directly-from-regulated-custody/)

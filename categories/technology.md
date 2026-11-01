@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-50 distinct developments, newest first.
+51 distinct developments, newest first.
+
+- [Add ERC\: Sovereign Multi\-Issuer Cross\-Chain Transfer](https://forkbrief.com/news/dd5da0f3-fdf1-4253-acb3-e4699d543aba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dd5da0f3-fdf1-4253-acb3-e4699d543aba) | 1 Nov 2026 | Fork Brief
+
+  An October 31 forum proposal describes issuer\-specific signer policies within a shared, three\-layer ERC\-20 transfer design\.
 
 - [Ethereum EIP\-8450 draft adds builders and changes key authorization](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | 30 Oct 2026 | Fork Brief
 

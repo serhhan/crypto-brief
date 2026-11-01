@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-41 distinct developments, newest first.
+42 distinct developments, newest first.
+
+- [Add ERC\: Sovereign Multi\-Issuer Cross\-Chain Transfer](https://forkbrief.com/news/dd5da0f3-fdf1-4253-acb3-e4699d543aba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dd5da0f3-fdf1-4253-acb3-e4699d543aba) | 1 Nov 2026 | Fork Brief
+
+  An October 31 forum proposal describes issuer\-specific signer policies within a shared, three\-layer ERC\-20 transfer design\.
 
 - [LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | 31 Oct 2026 | Yield Dispatch
 
