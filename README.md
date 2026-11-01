@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 31 Oct 2026.
+Updated 1 Nov 2026.
 
-[Dated edition](archive/2026-10-31.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-01.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
 
