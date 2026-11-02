@@ -6,6 +6,14 @@ Updated 2 Nov 2026.
 
 [Dated edition](archive/2026-11-02.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## ERC\-721 composition proposal would expose mint\-time asset declarations
+
+A new Ethereum Magicians proposal separates an NFT’s fixed asset declaration from its current container balance\. Its specification and implementation remain under discussion\.
+
+[Fork Brief](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | Published 2 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-721-composition-extension/30181)
+
 ## HKMA says EnsembleTX now supports 24\/7 real\-value transactions
 
 The November 2 update reports a new operating stage for the tokenisation pilot, while regulated stablecoin trials remain an upcoming extension\.
@@ -13,14 +21,6 @@ The November 2 update reports a new operating stage for the tokenisation pilot, 
 [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | Published 2 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | [www\.bis\.org](https://www.bis.org/speeches/20260604-keynote-speech-hong-kong-digital-finance-summit-2026) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/)
-
-## Solana p\-ATA proposal merges while activation remains unassigned
-
-SIMD\-0567 entered the proposal repository on November 1\. Its optional caller hints and migration plan remain separate from a mainnet activation\.
-
-[Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | Published 2 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | [github\.com](https://github.com/solana-foundation/solana-improvement-documents/pull/567) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/solana-foundation/solana-improvement-documents/main/proposals/0567-cu-optimized-ata-program.md)
 
 ## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
 

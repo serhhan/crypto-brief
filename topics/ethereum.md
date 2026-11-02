@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-43 distinct developments, newest first.
+44 distinct developments, newest first.
+
+- [ERC\-721 composition proposal would expose mint\-time asset declarations](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | 2 Nov 2026 | Fork Brief
+
+  A new Ethereum Magicians proposal separates an NFT’s fixed asset declaration from its current container balance\. Its specification and implementation remain under discussion\.
 
 - [OP Stack prototype adapts EIP\-8288 proof aggregation for a devnet](https://forkbrief.com/news/1ba5df0a-4ca7-40d4-b018-b1dba9c7250e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1ba5df0a-4ca7-40d4-b018-b1dba9c7250e) | 2 Nov 2026 | Fork Brief
 

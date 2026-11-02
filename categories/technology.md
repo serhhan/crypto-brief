@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-53 distinct developments, newest first.
+54 distinct developments, newest first.
+
+- [ERC\-721 composition proposal would expose mint\-time asset declarations](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | 2 Nov 2026 | Fork Brief
+
+  A new Ethereum Magicians proposal separates an NFT’s fixed asset declaration from its current container balance\. Its specification and implementation remain under discussion\.
 
 - [Solana p\-ATA proposal merges while activation remains unassigned](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | 2 Nov 2026 | Fork Brief
 
