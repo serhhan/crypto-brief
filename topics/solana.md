@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-9 distinct developments, newest first.
+10 distinct developments, newest first.
+
+- [Solana p\-ATA proposal merges while activation remains unassigned](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | 2 Nov 2026 | Fork Brief
+
+  SIMD\-0567 entered the proposal repository on November 1\. Its optional caller hints and migration plan remain separate from a mainnet activation\.
 
 - [Akash opens Solana migration vote with marketplace cutover still undecided](https://forkbrief.com/news/0608b935-09f9-42cf-a4f7-5cecec0f0f59?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0608b935-09f9-42cf-a4f7-5cecec0f0f59) | 27 Oct 2026 | Fork Brief
 

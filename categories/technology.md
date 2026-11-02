@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-52 distinct developments, newest first.
+53 distinct developments, newest first.
+
+- [Solana p\-ATA proposal merges while activation remains unassigned](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | 2 Nov 2026 | Fork Brief
+
+  SIMD\-0567 entered the proposal repository on November 1\. Its optional caller hints and migration plan remain separate from a mainnet activation\.
 
 - [OP Stack prototype adapts EIP\-8288 proof aggregation for a devnet](https://forkbrief.com/news/1ba5df0a-4ca7-40d4-b018-b1dba9c7250e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1ba5df0a-4ca7-40d4-b018-b1dba9c7250e) | 2 Nov 2026 | Fork Brief
 
