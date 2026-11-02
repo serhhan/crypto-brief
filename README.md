@@ -2,9 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 1 Nov 2026.
+Updated 2 Nov 2026.
 
-[Dated edition](archive/2026-11-01.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-02.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+
+## OP Stack prototype adapts EIP\-8288 proof aggregation for a devnet
+
+A November 2 UTC research post describes a separate aggregator and a delayed proof\-checking stage in an experimental OP Stack fork\.
+
+[Fork Brief](https://forkbrief.com/news/1ba5df0a-4ca7-40d4-b018-b1dba9c7250e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1ba5df0a-4ca7-40d4-b018-b1dba9c7250e) | Published 2 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/1ba5df0a-4ca7-40d4-b018-b1dba9c7250e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1ba5df0a-4ca7-40d4-b018-b1dba9c7250e) | [ethresear\.ch](https://ethresear.ch/t/its-time-to-scale-the-trust-eip-8288-on-op-stack/26208/1) | [github\.com](https://github.com/sm-stack/optimism/tree/feat/harry/eip-8288-proof-aggregation)
 
 ## Add ERC\: Sovereign Multi\-Issuer Cross\-Chain Transfer
 
@@ -37,11 +45,3 @@ The October 29 announcement identifies two removed filings and alleges the firms
 [Chain Minute](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | Published 31 Oct 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | [www\.investor\.gov](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/ERA-filing-scams) | [www\.investor\.gov](https://www.investor.gov/protect-your-investments/fraud/types-fraud/false-claims-sec-registration)
-
-## Ethereum EIP\-8450 draft adds builders and changes key authorization
-
-An October 30 revision would let BLS signing keys authorize replacement of dormant consensus keys and extends the proposed registry to builders\. Activation remains unassigned\.
-
-[Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | Published 30 Oct 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/01f5ebb6-168a-4a81-a097-d84884d14b06?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01f5ebb6-168a-4a81-a097-d84884d14b06) | [github\.com](https://github.com/ethereum/EIPs/blob/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93/EIPS%2Feip-8450.md) | [github\.com](https://github.com/ethereum/EIPs/commit/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93)

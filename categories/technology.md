@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-51 distinct developments, newest first.
+52 distinct developments, newest first.
+
+- [OP Stack prototype adapts EIP\-8288 proof aggregation for a devnet](https://forkbrief.com/news/1ba5df0a-4ca7-40d4-b018-b1dba9c7250e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1ba5df0a-4ca7-40d4-b018-b1dba9c7250e) | 2 Nov 2026 | Fork Brief
+
+  A November 2 UTC research post describes a separate aggregator and a delayed proof\-checking stage in an experimental OP Stack fork\.
 
 - [Add ERC\: Sovereign Multi\-Issuer Cross\-Chain Transfer](https://forkbrief.com/news/dd5da0f3-fdf1-4253-acb3-e4699d543aba?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dd5da0f3-fdf1-4253-acb3-e4699d543aba) | 1 Nov 2026 | Fork Brief
 
