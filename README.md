@@ -6,6 +6,14 @@ Updated 2 Nov 2026.
 
 [Dated edition](archive/2026-11-02.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## HKMA says EnsembleTX now supports 24\/7 real\-value transactions
+
+The November 2 update reports a new operating stage for the tokenisation pilot, while regulated stablecoin trials remain an upcoming extension\.
+
+[Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | Published 2 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | [www\.bis\.org](https://www.bis.org/speeches/20260604-keynote-speech-hong-kong-digital-finance-summit-2026) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/)
+
 ## Solana p\-ATA proposal merges while activation remains unassigned
 
 SIMD\-0567 entered the proposal repository on November 1\. Its optional caller hints and migration plan remain separate from a mainnet activation\.
@@ -13,14 +21,6 @@ SIMD\-0567 entered the proposal repository on November 1\. Its optional caller h
 [Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | Published 2 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | [github\.com](https://github.com/solana-foundation/solana-improvement-documents/pull/567) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/solana-foundation/solana-improvement-documents/main/proposals/0567-cu-optimized-ata-program.md)
-
-## OP Stack prototype adapts EIP\-8288 proof aggregation for a devnet
-
-A November 2 UTC research post describes a separate aggregator and a delayed proof\-checking stage in an experimental OP Stack fork\.
-
-[Fork Brief](https://forkbrief.com/news/1ba5df0a-4ca7-40d4-b018-b1dba9c7250e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1ba5df0a-4ca7-40d4-b018-b1dba9c7250e) | Published 2 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/1ba5df0a-4ca7-40d4-b018-b1dba9c7250e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1ba5df0a-4ca7-40d4-b018-b1dba9c7250e) | [ethresear\.ch](https://ethresear.ch/t/its-time-to-scale-the-trust-eip-8288-on-op-stack/26208/1) | [github\.com](https://github.com/sm-stack/optimism/tree/feat/harry/eip-8288-proof-aggregation)
 
 ## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
 

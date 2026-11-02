@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-31 distinct developments, newest first.
+32 distinct developments, newest first.
+
+- [HKMA says EnsembleTX now supports 24\/7 real\-value transactions](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | 2 Nov 2026 | Chain Minute
+
+  The November 2 update reports a new operating stage for the tokenisation pilot, while regulated stablecoin trials remain an upcoming extension\.
 
 - [BitGo adds Jupiter validator option for institutional SOL custody clients](https://chainminute.com/news/948941b0-c1a3-4c65-aa41-cca1dab3b253?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=948941b0-c1a3-4c65-aa41-cca1dab3b253) | 29 Oct 2026 | Chain Minute
 
