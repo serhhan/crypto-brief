@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-54 distinct developments, newest first.
+55 distinct developments, newest first.
+
+- [EIP\-8477 comment seeks an exception for pre\-signed revocations](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | 3 Nov 2026 | Fork Brief
+
+  A new proposal discussion distinguishes authorization expiry from installed delegation and raises a question about offline revocation workflows\.
 
 - [ERC\-721 composition proposal would expose mint\-time asset declarations](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | 2 Nov 2026 | Fork Brief
 

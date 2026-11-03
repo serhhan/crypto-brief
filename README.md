@@ -6,6 +6,14 @@ Updated 3 Nov 2026.
 
 [Dated edition](archive/2026-11-03.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## EIP\-8477 comment seeks an exception for pre\-signed revocations
+
+A new proposal discussion distinguishes authorization expiry from installed delegation and raises a question about offline revocation workflows\.
+
+[Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | Published 3 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8477-recent-block-bound-delegation-authorizations/30269)
+
 ## SEC staff adds crypto FAQs on governance groups and network control
 
 Three November 2 staff answers distinguish governance coordination, authority over participation and functionality from decentralization, without changing the law\.
@@ -29,14 +37,6 @@ The November 2 update reports a new operating stage for the tokenisation pilot, 
 [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | Published 2 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | [www\.bis\.org](https://www.bis.org/speeches/20260604-keynote-speech-hong-kong-digital-finance-summit-2026) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/)
-
-## Solana p\-ATA proposal merges while activation remains unassigned
-
-SIMD\-0567 entered the proposal repository on November 1\. Its optional caller hints and migration plan remain separate from a mainnet activation\.
-
-[Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | Published 2 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | [github\.com](https://github.com/solana-foundation/solana-improvement-documents/pull/567) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/solana-foundation/solana-improvement-documents/main/proposals/0567-cu-optimized-ata-program.md)
 
 ## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
 
