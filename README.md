@@ -30,6 +30,14 @@ The November 2 update reports a new operating stage for the tokenisation pilot, 
 
 Sources: [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | [www\.bis\.org](https://www.bis.org/speeches/20260604-keynote-speech-hong-kong-digital-finance-summit-2026) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/)
 
+## Solana p\-ATA proposal merges while activation remains unassigned
+
+SIMD\-0567 entered the proposal repository on November 1\. Its optional caller hints and migration plan remain separate from a mainnet activation\.
+
+[Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | Published 2 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | [github\.com](https://github.com/solana-foundation/solana-improvement-documents/pull/567) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/solana-foundation/solana-improvement-documents/main/proposals/0567-cu-optimized-ata-program.md)
+
 ## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
 
 LlamaRisk reports a tBTC\-specific guardian action on Ethereum Core\.
@@ -37,11 +45,3 @@ LlamaRisk reports a tBTC\-specific guardian action on Ethereum Core\.
 [Yield Dispatch](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | Published 31 Oct 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | [governance\.aave\.com](https://governance.aave.com/t/tbtc-mint-redeem-pause-aaves-response/25965/1)
-
-## Chainalysis says account details were accessed as incident investigation continues
-
-The company’s October 30 notice identifies accessed profile fields while describing its findings on investigation content and login\-related data as preliminary\. Affected\-record breakdowns remain pending\.
-
-[Chain Incident](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | Published 31 Oct 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | [cointelegraph\.com](https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident) | [www\.chainalysis\.com](https://www.chainalysis.com/blog/security-incident-october-30/)
