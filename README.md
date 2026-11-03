@@ -2,9 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 2 Nov 2026.
+Updated 3 Nov 2026.
 
-[Dated edition](archive/2026-11-02.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-03.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+
+## SEC staff adds crypto FAQs on governance groups and network control
+
+Three November 2 staff answers distinguish governance coordination, authority over participation and functionality from decentralization, without changing the law\.
+
+[Chain Minute](https://chainminute.com/news/f6815601-4619-402d-b53d-aff08a94c8db?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f6815601-4619-402d-b53d-aff08a94c8db) | Published 3 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/f6815601-4619-402d-b53d-aff08a94c8db?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f6815601-4619-402d-b53d-aff08a94c8db) | [www\.sec\.gov](https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets)
 
 ## ERC\-721 composition proposal would expose mint\-time asset declarations
 
@@ -37,11 +45,3 @@ The company’s October 30 notice identifies accessed profile fields while descr
 [Chain Incident](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | Published 31 Oct 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | [cointelegraph\.com](https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident) | [www\.chainalysis\.com](https://www.chainalysis.com/blog/security-incident-october-30/)
-
-## SEC says BG Wealth and DSJ filings were removed as it announces civil charges
-
-The October 29 announcement identifies two removed filings and alleges the firms used public SEC records as supposed proof that the agency had licensed or approved them\.
-
-[Chain Minute](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | Published 31 Oct 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | [www\.investor\.gov](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/ERA-filing-scams) | [www\.investor\.gov](https://www.investor.gov/protect-your-investments/fraud/types-fraud/false-claims-sec-registration)

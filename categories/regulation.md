@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-27 distinct developments, newest first.
+28 distinct developments, newest first.
+
+- [SEC staff adds crypto FAQs on governance groups and network control](https://chainminute.com/news/f6815601-4619-402d-b53d-aff08a94c8db?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f6815601-4619-402d-b53d-aff08a94c8db) | 3 Nov 2026 | Chain Minute
+
+  Three November 2 staff answers distinguish governance coordination, authority over participation and functionality from decentralization, without changing the law\.
 
 - [SEC says BG Wealth and DSJ filings were removed as it announces civil charges](https://chainminute.com/news/7331fc5b-1dff-435e-9115-2725801c8428?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7331fc5b-1dff-435e-9115-2725801c8428) | 31 Oct 2026 | Chain Minute
 
