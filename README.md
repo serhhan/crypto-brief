@@ -6,6 +6,14 @@ Updated 3 Nov 2026.
 
 [Dated edition](archive/2026-11-03.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## CFTC says equity perpetuals can trade on dually registered exchanges
+
+The CFTC’s November 3 announcement specifies a joint SEC registration condition and describes equity perpetuals as security futures products deemed approved under Regulation 40\.3\.
+
+[Chain Minute](https://chainminute.com/news/ad6a8f2c-4d39-46df-b1c8-ddabe516ced3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad6a8f2c-4d39-46df-b1c8-ddabe516ced3) | Published 3 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/ad6a8f2c-4d39-46df-b1c8-ddabe516ced3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad6a8f2c-4d39-46df-b1c8-ddabe516ced3) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9319-26) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement110326)
+
 ## EIP\-8477 comment seeks an exception for pre\-signed revocations
 
 A new proposal discussion distinguishes authorization expiry from installed delegation and raises a question about offline revocation workflows\.
@@ -13,14 +21,6 @@ A new proposal discussion distinguishes authorization expiry from installed dele
 [Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | Published 3 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8477-recent-block-bound-delegation-authorizations/30269)
-
-## SEC staff adds crypto FAQs on governance groups and network control
-
-Three November 2 staff answers distinguish governance coordination, authority over participation and functionality from decentralization, without changing the law\.
-
-[Chain Minute](https://chainminute.com/news/f6815601-4619-402d-b53d-aff08a94c8db?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f6815601-4619-402d-b53d-aff08a94c8db) | Published 3 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/f6815601-4619-402d-b53d-aff08a94c8db?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f6815601-4619-402d-b53d-aff08a94c8db) | [www\.sec\.gov](https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets)
 
 ## ERC\-721 composition proposal would expose mint\-time asset declarations
 
