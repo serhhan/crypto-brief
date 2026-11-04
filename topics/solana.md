@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-11 distinct developments, newest first.
+12 distinct developments, newest first.
+
+- [Centrifuge announces Schroders emerging\-market bond strategy on Solana](https://chainminute.com/news/db088257-3856-4c81-bbc3-c92ccd477202?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=db088257-3856-4c81-bbc3-c92ccd477202) | 4 Nov 2026 | Chain Minute
+
+  The announcement names one Schroders bond strategy and Solana as its initial network, while leaving investor access and operational details unspecified\.
 
 - [Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | 4 Nov 2026 | Chain Minute
 

@@ -6,6 +6,14 @@ Updated 4 Nov 2026.
 
 [Dated edition](archive/2026-11-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Centrifuge announces Schroders emerging\-market bond strategy on Solana
+
+The announcement names one Schroders bond strategy and Solana as its initial network, while leaving investor access and operational details unspecified\.
+
+[Chain Minute](https://chainminute.com/news/db088257-3856-4c81-bbc3-c92ccd477202?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=db088257-3856-4c81-bbc3-c92ccd477202) | Published 4 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/db088257-3856-4c81-bbc3-c92ccd477202?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=db088257-3856-4c81-bbc3-c92ccd477202) | [centrifuge\.io](https://centrifuge.io/blog/schroders-centrifuge)
+
 ## SLOTDURATION proposal would expose Ethereum slot duration to smart contracts
 
 An open, unnumbered Core draft proposes a duration opcode and Engine API changes, while leaving historical lookup as an alternative design\.
@@ -21,14 +29,6 @@ Use the summary to choose an operation and the longer description to make its ca
 [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | Published 4 Nov 2026 | Guide
 
 Sources: [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api)
-
-## Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana
-
-Bullish named three initial network partners on November 3, with Aptos and Ethereum expansion planned and the official ownership record remaining with the transfer agent\.
-
-[Chain Minute](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | Published 4 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | [www\.bullish\.com](https://www.bullish.com/us/news-insights/bullish-and-equiniti-transfer-61-million-tokenized-shares-at-the-nyse-and-has-selected-solana-aptos-and-ethereum-as-its-initial-network-partners)
 
 ## CFTC says equity perpetuals can trade on dually registered exchanges
 
