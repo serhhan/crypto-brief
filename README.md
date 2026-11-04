@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 3 Nov 2026.
+Updated 4 Nov 2026.
 
-[Dated edition](archive/2026-11-03.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## CFTC says equity perpetuals can trade on dually registered exchanges
 
@@ -37,11 +37,3 @@ The November 2 update reports a new operating stage for the tokenisation pilot, 
 [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | Published 2 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | [www\.bis\.org](https://www.bis.org/speeches/20260604-keynote-speech-hong-kong-digital-finance-summit-2026) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/)
-
-## LlamaRisk reports freeze of tBTC on Aave V3 Ethereum Core
-
-LlamaRisk reports a tBTC\-specific guardian action on Ethereum Core\.
-
-[Yield Dispatch](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | Published 31 Oct 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/24cf1396-95d7-4d78-b61b-f40b79e495d4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=24cf1396-95d7-4d78-b61b-f40b79e495d4) | [governance\.aave\.com](https://governance.aave.com/t/tbtc-mint-redeem-pause-aaves-response/25965/1)
