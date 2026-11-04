@@ -6,6 +6,14 @@ Updated 4 Nov 2026.
 
 [Dated edition](archive/2026-11-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## SLOTDURATION proposal would expose Ethereum slot duration to smart contracts
+
+An open, unnumbered Core draft proposes a duration opcode and Engine API changes, while leaving historical lookup as an alternative design\.
+
+[Fork Brief](https://forkbrief.com/news/83597f19-0396-4358-bf5b-b07f74bb132e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=83597f19-0396-4358-bf5b-b07f74bb132e) | Published 4 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/83597f19-0396-4358-bf5b-b07f74bb132e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=83597f19-0396-4358-bf5b-b07f74bb132e) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/slotduration-opcode/30276) | [github\.com](https://github.com/ethereum/EIPs/pull/12619)
+
 ## Guide\: Where Airnode operation summaries and descriptions appear
 
 Use the summary to choose an operation and the longer description to make its call, with different placement in HTTP discovery and MCP operation details\.
@@ -13,14 +21,6 @@ Use the summary to choose an operation and the longer description to make its ca
 [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | Published 4 Nov 2026 | Guide
 
 Sources: [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api)
-
-## EIP\-8449 draft proposes advance block\-building notices between Ethereum clients
-
-The new repository draft separates advance proposal schedules from the Engine API call that starts a block build, with optional support and complete schedule replacement\.
-
-[Fork Brief](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | Published 4 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8449) | [github\.com](https://github.com/ethereum/EIPs/commit/46976b2a9bf99f727fb87dc8c809e3a3cdc6b445)
 
 ## Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana
 

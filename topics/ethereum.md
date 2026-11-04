@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-48 distinct developments, newest first.
+49 distinct developments, newest first.
+
+- [SLOTDURATION proposal would expose Ethereum slot duration to smart contracts](https://forkbrief.com/news/83597f19-0396-4358-bf5b-b07f74bb132e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=83597f19-0396-4358-bf5b-b07f74bb132e) | 4 Nov 2026 | Fork Brief
+
+  An open, unnumbered Core draft proposes a duration opcode and Engine API changes, while leaving historical lookup as an alternative design\.
 
 - [EIP\-8449 draft proposes advance block\-building notices between Ethereum clients](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | 4 Nov 2026 | Fork Brief
 
