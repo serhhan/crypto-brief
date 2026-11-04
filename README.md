@@ -6,6 +6,14 @@ Updated 4 Nov 2026.
 
 [Dated edition](archive/2026-11-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Guide\: Where Airnode operation summaries and descriptions appear
+
+Use the summary to choose an operation and the longer description to make its call, with different placement in HTTP discovery and MCP operation details\.
+
+[Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | Published 4 Nov 2026 | Guide
+
+Sources: [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api)
+
 ## EIP\-8449 draft proposes advance block\-building notices between Ethereum clients
 
 The new repository draft separates advance proposal schedules from the Engine API call that starts a block build, with optional support and complete schedule replacement\.
@@ -13,14 +21,6 @@ The new repository draft separates advance proposal schedules from the Engine AP
 [Fork Brief](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | Published 4 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8449) | [github\.com](https://github.com/ethereum/EIPs/commit/46976b2a9bf99f727fb87dc8c809e3a3cdc6b445)
-
-## Ethereum repository adds EIP\-8457 draft on batching blob proof checks
-
-The informational draft describes a contract\-level pattern using EIP\-2537 interfaces and distinguishes its input format from a consensus upgrade\.
-
-[Fork Brief](https://forkbrief.com/news/7a8efdd6-1673-4e88-9e02-6fbd496a0074?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7a8efdd6-1673-4e88-9e02-6fbd496a0074) | Published 4 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/7a8efdd6-1673-4e88-9e02-6fbd496a0074?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7a8efdd6-1673-4e88-9e02-6fbd496a0074) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8457) | [github\.com](https://github.com/ethereum/EIPs/commit/a08dc970fc942ad8af26ee9da7fd188e930fedb7)
 
 ## Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana
 

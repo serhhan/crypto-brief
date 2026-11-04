@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-20 distinct developments, newest first.
+21 distinct developments, newest first.
+
+- [Guide\: Where Airnode operation summaries and descriptions appear](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | 4 Nov 2026 | Fork Brief
+
+  Use the summary to choose an operation and the longer description to make its call, with different placement in HTTP discovery and MCP operation details\.
 
 - [Guide\: Configure a Bearer prefix for an Airnode API\-key header](https://forkbrief.com/news/730aafc4-62f4-49c7-ba46-fc9d160a56ad?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=730aafc4-62f4-49c7-ba46-fc9d160a56ad) | 28 Oct 2026 | Fork Brief
 
