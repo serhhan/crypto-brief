@@ -6,6 +6,14 @@ Updated 4 Nov 2026.
 
 [Dated edition](archive/2026-11-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana
+
+Bullish named three initial network partners on November 3, with Aptos and Ethereum expansion planned and the official ownership record remaining with the transfer agent\.
+
+[Chain Minute](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | Published 4 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | [www\.bullish\.com](https://www.bullish.com/us/news-insights/bullish-and-equiniti-transfer-61-million-tokenized-shares-at-the-nyse-and-has-selected-solana-aptos-and-ethereum-as-its-initial-network-partners)
+
 ## CFTC says equity perpetuals can trade on dually registered exchanges
 
 The CFTC’s November 3 announcement specifies a joint SEC registration condition and describes equity perpetuals as security futures products deemed approved under Regulation 40\.3\.
@@ -29,11 +37,3 @@ A new Ethereum Magicians proposal separates an NFT’s fixed asset declaration f
 [Fork Brief](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | Published 2 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-721-composition-extension/30181)
-
-## HKMA says EnsembleTX now supports 24\/7 real\-value transactions
-
-The November 2 update reports a new operating stage for the tokenisation pilot, while regulated stablecoin trials remain an upcoming extension\.
-
-[Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | Published 2 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | [www\.bis\.org](https://www.bis.org/speeches/20260604-keynote-speech-hong-kong-digital-finance-summit-2026) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/)

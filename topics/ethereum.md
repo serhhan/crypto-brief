@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-45 distinct developments, newest first.
+46 distinct developments, newest first.
+
+- [Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | 4 Nov 2026 | Chain Minute
+
+  Bullish named three initial network partners on November 3, with Aptos and Ethereum expansion planned and the official ownership record remaining with the transfer agent\.
 
 - [EIP\-8477 comment seeks an exception for pre\-signed revocations](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | 3 Nov 2026 | Fork Brief
 

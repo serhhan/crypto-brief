@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-32 distinct developments, newest first.
+33 distinct developments, newest first.
+
+- [Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | 4 Nov 2026 | Chain Minute
+
+  Bullish named three initial network partners on November 3, with Aptos and Ethereum expansion planned and the official ownership record remaining with the transfer agent\.
 
 - [HKMA says EnsembleTX now supports 24\/7 real\-value transactions](https://chainminute.com/news/5e85f5cd-ebf9-4034-a37a-2f96e1b9c262?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5e85f5cd-ebf9-4034-a37a-2f96e1b9c262) | 2 Nov 2026 | Chain Minute
 

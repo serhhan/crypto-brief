@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-10 distinct developments, newest first.
+11 distinct developments, newest first.
+
+- [Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | 4 Nov 2026 | Chain Minute
+
+  Bullish named three initial network partners on November 3, with Aptos and Ethereum expansion planned and the official ownership record remaining with the transfer agent\.
 
 - [Solana p\-ATA proposal merges while activation remains unassigned](https://forkbrief.com/news/339e73f3-d70c-4617-8933-ba6f87875d42?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=339e73f3-d70c-4617-8933-ba6f87875d42) | 2 Nov 2026 | Fork Brief
 
