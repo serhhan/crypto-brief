@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-47 distinct developments, newest first.
+48 distinct developments, newest first.
+
+- [EIP\-8449 draft proposes advance block\-building notices between Ethereum clients](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | 4 Nov 2026 | Fork Brief
+
+  The new repository draft separates advance proposal schedules from the Engine API call that starts a block build, with optional support and complete schedule replacement\.
 
 - [Ethereum repository adds EIP\-8457 draft on batching blob proof checks](https://forkbrief.com/news/7a8efdd6-1673-4e88-9e02-6fbd496a0074?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7a8efdd6-1673-4e88-9e02-6fbd496a0074) | 4 Nov 2026 | Fork Brief
 

@@ -6,6 +6,14 @@ Updated 4 Nov 2026.
 
 [Dated edition](archive/2026-11-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## EIP\-8449 draft proposes advance block\-building notices between Ethereum clients
+
+The new repository draft separates advance proposal schedules from the Engine API call that starts a block build, with optional support and complete schedule replacement\.
+
+[Fork Brief](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | Published 4 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/7ac9a4a3-a308-4373-b3de-94063fb65b4e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7ac9a4a3-a308-4373-b3de-94063fb65b4e) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8449) | [github\.com](https://github.com/ethereum/EIPs/commit/46976b2a9bf99f727fb87dc8c809e3a3cdc6b445)
+
 ## Ethereum repository adds EIP\-8457 draft on batching blob proof checks
 
 The informational draft describes a contract\-level pattern using EIP\-2537 interfaces and distinguishes its input format from a consensus upgrade\.
@@ -29,11 +37,3 @@ The CFTC’s November 3 announcement specifies a joint SEC registration conditio
 [Chain Minute](https://chainminute.com/news/ad6a8f2c-4d39-46df-b1c8-ddabe516ced3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad6a8f2c-4d39-46df-b1c8-ddabe516ced3) | Published 3 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/ad6a8f2c-4d39-46df-b1c8-ddabe516ced3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad6a8f2c-4d39-46df-b1c8-ddabe516ced3) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9319-26) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement110326)
-
-## EIP\-8477 comment seeks an exception for pre\-signed revocations
-
-A new proposal discussion distinguishes authorization expiry from installed delegation and raises a question about offline revocation workflows\.
-
-[Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | Published 3 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8477-recent-block-bound-delegation-authorizations/30269)
