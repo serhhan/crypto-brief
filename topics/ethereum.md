@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-46 distinct developments, newest first.
+47 distinct developments, newest first.
+
+- [Ethereum repository adds EIP\-8457 draft on batching blob proof checks](https://forkbrief.com/news/7a8efdd6-1673-4e88-9e02-6fbd496a0074?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7a8efdd6-1673-4e88-9e02-6fbd496a0074) | 4 Nov 2026 | Fork Brief
+
+  The informational draft describes a contract\-level pattern using EIP\-2537 interfaces and distinguishes its input format from a consensus upgrade\.
 
 - [Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana](https://chainminute.com/news/e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e62ad5a3-84fe-4ce3-9f55-6fb99ca91b48) | 4 Nov 2026 | Chain Minute
 

@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-55 distinct developments, newest first.
+56 distinct developments, newest first.
+
+- [Ethereum repository adds EIP\-8457 draft on batching blob proof checks](https://forkbrief.com/news/7a8efdd6-1673-4e88-9e02-6fbd496a0074?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7a8efdd6-1673-4e88-9e02-6fbd496a0074) | 4 Nov 2026 | Fork Brief
+
+  The informational draft describes a contract\-level pattern using EIP\-2537 interfaces and distinguishes its input format from a consensus upgrade\.
 
 - [EIP\-8477 comment seeks an exception for pre\-signed revocations](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | 3 Nov 2026 | Fork Brief
 

@@ -6,6 +6,14 @@ Updated 4 Nov 2026.
 
 [Dated edition](archive/2026-11-04.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Ethereum repository adds EIP\-8457 draft on batching blob proof checks
+
+The informational draft describes a contract\-level pattern using EIP\-2537 interfaces and distinguishes its input format from a consensus upgrade\.
+
+[Fork Brief](https://forkbrief.com/news/7a8efdd6-1673-4e88-9e02-6fbd496a0074?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7a8efdd6-1673-4e88-9e02-6fbd496a0074) | Published 4 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/7a8efdd6-1673-4e88-9e02-6fbd496a0074?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=7a8efdd6-1673-4e88-9e02-6fbd496a0074) | [eips\.ethereum\.org](https://eips.ethereum.org/EIPS/eip-8457) | [github\.com](https://github.com/ethereum/EIPs/commit/a08dc970fc942ad8af26ee9da7fd188e930fedb7)
+
 ## Bullish adds Aptos and Ethereum to equity tokenization plans alongside Solana
 
 Bullish named three initial network partners on November 3, with Aptos and Ethereum expansion planned and the official ownership record remaining with the transfer agent\.
@@ -29,11 +37,3 @@ A new proposal discussion distinguishes authorization expiry from installed dele
 [Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | Published 3 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/9c3d9994-c670-4e47-9cd1-cb9587d10bd7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9c3d9994-c670-4e47-9cd1-cb9587d10bd7) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8477-recent-block-bound-delegation-authorizations/30269)
-
-## ERC\-721 composition proposal would expose mint\-time asset declarations
-
-A new Ethereum Magicians proposal separates an NFT’s fixed asset declaration from its current container balance\. Its specification and implementation remain under discussion\.
-
-[Fork Brief](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | Published 2 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/2f755ae7-632e-4ad2-b269-ecf403e79df7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2f755ae7-632e-4ad2-b269-ecf403e79df7) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-721-composition-extension/30181)
