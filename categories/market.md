@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-34 distinct developments, newest first.
+35 distinct developments, newest first.
+
+- [Nasdaq sets November 5 listing for Canary Staked INJ ETF](https://chainminute.com/news/e41919b5-446e-4bb2-b0dd-d75b8b62caed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e41919b5-446e-4bb2-b0dd-d75b8b62caed) | 5 Nov 2026 | Chain Minute
+
+  Nasdaq’s November 4 notice names INJC, sets November 5 for listing and valuation data, and identifies Flow Traders as the designated liquidity provider\.
 
 - [Centrifuge announces Schroders emerging\-market bond strategy on Solana](https://chainminute.com/news/db088257-3856-4c81-bbc3-c92ccd477202?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=db088257-3856-4c81-bbc3-c92ccd477202) | 4 Nov 2026 | Chain Minute
 
