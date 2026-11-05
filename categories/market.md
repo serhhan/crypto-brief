@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-35 distinct developments, newest first.
+36 distinct developments, newest first.
+
+- [BitGo launches Global Markets business led by former NYDIG executive Pete Janney](https://chainminute.com/news/fa4de1c5-f3e7-43b6-a058-fc39b394ee54?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa4de1c5-f3e7-43b6-a058-fc39b394ee54) | 5 Nov 2026 | Chain Minute
+
+  The November 4 announcement combines existing institutional trading and Prime Services with an expanded team following the acquisition of NYDIG’s institutional and trading business\.
 
 - [Nasdaq sets November 5 listing for Canary Staked INJ ETF](https://chainminute.com/news/e41919b5-446e-4bb2-b0dd-d75b8b62caed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e41919b5-446e-4bb2-b0dd-d75b8b62caed) | 5 Nov 2026 | Chain Minute
 
