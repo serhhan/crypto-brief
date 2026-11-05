@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-31 distinct developments, newest first.
+32 distinct developments, newest first.
+
+- [French Assembly rejects budget revenue section, sidelining crypto amendments](https://chainminute.com/news/661843ea-4d5c-46d1-9980-24c542a97e8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=661843ea-4d5c-46d1-9980-24c542a97e8f) | 5 Nov 2026 | Chain Minute
+
+  The November 4 first\-reading vote rejected the broader budget section after crypto amendments had passed, leaving their future to the remaining legislative process\.
 
 - [French Assembly adds €100,000 self\-custody reporting proposal to budget bill](https://chainminute.com/news/9e9ebfad-2bcc-4036-8519-d162760fe53f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e9ebfad-2bcc-4036-8519-d162760fe53f) | 5 Nov 2026 | Chain Minute
 

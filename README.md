@@ -6,6 +6,14 @@ Updated 5 Nov 2026.
 
 [Dated edition](archive/2026-11-05.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## French Assembly rejects budget revenue section, sidelining crypto amendments
+
+The November 4 first\-reading vote rejected the broader budget section after crypto amendments had passed, leaving their future to the remaining legislative process\.
+
+[Chain Minute](https://chainminute.com/news/661843ea-4d5c-46d1-9980-24c542a97e8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=661843ea-4d5c-46d1-9980-24c542a97e8f) | Published 5 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/661843ea-4d5c-46d1-9980-24c542a97e8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=661843ea-4d5c-46d1-9980-24c542a97e8f) | [cointelegraph\.com](https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments) | [www\.assemblee\-nationale\.fr](https://www.assemblee-nationale.fr/dyn/17/scrutins/9759)
+
 ## Nasdaq sets November 5 listing for Canary Staked INJ ETF
 
 Nasdaq’s November 4 notice names INJC, sets November 5 for listing and valuation data, and identifies Flow Traders as the designated liquidity provider\.
@@ -13,14 +21,6 @@ Nasdaq’s November 4 notice names INJC, sets November 5 for listing and valuati
 [Chain Minute](https://chainminute.com/news/e41919b5-446e-4bb2-b0dd-d75b8b62caed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e41919b5-446e-4bb2-b0dd-d75b8b62caed) | Published 5 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/e41919b5-446e-4bb2-b0dd-d75b8b62caed?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e41919b5-446e-4bb2-b0dd-d75b8b62caed) | [www\.nasdaqtrader\.com](https://www.nasdaqtrader.com/TraderNews.aspx?id=ETP2026-179)
-
-## French Assembly adds €100,000 self\-custody reporting proposal to budget bill
-
-Amendment I\-2701 uses a December 31 valuation and an inclusive €100,000 threshold, while remaining part of the 2027 budget’s legislative process\.
-
-[Chain Minute](https://chainminute.com/news/9e9ebfad-2bcc-4036-8519-d162760fe53f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e9ebfad-2bcc-4036-8519-d162760fe53f) | Published 5 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/9e9ebfad-2bcc-4036-8519-d162760fe53f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e9ebfad-2bcc-4036-8519-d162760fe53f) | [www\.assemblee\-nationale\.fr](https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/2701) | [www\.tokenpost\.com](https://www.tokenpost.com/news/regulation/49048)
 
 ## SLOTDURATION proposal would expose Ethereum slot duration to smart contracts
 
