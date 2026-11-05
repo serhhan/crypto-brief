@@ -6,13 +6,13 @@ Updated 5 Nov 2026.
 
 [Dated edition](archive/2026-11-05.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## SEC staff issues conditional no\-action response on Canton Coin minting
+## French Assembly adds €100,000 self\-custody reporting proposal to budget bill
 
-The November 3 staff response addresses specified network reward minting and registration provisions, relying on counsel’s representations and preserving explicit limits\.
+Amendment I\-2701 uses a December 31 valuation and an inclusive €100,000 threshold, while remaining part of the 2027 budget’s legislative process\.
 
-[Chain Minute](https://chainminute.com/news/6af00fd0-a2e9-445b-bf3c-5c8e119f43ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6af00fd0-a2e9-445b-bf3c-5c8e119f43ff) | Published 5 Nov 2026
+[Chain Minute](https://chainminute.com/news/9e9ebfad-2bcc-4036-8519-d162760fe53f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e9ebfad-2bcc-4036-8519-d162760fe53f) | Published 5 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/6af00fd0-a2e9-445b-bf3c-5c8e119f43ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6af00fd0-a2e9-445b-bf3c-5c8e119f43ff) | [unchainedcrypto\.com](https://unchainedcrypto.com/canton-coin-is-a-digital-commodity-sec-staff-say-in-letter-covering-network-rewards/) | [www\.sec\.gov](https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326)
+Sources: [Chain Minute](https://chainminute.com/news/9e9ebfad-2bcc-4036-8519-d162760fe53f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e9ebfad-2bcc-4036-8519-d162760fe53f) | [www\.assemblee\-nationale\.fr](https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/2701) | [www\.tokenpost\.com](https://www.tokenpost.com/news/regulation/49048)
 
 ## Centrifuge announces Schroders emerging\-market bond strategy on Solana
 

@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-30 distinct developments, newest first.
+31 distinct developments, newest first.
+
+- [French Assembly adds €100,000 self\-custody reporting proposal to budget bill](https://chainminute.com/news/9e9ebfad-2bcc-4036-8519-d162760fe53f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e9ebfad-2bcc-4036-8519-d162760fe53f) | 5 Nov 2026 | Chain Minute
+
+  Amendment I\-2701 uses a December 31 valuation and an inclusive €100,000 threshold, while remaining part of the 2027 budget’s legislative process\.
 
 - [SEC staff issues conditional no\-action response on Canton Coin minting](https://chainminute.com/news/6af00fd0-a2e9-445b-bf3c-5c8e119f43ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6af00fd0-a2e9-445b-bf3c-5c8e119f43ff) | 5 Nov 2026 | Chain Minute
 
