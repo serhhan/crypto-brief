@@ -6,13 +6,13 @@ Updated 5 Nov 2026.
 
 [Dated edition](archive/2026-11-05.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## EIP\-8450 revision changes draft gossip checks for differing chain views
+## NEAR introduces Delta League competition for direct model\-weight edits
 
-The November 5 draft edit separates head\-dependent registration checks from REJECT checks while retaining block\-processing requirements and dormant keys\.
+The November 5 announcement describes a NEAR AI\-powered competition with parent\-model lineage, weight\-edit submissions and private evaluation rather than a new base model release\.
 
-[Fork Brief](https://forkbrief.com/news/663063cd-8ef0-457f-8b88-3a7f8b65a293?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=663063cd-8ef0-457f-8b88-3a7f8b65a293) | Published 5 Nov 2026
+[Fork Brief](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | Published 5 Nov 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/663063cd-8ef0-457f-8b88-3a7f8b65a293?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=663063cd-8ef0-457f-8b88-3a7f8b65a293) | [github\.com](https://github.com/ethereum/EIPs/blob/e51d38a636dddbc9d823dd3ba66357fb61e85db6/EIPS/eip-8450.md) | [github\.com](https://github.com/ethereum/EIPs/commit/e51d38a636dddbc9d823dd3ba66357fb61e85db6)
+Sources: [Fork Brief](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | [deltaleague\.ai](https://deltaleague.ai/) | [x\.com](https://x.com/NEARProtocol/status/2118368994495222111)
 
 ## BitGo launches Global Markets business led by former NYDIG executive Pete Janney
 

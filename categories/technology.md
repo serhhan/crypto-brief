@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-59 distinct developments, newest first.
+60 distinct developments, newest first.
+
+- [NEAR introduces Delta League competition for direct model\-weight edits](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | 5 Nov 2026 | Fork Brief
+
+  The November 5 announcement describes a NEAR AI\-powered competition with parent\-model lineage, weight\-edit submissions and private evaluation rather than a new base model release\.
 
 - [EIP\-8450 revision changes draft gossip checks for differing chain views](https://forkbrief.com/news/663063cd-8ef0-457f-8b88-3a7f8b65a293?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=663063cd-8ef0-457f-8b88-3a7f8b65a293) | 5 Nov 2026 | Fork Brief
 
