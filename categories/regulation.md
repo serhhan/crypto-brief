@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-29 distinct developments, newest first.
+30 distinct developments, newest first.
+
+- [SEC staff issues conditional no\-action response on Canton Coin minting](https://chainminute.com/news/6af00fd0-a2e9-445b-bf3c-5c8e119f43ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6af00fd0-a2e9-445b-bf3c-5c8e119f43ff) | 5 Nov 2026 | Chain Minute
+
+  The November 3 staff response addresses specified network reward minting and registration provisions, relying on counsel’s representations and preserving explicit limits\.
 
 - [CFTC says equity perpetuals can trade on dually registered exchanges](https://chainminute.com/news/ad6a8f2c-4d39-46df-b1c8-ddabe516ced3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad6a8f2c-4d39-46df-b1c8-ddabe516ced3) | 3 Nov 2026 | Chain Minute
 

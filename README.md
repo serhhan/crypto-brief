@@ -6,6 +6,14 @@ Updated 5 Nov 2026.
 
 [Dated edition](archive/2026-11-05.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## SEC staff issues conditional no\-action response on Canton Coin minting
+
+The November 3 staff response addresses specified network reward minting and registration provisions, relying on counsel’s representations and preserving explicit limits\.
+
+[Chain Minute](https://chainminute.com/news/6af00fd0-a2e9-445b-bf3c-5c8e119f43ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6af00fd0-a2e9-445b-bf3c-5c8e119f43ff) | Published 5 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/6af00fd0-a2e9-445b-bf3c-5c8e119f43ff?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=6af00fd0-a2e9-445b-bf3c-5c8e119f43ff) | [unchainedcrypto\.com](https://unchainedcrypto.com/canton-coin-is-a-digital-commodity-sec-staff-say-in-letter-covering-network-rewards/) | [www\.sec\.gov](https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326)
+
 ## Centrifuge announces Schroders emerging\-market bond strategy on Solana
 
 The announcement names one Schroders bond strategy and Solana as its initial network, while leaving investor access and operational details unspecified\.
@@ -29,11 +37,3 @@ Use the summary to choose an operation and the longer description to make its ca
 [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | Published 4 Nov 2026 | Guide
 
 Sources: [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api)
-
-## CFTC says equity perpetuals can trade on dually registered exchanges
-
-The CFTC’s November 3 announcement specifies a joint SEC registration condition and describes equity perpetuals as security futures products deemed approved under Regulation 40\.3\.
-
-[Chain Minute](https://chainminute.com/news/ad6a8f2c-4d39-46df-b1c8-ddabe516ced3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad6a8f2c-4d39-46df-b1c8-ddabe516ced3) | Published 3 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/ad6a8f2c-4d39-46df-b1c8-ddabe516ced3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=ad6a8f2c-4d39-46df-b1c8-ddabe516ced3) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/PressReleases/9319-26) | [www\.cftc\.gov](https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement110326)
