@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-49 distinct developments, newest first.
+50 distinct developments, newest first.
+
+- [EIP\-8450 revision changes draft gossip checks for differing chain views](https://forkbrief.com/news/663063cd-8ef0-457f-8b88-3a7f8b65a293?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=663063cd-8ef0-457f-8b88-3a7f8b65a293) | 5 Nov 2026 | Fork Brief
+
+  The November 5 draft edit separates head\-dependent registration checks from REJECT checks while retaining block\-processing requirements and dormant keys\.
 
 - [SLOTDURATION proposal would expose Ethereum slot duration to smart contracts](https://forkbrief.com/news/83597f19-0396-4358-bf5b-b07f74bb132e?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=83597f19-0396-4358-bf5b-b07f74bb132e) | 4 Nov 2026 | Fork Brief
 
