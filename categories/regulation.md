@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-32 distinct developments, newest first.
+33 distinct developments, newest first.
+
+- [Hyperliquid Strategies discloses subsidiary’s U\.S\. FCM application](https://chainminute.com/news/d9c37dba-671b-485a-9003-75717c0ca6f7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d9c37dba-671b-485a-9003-75717c0ca6f7) | 6 Nov 2026 | Chain Minute
+
+  The company’s November 5 release describes a subsidiary’s application and a conditional role carrying U\.S\. accounts for proposed permissioned Hyperliquid markets\.
 
 - [French Assembly rejects budget revenue section, sidelining crypto amendments](https://chainminute.com/news/661843ea-4d5c-46d1-9980-24c542a97e8f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=661843ea-4d5c-46d1-9980-24c542a97e8f) | 5 Nov 2026 | Chain Minute
 
