@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-33 distinct developments, newest first.
+34 distinct developments, newest first.
+
+- [OFAC adds 45 Prince Group\-related sanctions targets](https://chainminute.com/news/b3e507c8-11ab-47ba-b2db-7e4ec0ad2791?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b3e507c8-11ab-47ba-b2db-7e4ec0ad2791) | 6 Nov 2026 | Chain Minute
+
+  The November 5 action adds four people and 41 companies linked by Treasury to Prince Group, alongside a separate cyber\-related designation\.
 
 - [Hyperliquid Strategies discloses subsidiary’s U\.S\. FCM application](https://chainminute.com/news/d9c37dba-671b-485a-9003-75717c0ca6f7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d9c37dba-671b-485a-9003-75717c0ca6f7) | 6 Nov 2026 | Chain Minute
 

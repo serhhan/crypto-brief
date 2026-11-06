@@ -6,6 +6,14 @@ Updated 6 Nov 2026.
 
 [Dated edition](archive/2026-11-06.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## OFAC adds 45 Prince Group\-related sanctions targets
+
+The November 5 action adds four people and 41 companies linked by Treasury to Prince Group, alongside a separate cyber\-related designation\.
+
+[Chain Minute](https://chainminute.com/news/b3e507c8-11ab-47ba-b2db-7e4ec0ad2791?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b3e507c8-11ab-47ba-b2db-7e4ec0ad2791) | Published 6 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/b3e507c8-11ab-47ba-b2db-7e4ec0ad2791?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b3e507c8-11ab-47ba-b2db-7e4ec0ad2791) | [home\.treasury\.gov](https://home.treasury.gov/news/press-releases/sb0683) | [ofac\.treasury\.gov](https://ofac.treasury.gov/recent-actions/20261105)
+
 ## Amundi issues an Ethereum share class for a European equity index fund
 
 Amundi says a tokenized equity\-index fund share class has been issued on public Ethereum with CACEIS, while its existing operating model and traditional channels remain\.
@@ -21,14 +29,6 @@ AWS says content owners can receive local currency in their Stripe balance while
 [Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | Published 6 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | [aws\.amazon\.com](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/) | [stripe\.com](https://stripe.com/newsroom/news/aws-waf-and-stripe)
-
-## Hyperliquid Strategies discloses subsidiary’s U\.S\. FCM application
-
-The company’s November 5 release describes a subsidiary’s application and a conditional role carrying U\.S\. accounts for proposed permissioned Hyperliquid markets\.
-
-[Chain Minute](https://chainminute.com/news/d9c37dba-671b-485a-9003-75717c0ca6f7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d9c37dba-671b-485a-9003-75717c0ca6f7) | Published 6 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/d9c37dba-671b-485a-9003-75717c0ca6f7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d9c37dba-671b-485a-9003-75717c0ca6f7) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/2078856/000119312526450063/purr-20261104.htm) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/2078856/000119312526450063/purr-ex99_1.htm)
 
 ## NEAR introduces Delta League competition for direct model\-weight edits
 
