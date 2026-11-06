@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-26 distinct developments, newest first.
+27 distinct developments, newest first.
+
+- [Chainalysis begins phased restoration of KYT and Address Screening](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | 6 Nov 2026 | Chain Incident
+
+  The November 6 update reports phased access for screening tools with account requirements, while restoration work on Reactor and Data Solutions continues\.
 
 - [Chainalysis says account details were accessed as incident investigation continues](https://chainincident.com/news/8e3a6380-2672-416d-a9a7-24514839814a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8e3a6380-2672-416d-a9a7-24514839814a) | 31 Oct 2026 | Chain Incident
 

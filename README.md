@@ -6,6 +6,14 @@ Updated 6 Nov 2026.
 
 [Dated edition](archive/2026-11-06.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Chainalysis begins phased restoration of KYT and Address Screening
+
+The November 6 update reports phased access for screening tools with account requirements, while restoration work on Reactor and Data Solutions continues\.
+
+[Chain Incident](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | Published 6 Nov 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | [www\.chainalysis\.com](https://www.chainalysis.com/blog/security-incident-october-30/)
+
 ## OFAC adds 45 Prince Group\-related sanctions targets
 
 The November 5 action adds four people and 41 companies linked by Treasury to Prince Group, alongside a separate cyber\-related designation\.
@@ -37,11 +45,3 @@ The November 5 announcement describes a NEAR AI\-powered competition with parent
 [Fork Brief](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | Published 5 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | [deltaleague\.ai](https://deltaleague.ai/) | [x\.com](https://x.com/NEARProtocol/status/2118368994495222111)
-
-## Guide\: Where Airnode operation summaries and descriptions appear
-
-Use the summary to choose an operation and the longer description to make its call, with different placement in HTTP discovery and MCP operation details\.
-
-[Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | Published 4 Nov 2026 | Guide
-
-Sources: [Fork Brief](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/wrapping-an-api)
