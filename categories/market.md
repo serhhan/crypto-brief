@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-36 distinct developments, newest first.
+37 distinct developments, newest first.
+
+- [Amundi issues an Ethereum share class for a European equity index fund](https://chainminute.com/news/001abeeb-7e7d-4193-b838-debcaabdb74f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=001abeeb-7e7d-4193-b838-debcaabdb74f) | 6 Nov 2026 | Chain Minute
+
+  Amundi says a tokenized equity\-index fund share class has been issued on public Ethereum with CACEIS, while its existing operating model and traditional channels remain\.
 
 - [BitGo launches Global Markets business led by former NYDIG executive Pete Janney](https://chainminute.com/news/fa4de1c5-f3e7-43b6-a058-fc39b394ee54?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fa4de1c5-f3e7-43b6-a058-fc39b394ee54) | 5 Nov 2026 | Chain Minute
 

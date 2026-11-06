@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-50 distinct developments, newest first.
+51 distinct developments, newest first.
+
+- [Amundi issues an Ethereum share class for a European equity index fund](https://chainminute.com/news/001abeeb-7e7d-4193-b838-debcaabdb74f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=001abeeb-7e7d-4193-b838-debcaabdb74f) | 6 Nov 2026 | Chain Minute
+
+  Amundi says a tokenized equity\-index fund share class has been issued on public Ethereum with CACEIS, while its existing operating model and traditional channels remain\.
 
 - [EIP\-8450 revision changes draft gossip checks for differing chain views](https://forkbrief.com/news/663063cd-8ef0-457f-8b88-3a7f8b65a293?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=663063cd-8ef0-457f-8b88-3a7f8b65a293) | 5 Nov 2026 | Fork Brief
 
