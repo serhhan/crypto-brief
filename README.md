@@ -6,6 +6,14 @@ Updated 6 Nov 2026.
 
 [Dated edition](archive/2026-11-06.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## AWS WAF adds Stripe payouts for stablecoin agent payments
+
+AWS says content owners can receive local currency in their Stripe balance while agents pay for access in stablecoins, extending an existing WAF monetization service\.
+
+[Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | Published 6 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | [aws\.amazon\.com](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/) | [stripe\.com](https://stripe.com/newsroom/news/aws-waf-and-stripe)
+
 ## Hyperliquid Strategies discloses subsidiary’s U\.S\. FCM application
 
 The company’s November 5 release describes a subsidiary’s application and a conditional role carrying U\.S\. accounts for proposed permissioned Hyperliquid markets\.
