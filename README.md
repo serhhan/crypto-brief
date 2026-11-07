@@ -6,13 +6,13 @@ Updated 7 Nov 2026.
 
 [Dated edition](archive/2026-11-07.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## OFAC adds eight Canadian money services businesses to Iran sanctions list
+## India’s ED reports searches linked to CoinDCX and Delta Exchange India
 
-OFAC’s November 6 action adds eight Canada\-based legal entities, including businesses sharing Amin Exchange and Cryptoyal names, to its Iran sanctions program\.
+ED reported November 4–5 searches at three Bengaluru premises linked to CoinDCX and Delta Exchange India; Delta acknowledged the visit and disputed cross\-border asset transfers\.
 
-[Chain Minute](https://chainminute.com/news/e6b1e4bb-71cf-49ef-9422-1fc31b08f7af?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e6b1e4bb-71cf-49ef-9422-1fc31b08f7af) | Published 7 Nov 2026
+[Chain Minute](https://chainminute.com/news/57ee8287-947b-4aa0-ae1e-f6a9e24c21ce?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57ee8287-947b-4aa0-ae1e-f6a9e24c21ce) | Published 7 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/e6b1e4bb-71cf-49ef-9422-1fc31b08f7af?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e6b1e4bb-71cf-49ef-9422-1fc31b08f7af) | [home\.treasury\.gov](https://home.treasury.gov/news/press-releases/sb0686) | [ofac\.treasury\.gov](https://ofac.treasury.gov/recent-actions/20261106)
+Sources: [Chain Minute](https://chainminute.com/news/57ee8287-947b-4aa0-ae1e-f6a9e24c21ce?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57ee8287-947b-4aa0-ae1e-f6a9e24c21ce) | [news\.bitcoin\.com](https://news.bitcoin.com/regulation-and-legal/india-ed-searches-coindcx-delta-exchange-binance/) | [x\.com](https://x.com/Delta_Exchange/status/2118749234048692495)
 
 ## Base Denim replaces Flashblocks with native 200\-millisecond blocks
 

@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-35 distinct developments, newest first.
+36 distinct developments, newest first.
+
+- [India’s ED reports searches linked to CoinDCX and Delta Exchange India](https://chainminute.com/news/57ee8287-947b-4aa0-ae1e-f6a9e24c21ce?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57ee8287-947b-4aa0-ae1e-f6a9e24c21ce) | 7 Nov 2026 | Chain Minute
+
+  ED reported November 4–5 searches at three Bengaluru premises linked to CoinDCX and Delta Exchange India; Delta acknowledged the visit and disputed cross\-border asset transfers\.
 
 - [OFAC adds eight Canadian money services businesses to Iran sanctions list](https://chainminute.com/news/e6b1e4bb-71cf-49ef-9422-1fc31b08f7af?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e6b1e4bb-71cf-49ef-9422-1fc31b08f7af) | 7 Nov 2026 | Chain Minute
 
