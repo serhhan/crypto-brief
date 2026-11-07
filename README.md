@@ -6,6 +6,14 @@ Updated 7 Nov 2026.
 
 [Dated edition](archive/2026-11-07.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## OFAC adds eight Canadian money services businesses to Iran sanctions list
+
+OFAC’s November 6 action adds eight Canada\-based legal entities, including businesses sharing Amin Exchange and Cryptoyal names, to its Iran sanctions program\.
+
+[Chain Minute](https://chainminute.com/news/e6b1e4bb-71cf-49ef-9422-1fc31b08f7af?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e6b1e4bb-71cf-49ef-9422-1fc31b08f7af) | Published 7 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/e6b1e4bb-71cf-49ef-9422-1fc31b08f7af?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e6b1e4bb-71cf-49ef-9422-1fc31b08f7af) | [home\.treasury\.gov](https://home.treasury.gov/news/press-releases/sb0686) | [ofac\.treasury\.gov](https://ofac.treasury.gov/recent-actions/20261106)
+
 ## Base Denim replaces Flashblocks with native 200\-millisecond blocks
 
 Base says Denim is live on mainnet, replacing pending\-state Flashblocks with native 200ms canonical blocks and adding millisecond timestamps while Ethereum finality remains separate\.
@@ -21,14 +29,6 @@ The November 6 update reports phased access for screening tools with account req
 [Chain Incident](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | Published 6 Nov 2026
 
 Sources: [Chain Incident](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | [www\.chainalysis\.com](https://www.chainalysis.com/blog/security-incident-october-30/)
-
-## OFAC adds 45 Prince Group\-related sanctions targets
-
-The November 5 action adds four people and 41 companies linked by Treasury to Prince Group, alongside a separate cyber\-related designation\.
-
-[Chain Minute](https://chainminute.com/news/b3e507c8-11ab-47ba-b2db-7e4ec0ad2791?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b3e507c8-11ab-47ba-b2db-7e4ec0ad2791) | Published 6 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/b3e507c8-11ab-47ba-b2db-7e4ec0ad2791?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b3e507c8-11ab-47ba-b2db-7e4ec0ad2791) | [home\.treasury\.gov](https://home.treasury.gov/news/press-releases/sb0683) | [ofac\.treasury\.gov](https://ofac.treasury.gov/recent-actions/20261105)
 
 ## Amundi issues an Ethereum share class for a European equity index fund
 

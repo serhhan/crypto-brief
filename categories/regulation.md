@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-34 distinct developments, newest first.
+35 distinct developments, newest first.
+
+- [OFAC adds eight Canadian money services businesses to Iran sanctions list](https://chainminute.com/news/e6b1e4bb-71cf-49ef-9422-1fc31b08f7af?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e6b1e4bb-71cf-49ef-9422-1fc31b08f7af) | 7 Nov 2026 | Chain Minute
+
+  OFAC’s November 6 action adds eight Canada\-based legal entities, including businesses sharing Amin Exchange and Cryptoyal names, to its Iran sanctions program\.
 
 - [OFAC adds 45 Prince Group\-related sanctions targets](https://chainminute.com/news/b3e507c8-11ab-47ba-b2db-7e4ec0ad2791?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b3e507c8-11ab-47ba-b2db-7e4ec0ad2791) | 6 Nov 2026 | Chain Minute
 
