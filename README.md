@@ -6,6 +6,14 @@ Updated 7 Nov 2026.
 
 [Dated edition](archive/2026-11-07.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Base Denim replaces Flashblocks with native 200\-millisecond blocks
+
+Base says Denim is live on mainnet, replacing pending\-state Flashblocks with native 200ms canonical blocks and adding millisecond timestamps while Ethereum finality remains separate\.
+
+[Fork Brief](https://forkbrief.com/news/c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3) | Published 7 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3) | [www\.base\.org](https://www.base.org/blog/denim)
+
 ## Chainalysis begins phased restoration of KYT and Address Screening
 
 The November 6 update reports phased access for screening tools with account requirements, while restoration work on Reactor and Data Solutions continues\.
@@ -37,11 +45,3 @@ AWS says content owners can receive local currency in their Stripe balance while
 [Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | Published 6 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | [aws\.amazon\.com](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/) | [stripe\.com](https://stripe.com/newsroom/news/aws-waf-and-stripe)
-
-## NEAR introduces Delta League competition for direct model\-weight edits
-
-The November 5 announcement describes a NEAR AI\-powered competition with parent\-model lineage, weight\-edit submissions and private evaluation rather than a new base model release\.
-
-[Fork Brief](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | Published 5 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | [deltaleague\.ai](https://deltaleague.ai/) | [x\.com](https://x.com/NEARProtocol/status/2118368994495222111)

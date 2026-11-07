@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-51 distinct developments, newest first.
+52 distinct developments, newest first.
+
+- [Base Denim replaces Flashblocks with native 200\-millisecond blocks](https://forkbrief.com/news/c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3) | 7 Nov 2026 | Fork Brief
+
+  Base says Denim is live on mainnet, replacing pending\-state Flashblocks with native 200ms canonical blocks and adding millisecond timestamps while Ethereum finality remains separate\.
 
 - [Amundi issues an Ethereum share class for a European equity index fund](https://chainminute.com/news/001abeeb-7e7d-4193-b838-debcaabdb74f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=001abeeb-7e7d-4193-b838-debcaabdb74f) | 6 Nov 2026 | Chain Minute
 

@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-60 distinct developments, newest first.
+61 distinct developments, newest first.
+
+- [Base Denim replaces Flashblocks with native 200\-millisecond blocks](https://forkbrief.com/news/c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3) | 7 Nov 2026 | Fork Brief
+
+  Base says Denim is live on mainnet, replacing pending\-state Flashblocks with native 200ms canonical blocks and adding millisecond timestamps while Ethereum finality remains separate\.
 
 - [NEAR introduces Delta League competition for direct model\-weight edits](https://forkbrief.com/news/d60252ba-6e49-4aed-bf73-140104c771da?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d60252ba-6e49-4aed-bf73-140104c771da) | 5 Nov 2026 | Fork Brief
 
