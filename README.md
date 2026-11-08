@@ -2,17 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 7 Nov 2026.
+Updated 8 Nov 2026.
 
-[Dated edition](archive/2026-11-07.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-08.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## India’s ED reports searches linked to CoinDCX and Delta Exchange India
+## EU announces crypto sanctions task force after enforcement meeting
 
-ED reported November 4–5 searches at three Bengaluru premises linked to CoinDCX and Delta Exchange India; Delta acknowledged the visit and disputed cross\-border asset transfers\.
+A November 6 Commission statement announces an EU Crypto Sanctions Task Force following a November 5 enforcement meeting; membership and operating arrangements were not detailed\.
 
-[Chain Minute](https://chainminute.com/news/57ee8287-947b-4aa0-ae1e-f6a9e24c21ce?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57ee8287-947b-4aa0-ae1e-f6a9e24c21ce) | Published 7 Nov 2026
+[Chain Minute](https://chainminute.com/news/f0da0a05-d201-42aa-9dd9-3647eb44dcf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f0da0a05-d201-42aa-9dd9-3647eb44dcf9) | Published 8 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/57ee8287-947b-4aa0-ae1e-f6a9e24c21ce?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=57ee8287-947b-4aa0-ae1e-f6a9e24c21ce) | [news\.bitcoin\.com](https://news.bitcoin.com/regulation-and-legal/india-ed-searches-coindcx-delta-exchange-binance/) | [x\.com](https://x.com/Delta_Exchange/status/2118749234048692495)
+Sources: [Chain Minute](https://chainminute.com/news/f0da0a05-d201-42aa-9dd9-3647eb44dcf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f0da0a05-d201-42aa-9dd9-3647eb44dcf9) | [finance\.ec\.europa\.eu](https://finance.ec.europa.eu/news/statement-commissioner-albuquerque-outcomes-tenth-meeting-high-level-meeting-sanctions-2026-11-06_en)
 
 ## Base Denim replaces Flashblocks with native 200\-millisecond blocks
 
