@@ -6,6 +6,14 @@ Updated 8 Nov 2026.
 
 [Dated edition](archive/2026-11-08.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## FinCEN and Fed announce withdrawal of 2020 travel\-rule proposal
+
+The agencies announced withdrawal of a proposal to lower certain cross\-border information thresholds\. The filed notice is scheduled for November 9 publication\.
+
+[Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | Published 8 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | [public\-inspection\.federalregister\.gov](https://public-inspection.federalregister.gov/2026-22809.pdf) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule)
+
 ## Draft AIFP ERC proposes versioned permissions for agent channels
 
 Gary Yang’s open ERC proposal separates scoped information permissions, rule versions and four verification outcomes; its number remains a placeholder\.
@@ -13,14 +21,6 @@ Gary Yang’s open ERC proposal separates scoped information permissions, rule v
 [Fork Brief](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | Published 8 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-information-flow-paradigm-aifp-versioned-composable-rules-for-how-agents-provide-observe-and-redistribute-information/30300) | [github\.com](https://github.com/ethereum/ERCs/pull/2152)
-
-## EU announces crypto sanctions task force after enforcement meeting
-
-A November 6 Commission statement announces an EU Crypto Sanctions Task Force following a November 5 enforcement meeting; membership and operating arrangements were not detailed\.
-
-[Chain Minute](https://chainminute.com/news/f0da0a05-d201-42aa-9dd9-3647eb44dcf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f0da0a05-d201-42aa-9dd9-3647eb44dcf9) | Published 8 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/f0da0a05-d201-42aa-9dd9-3647eb44dcf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f0da0a05-d201-42aa-9dd9-3647eb44dcf9) | [finance\.ec\.europa\.eu](https://finance.ec.europa.eu/news/statement-commissioner-albuquerque-outcomes-tenth-meeting-high-level-meeting-sanctions-2026-11-06_en)
 
 ## Chainalysis begins phased restoration of KYT and Address Screening
 

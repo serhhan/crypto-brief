@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-37 distinct developments, newest first.
+38 distinct developments, newest first.
+
+- [FinCEN and Fed announce withdrawal of 2020 travel\-rule proposal](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | 8 Nov 2026 | Chain Minute
+
+  The agencies announced withdrawal of a proposal to lower certain cross\-border information thresholds\. The filed notice is scheduled for November 9 publication\.
 
 - [EU announces crypto sanctions task force after enforcement meeting](https://chainminute.com/news/f0da0a05-d201-42aa-9dd9-3647eb44dcf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f0da0a05-d201-42aa-9dd9-3647eb44dcf9) | 8 Nov 2026 | Chain Minute
 
