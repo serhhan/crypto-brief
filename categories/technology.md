@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-61 distinct developments, newest first.
+62 distinct developments, newest first.
+
+- [Draft AIFP ERC proposes versioned permissions for agent channels](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | 8 Nov 2026 | Fork Brief
+
+  Gary Yang’s open ERC proposal separates scoped information permissions, rule versions and four verification outcomes; its number remains a placeholder\.
 
 - [Base Denim replaces Flashblocks with native 200\-millisecond blocks](https://forkbrief.com/news/c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=c4b349db-9fe9-48ff-b82c-c7eb0ee6a7e3) | 7 Nov 2026 | Fork Brief
 
