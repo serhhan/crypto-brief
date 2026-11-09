@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-62 distinct developments, newest first.
+63 distinct developments, newest first.
+
+- [Draft Agent Meditation ERC separates maintenance records from activity signals](https://forkbrief.com/news/73b734f0-2ea5-4175-a3e6-6b8b5853b147?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=73b734f0-2ea5-4175-a3e6-6b8b5853b147) | 9 Nov 2026 | Fork Brief
+
+  Gary Yang’s open ERC proposal would register agent state changes and per\-layer maintenance times while keeping activity pulses separate\.
 
 - [Draft AIFP ERC proposes versioned permissions for agent channels](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | 8 Nov 2026 | Fork Brief
 
