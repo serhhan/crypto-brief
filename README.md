@@ -22,6 +22,14 @@ The agencies announced withdrawal of a proposal to lower certain cross\-border i
 
 Sources: [Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | [public\-inspection\.federalregister\.gov](https://public-inspection.federalregister.gov/2026-22809.pdf) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule)
 
+## Draft AIFP ERC proposes versioned permissions for agent channels
+
+Gary Yang’s open ERC proposal separates scoped information permissions, rule versions and four verification outcomes; its number remains a placeholder\.
+
+[Fork Brief](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | Published 8 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-information-flow-paradigm-aifp-versioned-composable-rules-for-how-agents-provide-observe-and-redistribute-information/30300) | [github\.com](https://github.com/ethereum/ERCs/pull/2152)
+
 ## Chainalysis begins phased restoration of KYT and Address Screening
 
 The November 6 update reports phased access for screening tools with account requirements, while restoration work on Reactor and Data Solutions continues\.
@@ -37,11 +45,3 @@ Amundi says a tokenized equity\-index fund share class has been issued on public
 [Chain Minute](https://chainminute.com/news/001abeeb-7e7d-4193-b838-debcaabdb74f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=001abeeb-7e7d-4193-b838-debcaabdb74f) | Published 6 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/001abeeb-7e7d-4193-b838-debcaabdb74f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=001abeeb-7e7d-4193-b838-debcaabdb74f) | [about\.amundi\.com](https://about.amundi.com/article/amundi-extends-tokenisation-index-investing) | [ct\.com](https://ct.com/news/amundi-tokenizes-european-equity-index-fund-ethereum)
-
-## AWS WAF adds Stripe payouts for stablecoin agent payments
-
-AWS says content owners can receive local currency in their Stripe balance while agents pay for access in stablecoins, extending an existing WAF monetization service\.
-
-[Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | Published 6 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | [aws\.amazon\.com](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/) | [stripe\.com](https://stripe.com/newsroom/news/aws-waf-and-stripe)
