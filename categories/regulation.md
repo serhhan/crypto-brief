@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-38 distinct developments, newest first.
+39 distinct developments, newest first.
+
+- [OCC filing marks Coinbase trust\-bank charter effective November 6](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | 9 Nov 2026 | Chain Minute
+
+  The OCC’s case record lists November 6 as Coinbase National Trust Company’s effective date, distinct from its April preliminary conditional approval\.
 
 - [FinCEN and Fed announce withdrawal of 2020 travel\-rule proposal](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | 8 Nov 2026 | Chain Minute
 

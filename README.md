@@ -6,6 +6,14 @@ Updated 9 Nov 2026.
 
 [Dated edition](archive/2026-11-09.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## OCC filing marks Coinbase trust\-bank charter effective November 6
+
+The OCC’s case record lists November 6 as Coinbase National Trust Company’s effective date, distinct from its April preliminary conditional approval\.
+
+[Chain Minute](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | Published 9 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | [apps\.occ\.gov](https://apps.occ.gov/CAS/home/details?FilingID=3RAoRRek6o4j&FilingSubtypeID=1093&FilingTypeID=2) | [decrypt\.co](https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter)
+
 ## Draft Agent Meditation ERC separates maintenance records from activity signals
 
 Gary Yang’s open ERC proposal would register agent state changes and per\-layer maintenance times while keeping activity pulses separate\.
@@ -29,14 +37,6 @@ Gary Yang’s open ERC proposal separates scoped information permissions, rule v
 [Fork Brief](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | Published 8 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/a1d82f17-06b1-4ec8-a997-501665e32e72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a1d82f17-06b1-4ec8-a997-501665e32e72) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-information-flow-paradigm-aifp-versioned-composable-rules-for-how-agents-provide-observe-and-redistribute-information/30300) | [github\.com](https://github.com/ethereum/ERCs/pull/2152)
-
-## EU announces crypto sanctions task force after enforcement meeting
-
-A November 6 Commission statement announces an EU Crypto Sanctions Task Force following a November 5 enforcement meeting; membership and operating arrangements were not detailed\.
-
-[Chain Minute](https://chainminute.com/news/f0da0a05-d201-42aa-9dd9-3647eb44dcf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f0da0a05-d201-42aa-9dd9-3647eb44dcf9) | Published 8 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/f0da0a05-d201-42aa-9dd9-3647eb44dcf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f0da0a05-d201-42aa-9dd9-3647eb44dcf9) | [finance\.ec\.europa\.eu](https://finance.ec.europa.eu/news/statement-commissioner-albuquerque-outcomes-tenth-meeting-high-level-meeting-sanctions-2026-11-06_en)
 
 ## Chainalysis begins phased restoration of KYT and Address Screening
 
