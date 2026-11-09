@@ -6,6 +6,14 @@ Updated 9 Nov 2026.
 
 [Dated edition](archive/2026-11-09.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## PNC pilots Ethereum USDC payments with automatic dollar deposits
+
+PNC says eligible corporate clients can receive Ethereum USDC payments through Coinbase Payment products, with automatic conversion into dollars in a designated bank account\.
+
+[Yield Dispatch](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | Published 9 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | [pnc\.mediaroom\.com](https://pnc.mediaroom.com/2026-11-09-PNC-Bank-Launches-Incoming-Stablecoin-Payments-for-Corporate-and-Institutional-Banking-Clients)
+
 ## DIFC Courts proposes opt\-in oracle for enforcing digital\-asset rulings
 
 A November 9 white paper proposes prior forum designation and authorised on\-chain enforcement, with test\-network pilots preceding any live\-value deployment\.
@@ -29,14 +37,6 @@ Gary Yang’s open ERC proposal would register agent state changes and per\-laye
 [Fork Brief](https://forkbrief.com/news/73b734f0-2ea5-4175-a3e6-6b8b5853b147?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=73b734f0-2ea5-4175-a3e6-6b8b5853b147) | Published 9 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/73b734f0-2ea5-4175-a3e6-6b8b5853b147?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=73b734f0-2ea5-4175-a3e6-6b8b5853b147) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-meditation-mechanism-attributable-versioned-self-maintenance-records-of-an-agent-across-runtime-memory-and-skills-tasks-and-roles-and-cognition/30304) | [github\.com](https://github.com/ethereum/ERCs/pull/2155)
-
-## FinCEN and Fed announce withdrawal of 2020 travel\-rule proposal
-
-The agencies announced withdrawal of a proposal to lower certain cross\-border information thresholds\. The filed notice is scheduled for November 9 publication\.
-
-[Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | Published 8 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | [public\-inspection\.federalregister\.gov](https://public-inspection.federalregister.gov/2026-22809.pdf) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule)
 
 ## Chainalysis begins phased restoration of KYT and Address Screening
 

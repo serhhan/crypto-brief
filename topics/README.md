@@ -14,13 +14,13 @@ Linked pages contain at least three distinct developments.
 - Chainlink | 1 distinct development
 - Cosmos Hub | 1 distinct development
 - Dogecoin | 2 distinct developments
-- [Ethereum](ethereum.md) | 52 distinct developments
+- [Ethereum](ethereum.md) | 53 distinct developments
 - [Hyperliquid](hyperliquid.md) | 3 distinct developments
 - [Morpho](morpho.md) | 3 distinct developments
 - [Solana](solana.md) | 12 distinct developments
 - [Starknet](starknet.md) | 3 distinct developments
 - [Tether](tether.md) | 5 distinct developments
 - Uniswap | 2 distinct developments
-- [USDC](usdc.md) | 11 distinct developments
+- [USDC](usdc.md) | 12 distinct developments
 - [XRP](xrp.md) | 5 distinct developments
 - Zcash | 2 distinct developments

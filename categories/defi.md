@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-32 distinct developments, newest first.
+33 distinct developments, newest first.
+
+- [PNC pilots Ethereum USDC payments with automatic dollar deposits](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | 9 Nov 2026 | Yield Dispatch
+
+  PNC says eligible corporate clients can receive Ethereum USDC payments through Coinbase Payment products, with automatic conversion into dollars in a designated bank account\.
 
 - [AWS WAF adds Stripe payouts for stablecoin agent payments](https://yielddispatch.com/news/92267591-4626-45e2-b36c-1dbcd27b7b09?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=92267591-4626-45e2-b36c-1dbcd27b7b09) | 6 Nov 2026 | Yield Dispatch
 
