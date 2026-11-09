@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-63 distinct developments, newest first.
+64 distinct developments, newest first.
+
+- [DIFC Courts proposes opt\-in oracle for enforcing digital\-asset rulings](https://forkbrief.com/news/5ba3d457-fa7c-4638-ae75-d0c3d84f04a0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5ba3d457-fa7c-4638-ae75-d0c3d84f04a0) | 9 Nov 2026 | Fork Brief
+
+  A November 9 white paper proposes prior forum designation and authorised on\-chain enforcement, with test\-network pilots preceding any live\-value deployment\.
 
 - [Draft Agent Meditation ERC separates maintenance records from activity signals](https://forkbrief.com/news/73b734f0-2ea5-4175-a3e6-6b8b5853b147?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=73b734f0-2ea5-4175-a3e6-6b8b5853b147) | 9 Nov 2026 | Fork Brief
 
