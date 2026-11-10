@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-65 distinct developments, newest first.
+66 distinct developments, newest first.
+
+- [EIP\-8488 draft proposes versioned opcodes for new\-contract gas repricing](https://forkbrief.com/news/fe734ac4-8b75-4e01-ae27-7dca18e3bc04?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fe734ac4-8b75-4e01-ae27-7dca18e3bc04) | 10 Nov 2026 | Fork Brief
+
+  The unmerged Core draft would preserve legacy gas rules for existing bytecode, require V2 instructions for new deployments, and add a version check to delegate calls\.
 
 - [Draft EIP\-8487 separates EVM execution credits from fee accounting](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | 10 Nov 2026 | Fork Brief
 

@@ -6,6 +6,14 @@ Updated 10 Nov 2026.
 
 [Dated edition](archive/2026-11-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## EIP\-8488 draft proposes versioned opcodes for new\-contract gas repricing
+
+The unmerged Core draft would preserve legacy gas rules for existing bytecode, require V2 instructions for new deployments, and add a version check to delegate calls\.
+
+[Fork Brief](https://forkbrief.com/news/fe734ac4-8b75-4e01-ae27-7dca18e3bc04?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fe734ac4-8b75-4e01-ae27-7dca18e3bc04) | Published 10 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/fe734ac4-8b75-4e01-ae27-7dca18e3bc04?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fe734ac4-8b75-4e01-ae27-7dca18e3bc04) | [github\.com](https://github.com/ethereum/EIPs/pull/12638) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ethereum/EIPs/867430cdda0107c1dbb33bb733964ee8289140ce/EIPS/eip-8488.md)
+
 ## Coinbase and Kalshi back CFTC with proposed brief in stock\-perps case
 
 A November 9 amicus submission from six firms argues against blocking stock perpetuals\. A separate November 3 order denied emergency relief while questioning the CFTC’s authority\.
@@ -37,11 +45,3 @@ PNC says eligible corporate clients can receive Ethereum USDC payments through C
 [Yield Dispatch](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | Published 9 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | [pnc\.mediaroom\.com](https://pnc.mediaroom.com/2026-11-09-PNC-Bank-Launches-Incoming-Stablecoin-Payments-for-Corporate-and-Institutional-Banking-Clients)
-
-## DIFC Courts proposes opt\-in oracle for enforcing digital\-asset rulings
-
-A November 9 white paper proposes prior forum designation and authorised on\-chain enforcement, with test\-network pilots preceding any live\-value deployment\.
-
-[Fork Brief](https://forkbrief.com/news/5ba3d457-fa7c-4638-ae75-d0c3d84f04a0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5ba3d457-fa7c-4638-ae75-d0c3d84f04a0) | Published 9 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/5ba3d457-fa7c-4638-ae75-d0c3d84f04a0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5ba3d457-fa7c-4638-ae75-d0c3d84f04a0) | [www\.difccourts\.ae](https://www.difccourts.ae/media-centre/newsroom/difc-courts-unveils-dispute-resolution-oracle-advancing-its-courts-future-vision) | [www\.thenationalnews\.com](https://www.thenationalnews.com/future/technology/2026/11/09/how-dubais-difc-courts-want-to-bring-justice-to-the-blockchain/)
