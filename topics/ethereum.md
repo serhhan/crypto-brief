@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-54 distinct developments, newest first.
+55 distinct developments, newest first.
+
+- [24X expands Standard Chartered prime\-brokerage partnership to Bitcoin and Ethereum](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | 10 Nov 2026 | Chain Minute
+
+  24X says its expanded institutional relationship covers BTC and ETH, with participants facing Standard Chartered while 24X handles execution\. Detailed access terms were not disclosed\.
 
 - [Draft EIP\-8487 separates EVM execution credits from fee accounting](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | 10 Nov 2026 | Fork Brief
 

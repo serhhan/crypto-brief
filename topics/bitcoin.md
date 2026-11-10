@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-16 distinct developments, newest first.
+17 distinct developments, newest first.
+
+- [24X expands Standard Chartered prime\-brokerage partnership to Bitcoin and Ethereum](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | 10 Nov 2026 | Chain Minute
+
+  24X says its expanded institutional relationship covers BTC and ETH, with participants facing Standard Chartered while 24X handles execution\. Detailed access terms were not disclosed\.
 
 - [Bitcoin Core revises disclosure for easily discoverable flaws](https://chainincident.com/news/00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=00cd3bcc-5c16-47be-bf3f-f6ddce2aaa6c) | 23 Oct 2026 | Chain Incident
 

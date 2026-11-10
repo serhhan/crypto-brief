@@ -6,13 +6,13 @@ Updated 10 Nov 2026.
 
 [Dated edition](archive/2026-11-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Securitize agrees to acquire River One for planned stablecoin financing layer
+## 24X expands Standard Chartered prime\-brokerage partnership to Bitcoin and Ethereum
 
-The proposed acquisition would add warehouse\-financing technology to Securitize\. Closing is expected in Q4 2026, with integration and service availability still ahead\.
+24X says its expanded institutional relationship covers BTC and ETH, with participants facing Standard Chartered while 24X handles execution\. Detailed access terms were not disclosed\.
 
-[Chain Minute](https://chainminute.com/news/01ad1b14-5fe6-4936-b989-b6f894f99322?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01ad1b14-5fe6-4936-b989-b6f894f99322) | Published 10 Nov 2026
+[Chain Minute](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | Published 10 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/01ad1b14-5fe6-4936-b989-b6f894f99322?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01ad1b14-5fe6-4936-b989-b6f894f99322) | [investors\.securitize\.io](https://investors.securitize.io/news/news-details/2026/Securitize-to-Acquire-River-One-Connecting-Stablecoin-Capital-to-the-6-Trillion-Asset-Backed-Finance-Market/default.aspx)
+Sources: [Chain Minute](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/24x-expands-digital-assets-prime-brokerage-partnership-with-standard-chartered-302934110.html)
 
 ## Draft EIP\-8487 separates EVM execution credits from fee accounting
 

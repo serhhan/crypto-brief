@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-39 distinct developments, newest first.
+40 distinct developments, newest first.
+
+- [24X expands Standard Chartered prime\-brokerage partnership to Bitcoin and Ethereum](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | 10 Nov 2026 | Chain Minute
+
+  24X says its expanded institutional relationship covers BTC and ETH, with participants facing Standard Chartered while 24X handles execution\. Detailed access terms were not disclosed\.
 
 - [Securitize agrees to acquire River One for planned stablecoin financing layer](https://chainminute.com/news/01ad1b14-5fe6-4936-b989-b6f894f99322?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01ad1b14-5fe6-4936-b989-b6f894f99322) | 10 Nov 2026 | Chain Minute
 
