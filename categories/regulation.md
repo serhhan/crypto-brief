@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-39 distinct developments, newest first.
+40 distinct developments, newest first.
+
+- [Coinbase and Kalshi back CFTC with proposed brief in stock\-perps case](https://chainminute.com/news/554b2c0a-9960-4a03-9587-a9a2ffa081fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=554b2c0a-9960-4a03-9587-a9a2ffa081fe) | 10 Nov 2026 | Chain Minute
+
+  A November 9 amicus submission from six firms argues against blocking stock perpetuals\. A separate November 3 order denied emergency relief while questioning the CFTC’s authority\.
 
 - [OCC filing marks Coinbase trust\-bank charter effective November 6](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | 9 Nov 2026 | Chain Minute
 
