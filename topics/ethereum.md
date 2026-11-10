@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-56 distinct developments, newest first.
+57 distinct developments, newest first.
+
+- [Draft ERC submission separates user payment records from funds settlement](https://forkbrief.com/news/121546bb-bb60-446a-bd02-abd66e0fe3e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=121546bb-bb60-446a-bd02-abd66e0fe3e4) | 10 Nov 2026 | Fork Brief
+
+  A November 10 Ethereum ERC draft submission proposes institution\-scoped account entries and period rollups, while keeping funds execution and reconciliation separate\.
 
 - [EIP\-8488 draft proposes versioned opcodes for new\-contract gas repricing](https://forkbrief.com/news/fe734ac4-8b75-4e01-ae27-7dca18e3bc04?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fe734ac4-8b75-4e01-ae27-7dca18e3bc04) | 10 Nov 2026 | Fork Brief
 

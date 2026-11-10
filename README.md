@@ -6,6 +6,14 @@ Updated 10 Nov 2026.
 
 [Dated edition](archive/2026-11-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Draft ERC submission separates user payment records from funds settlement
+
+A November 10 Ethereum ERC draft submission proposes institution\-scoped account entries and period rollups, while keeping funds execution and reconciliation separate\.
+
+[Fork Brief](https://forkbrief.com/news/121546bb-bb60-446a-bd02-abd66e0fe3e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=121546bb-bb60-446a-bd02-abd66e0fe3e4) | Published 10 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/121546bb-bb60-446a-bd02-abd66e0fe3e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=121546bb-bb60-446a-bd02-abd66e0fe3e4) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/proposal-institution-managed-user-payment-ledger/30329) | [github\.com](https://github.com/ethereum/ERCs/pull/2159)
+
 ## EIP\-8488 draft proposes versioned opcodes for new\-contract gas repricing
 
 The unmerged Core draft would preserve legacy gas rules for existing bytecode, require V2 instructions for new deployments, and add a version check to delegate calls\.
@@ -29,14 +37,6 @@ Sources: [Chain Minute](https://chainminute.com/news/554b2c0a-9960-4a03-9587-a9a
 [Chain Minute](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | Published 10 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/24x-expands-digital-assets-prime-brokerage-partnership-with-standard-chartered-302934110.html)
-
-## Draft EIP\-8487 separates EVM execution credits from fee accounting
-
-The open Core EIP draft keeps gas\-visible execution credits separate from transaction\-wide billing, with an uncatchable abort when billing cannot cover the next charge\.
-
-[Fork Brief](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | Published 10 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8487-separate-execution-credits-and-billing-credits/30320) | [github\.com](https://github.com/ethereum/EIPs/pull/12637)
 
 ## PNC pilots Ethereum USDC payments with automatic dollar deposits
 
