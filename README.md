@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 9 Nov 2026.
+Updated 10 Nov 2026.
 
-[Dated edition](archive/2026-11-09.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## PNC pilots Ethereum USDC payments with automatic dollar deposits
 
@@ -38,10 +38,10 @@ Gary Yang’s open ERC proposal would register agent state changes and per\-laye
 
 Sources: [Fork Brief](https://forkbrief.com/news/73b734f0-2ea5-4175-a3e6-6b8b5853b147?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=73b734f0-2ea5-4175-a3e6-6b8b5853b147) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-meditation-mechanism-attributable-versioned-self-maintenance-records-of-an-agent-across-runtime-memory-and-skills-tasks-and-roles-and-cognition/30304) | [github\.com](https://github.com/ethereum/ERCs/pull/2155)
 
-## Chainalysis begins phased restoration of KYT and Address Screening
+## FinCEN and Fed announce withdrawal of 2020 travel\-rule proposal
 
-The November 6 update reports phased access for screening tools with account requirements, while restoration work on Reactor and Data Solutions continues\.
+The agencies announced withdrawal of a proposal to lower certain cross\-border information thresholds\. The filed notice is scheduled for November 9 publication\.
 
-[Chain Incident](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | Published 6 Nov 2026
+[Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | Published 8 Nov 2026
 
-Sources: [Chain Incident](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | [www\.chainalysis\.com](https://www.chainalysis.com/blog/security-incident-october-30/)
+Sources: [Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | [public\-inspection\.federalregister\.gov](https://public-inspection.federalregister.gov/2026-22809.pdf) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule)
