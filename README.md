@@ -6,6 +6,14 @@ Updated 10 Nov 2026.
 
 [Dated edition](archive/2026-11-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Draft EIP\-8487 separates EVM execution credits from fee accounting
+
+The open Core EIP draft keeps gas\-visible execution credits separate from transaction\-wide billing, with an uncatchable abort when billing cannot cover the next charge\.
+
+[Fork Brief](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | Published 10 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/eip-8487-separate-execution-credits-and-billing-credits/30320) | [github\.com](https://github.com/ethereum/EIPs/pull/12637)
+
 ## PNC pilots Ethereum USDC payments with automatic dollar deposits
 
 PNC says eligible corporate clients can receive Ethereum USDC payments through Coinbase Payment products, with automatic conversion into dollars in a designated bank account\.
@@ -29,14 +37,6 @@ The OCC’s case record lists November 6 as Coinbase National Trust Company’s 
 [Chain Minute](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | Published 9 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | [apps\.occ\.gov](https://apps.occ.gov/CAS/home/details?FilingID=3RAoRRek6o4j&FilingSubtypeID=1093&FilingTypeID=2) | [decrypt\.co](https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter)
-
-## Draft Agent Meditation ERC separates maintenance records from activity signals
-
-Gary Yang’s open ERC proposal would register agent state changes and per\-layer maintenance times while keeping activity pulses separate\.
-
-[Fork Brief](https://forkbrief.com/news/73b734f0-2ea5-4175-a3e6-6b8b5853b147?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=73b734f0-2ea5-4175-a3e6-6b8b5853b147) | Published 9 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/73b734f0-2ea5-4175-a3e6-6b8b5853b147?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=73b734f0-2ea5-4175-a3e6-6b8b5853b147) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/draft-erc-agent-meditation-mechanism-attributable-versioned-self-maintenance-records-of-an-agent-across-runtime-memory-and-skills-tasks-and-roles-and-cognition/30304) | [github\.com](https://github.com/ethereum/ERCs/pull/2155)
 
 ## FinCEN and Fed announce withdrawal of 2020 travel\-rule proposal
 

@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-64 distinct developments, newest first.
+65 distinct developments, newest first.
+
+- [Draft EIP\-8487 separates EVM execution credits from fee accounting](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | 10 Nov 2026 | Fork Brief
+
+  The open Core EIP draft keeps gas\-visible execution credits separate from transaction\-wide billing, with an uncatchable abort when billing cannot cover the next charge\.
 
 - [DIFC Courts proposes opt\-in oracle for enforcing digital\-asset rulings](https://forkbrief.com/news/5ba3d457-fa7c-4638-ae75-d0c3d84f04a0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5ba3d457-fa7c-4638-ae75-d0c3d84f04a0) | 9 Nov 2026 | Fork Brief
 

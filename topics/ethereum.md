@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-53 distinct developments, newest first.
+54 distinct developments, newest first.
+
+- [Draft EIP\-8487 separates EVM execution credits from fee accounting](https://forkbrief.com/news/9e63569a-9fe0-46bf-9eb9-ebbbda383c2a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9e63569a-9fe0-46bf-9eb9-ebbbda383c2a) | 10 Nov 2026 | Fork Brief
+
+  The open Core EIP draft keeps gas\-visible execution credits separate from transaction\-wide billing, with an uncatchable abort when billing cannot cover the next charge\.
 
 - [PNC pilots Ethereum USDC payments with automatic dollar deposits](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | 9 Nov 2026 | Yield Dispatch
 
