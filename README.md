@@ -6,13 +6,13 @@ Updated 10 Nov 2026.
 
 [Dated edition](archive/2026-11-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Schwab adds Solana, Avalanche and Chainlink to Schwab Crypto
+## Securitize agrees to acquire River One for planned stablecoin financing layer
 
-A November 9 announcement says SOL, AVAX and LINK are available through Schwab Crypto accounts, expanding the existing service to five assets while eligibility restrictions remain\.
+The proposed acquisition would add warehouse\-financing technology to Securitize\. Closing is expected in Q4 2026, with integration and service availability still ahead\.
 
-[Chain Minute](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | Published 10 Nov 2026
+[Chain Minute](https://chainminute.com/news/01ad1b14-5fe6-4936-b989-b6f894f99322?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01ad1b14-5fe6-4936-b989-b6f894f99322) | Published 10 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | [pressroom\.aboutschwab\.com](https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Makes-Solana-Avalanche-and-Chainlink-Available-to-Trade-Through-Schwab-Crypto-Accounts/default.aspx)
+Sources: [Chain Minute](https://chainminute.com/news/01ad1b14-5fe6-4936-b989-b6f894f99322?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01ad1b14-5fe6-4936-b989-b6f894f99322) | [investors\.securitize\.io](https://investors.securitize.io/news/news-details/2026/Securitize-to-Acquire-River-One-Connecting-Stablecoin-Capital-to-the-6-Trillion-Asset-Backed-Finance-Market/default.aspx)
 
 ## Draft EIP\-8487 separates EVM execution credits from fee accounting
 

@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-38 distinct developments, newest first.
+39 distinct developments, newest first.
+
+- [Securitize agrees to acquire River One for planned stablecoin financing layer](https://chainminute.com/news/01ad1b14-5fe6-4936-b989-b6f894f99322?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=01ad1b14-5fe6-4936-b989-b6f894f99322) | 10 Nov 2026 | Chain Minute
+
+  The proposed acquisition would add warehouse\-financing technology to Securitize\. Closing is expected in Q4 2026, with integration and service availability still ahead\.
 
 - [Schwab adds Solana, Avalanche and Chainlink to Schwab Crypto](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | 10 Nov 2026 | Chain Minute
 
