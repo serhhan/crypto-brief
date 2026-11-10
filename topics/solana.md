@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [Schwab adds Solana, Avalanche and Chainlink to Schwab Crypto](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | 10 Nov 2026 | Chain Minute
+
+  A November 9 announcement says SOL, AVAX and LINK are available through Schwab Crypto accounts, expanding the existing service to five assets while eligibility restrictions remain\.
 
 - [Centrifuge announces Schroders emerging\-market bond strategy on Solana](https://chainminute.com/news/db088257-3856-4c81-bbc3-c92ccd477202?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=db088257-3856-4c81-bbc3-c92ccd477202) | 4 Nov 2026 | Chain Minute
 

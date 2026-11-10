@@ -6,6 +6,14 @@ Updated 10 Nov 2026.
 
 [Dated edition](archive/2026-11-10.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Schwab adds Solana, Avalanche and Chainlink to Schwab Crypto
+
+A November 9 announcement says SOL, AVAX and LINK are available through Schwab Crypto accounts, expanding the existing service to five assets while eligibility restrictions remain\.
+
+[Chain Minute](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | Published 10 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | [pressroom\.aboutschwab\.com](https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Makes-Solana-Avalanche-and-Chainlink-Available-to-Trade-Through-Schwab-Crypto-Accounts/default.aspx)
+
 ## Draft EIP\-8487 separates EVM execution credits from fee accounting
 
 The open Core EIP draft keeps gas\-visible execution credits separate from transaction\-wide billing, with an uncatchable abort when billing cannot cover the next charge\.
@@ -37,11 +45,3 @@ The OCC’s case record lists November 6 as Coinbase National Trust Company’s 
 [Chain Minute](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | Published 9 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/d74713bf-2820-4247-b9bb-93c3e1ff8011?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d74713bf-2820-4247-b9bb-93c3e1ff8011) | [apps\.occ\.gov](https://apps.occ.gov/CAS/home/details?FilingID=3RAoRRek6o4j&FilingSubtypeID=1093&FilingTypeID=2) | [decrypt\.co](https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter)
-
-## FinCEN and Fed announce withdrawal of 2020 travel\-rule proposal
-
-The agencies announced withdrawal of a proposal to lower certain cross\-border information thresholds\. The filed notice is scheduled for November 9 publication\.
-
-[Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | Published 8 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/9efbcf4c-085f-4f64-8ef9-340901bf3486?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9efbcf4c-085f-4f64-8ef9-340901bf3486) | [public\-inspection\.federalregister\.gov](https://public-inspection.federalregister.gov/2026-22809.pdf) | [www\.fincen\.gov](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule)

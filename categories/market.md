@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-37 distinct developments, newest first.
+38 distinct developments, newest first.
+
+- [Schwab adds Solana, Avalanche and Chainlink to Schwab Crypto](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | 10 Nov 2026 | Chain Minute
+
+  A November 9 announcement says SOL, AVAX and LINK are available through Schwab Crypto accounts, expanding the existing service to five assets while eligibility restrictions remain\.
 
 - [Amundi issues an Ethereum share class for a European equity index fund](https://chainminute.com/news/001abeeb-7e7d-4193-b838-debcaabdb74f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=001abeeb-7e7d-4193-b838-debcaabdb74f) | 6 Nov 2026 | Chain Minute
 
