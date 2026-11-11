@@ -6,13 +6,13 @@ Updated 11 Nov 2026.
 
 [Dated edition](archive/2026-11-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## xStocks adds UK and EU equities while UK investor restrictions remain
+## Apex Group joins Hedera Council as network use remains under exploration
 
-Payward says its first UK and EU tokenized\-equity batch covers more than 200 companies\. The expansion leaves existing eligibility restrictions unchanged, including UK investor exclusion\.
+Apex Group has joined the Hedera network’s governing council\. Its announcement describes exploration of tokenization uses, rather than a live fund or settlement deployment\.
 
-[Chain Minute](https://chainminute.com/news/3628ca9d-5aa4-4a6e-90b4-3727fe4002c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3628ca9d-5aa4-4a6e-90b4-3727fe4002c1) | Published 11 Nov 2026
+[Chain Minute](https://chainminute.com/news/fbed9b54-26ae-4c30-a162-ac0781dfb89a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fbed9b54-26ae-4c30-a162-ac0781dfb89a) | Published 11 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/3628ca9d-5aa4-4a6e-90b4-3727fe4002c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3628ca9d-5aa4-4a6e-90b4-3727fe4002c1) | [www\.payward\.com](https://www.payward.com/press-release/xstocks-uk-eu-equities)
+Sources: [Chain Minute](https://chainminute.com/news/fbed9b54-26ae-4c30-a162-ac0781dfb89a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fbed9b54-26ae-4c30-a162-ac0781dfb89a) | [hedera\.com](https://hedera.com/blog/apex-group-joins-hedera-council-to-advance-institutional-digital-assets/)
 
 ## Guide\: Why an Airnode response should stay a string until verification
 

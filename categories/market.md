@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-41 distinct developments, newest first.
+42 distinct developments, newest first.
+
+- [Apex Group joins Hedera Council as network use remains under exploration](https://chainminute.com/news/fbed9b54-26ae-4c30-a162-ac0781dfb89a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fbed9b54-26ae-4c30-a162-ac0781dfb89a) | 11 Nov 2026 | Chain Minute
+
+  Apex Group has joined the Hedera network’s governing council\. Its announcement describes exploration of tokenization uses, rather than a live fund or settlement deployment\.
 
 - [xStocks adds UK and EU equities while UK investor restrictions remain](https://chainminute.com/news/3628ca9d-5aa4-4a6e-90b4-3727fe4002c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3628ca9d-5aa4-4a6e-90b4-3727fe4002c1) | 11 Nov 2026 | Chain Minute
 
