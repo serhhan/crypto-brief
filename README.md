@@ -6,6 +6,14 @@ Updated 11 Nov 2026.
 
 [Dated edition](archive/2026-11-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Pyth adds NYSE BQT data, with licensing still handled by NYSE
+
+Pyth says its marketplace now distributes NYSE BQT equity and ETF data\. Clients license the dataset directly with NYSE; data delivery is separate from securities trading\.
+
+[Fork Brief](https://forkbrief.com/news/b1e636f7-9da9-4b59-a733-241a61befd90?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1e636f7-9da9-4b59-a733-241a61befd90) | Published 11 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/b1e636f7-9da9-4b59-a733-241a61befd90?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1e636f7-9da9-4b59-a733-241a61befd90) | [www\.pyth\.network](https://www.pyth.network/blog/pyth-network-adds-nyse-data-to-pyth-data-marketplace)
+
 ## Apex Group joins Hedera Council as network use remains under exploration
 
 Apex Group has joined the Hedera network’s governing council\. Its announcement describes exploration of tokenization uses, rather than a live fund or settlement deployment\.
@@ -21,14 +29,6 @@ The documented attestation format covers response text\. Parsing and serializing
 [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | Published 11 Nov 2026 | Guide
 
 Sources: [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
-
-## Draft ERC\-8495 proposes shared JSON rules for token metadata
-
-A November 10 ERC submission proposes common rules for token metadata fields, trait types, extensions and refresh events\. It remains a Draft in an open pull request\.
-
-[Fork Brief](https://forkbrief.com/news/9101178b-a801-412e-9f40-dd7e718c2cf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9101178b-a801-412e-9f40-dd7e718c2cf9) | Published 11 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/9101178b-a801-412e-9f40-dd7e718c2cf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9101178b-a801-412e-9f40-dd7e718c2cf9) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-8495-token-metadata-json-schema/30339) | [github\.com](https://github.com/ethereum/ERCs/pull/2163)
 
 ## Coinbase and Kalshi back CFTC with proposed brief in stock\-perps case
 

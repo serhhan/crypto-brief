@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-68 distinct developments, newest first.
+69 distinct developments, newest first.
+
+- [Pyth adds NYSE BQT data, with licensing still handled by NYSE](https://forkbrief.com/news/b1e636f7-9da9-4b59-a733-241a61befd90?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1e636f7-9da9-4b59-a733-241a61befd90) | 11 Nov 2026 | Fork Brief
+
+  Pyth says its marketplace now distributes NYSE BQT equity and ETF data\. Clients license the dataset directly with NYSE; data delivery is separate from securities trading\.
 
 - [Draft ERC\-8495 proposes shared JSON rules for token metadata](https://forkbrief.com/news/9101178b-a801-412e-9f40-dd7e718c2cf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9101178b-a801-412e-9f40-dd7e718c2cf9) | 11 Nov 2026 | Fork Brief
 
