@@ -4,7 +4,11 @@ Practical explanations of crypto protocols, proposals and developer tools.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-21 distinct developments, newest first.
+22 distinct developments, newest first.
+
+- [Guide\: Why an Airnode response should stay a string until verification](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | 11 Nov 2026 | Token Primer
+
+  The documented attestation format covers response text\. Parsing and serializing the inner JSON can change that text, even when the application reads an equivalent value\.
 
 - [Guide\: Where Airnode operation summaries and descriptions appear](https://forkbrief.com/news/124ef344-6599-49e3-ad1c-2dcfeea6625d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=124ef344-6599-49e3-ad1c-2dcfeea6625d) | 4 Nov 2026 | Fork Brief
 

@@ -6,6 +6,14 @@ Updated 11 Nov 2026.
 
 [Dated edition](archive/2026-11-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Guide\: Why an Airnode response should stay a string until verification
+
+The documented attestation format covers response text\. Parsing and serializing the inner JSON can change that text, even when the application reads an equivalent value\.
+
+[Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | Published 11 Nov 2026 | Guide
+
+Sources: [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
+
 ## Draft ERC\-8495 proposes shared JSON rules for token metadata
 
 A November 10 ERC submission proposes common rules for token metadata fields, trait types, extensions and refresh events\. It remains a Draft in an open pull request\.
@@ -13,14 +21,6 @@ A November 10 ERC submission proposes common rules for token metadata fields, tr
 [Fork Brief](https://forkbrief.com/news/9101178b-a801-412e-9f40-dd7e718c2cf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9101178b-a801-412e-9f40-dd7e718c2cf9) | Published 11 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/9101178b-a801-412e-9f40-dd7e718c2cf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9101178b-a801-412e-9f40-dd7e718c2cf9) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/erc-8495-token-metadata-json-schema/30339) | [github\.com](https://github.com/ethereum/ERCs/pull/2163)
-
-## Draft ERC submission separates user payment records from funds settlement
-
-A November 10 Ethereum ERC draft submission proposes institution\-scoped account entries and period rollups, while keeping funds execution and reconciliation separate\.
-
-[Fork Brief](https://forkbrief.com/news/121546bb-bb60-446a-bd02-abd66e0fe3e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=121546bb-bb60-446a-bd02-abd66e0fe3e4) | Published 10 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/121546bb-bb60-446a-bd02-abd66e0fe3e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=121546bb-bb60-446a-bd02-abd66e0fe3e4) | [ethereum\-magicians\.org](https://ethereum-magicians.org/t/proposal-institution-managed-user-payment-ledger/30329) | [github\.com](https://github.com/ethereum/ERCs/pull/2159)
 
 ## Coinbase and Kalshi back CFTC with proposed brief in stock\-perps case
 
