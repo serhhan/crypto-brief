@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-67 distinct developments, newest first.
+68 distinct developments, newest first.
+
+- [Draft ERC\-8495 proposes shared JSON rules for token metadata](https://forkbrief.com/news/9101178b-a801-412e-9f40-dd7e718c2cf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9101178b-a801-412e-9f40-dd7e718c2cf9) | 11 Nov 2026 | Fork Brief
+
+  A November 10 ERC submission proposes common rules for token metadata fields, trait types, extensions and refresh events\. It remains a Draft in an open pull request\.
 
 - [Draft ERC submission separates user payment records from funds settlement](https://forkbrief.com/news/121546bb-bb60-446a-bd02-abd66e0fe3e4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=121546bb-bb60-446a-bd02-abd66e0fe3e4) | 10 Nov 2026 | Fork Brief
 
