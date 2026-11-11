@@ -6,6 +6,14 @@ Updated 11 Nov 2026.
 
 [Dated edition](archive/2026-11-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## xStocks adds UK and EU equities while UK investor restrictions remain
+
+Payward says its first UK and EU tokenized\-equity batch covers more than 200 companies\. The expansion leaves existing eligibility restrictions unchanged, including UK investor exclusion\.
+
+[Chain Minute](https://chainminute.com/news/3628ca9d-5aa4-4a6e-90b4-3727fe4002c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3628ca9d-5aa4-4a6e-90b4-3727fe4002c1) | Published 11 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/3628ca9d-5aa4-4a6e-90b4-3727fe4002c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3628ca9d-5aa4-4a6e-90b4-3727fe4002c1) | [www\.payward\.com](https://www.payward.com/press-release/xstocks-uk-eu-equities)
+
 ## Guide\: Why an Airnode response should stay a string until verification
 
 The documented attestation format covers response text\. Parsing and serializing the inner JSON can change that text, even when the application reads an equivalent value\.
@@ -29,14 +37,6 @@ A November 9 amicus submission from six firms argues against blocking stock perp
 [Chain Minute](https://chainminute.com/news/554b2c0a-9960-4a03-9587-a9a2ffa081fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=554b2c0a-9960-4a03-9587-a9a2ffa081fe) | Published 10 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/554b2c0a-9960-4a03-9587-a9a2ffa081fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=554b2c0a-9960-4a03-9587-a9a2ffa081fe) | [assets\.ctfassets\.net](https://assets.ctfassets.net/sygt3q11s4a9/32JJz8QyOT52YrnrQuZ6uu/3c2fd191eaa70c471e9d35012d44cc90/47-1_Coinbase_et_al._Amicus_Brief.pdf) | [cointelegraph\.com](https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit)
-
-## 24X expands Standard Chartered prime\-brokerage partnership to Bitcoin and Ethereum
-
-24X says its expanded institutional relationship covers BTC and ETH, with participants facing Standard Chartered while 24X handles execution\. Detailed access terms were not disclosed\.
-
-[Chain Minute](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | Published 10 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/24x-expands-digital-assets-prime-brokerage-partnership-with-standard-chartered-302934110.html)
 
 ## PNC pilots Ethereum USDC payments with automatic dollar deposits
 

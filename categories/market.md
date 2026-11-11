@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-40 distinct developments, newest first.
+41 distinct developments, newest first.
+
+- [xStocks adds UK and EU equities while UK investor restrictions remain](https://chainminute.com/news/3628ca9d-5aa4-4a6e-90b4-3727fe4002c1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3628ca9d-5aa4-4a6e-90b4-3727fe4002c1) | 11 Nov 2026 | Chain Minute
+
+  Payward says its first UK and EU tokenized\-equity batch covers more than 200 companies\. The expansion leaves existing eligibility restrictions unchanged, including UK investor exclusion\.
 
 - [24X expands Standard Chartered prime\-brokerage partnership to Bitcoin and Ethereum](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | 10 Nov 2026 | Chain Minute
 
