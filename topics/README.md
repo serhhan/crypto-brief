@@ -18,7 +18,7 @@ Linked pages contain at least three distinct developments.
 - [Hyperliquid](hyperliquid.md) | 3 distinct developments
 - [Morpho](morpho.md) | 3 distinct developments
 - Pyth Network | 1 distinct development
-- [Solana](solana.md) | 14 distinct developments
+- [Solana](solana.md) | 15 distinct developments
 - [Starknet](starknet.md) | 3 distinct developments
 - [Tether](tether.md) | 6 distinct developments
 - Uniswap | 2 distinct developments

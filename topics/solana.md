@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [DTCC plans Solana connection for tokenization service in second half of 2027](https://chainminute.com/news/5c9b31ad-ee43-42a3-bb4e-63265e37763f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c9b31ad-ee43-42a3-bb4e-63265e37763f) | 12 Nov 2026 | Chain Minute
+
+  DTCC’s November 12 announcement sets a second\-half 2027 target for a Solana connection, separate from the tokenization service’s October 28 launch\.
 
 - [Api3 adds Solana follower\-attestation example to AirnodeHub repository](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | 12 Nov 2026 | Fork Brief
 

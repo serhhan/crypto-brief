@@ -6,6 +6,14 @@ Updated 12 Nov 2026.
 
 [Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## DTCC plans Solana connection for tokenization service in second half of 2027
+
+DTCC’s November 12 announcement sets a second\-half 2027 target for a Solana connection, separate from the tokenization service’s October 28 launch\.
+
+[Chain Minute](https://chainminute.com/news/5c9b31ad-ee43-42a3-bb4e-63265e37763f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c9b31ad-ee43-42a3-bb4e-63265e37763f) | Published 12 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/5c9b31ad-ee43-42a3-bb4e-63265e37763f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c9b31ad-ee43-42a3-bb4e-63265e37763f) | [www\.dtcc\.com](https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana)
+
 ## TRON, Tether and Chainalysis announce Digital Crime Task Force
 
 The private\-sector initiative’s announced remit covers suspected illicit activity involving USDT on TRON, with intelligence and law\-enforcement coordination as its stated workflow\.
@@ -29,14 +37,6 @@ The FSB’s November 11 country review calls for stablecoin\-specific rules alon
 [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | Published 12 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | [www\.fsb\.org](https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/)
-
-## Apex Group joins Hedera Council as network use remains under exploration
-
-Apex Group has joined the Hedera network’s governing council\. Its announcement describes exploration of tokenization uses, rather than a live fund or settlement deployment\.
-
-[Chain Minute](https://chainminute.com/news/fbed9b54-26ae-4c30-a162-ac0781dfb89a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fbed9b54-26ae-4c30-a162-ac0781dfb89a) | Published 11 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/fbed9b54-26ae-4c30-a162-ac0781dfb89a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=fbed9b54-26ae-4c30-a162-ac0781dfb89a) | [hedera\.com](https://hedera.com/blog/apex-group-joins-hedera-council-to-advance-institutional-digital-assets/)
 
 ## Guide\: Why an Airnode response should stay a string until verification
 
