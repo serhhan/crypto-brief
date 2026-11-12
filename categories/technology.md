@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-70 distinct developments, newest first.
+71 distinct developments, newest first.
+
+- [Api3 adds Solana follower\-attestation example to AirnodeHub repository](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | 12 Nov 2026 | Fork Brief
+
+  The November 9 addition describes local checks and a Solana devnet simulation\. Its published artifact is a build prompt, with the current third\-party endpoint and test\-network pricing checked separately\.
 
 - [EIP\-8282 revises builder\-request fees and queue shutdown rules](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | 12 Nov 2026 | Fork Brief
 

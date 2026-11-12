@@ -4,7 +4,11 @@ API3 governance, oracle services and developer tools, including AirnodeHub.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-8 distinct developments, newest first.
+9 distinct developments, newest first.
+
+- [Api3 adds Solana follower\-attestation example to AirnodeHub repository](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | 12 Nov 2026 | Fork Brief
+
+  The November 9 addition describes local checks and a Solana devnet simulation\. Its published artifact is a build prompt, with the current third\-party endpoint and test\-network pricing checked separately\.
 
 - [API3 track and workshop listed for TUM’s October 30–31 hackathon](https://forkbrief.com/news/12d058ca-0fe1-4568-9898-214f246b98d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=12d058ca-0fe1-4568-9898-214f246b98d7) | 20 Oct 2026 | Fork Brief
 

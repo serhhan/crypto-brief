@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [Api3 adds Solana follower\-attestation example to AirnodeHub repository](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | 12 Nov 2026 | Fork Brief
+
+  The November 9 addition describes local checks and a Solana devnet simulation\. Its published artifact is a build prompt, with the current third\-party endpoint and test\-network pricing checked separately\.
 
 - [Schwab adds Solana, Avalanche and Chainlink to Schwab Crypto](https://chainminute.com/news/dfddd392-6c17-4f5d-89ef-e9fa264717d2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dfddd392-6c17-4f5d-89ef-e9fa264717d2) | 10 Nov 2026 | Chain Minute
 

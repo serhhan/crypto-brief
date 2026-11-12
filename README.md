@@ -6,6 +6,14 @@ Updated 12 Nov 2026.
 
 [Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Api3 adds Solana follower\-attestation example to AirnodeHub repository
+
+The November 9 addition describes local checks and a Solana devnet simulation\. Its published artifact is a build prompt, with the current third\-party endpoint and test\-network pricing checked separately\.
+
+[Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | Published 12 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | [airnode\-twitterapi\.fly\.dev](https://airnode-twitterapi.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/llms.txt)
+
 ## Glasgow court sentences three men over failed cryptocurrency theft plot
 
 Official sentencing remarks distinguish the failed April 2024 attempt from the November 10 court decision and specify when each prison term begins\.
@@ -21,14 +29,6 @@ The FSB’s November 11 country review calls for stablecoin\-specific rules alon
 [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | Published 12 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | [www\.fsb\.org](https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/)
-
-## EIP\-8282 revises builder\-request fees and queue shutdown rules
-
-A November 11 specification commit clarifies intra\-block fees, reversible request inhibition and deposit\-record byte ordering\. EIP\-8282 remains marked Last Call; activation is not established\.
-
-[Fork Brief](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | Published 12 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | [github\.com](https://github.com/ethereum/EIPs/commit/253f6bd20d1b1b600228c0d696775a90720ba5f1)
 
 ## Apex Group joins Hedera Council as network use remains under exploration
 

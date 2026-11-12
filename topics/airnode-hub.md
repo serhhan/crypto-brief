@@ -4,7 +4,11 @@ AirnodeHub API access, integrations and guides for developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-13 distinct developments, newest first.
+14 distinct developments, newest first.
+
+- [Api3 adds Solana follower\-attestation example to AirnodeHub repository](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | 12 Nov 2026 | Fork Brief
+
+  The November 9 addition describes local checks and a Solana devnet simulation\. Its published artifact is a build prompt, with the current third\-party endpoint and test\-network pricing checked separately\.
 
 - [Guide\: Read an Ethereum transaction receipt through AirnodeHub](https://forkbrief.com/news/314abe4a-c78b-48ed-89ec-3ab9762908d7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=314abe4a-c78b-48ed-89ec-3ab9762908d7) | 18 Oct 2026 | Fork Brief
 
