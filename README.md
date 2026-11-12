@@ -6,6 +6,14 @@ Updated 12 Nov 2026.
 
 [Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## TRON, Tether and Chainalysis announce Digital Crime Task Force
+
+The private\-sector initiative’s announced remit covers suspected illicit activity involving USDT on TRON, with intelligence and law\-enforcement coordination as its stated workflow\.
+
+[Chain Incident](https://chainincident.com/news/0eaeeb2e-a26c-400a-bff7-50c55937bf82?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0eaeeb2e-a26c-400a-bff7-50c55937bf82) | Published 12 Nov 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/0eaeeb2e-a26c-400a-bff7-50c55937bf82?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0eaeeb2e-a26c-400a-bff7-50c55937bf82) | [trondao\.org](https://trondao.org/announcements/tron-tether-and-chainalysis-launch-digital-crime-task-force-to-proactively-identify-and-disrupt-financial-crime)
+
 ## Api3 adds Solana follower\-attestation example to AirnodeHub repository
 
 The November 9 addition describes local checks and a Solana devnet simulation\. Its published artifact is a build prompt, with the current third\-party endpoint and test\-network pricing checked separately\.
@@ -13,14 +21,6 @@ The November 9 addition describes local checks and a Solana devnet simulation\. 
 [Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | Published 12 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | [airnode\-twitterapi\.fly\.dev](https://airnode-twitterapi.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/llms.txt)
-
-## Glasgow court sentences three men over failed cryptocurrency theft plot
-
-Official sentencing remarks distinguish the failed April 2024 attempt from the November 10 court decision and specify when each prison term begins\.
-
-[Chain Incident](https://chainincident.com/news/8fb6b502-3ca4-41e3-824d-02bff74d258c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8fb6b502-3ca4-41e3-824d-02bff74d258c) | Published 12 Nov 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/8fb6b502-3ca4-41e3-824d-02bff74d258c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8fb6b502-3ca4-41e3-824d-02bff74d258c) | [www\.copfs\.gov\.uk](https://www.copfs.gov.uk/about-copfs/news/three-men-sentenced-over-2millon-cryptocurrency-theft-plot-linked-to-organised-crime/) | [www\.judiciary\.scot](https://www.judiciary.scot/home/sentences-judgments/sentences-and-opinions/2026/11/10/hma-v-robert-barr--sean-favier---iain-doyle)
 
 ## FSB urges Türkiye to create a dedicated stablecoin regime
 

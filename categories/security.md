@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-28 distinct developments, newest first.
+29 distinct developments, newest first.
+
+- [TRON, Tether and Chainalysis announce Digital Crime Task Force](https://chainincident.com/news/0eaeeb2e-a26c-400a-bff7-50c55937bf82?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0eaeeb2e-a26c-400a-bff7-50c55937bf82) | 12 Nov 2026 | Chain Incident
+
+  The private\-sector initiative’s announced remit covers suspected illicit activity involving USDT on TRON, with intelligence and law\-enforcement coordination as its stated workflow\.
 
 - [Glasgow court sentences three men over failed cryptocurrency theft plot](https://chainincident.com/news/8fb6b502-3ca4-41e3-824d-02bff74d258c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8fb6b502-3ca4-41e3-824d-02bff74d258c) | 12 Nov 2026 | Chain Incident
 
