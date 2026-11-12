@@ -6,6 +6,14 @@ Updated 12 Nov 2026.
 
 [Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## FSB urges Türkiye to create a dedicated stablecoin regime
+
+The FSB’s November 11 country review calls for stablecoin\-specific rules alongside provider supervision and cross\-border cooperation\. Its announcement sets out recommendations, without announcing a new effective restriction\.
+
+[Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | Published 12 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | [www\.fsb\.org](https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/)
+
 ## EIP\-8282 revises builder\-request fees and queue shutdown rules
 
 A November 11 specification commit clarifies intra\-block fees, reversible request inhibition and deposit\-record byte ordering\. EIP\-8282 remains marked Last Call; activation is not established\.
@@ -29,14 +37,6 @@ The documented attestation format covers response text\. Parsing and serializing
 [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | Published 11 Nov 2026 | Guide
 
 Sources: [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
-
-## Coinbase and Kalshi back CFTC with proposed brief in stock\-perps case
-
-A November 9 amicus submission from six firms argues against blocking stock perpetuals\. A separate November 3 order denied emergency relief while questioning the CFTC’s authority\.
-
-[Chain Minute](https://chainminute.com/news/554b2c0a-9960-4a03-9587-a9a2ffa081fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=554b2c0a-9960-4a03-9587-a9a2ffa081fe) | Published 10 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/554b2c0a-9960-4a03-9587-a9a2ffa081fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=554b2c0a-9960-4a03-9587-a9a2ffa081fe) | [assets\.ctfassets\.net](https://assets.ctfassets.net/sygt3q11s4a9/32JJz8QyOT52YrnrQuZ6uu/3c2fd191eaa70c471e9d35012d44cc90/47-1_Coinbase_et_al._Amicus_Brief.pdf) | [cointelegraph\.com](https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit)
 
 ## PNC pilots Ethereum USDC payments with automatic dollar deposits
 

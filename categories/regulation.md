@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-40 distinct developments, newest first.
+41 distinct developments, newest first.
+
+- [FSB urges Türkiye to create a dedicated stablecoin regime](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | 12 Nov 2026 | Yield Dispatch
+
+  The FSB’s November 11 country review calls for stablecoin\-specific rules alongside provider supervision and cross\-border cooperation\. Its announcement sets out recommendations, without announcing a new effective restriction\.
 
 - [Coinbase and Kalshi back CFTC with proposed brief in stock\-perps case](https://chainminute.com/news/554b2c0a-9960-4a03-9587-a9a2ffa081fe?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=554b2c0a-9960-4a03-9587-a9a2ffa081fe) | 10 Nov 2026 | Chain Minute
 
