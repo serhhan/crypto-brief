@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-69 distinct developments, newest first.
+70 distinct developments, newest first.
+
+- [EIP\-8282 revises builder\-request fees and queue shutdown rules](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | 12 Nov 2026 | Fork Brief
+
+  A November 11 specification commit clarifies intra\-block fees, reversible request inhibition and deposit\-record byte ordering\. EIP\-8282 remains marked Last Call; activation is not established\.
 
 - [Pyth adds NYSE BQT data, with licensing still handled by NYSE](https://forkbrief.com/news/b1e636f7-9da9-4b59-a733-241a61befd90?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1e636f7-9da9-4b59-a733-241a61befd90) | 11 Nov 2026 | Fork Brief
 

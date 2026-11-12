@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-58 distinct developments, newest first.
+59 distinct developments, newest first.
+
+- [EIP\-8282 revises builder\-request fees and queue shutdown rules](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | 12 Nov 2026 | Fork Brief
+
+  A November 11 specification commit clarifies intra\-block fees, reversible request inhibition and deposit\-record byte ordering\. EIP\-8282 remains marked Last Call; activation is not established\.
 
 - [Draft ERC\-8495 proposes shared JSON rules for token metadata](https://forkbrief.com/news/9101178b-a801-412e-9f40-dd7e718c2cf9?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9101178b-a801-412e-9f40-dd7e718c2cf9) | 11 Nov 2026 | Fork Brief
 

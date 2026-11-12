@@ -6,13 +6,13 @@ Updated 12 Nov 2026.
 
 [Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Pyth adds NYSE BQT data, with licensing still handled by NYSE
+## EIP\-8282 revises builder\-request fees and queue shutdown rules
 
-Pyth says its marketplace now distributes NYSE BQT equity and ETF data\. Clients license the dataset directly with NYSE; data delivery is separate from securities trading\.
+A November 11 specification commit clarifies intra\-block fees, reversible request inhibition and deposit\-record byte ordering\. EIP\-8282 remains marked Last Call; activation is not established\.
 
-[Fork Brief](https://forkbrief.com/news/b1e636f7-9da9-4b59-a733-241a61befd90?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1e636f7-9da9-4b59-a733-241a61befd90) | Published 11 Nov 2026
+[Fork Brief](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | Published 12 Nov 2026
 
-Sources: [Fork Brief](https://forkbrief.com/news/b1e636f7-9da9-4b59-a733-241a61befd90?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b1e636f7-9da9-4b59-a733-241a61befd90) | [www\.pyth\.network](https://www.pyth.network/blog/pyth-network-adds-nyse-data-to-pyth-data-marketplace)
+Sources: [Fork Brief](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | [github\.com](https://github.com/ethereum/EIPs/commit/253f6bd20d1b1b600228c0d696775a90720ba5f1)
 
 ## Apex Group joins Hedera Council as network use remains under exploration
 
