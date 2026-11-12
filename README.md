@@ -6,6 +6,14 @@ Updated 12 Nov 2026.
 
 [Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Glasgow court sentences three men over failed cryptocurrency theft plot
+
+Official sentencing remarks distinguish the failed April 2024 attempt from the November 10 court decision and specify when each prison term begins\.
+
+[Chain Incident](https://chainincident.com/news/8fb6b502-3ca4-41e3-824d-02bff74d258c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8fb6b502-3ca4-41e3-824d-02bff74d258c) | Published 12 Nov 2026
+
+Sources: [Chain Incident](https://chainincident.com/news/8fb6b502-3ca4-41e3-824d-02bff74d258c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8fb6b502-3ca4-41e3-824d-02bff74d258c) | [www\.copfs\.gov\.uk](https://www.copfs.gov.uk/about-copfs/news/three-men-sentenced-over-2millon-cryptocurrency-theft-plot-linked-to-organised-crime/) | [www\.judiciary\.scot](https://www.judiciary.scot/home/sentences-judgments/sentences-and-opinions/2026/11/10/hma-v-robert-barr--sean-favier---iain-doyle)
+
 ## FSB urges Türkiye to create a dedicated stablecoin regime
 
 The FSB’s November 11 country review calls for stablecoin\-specific rules alongside provider supervision and cross\-border cooperation\. Its announcement sets out recommendations, without announcing a new effective restriction\.
@@ -37,11 +45,3 @@ The documented attestation format covers response text\. Parsing and serializing
 [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | Published 11 Nov 2026 | Guide
 
 Sources: [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
-
-## PNC pilots Ethereum USDC payments with automatic dollar deposits
-
-PNC says eligible corporate clients can receive Ethereum USDC payments through Coinbase Payment products, with automatic conversion into dollars in a designated bank account\.
-
-[Yield Dispatch](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | Published 9 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | [pnc\.mediaroom\.com](https://pnc.mediaroom.com/2026-11-09-PNC-Bank-Launches-Incoming-Stablecoin-Payments-for-Corporate-and-Institutional-Banking-Clients)

@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-27 distinct developments, newest first.
+28 distinct developments, newest first.
+
+- [Glasgow court sentences three men over failed cryptocurrency theft plot](https://chainincident.com/news/8fb6b502-3ca4-41e3-824d-02bff74d258c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8fb6b502-3ca4-41e3-824d-02bff74d258c) | 12 Nov 2026 | Chain Incident
+
+  Official sentencing remarks distinguish the failed April 2024 attempt from the November 10 court decision and specify when each prison term begins\.
 
 - [Chainalysis begins phased restoration of KYT and Address Screening](https://chainincident.com/news/f34a4a28-a16c-4094-bed2-d93eb10e2a0a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f34a4a28-a16c-4094-bed2-d93eb10e2a0a) | 6 Nov 2026 | Chain Incident
 
