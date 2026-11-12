@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 11 Nov 2026.
+Updated 12 Nov 2026.
 
-[Dated edition](archive/2026-11-11.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Pyth adds NYSE BQT data, with licensing still handled by NYSE
 
