@@ -6,6 +6,14 @@ Updated 13 Nov 2026.
 
 [Dated edition](archive/2026-11-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Foundation announces Universal Ethereum Signer beta for Passport Prime
+
+Foundation’s November 12 announcement describes manual beta installation on Passport Prime ahead of planned app\-catalog distribution\.
+
+[Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | Published 13 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | [www\.globenewswire\.com](https://www.globenewswire.com/news-release/2026/11/12/3401808/0/en/foundation-launches-universal-ethereum-signer-in-beta-first-on-passport-hardware.html)
+
 ## TRM Labs announces Beacon Concierge for verified law\-enforcement agencies
 
 TRM’s November 12 announcement describes a managed intake and investigator\-support workflow that routes verified agencies’ requests to participating issuers\.
@@ -37,11 +45,3 @@ DTCC’s November 12 announcement sets a second\-half 2027 target for a Solana c
 [Chain Minute](https://chainminute.com/news/5c9b31ad-ee43-42a3-bb4e-63265e37763f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c9b31ad-ee43-42a3-bb4e-63265e37763f) | Published 12 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/5c9b31ad-ee43-42a3-bb4e-63265e37763f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c9b31ad-ee43-42a3-bb4e-63265e37763f) | [www\.dtcc\.com](https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana)
-
-## Api3 adds Solana follower\-attestation example to AirnodeHub repository
-
-The November 9 addition describes local checks and a Solana devnet simulation\. Its published artifact is a build prompt, with the current third\-party endpoint and test\-network pricing checked separately\.
-
-[Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | Published 12 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | [airnode\-twitterapi\.fly\.dev](https://airnode-twitterapi.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/llms.txt)

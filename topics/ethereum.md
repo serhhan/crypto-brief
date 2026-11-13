@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-59 distinct developments, newest first.
+60 distinct developments, newest first.
+
+- [Foundation announces Universal Ethereum Signer beta for Passport Prime](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | 13 Nov 2026 | Fork Brief
+
+  Foundation’s November 12 announcement describes manual beta installation on Passport Prime ahead of planned app\-catalog distribution\.
 
 - [EIP\-8282 revises builder\-request fees and queue shutdown rules](https://forkbrief.com/news/1bdd2043-dc56-40d6-aa52-7ba18eb964d0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=1bdd2043-dc56-40d6-aa52-7ba18eb964d0) | 12 Nov 2026 | Fork Brief
 

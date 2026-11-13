@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-71 distinct developments, newest first.
+72 distinct developments, newest first.
+
+- [Foundation announces Universal Ethereum Signer beta for Passport Prime](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | 13 Nov 2026 | Fork Brief
+
+  Foundation’s November 12 announcement describes manual beta installation on Passport Prime ahead of planned app\-catalog distribution\.
 
 - [Api3 adds Solana follower\-attestation example to AirnodeHub repository](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | 12 Nov 2026 | Fork Brief
 
