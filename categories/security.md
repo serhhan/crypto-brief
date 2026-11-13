@@ -4,7 +4,11 @@ Reported exploits, vulnerabilities and the steps projects take in response.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-29 distinct developments, newest first.
+30 distinct developments, newest first.
+
+- [TRM Labs announces Beacon Concierge for verified law\-enforcement agencies](https://chainincident.com/news/9a99aa33-f442-4aec-9fc6-b09e5376aa5c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9a99aa33-f442-4aec-9fc6-b09e5376aa5c) | 13 Nov 2026 | Chain Incident
+
+  TRM’s November 12 announcement describes a managed intake and investigator\-support workflow that routes verified agencies’ requests to participating issuers\.
 
 - [TRON, Tether and Chainalysis announce Digital Crime Task Force](https://chainincident.com/news/0eaeeb2e-a26c-400a-bff7-50c55937bf82?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0eaeeb2e-a26c-400a-bff7-50c55937bf82) | 12 Nov 2026 | Chain Incident
 
