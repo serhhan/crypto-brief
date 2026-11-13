@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 12 Nov 2026.
+Updated 13 Nov 2026.
 
-[Dated edition](archive/2026-11-12.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## DTCC plans Solana connection for tokenization service in second half of 2027
 
