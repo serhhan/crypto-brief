@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-41 distinct developments, newest first.
+42 distinct developments, newest first.
+
+- [White House sends four SEC and CFTC nominations to the Senate](https://chainminute.com/news/b15d1b1a-9a42-4ab5-a619-11f3553aeb3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b15d1b1a-9a42-4ab5-a619-11f3553aeb3d) | 13 Nov 2026 | Chain Minute
+
+  The November 12 notice names two SEC and two CFTC nominees and specifies their proposed seats and term expiration dates\.
 
 - [FSB urges Türkiye to create a dedicated stablecoin regime](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | 12 Nov 2026 | Yield Dispatch
 

@@ -6,6 +6,14 @@ Updated 13 Nov 2026.
 
 [Dated edition](archive/2026-11-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## White House sends four SEC and CFTC nominations to the Senate
+
+The November 12 notice names two SEC and two CFTC nominees and specifies their proposed seats and term expiration dates\.
+
+[Chain Minute](https://chainminute.com/news/b15d1b1a-9a42-4ab5-a619-11f3553aeb3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b15d1b1a-9a42-4ab5-a619-11f3553aeb3d) | Published 13 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/b15d1b1a-9a42-4ab5-a619-11f3553aeb3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b15d1b1a-9a42-4ab5-a619-11f3553aeb3d) | [www\.whitehouse\.gov](https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/)
+
 ## Maple announces Joe Flanagan’s departure as chairman
 
 Maple’s November 11 update says Flanagan is leaving and his responsibilities move to CEO Sidney Powell and the leadership team\.
@@ -37,11 +45,3 @@ The November 9 addition describes local checks and a Solana devnet simulation\. 
 [Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | Published 12 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/8f75a5ad-f276-47a3-8a00-b66f7f925c44?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=8f75a5ad-f276-47a3-8a00-b66f7f925c44) | [airnode\-twitterapi\.fly\.dev](https://airnode-twitterapi.fly.dev/) | [airnodehub\.api3\.org](https://airnodehub.api3.org/llms.txt)
-
-## FSB urges Türkiye to create a dedicated stablecoin regime
-
-The FSB’s November 11 country review calls for stablecoin\-specific rules alongside provider supervision and cross\-border cooperation\. Its announcement sets out recommendations, without announcing a new effective restriction\.
-
-[Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | Published 12 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | [www\.fsb\.org](https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/)
