@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-33 distinct developments, newest first.
+34 distinct developments, newest first.
+
+- [Maple announces Joe Flanagan’s departure as chairman](https://yielddispatch.com/news/f5b37b11-9061-4bc2-803f-4159cf24d2c0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f5b37b11-9061-4bc2-803f-4159cf24d2c0) | 13 Nov 2026 | Yield Dispatch
+
+  Maple’s November 11 update says Flanagan is leaving and his responsibilities move to CEO Sidney Powell and the leadership team\.
 
 - [PNC pilots Ethereum USDC payments with automatic dollar deposits](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | 9 Nov 2026 | Yield Dispatch
 

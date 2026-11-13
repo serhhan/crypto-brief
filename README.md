@@ -6,6 +6,14 @@ Updated 13 Nov 2026.
 
 [Dated edition](archive/2026-11-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Maple announces Joe Flanagan’s departure as chairman
+
+Maple’s November 11 update says Flanagan is leaving and his responsibilities move to CEO Sidney Powell and the leadership team\.
+
+[Yield Dispatch](https://yielddispatch.com/news/f5b37b11-9061-4bc2-803f-4159cf24d2c0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f5b37b11-9061-4bc2-803f-4159cf24d2c0) | Published 13 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/f5b37b11-9061-4bc2-803f-4159cf24d2c0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f5b37b11-9061-4bc2-803f-4159cf24d2c0) | [maple\.finance](https://maple.finance/insights/a-leadership-update-from-maple)
+
 ## DTCC plans Solana connection for tokenization service in second half of 2027
 
 DTCC’s November 12 announcement sets a second\-half 2027 target for a Solana connection, separate from the tokenization service’s October 28 launch\.
@@ -37,11 +45,3 @@ The FSB’s November 11 country review calls for stablecoin\-specific rules alon
 [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | Published 12 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/15b1afb8-8d64-45e8-92ae-70c1c371b872?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=15b1afb8-8d64-45e8-92ae-70c1c371b872) | [www\.fsb\.org](https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/)
-
-## Guide\: Why an Airnode response should stay a string until verification
-
-The documented attestation format covers response text\. Parsing and serializing the inner JSON can change that text, even when the application reads an equivalent value\.
-
-[Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | Published 11 Nov 2026 | Guide
-
-Sources: [Token Primer](https://tokenprimer.com/news/a6f5c4ed-2535-4d75-9741-5996743b8b5f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a6f5c4ed-2535-4d75-9741-5996743b8b5f) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/attestation) | [airnodehub\-docs\.api3\.org](https://airnodehub-docs.api3.org/airnode/http-interface)
