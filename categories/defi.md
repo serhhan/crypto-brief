@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-34 distinct developments, newest first.
+35 distinct developments, newest first.
+
+- [BitGo adds USDC minting and redemption to Go Accounts](https://yielddispatch.com/news/79ef4f2c-528a-48a2-a67d-ac85f6982386?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=79ef4f2c-528a-48a2-a67d-ac85f6982386) | 13 Nov 2026 | Yield Dispatch
+
+  BitGo’s November 12 release describes USDC orders through its Circle Mint account, with client eligibility and banking windows limiting the workflow\.
 
 - [Maple announces Joe Flanagan’s departure as chairman](https://yielddispatch.com/news/f5b37b11-9061-4bc2-803f-4159cf24d2c0?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=f5b37b11-9061-4bc2-803f-4159cf24d2c0) | 13 Nov 2026 | Yield Dispatch
 

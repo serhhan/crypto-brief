@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-12 distinct developments, newest first.
+13 distinct developments, newest first.
+
+- [BitGo adds USDC minting and redemption to Go Accounts](https://yielddispatch.com/news/79ef4f2c-528a-48a2-a67d-ac85f6982386?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=79ef4f2c-528a-48a2-a67d-ac85f6982386) | 13 Nov 2026 | Yield Dispatch
+
+  BitGo’s November 12 release describes USDC orders through its Circle Mint account, with client eligibility and banking windows limiting the workflow\.
 
 - [PNC pilots Ethereum USDC payments with automatic dollar deposits](https://yielddispatch.com/news/dae27b7a-12a9-4778-9d49-34697973cdcf?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dae27b7a-12a9-4778-9d49-34697973cdcf) | 9 Nov 2026 | Yield Dispatch
 
