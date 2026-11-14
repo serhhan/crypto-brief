@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 13 Nov 2026.
+Updated 14 Nov 2026.
 
-[Dated edition](archive/2026-11-13.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-14.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## BitGo adds USDC minting and redemption to Go Accounts
 
