@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-35 distinct developments, newest first.
+36 distinct developments, newest first.
+
+- [Visa adds Anchorage\-issued USDPT as a settlement option](https://yielddispatch.com/news/27557258-2862-4aff-a56a-cf5a43b843b6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=27557258-2862-4aff-a56a-cf5a43b843b6) | 15 Nov 2026 | Yield Dispatch
+
+  Anchorage says Visa and eligible partners can use Western Union’s USDPT to settle VisaNet obligations\. Other Anchorage\-issued stablecoins are not automatically included\.
 
 - [BitGo adds USDC minting and redemption to Go Accounts](https://yielddispatch.com/news/79ef4f2c-528a-48a2-a67d-ac85f6982386?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=79ef4f2c-528a-48a2-a67d-ac85f6982386) | 13 Nov 2026 | Yield Dispatch
 
