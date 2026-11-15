@@ -2,9 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 14 Nov 2026.
+Updated 15 Nov 2026.
 
-[Dated edition](archive/2026-11-14.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-15.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+
+## Brave Search adds USDC payments on Base for API requests
+
+Brave’s x402 gateway lets supported Search API requests use USDC payments on Base\. Its current documentation leaves Answers, Autosuggest and Spellcheck on API\-key access\.
+
+[Fork Brief](https://forkbrief.com/news/20a94b0b-cb76-49a3-a43a-e6fefccb5bf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20a94b0b-cb76-49a3-a43a-e6fefccb5bf2) | Published 15 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/20a94b0b-cb76-49a3-a43a-e6fefccb5bf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20a94b0b-cb76-49a3-a43a-e6fefccb5bf2) | [api\-dashboard\.search\.brave\.com](https://api-dashboard.search.brave.com/documentation/guides/agent-payments) | [brave\.com](https://brave.com/blog/search-api-agentic-payments/)
 
 ## BitGo adds USDC minting and redemption to Go Accounts
 
@@ -13,14 +21,6 @@ BitGo’s November 12 release describes USDC orders through its Circle Mint acco
 [Yield Dispatch](https://yielddispatch.com/news/79ef4f2c-528a-48a2-a67d-ac85f6982386?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=79ef4f2c-528a-48a2-a67d-ac85f6982386) | Published 13 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/79ef4f2c-528a-48a2-a67d-ac85f6982386?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=79ef4f2c-528a-48a2-a67d-ac85f6982386) | [www\.bitgo\.com](https://www.bitgo.com/press/bitgo-brings-usdc-minting-and-redemption-into-go-accounts/)
-
-## Foundation announces Universal Ethereum Signer beta for Passport Prime
-
-Foundation’s November 12 announcement describes manual beta installation on Passport Prime ahead of planned app\-catalog distribution\.
-
-[Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | Published 13 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | [www\.globenewswire\.com](https://www.globenewswire.com/news-release/2026/11/12/3401808/0/en/foundation-launches-universal-ethereum-signer-in-beta-first-on-passport-hardware.html)
 
 ## TRM Labs announces Beacon Concierge for verified law\-enforcement agencies
 

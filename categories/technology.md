@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-72 distinct developments, newest first.
+73 distinct developments, newest first.
+
+- [Brave Search adds USDC payments on Base for API requests](https://forkbrief.com/news/20a94b0b-cb76-49a3-a43a-e6fefccb5bf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20a94b0b-cb76-49a3-a43a-e6fefccb5bf2) | 15 Nov 2026 | Fork Brief
+
+  Brave’s x402 gateway lets supported Search API requests use USDC payments on Base\. Its current documentation leaves Answers, Autosuggest and Spellcheck on API\-key access\.
 
 - [Foundation announces Universal Ethereum Signer beta for Passport Prime](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | 13 Nov 2026 | Fork Brief
 
