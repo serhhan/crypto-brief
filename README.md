@@ -37,11 +37,3 @@ Foundation’s November 12 announcement describes manual beta installation on Pa
 [Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | Published 13 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | [www\.globenewswire\.com](https://www.globenewswire.com/news-release/2026/11/12/3401808/0/en/foundation-launches-universal-ethereum-signer-in-beta-first-on-passport-hardware.html)
-
-## TRM Labs announces Beacon Concierge for verified law\-enforcement agencies
-
-TRM’s November 12 announcement describes a managed intake and investigator\-support workflow that routes verified agencies’ requests to participating issuers\.
-
-[Chain Incident](https://chainincident.com/news/9a99aa33-f442-4aec-9fc6-b09e5376aa5c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9a99aa33-f442-4aec-9fc6-b09e5376aa5c) | Published 13 Nov 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/9a99aa33-f442-4aec-9fc6-b09e5376aa5c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9a99aa33-f442-4aec-9fc6-b09e5376aa5c) | [www\.trmlabs\.com](https://www.trmlabs.com/resources/blog/trm-labs-launches-beacon-concierge-to-help-law-enforcement-worldwide-interdict-and-seize-illicit-crypto-funds-on-any-chain-in-any-asset)
