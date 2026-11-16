@@ -6,6 +6,14 @@ Updated 16 Nov 2026.
 
 [Dated edition](archive/2026-11-16.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Draft EIP\-8151 adds public\-mempool rules for recovered signers
+
+The draft amendment specifies signer\-dependency tracking, code\-class revalidation and separate pending\-transaction allowances for frame transactions\. It is not a network activation\.
+
+[Fork Brief](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | Published 16 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | [github\.com](https://github.com/ethereum/EIPs/blob/8194528a2ee9a4893a398a5871c470ab0ac3b09a/EIPS/eip-8151.md) | [github\.com](https://github.com/ethereum/EIPs/commit/8194528a2ee9a4893a398a5871c470ab0ac3b09a)
+
 ## Visa adds Anchorage\-issued USDPT as a settlement option
 
 Anchorage says Visa and eligible partners can use Western Union’s USDPT to settle VisaNet obligations\. Other Anchorage\-issued stablecoins are not automatically included\.
@@ -29,11 +37,3 @@ BitGo’s November 12 release describes USDC orders through its Circle Mint acco
 [Yield Dispatch](https://yielddispatch.com/news/79ef4f2c-528a-48a2-a67d-ac85f6982386?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=79ef4f2c-528a-48a2-a67d-ac85f6982386) | Published 13 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/79ef4f2c-528a-48a2-a67d-ac85f6982386?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=79ef4f2c-528a-48a2-a67d-ac85f6982386) | [www\.bitgo\.com](https://www.bitgo.com/press/bitgo-brings-usdc-minting-and-redemption-into-go-accounts/)
-
-## Foundation announces Universal Ethereum Signer beta for Passport Prime
-
-Foundation’s November 12 announcement describes manual beta installation on Passport Prime ahead of planned app\-catalog distribution\.
-
-[Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | Published 13 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/da6007d8-7df1-49fd-b971-272b78383b18?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=da6007d8-7df1-49fd-b971-272b78383b18) | [www\.globenewswire\.com](https://www.globenewswire.com/news-release/2026/11/12/3401808/0/en/foundation-launches-universal-ethereum-signer-in-beta-first-on-passport-hardware.html)

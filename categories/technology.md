@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-73 distinct developments, newest first.
+74 distinct developments, newest first.
+
+- [Draft EIP\-8151 adds public\-mempool rules for recovered signers](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | 16 Nov 2026 | Fork Brief
+
+  The draft amendment specifies signer\-dependency tracking, code\-class revalidation and separate pending\-transaction allowances for frame transactions\. It is not a network activation\.
 
 - [Brave Search adds USDC payments on Base for API requests](https://forkbrief.com/news/20a94b0b-cb76-49a3-a43a-e6fefccb5bf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20a94b0b-cb76-49a3-a43a-e6fefccb5bf2) | 15 Nov 2026 | Fork Brief
 
