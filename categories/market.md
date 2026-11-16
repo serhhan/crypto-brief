@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-43 distinct developments, newest first.
+44 distinct developments, newest first.
+
+- [DBS and Kinexys launch US\-Singapore tokenized deposit link](https://chainminute.com/news/a700f854-d82d-44d9-950f-03c96e0f2d08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a700f854-d82d-44d9-950f-03c96e0f2d08) | 16 Nov 2026 | Chain Minute
+
+  DBS says the permissioned account networks are now connected for institutional dollar transfers, with Ant International as the first client and a weekend exception for legacy\-account access\.
 
 - [DTCC plans Solana connection for tokenization service in second half of 2027](https://chainminute.com/news/5c9b31ad-ee43-42a3-bb4e-63265e37763f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c9b31ad-ee43-42a3-bb4e-63265e37763f) | 12 Nov 2026 | Chain Minute
 
