@@ -4,7 +4,11 @@ Solana network changes, applications and governance developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-15 distinct developments, newest first.
+16 distinct developments, newest first.
+
+- [CoinGecko announces Solana Foundation backing and plans broader data coverage](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | 17 Nov 2026 | Chain Minute
+
+  CoinGecko says its website, app and API continue operating as usual while it plans wider asset coverage and explores trading capabilities\.
 
 - [DTCC plans Solana connection for tokenization service in second half of 2027](https://chainminute.com/news/5c9b31ad-ee43-42a3-bb4e-63265e37763f?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=5c9b31ad-ee43-42a3-bb4e-63265e37763f) | 12 Nov 2026 | Chain Minute
 

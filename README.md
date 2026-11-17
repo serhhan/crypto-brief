@@ -6,6 +6,14 @@ Updated 17 Nov 2026.
 
 [Dated edition](archive/2026-11-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## CoinGecko announces Solana Foundation backing and plans broader data coverage
+
+CoinGecko says its website, app and API continue operating as usual while it plans wider asset coverage and explores trading capabilities\.
+
+[Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | Published 17 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | [www\.coingecko\.com](https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation)
+
 ## DBS and Kinexys launch US\-Singapore tokenized deposit link
 
 DBS says the permissioned account networks are now connected for institutional dollar transfers, with Ant International as the first client and a weekend exception for legacy\-account access\.

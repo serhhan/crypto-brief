@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-44 distinct developments, newest first.
+45 distinct developments, newest first.
+
+- [CoinGecko announces Solana Foundation backing and plans broader data coverage](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | 17 Nov 2026 | Chain Minute
+
+  CoinGecko says its website, app and API continue operating as usual while it plans wider asset coverage and explores trading capabilities\.
 
 - [DBS and Kinexys launch US\-Singapore tokenized deposit link](https://chainminute.com/news/a700f854-d82d-44d9-950f-03c96e0f2d08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a700f854-d82d-44d9-950f-03c96e0f2d08) | 16 Nov 2026 | Chain Minute
 
