@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-42 distinct developments, newest first.
+43 distinct developments, newest first.
+
+- [Waller says tokenized markets need settlement choices beyond atomic trades](https://yielddispatch.com/news/e034f90f-755f-48e6-b449-ac8941df75ae?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e034f90f-755f-48e6-b449-ac8941df75ae) | 17 Nov 2026 | Yield Dispatch
+
+  In November 17 remarks, Waller discusses atomic, net and batch settlement alongside stablecoins, tokenized deposits and existing payment rails\.
 
 - [White House sends four SEC and CFTC nominations to the Senate](https://chainminute.com/news/b15d1b1a-9a42-4ab5-a619-11f3553aeb3d?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b15d1b1a-9a42-4ab5-a619-11f3553aeb3d) | 13 Nov 2026 | Chain Minute
 

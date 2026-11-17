@@ -6,6 +6,14 @@ Updated 17 Nov 2026.
 
 [Dated edition](archive/2026-11-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Waller says tokenized markets need settlement choices beyond atomic trades
+
+In November 17 remarks, Waller discusses atomic, net and batch settlement alongside stablecoins, tokenized deposits and existing payment rails\.
+
+[Yield Dispatch](https://yielddispatch.com/news/e034f90f-755f-48e6-b449-ac8941df75ae?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e034f90f-755f-48e6-b449-ac8941df75ae) | Published 17 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/e034f90f-755f-48e6-b449-ac8941df75ae?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e034f90f-755f-48e6-b449-ac8941df75ae) | [www\.federalreserve\.gov](https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm)
+
 ## CoinGecko announces Solana Foundation backing and plans broader data coverage
 
 CoinGecko says its website, app and API continue operating as usual while it plans wider asset coverage and explores trading capabilities\.
@@ -37,11 +45,3 @@ Anchorage says Visa and eligible partners can use Western Union’s USDPT to set
 [Yield Dispatch](https://yielddispatch.com/news/27557258-2862-4aff-a56a-cf5a43b843b6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=27557258-2862-4aff-a56a-cf5a43b843b6) | Published 15 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/27557258-2862-4aff-a56a-cf5a43b843b6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=27557258-2862-4aff-a56a-cf5a43b843b6) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-to-support-visa-stablecoin-settlement-starting-with-usdpt)
-
-## Brave Search adds USDC payments on Base for API requests
-
-Brave’s x402 gateway lets supported Search API requests use USDC payments on Base\. Its current documentation leaves Answers, Autosuggest and Spellcheck on API\-key access\.
-
-[Fork Brief](https://forkbrief.com/news/20a94b0b-cb76-49a3-a43a-e6fefccb5bf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20a94b0b-cb76-49a3-a43a-e6fefccb5bf2) | Published 15 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/20a94b0b-cb76-49a3-a43a-e6fefccb5bf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20a94b0b-cb76-49a3-a43a-e6fefccb5bf2) | [api\-dashboard\.search\.brave\.com](https://api-dashboard.search.brave.com/documentation/guides/agent-payments) | [brave\.com](https://brave.com/blog/search-api-agentic-payments/)
