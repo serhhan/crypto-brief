@@ -6,6 +6,14 @@ Updated 18 Nov 2026.
 
 [Dated edition](archive/2026-11-18.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## FOMO Pay joins Anchorage Digital’s US platform for stablecoin payment infrastructure
+
+FOMO Pay announces onboarding to Anchorage Digital’s US platform, with payment infrastructure use planned and custody described as a later conditional phase\.
+
+[Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | Published 18 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | [www\.fomopay\.com](https://www.fomopay.com/news-media/fomo-pay-expand-access-to-usd-stablecoin-infrastructure-on-anchorage-digital)
+
 ## DBS announces direct USDC minting and redemption access for institutions
 
 DBS and Circle announce a direct institutional route to USDC issuance and redemption in Asia, with round\-the\-clock USD\-USDC settlement described by the bank\.
@@ -29,14 +37,6 @@ CoinGecko says its website, app and API continue operating as usual while it pla
 [Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | Published 17 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | [www\.coingecko\.com](https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation)
-
-## DBS and Kinexys launch US\-Singapore tokenized deposit link
-
-DBS says the permissioned account networks are now connected for institutional dollar transfers, with Ant International as the first client and a weekend exception for legacy\-account access\.
-
-[Chain Minute](https://chainminute.com/news/a700f854-d82d-44d9-950f-03c96e0f2d08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a700f854-d82d-44d9-950f-03c96e0f2d08) | Published 16 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/a700f854-d82d-44d9-950f-03c96e0f2d08?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a700f854-d82d-44d9-950f-03c96e0f2d08) | [www\.dbs\.com](https://www.dbs.com/newsroom/DBS_and_Kinexys_by_JP_Morgan_launch_industry_first_247_interoperability_solution_for_cross_border_tokenised_deposit_transfers)
 
 ## Draft EIP\-8151 adds public\-mempool rules for recovered signers
 

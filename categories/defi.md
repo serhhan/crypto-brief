@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-38 distinct developments, newest first.
+39 distinct developments, newest first.
+
+- [FOMO Pay joins Anchorage Digital’s US platform for stablecoin payment infrastructure](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | 18 Nov 2026 | Chain Minute
+
+  FOMO Pay announces onboarding to Anchorage Digital’s US platform, with payment infrastructure use planned and custody described as a later conditional phase\.
 
 - [DBS announces direct USDC minting and redemption access for institutions](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | 18 Nov 2026 | Yield Dispatch
 
