@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 17 Nov 2026.
+Updated 18 Nov 2026.
 
-[Dated edition](archive/2026-11-17.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-18.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Waller says tokenized markets need settlement choices beyond atomic trades
 
