@@ -6,13 +6,13 @@ Updated 18 Nov 2026.
 
 [Dated edition](archive/2026-11-18.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## World Bank Group to explore USDC payment rails with Citi and Circle
+## DBS announces direct USDC minting and redemption access for institutions
 
-The World Bank Group outlines an initial stablecoin payment exploration, linking Citi’s banking connections with Circle’s USDC infrastructure\.
+DBS and Circle announce a direct institutional route to USDC issuance and redemption in Asia, with round\-the\-clock USD\-USDC settlement described by the bank\.
 
-[Yield Dispatch](https://yielddispatch.com/news/acd22270-75df-4c08-88f9-c50ebe373644?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acd22270-75df-4c08-88f9-c50ebe373644) | Published 18 Nov 2026
+[Yield Dispatch](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | Published 18 Nov 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/acd22270-75df-4c08-88f9-c50ebe373644?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acd22270-75df-4c08-88f9-c50ebe373644) | [www\.worldbank\.org](https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | [www\.dbs\.com](https://www.dbs.com/newsroom/DBS_and_Circle_expand_institutional_access_to_USDC_in_Asia)
 
 ## Waller says tokenized markets need settlement choices beyond atomic trades
 

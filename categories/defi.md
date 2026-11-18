@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-37 distinct developments, newest first.
+38 distinct developments, newest first.
+
+- [DBS announces direct USDC minting and redemption access for institutions](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | 18 Nov 2026 | Yield Dispatch
+
+  DBS and Circle announce a direct institutional route to USDC issuance and redemption in Asia, with round\-the\-clock USD\-USDC settlement described by the bank\.
 
 - [World Bank Group to explore USDC payment rails with Citi and Circle](https://yielddispatch.com/news/acd22270-75df-4c08-88f9-c50ebe373644?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acd22270-75df-4c08-88f9-c50ebe373644) | 18 Nov 2026 | Yield Dispatch
 
