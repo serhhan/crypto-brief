@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-36 distinct developments, newest first.
+37 distinct developments, newest first.
+
+- [World Bank Group to explore USDC payment rails with Citi and Circle](https://yielddispatch.com/news/acd22270-75df-4c08-88f9-c50ebe373644?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acd22270-75df-4c08-88f9-c50ebe373644) | 18 Nov 2026 | Yield Dispatch
+
+  The World Bank Group outlines an initial stablecoin payment exploration, linking Citi’s banking connections with Circle’s USDC infrastructure\.
 
 - [Visa adds Anchorage\-issued USDPT as a settlement option](https://yielddispatch.com/news/27557258-2862-4aff-a56a-cf5a43b843b6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=27557258-2862-4aff-a56a-cf5a43b843b6) | 15 Nov 2026 | Yield Dispatch
 

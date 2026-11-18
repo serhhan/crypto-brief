@@ -4,7 +4,11 @@ USDC payments, integrations and stablecoin developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-14 distinct developments, newest first.
+15 distinct developments, newest first.
+
+- [World Bank Group to explore USDC payment rails with Citi and Circle](https://yielddispatch.com/news/acd22270-75df-4c08-88f9-c50ebe373644?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acd22270-75df-4c08-88f9-c50ebe373644) | 18 Nov 2026 | Yield Dispatch
+
+  The World Bank Group outlines an initial stablecoin payment exploration, linking Citi’s banking connections with Circle’s USDC infrastructure\.
 
 - [Brave Search adds USDC payments on Base for API requests](https://forkbrief.com/news/20a94b0b-cb76-49a3-a43a-e6fefccb5bf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=20a94b0b-cb76-49a3-a43a-e6fefccb5bf2) | 15 Nov 2026 | Fork Brief
 

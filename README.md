@@ -6,6 +6,14 @@ Updated 18 Nov 2026.
 
 [Dated edition](archive/2026-11-18.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## World Bank Group to explore USDC payment rails with Citi and Circle
+
+The World Bank Group outlines an initial stablecoin payment exploration, linking Citi’s banking connections with Circle’s USDC infrastructure\.
+
+[Yield Dispatch](https://yielddispatch.com/news/acd22270-75df-4c08-88f9-c50ebe373644?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acd22270-75df-4c08-88f9-c50ebe373644) | Published 18 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/acd22270-75df-4c08-88f9-c50ebe373644?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acd22270-75df-4c08-88f9-c50ebe373644) | [www\.worldbank\.org](https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res)
+
 ## Waller says tokenized markets need settlement choices beyond atomic trades
 
 In November 17 remarks, Waller discusses atomic, net and batch settlement alongside stablecoins, tokenized deposits and existing payment rails\.
@@ -37,11 +45,3 @@ The draft amendment specifies signer\-dependency tracking, code\-class revalidat
 [Fork Brief](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | Published 16 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | [github\.com](https://github.com/ethereum/EIPs/blob/8194528a2ee9a4893a398a5871c470ab0ac3b09a/EIPS/eip-8151.md) | [github\.com](https://github.com/ethereum/EIPs/commit/8194528a2ee9a4893a398a5871c470ab0ac3b09a)
-
-## Visa adds Anchorage\-issued USDPT as a settlement option
-
-Anchorage says Visa and eligible partners can use Western Union’s USDPT to settle VisaNet obligations\. Other Anchorage\-issued stablecoins are not automatically included\.
-
-[Yield Dispatch](https://yielddispatch.com/news/27557258-2862-4aff-a56a-cf5a43b843b6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=27557258-2862-4aff-a56a-cf5a43b843b6) | Published 15 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/27557258-2862-4aff-a56a-cf5a43b843b6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=27557258-2862-4aff-a56a-cf5a43b843b6) | [www\.anchorage\.com](https://www.anchorage.com/press-room/anchorage-digital-to-support-visa-stablecoin-settlement-starting-with-usdpt)
