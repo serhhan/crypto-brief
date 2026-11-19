@@ -4,7 +4,11 @@ Hyperliquid trading, protocol updates and ecosystem developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-3 distinct developments, newest first.
+4 distinct developments, newest first.
+
+- [Hong Kong SFC lists Hyperliquid trading website in November 18 alert](https://chainminute.com/news/33fef272-3efc-4dd3-b0cf-35a1813dc217?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=33fef272-3efc-4dd3-b0cf-35a1813dc217) | 19 Nov 2026 | Chain Minute
+
+  The SFC’s November 18 entry names Hyperliquid and its trading URL, citing licensing concerns and suspected activity directed at Hong Kong\.
 
 - [Hyperliquid Strategies discloses subsidiary’s U\.S\. FCM application](https://chainminute.com/news/d9c37dba-671b-485a-9003-75717c0ca6f7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d9c37dba-671b-485a-9003-75717c0ca6f7) | 6 Nov 2026 | Chain Minute
 

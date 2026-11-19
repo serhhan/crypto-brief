@@ -6,6 +6,14 @@ Updated 19 Nov 2026.
 
 [Dated edition](archive/2026-11-19.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Hong Kong SFC lists Hyperliquid trading website in November 18 alert
+
+The SFC’s November 18 entry names Hyperliquid and its trading URL, citing licensing concerns and suspected activity directed at Hong Kong\.
+
+[Chain Minute](https://chainminute.com/news/33fef272-3efc-4dd3-b0cf-35a1813dc217?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=33fef272-3efc-4dd3-b0cf-35a1813dc217) | Published 19 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/33fef272-3efc-4dd3-b0cf-35a1813dc217?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=33fef272-3efc-4dd3-b0cf-35a1813dc217) | [www\.sfc\.hk](https://www.sfc.hk/en/alert-list/3963)
+
 ## Tether invests in SCRYPT to support institutional stablecoin payments
 
 Tether announces an investment supporting SCRYPT’s expansion into third\-party payments, without disclosing financing terms or a service rollout timetable\.
@@ -14,21 +22,13 @@ Tether announces an investment supporting SCRYPT’s expansion into third\-party
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | [tether\.io](https://tether.io/news/tether-makes-strategic-investment-in-scrypt-to-expand-institutional-stablecoin-infrastructure/)
 
-## FOMO Pay joins Anchorage Digital’s US platform for stablecoin payment infrastructure
+## DBS announces direct USDC minting and redemption access for institutions
 
-FOMO Pay announces onboarding to Anchorage Digital’s US platform, with payment infrastructure use planned and custody described as a later conditional phase\.
+DBS and Circle announce a direct institutional route to USDC issuance and redemption in Asia, with round\-the\-clock USD\-USDC settlement described by the bank\.
 
-[Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | Published 18 Nov 2026
+[Yield Dispatch](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | Published 18 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | [www\.fomopay\.com](https://www.fomopay.com/news-media/fomo-pay-expand-access-to-usd-stablecoin-infrastructure-on-anchorage-digital)
-
-## Waller says tokenized markets need settlement choices beyond atomic trades
-
-In November 17 remarks, Waller discusses atomic, net and batch settlement alongside stablecoins, tokenized deposits and existing payment rails\.
-
-[Yield Dispatch](https://yielddispatch.com/news/e034f90f-755f-48e6-b449-ac8941df75ae?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e034f90f-755f-48e6-b449-ac8941df75ae) | Published 17 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/e034f90f-755f-48e6-b449-ac8941df75ae?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e034f90f-755f-48e6-b449-ac8941df75ae) | [www\.federalreserve\.gov](https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | [www\.dbs\.com](https://www.dbs.com/newsroom/DBS_and_Circle_expand_institutional_access_to_USDC_in_Asia)
 
 ## CoinGecko announces Solana Foundation backing and plans broader data coverage
 

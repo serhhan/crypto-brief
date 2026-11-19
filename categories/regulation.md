@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-43 distinct developments, newest first.
+44 distinct developments, newest first.
+
+- [Hong Kong SFC lists Hyperliquid trading website in November 18 alert](https://chainminute.com/news/33fef272-3efc-4dd3-b0cf-35a1813dc217?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=33fef272-3efc-4dd3-b0cf-35a1813dc217) | 19 Nov 2026 | Chain Minute
+
+  The SFC’s November 18 entry names Hyperliquid and its trading URL, citing licensing concerns and suspected activity directed at Hong Kong\.
 
 - [Waller says tokenized markets need settlement choices beyond atomic trades](https://yielddispatch.com/news/e034f90f-755f-48e6-b449-ac8941df75ae?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e034f90f-755f-48e6-b449-ac8941df75ae) | 17 Nov 2026 | Yield Dispatch
 
