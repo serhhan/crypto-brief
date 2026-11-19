@@ -20,7 +20,7 @@ Linked pages contain at least three distinct developments.
 - Pyth Network | 1 distinct development
 - [Solana](solana.md) | 16 distinct developments
 - [Starknet](starknet.md) | 3 distinct developments
-- [Tether](tether.md) | 6 distinct developments
+- [Tether](tether.md) | 7 distinct developments
 - Uniswap | 2 distinct developments
 - [USDC](usdc.md) | 16 distinct developments
 - [XRP](xrp.md) | 5 distinct developments

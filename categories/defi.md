@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-39 distinct developments, newest first.
+40 distinct developments, newest first.
+
+- [Tether invests in SCRYPT to support institutional stablecoin payments](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | 19 Nov 2026 | Yield Dispatch
+
+  Tether announces an investment supporting SCRYPT’s expansion into third\-party payments, without disclosing financing terms or a service rollout timetable\.
 
 - [FOMO Pay joins Anchorage Digital’s US platform for stablecoin payment infrastructure](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | 18 Nov 2026 | Chain Minute
 

@@ -4,7 +4,11 @@ Tether, USDT and related business developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-6 distinct developments, newest first.
+7 distinct developments, newest first.
+
+- [Tether invests in SCRYPT to support institutional stablecoin payments](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | 19 Nov 2026 | Yield Dispatch
+
+  Tether announces an investment supporting SCRYPT’s expansion into third\-party payments, without disclosing financing terms or a service rollout timetable\.
 
 - [TRON, Tether and Chainalysis announce Digital Crime Task Force](https://chainincident.com/news/0eaeeb2e-a26c-400a-bff7-50c55937bf82?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0eaeeb2e-a26c-400a-bff7-50c55937bf82) | 12 Nov 2026 | Chain Incident
 
