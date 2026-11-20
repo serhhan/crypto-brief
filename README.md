@@ -30,10 +30,10 @@ Tether announces an investment supporting SCRYPT’s expansion into third\-party
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | [tether\.io](https://tether.io/news/tether-makes-strategic-investment-in-scrypt-to-expand-institutional-stablecoin-infrastructure/)
 
-## CoinGecko announces Solana Foundation backing and plans broader data coverage
+## FOMO Pay joins Anchorage Digital’s US platform for stablecoin payment infrastructure
 
-CoinGecko says its website, app and API continue operating as usual while it plans wider asset coverage and explores trading capabilities\.
+FOMO Pay announces onboarding to Anchorage Digital’s US platform, with payment infrastructure use planned and custody described as a later conditional phase\.
 
-[Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | Published 17 Nov 2026
+[Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | Published 18 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | [www\.coingecko\.com](https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation)
+Sources: [Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | [www\.fomopay\.com](https://www.fomopay.com/news-media/fomo-pay-expand-access-to-usd-stablecoin-infrastructure-on-anchorage-digital)
