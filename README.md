@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 19 Nov 2026.
+Updated 20 Nov 2026.
 
-[Dated edition](archive/2026-11-19.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Hong Kong SFC lists Hyperliquid trading website in November 18 alert
 
