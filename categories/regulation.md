@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-44 distinct developments, newest first.
+45 distinct developments, newest first.
+
+- [CryptoUK asks FCA to distinguish DeFi development from regulated activity](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | 20 Nov 2026 | Yield Dispatch
+
+  CryptoUK’s November 19 announcement outlines requests on DeFi development, technical services, payments and qualifying stablecoins in its FCA consultation response\.
 
 - [Hong Kong SFC lists Hyperliquid trading website in November 18 alert](https://chainminute.com/news/33fef272-3efc-4dd3-b0cf-35a1813dc217?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=33fef272-3efc-4dd3-b0cf-35a1813dc217) | 19 Nov 2026 | Chain Minute
 

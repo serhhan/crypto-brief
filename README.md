@@ -6,6 +6,14 @@ Updated 20 Nov 2026.
 
 [Dated edition](archive/2026-11-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## CryptoUK asks FCA to distinguish DeFi development from regulated activity
+
+CryptoUK’s November 19 announcement outlines requests on DeFi development, technical services, payments and qualifying stablecoins in its FCA consultation response\.
+
+[Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | Published 20 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | [cryptouk\.io](https://cryptouk.io/resources/cryptouks-response-to-fca-cp26-36-cryptoasset-perimeter-guidance/)
+
 ## Hong Kong SFC lists Hyperliquid trading website in November 18 alert
 
 The SFC’s November 18 entry names Hyperliquid and its trading URL, citing licensing concerns and suspected activity directed at Hong Kong\.
@@ -21,14 +29,6 @@ Tether announces an investment supporting SCRYPT’s expansion into third\-party
 [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | Published 19 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | [tether\.io](https://tether.io/news/tether-makes-strategic-investment-in-scrypt-to-expand-institutional-stablecoin-infrastructure/)
-
-## DBS announces direct USDC minting and redemption access for institutions
-
-DBS and Circle announce a direct institutional route to USDC issuance and redemption in Asia, with round\-the\-clock USD\-USDC settlement described by the bank\.
-
-[Yield Dispatch](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | Published 18 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/3a840a62-1a67-44f1-9b68-b7bc0a0e6f41?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=3a840a62-1a67-44f1-9b68-b7bc0a0e6f41) | [www\.dbs\.com](https://www.dbs.com/newsroom/DBS_and_Circle_expand_institutional_access_to_USDC_in_Asia)
 
 ## CoinGecko announces Solana Foundation backing and plans broader data coverage
 
