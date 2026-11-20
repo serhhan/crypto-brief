@@ -6,6 +6,14 @@ Updated 20 Nov 2026.
 
 [Dated edition](archive/2026-11-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Hong Kong gazettes bill covering four more virtual asset services
+
+Hong Kong’s November 20 Bill proposes licensing or registration for virtual asset dealing, advisory, management and custody\. Its First Reading is planned for December 2\.
+
+[Chain Minute](https://chainminute.com/news/2d82df43-935b-43c6-a02b-9d27f7a2fe72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2d82df43-935b-43c6-a02b-9d27f7a2fe72) | Published 20 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/2d82df43-935b-43c6-a02b-9d27f7a2fe72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2d82df43-935b-43c6-a02b-9d27f7a2fe72) | [www\.info\.gov\.hk](https://www.info.gov.hk/gia/general/202611/20/P2026112000582p.htm)
+
 ## CryptoUK asks FCA to distinguish DeFi development from regulated activity
 
 CryptoUK’s November 19 announcement outlines requests on DeFi development, technical services, payments and qualifying stablecoins in its FCA consultation response\.
@@ -29,11 +37,3 @@ Tether announces an investment supporting SCRYPT’s expansion into third\-party
 [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | Published 19 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | [tether\.io](https://tether.io/news/tether-makes-strategic-investment-in-scrypt-to-expand-institutional-stablecoin-infrastructure/)
-
-## FOMO Pay joins Anchorage Digital’s US platform for stablecoin payment infrastructure
-
-FOMO Pay announces onboarding to Anchorage Digital’s US platform, with payment infrastructure use planned and custody described as a later conditional phase\.
-
-[Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | Published 18 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=929dbcdd-b4c0-4f0a-ac5a-5f989e84f2a6) | [www\.fomopay\.com](https://www.fomopay.com/news-media/fomo-pay-expand-access-to-usd-stablecoin-infrastructure-on-anchorage-digital)

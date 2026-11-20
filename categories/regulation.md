@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-45 distinct developments, newest first.
+46 distinct developments, newest first.
+
+- [Hong Kong gazettes bill covering four more virtual asset services](https://chainminute.com/news/2d82df43-935b-43c6-a02b-9d27f7a2fe72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2d82df43-935b-43c6-a02b-9d27f7a2fe72) | 20 Nov 2026 | Chain Minute
+
+  Hong Kong’s November 20 Bill proposes licensing or registration for virtual asset dealing, advisory, management and custody\. Its First Reading is planned for December 2\.
 
 - [CryptoUK asks FCA to distinguish DeFi development from regulated activity](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | 20 Nov 2026 | Yield Dispatch
 
