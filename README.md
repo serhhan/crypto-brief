@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 20 Nov 2026.
+Updated 21 Nov 2026.
 
-[Dated edition](archive/2026-11-20.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## Hong Kong gazettes bill covering four more virtual asset services
 
