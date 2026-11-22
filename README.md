@@ -29,11 +29,3 @@ CryptoUK’s November 19 announcement outlines requests on DeFi development, tec
 [Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | Published 20 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | [cryptouk\.io](https://cryptouk.io/resources/cryptouks-response-to-fca-cp26-36-cryptoasset-perimeter-guidance/)
-
-## Tether invests in SCRYPT to support institutional stablecoin payments
-
-Tether announces an investment supporting SCRYPT’s expansion into third\-party payments, without disclosing financing terms or a service rollout timetable\.
-
-[Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | Published 19 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | [tether\.io](https://tether.io/news/tether-makes-strategic-investment-in-scrypt-to-expand-institutional-stablecoin-infrastructure/)
