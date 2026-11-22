@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-46 distinct developments, newest first.
+47 distinct developments, newest first.
+
+- [ARK requests withdrawal of proposed CoinDesk 20 ex\-Bitcoin ETF](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | 22 Nov 2026 | Chain Minute
+
+  ARK’s November 20 letter asks the SEC to withdraw the proposed fund’s S\-1, saying the sponsor will not proceed with its planned share distribution\.
 
 - [Hong Kong gazettes bill covering four more virtual asset services](https://chainminute.com/news/2d82df43-935b-43c6-a02b-9d27f7a2fe72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2d82df43-935b-43c6-a02b-9d27f7a2fe72) | 20 Nov 2026 | Chain Minute
 

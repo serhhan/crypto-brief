@@ -2,9 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 21 Nov 2026.
+Updated 22 Nov 2026.
 
-[Dated edition](archive/2026-11-21.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-22.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+
+## ARK requests withdrawal of proposed CoinDesk 20 ex\-Bitcoin ETF
+
+ARK’s November 20 letter asks the SEC to withdraw the proposed fund’s S\-1, saying the sponsor will not proceed with its planned share distribution\.
+
+[Chain Minute](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | Published 22 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/2105930/000121390026122580/ea0313104-02_rw.htm)
 
 ## Hong Kong gazettes bill covering four more virtual asset services
 
@@ -21,14 +29,6 @@ CryptoUK’s November 19 announcement outlines requests on DeFi development, tec
 [Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | Published 20 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | [cryptouk\.io](https://cryptouk.io/resources/cryptouks-response-to-fca-cp26-36-cryptoasset-perimeter-guidance/)
-
-## Hong Kong SFC lists Hyperliquid trading website in November 18 alert
-
-The SFC’s November 18 entry names Hyperliquid and its trading URL, citing licensing concerns and suspected activity directed at Hong Kong\.
-
-[Chain Minute](https://chainminute.com/news/33fef272-3efc-4dd3-b0cf-35a1813dc217?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=33fef272-3efc-4dd3-b0cf-35a1813dc217) | Published 19 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/33fef272-3efc-4dd3-b0cf-35a1813dc217?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=33fef272-3efc-4dd3-b0cf-35a1813dc217) | [www\.sfc\.hk](https://www.sfc.hk/en/alert-list/3963)
 
 ## Tether invests in SCRYPT to support institutional stablecoin payments
 

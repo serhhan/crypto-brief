@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-17 distinct developments, newest first.
+18 distinct developments, newest first.
+
+- [ARK requests withdrawal of proposed CoinDesk 20 ex\-Bitcoin ETF](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | 22 Nov 2026 | Chain Minute
+
+  ARK’s November 20 letter asks the SEC to withdraw the proposed fund’s S\-1, saying the sponsor will not proceed with its planned share distribution\.
 
 - [24X expands Standard Chartered prime\-brokerage partnership to Bitcoin and Ethereum](https://chainminute.com/news/580ef8c8-2aa8-4cb0-bb5e-602e457a20ea?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=580ef8c8-2aa8-4cb0-bb5e-602e457a20ea) | 10 Nov 2026 | Chain Minute
 
