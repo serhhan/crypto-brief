@@ -2,9 +2,9 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 22 Nov 2026.
+Updated 23 Nov 2026.
 
-[Dated edition](archive/2026-11-22.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-23.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
 ## ARK requests withdrawal of proposed CoinDesk 20 ex\-Bitcoin ETF
 
@@ -21,11 +21,3 @@ Hong Kong’s November 20 Bill proposes licensing or registration for virtual as
 [Chain Minute](https://chainminute.com/news/2d82df43-935b-43c6-a02b-9d27f7a2fe72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2d82df43-935b-43c6-a02b-9d27f7a2fe72) | Published 20 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/2d82df43-935b-43c6-a02b-9d27f7a2fe72?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=2d82df43-935b-43c6-a02b-9d27f7a2fe72) | [www\.info\.gov\.hk](https://www.info.gov.hk/gia/general/202611/20/P2026112000582p.htm)
-
-## CryptoUK asks FCA to distinguish DeFi development from regulated activity
-
-CryptoUK’s November 19 announcement outlines requests on DeFi development, technical services, payments and qualifying stablecoins in its FCA consultation response\.
-
-[Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | Published 20 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/a25980bb-c75b-4d68-bc8e-b5a91673b5a4?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a25980bb-c75b-4d68-bc8e-b5a91673b5a4) | [cryptouk\.io](https://cryptouk.io/resources/cryptouks-response-to-fca-cp26-36-cryptoasset-perimeter-guidance/)
