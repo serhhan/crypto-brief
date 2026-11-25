@@ -6,42 +6,10 @@ Updated 25 Nov 2026.
 
 [Dated edition](archive/2026-11-25.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## ARK requests withdrawal of proposed CoinDesk 20 ex\-Bitcoin ETF
+## HKMA launches CMU Digital Asset Platform for tokenised debt
 
-ARK’s November 20 letter asks the SEC to withdraw the proposed fund’s S\-1, saying the sponsor will not proceed with its planned share distribution\.
+The HKMA says CMU DAP supports debt issuance, lifecycle processing and 24\-hour cash\-token settlement, while stablecoin extensions remain on its roadmap\.
 
-[Chain Minute](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | Published 22 Nov 2026
+[Chain Minute](https://chainminute.com/news/e1676b61-e2a0-4fe1-91bb-367312194f1b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1676b61-e2a0-4fe1-91bb-367312194f1b) | Published 25 Nov 2026
 
-Sources: [Chain Minute](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | [www\.sec\.gov](https://www.sec.gov/Archives/edgar/data/2105930/000121390026122580/ea0313104-02_rw.htm)
-
-## Tether invests in SCRYPT to support institutional stablecoin payments
-
-Tether announces an investment supporting SCRYPT’s expansion into third\-party payments, without disclosing financing terms or a service rollout timetable\.
-
-[Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | Published 19 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | [tether\.io](https://tether.io/news/tether-makes-strategic-investment-in-scrypt-to-expand-institutional-stablecoin-infrastructure/)
-
-## CoinGecko announces Solana Foundation backing and plans broader data coverage
-
-CoinGecko says its website, app and API continue operating as usual while it plans wider asset coverage and explores trading capabilities\.
-
-[Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | Published 17 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | [www\.coingecko\.com](https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation)
-
-## Draft EIP\-8151 adds public\-mempool rules for recovered signers
-
-The draft amendment specifies signer\-dependency tracking, code\-class revalidation and separate pending\-transaction allowances for frame transactions\. It is not a network activation\.
-
-[Fork Brief](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | Published 16 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | [github\.com](https://github.com/ethereum/EIPs/blob/8194528a2ee9a4893a398a5871c470ab0ac3b09a/EIPS/eip-8151.md) | [github\.com](https://github.com/ethereum/EIPs/commit/8194528a2ee9a4893a398a5871c470ab0ac3b09a)
-
-## TRM Labs announces Beacon Concierge for verified law\-enforcement agencies
-
-TRM’s November 12 announcement describes a managed intake and investigator\-support workflow that routes verified agencies’ requests to participating issuers\.
-
-[Chain Incident](https://chainincident.com/news/9a99aa33-f442-4aec-9fc6-b09e5376aa5c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9a99aa33-f442-4aec-9fc6-b09e5376aa5c) | Published 13 Nov 2026
-
-Sources: [Chain Incident](https://chainincident.com/news/9a99aa33-f442-4aec-9fc6-b09e5376aa5c?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=9a99aa33-f442-4aec-9fc6-b09e5376aa5c) | [www\.trmlabs\.com](https://www.trmlabs.com/resources/blog/trm-labs-launches-beacon-concierge-to-help-law-enforcement-worldwide-interdict-and-seize-illicit-crypto-funds-on-any-chain-in-any-asset)
+Sources: [Chain Minute](https://chainminute.com/news/e1676b61-e2a0-4fe1-91bb-367312194f1b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1676b61-e2a0-4fe1-91bb-367312194f1b) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/)

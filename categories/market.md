@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-45 distinct developments, newest first.
+46 distinct developments, newest first.
+
+- [HKMA launches CMU Digital Asset Platform for tokenised debt](https://chainminute.com/news/e1676b61-e2a0-4fe1-91bb-367312194f1b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1676b61-e2a0-4fe1-91bb-367312194f1b) | 25 Nov 2026 | Chain Minute
+
+  The HKMA says CMU DAP supports debt issuance, lifecycle processing and 24\-hour cash\-token settlement, while stablecoin extensions remain on its roadmap\.
 
 - [CoinGecko announces Solana Foundation backing and plans broader data coverage](https://chainminute.com/news/70272a83-2631-41b7-bf15-810f129a25c6?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=70272a83-2631-41b7-bf15-810f129a25c6) | 17 Nov 2026 | Chain Minute
 
