@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-61 distinct developments, newest first.
+62 distinct developments, newest first.
+
+- [Draft EIP\-8288 adds dependency\-proof gas to the calldata floor](https://forkbrief.com/news/805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7) | 26 Nov 2026 | Fork Brief
+
+  A November 26 amendment carries dependency\-proof gas into EIP\-8288’s calldata\-floor calculation, while the canonical proposal remains Draft\.
 
 - [Draft EIP\-8151 adds public\-mempool rules for recovered signers](https://forkbrief.com/news/85647f27-da6d-4271-a946-c1d0c01907e7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=85647f27-da6d-4271-a946-c1d0c01907e7) | 16 Nov 2026 | Fork Brief
 
