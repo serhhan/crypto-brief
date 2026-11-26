@@ -4,7 +4,11 @@ Crypto policy proposals, regulatory decisions and their reported effects.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-47 distinct developments, newest first.
+48 distinct developments, newest first.
+
+- [South Korea’s FSC outlines stablecoin licensing in planned digital\-asset bill](https://yielddispatch.com/news/a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1) | 26 Nov 2026 | Yield Dispatch
+
+  The FSC’s November 24 proposal separates stablecoin issuer licensing, issuance\-plan approval and service\-provider permissions; enactment remains a legislative step\.
 
 - [ARK requests withdrawal of proposed CoinDesk 20 ex\-Bitcoin ETF](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | 22 Nov 2026 | Chain Minute
 

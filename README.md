@@ -6,6 +6,14 @@ Updated 26 Nov 2026.
 
 [Dated edition](archive/2026-11-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## South Korea’s FSC outlines stablecoin licensing in planned digital\-asset bill
+
+The FSC’s November 24 proposal separates stablecoin issuer licensing, issuance\-plan approval and service\-provider permissions; enactment remains a legislative step\.
+
+[Yield Dispatch](https://yielddispatch.com/news/a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1) | Published 26 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1) | [www\.fsc\.go\.kr](https://www.fsc.go.kr/eng/pr010101/88214)
+
 ## BBIT Bitcoin Fund ETF lists on SIX in Swiss francs and US dollars
 
 SIX lists BBIT with Pernet von Ballmoos as issuer and BIT Asset Management as sponsor, adding a named Swiss fund to its crypto\-securities market\.
