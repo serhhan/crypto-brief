@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-46 distinct developments, newest first.
+47 distinct developments, newest first.
+
+- [BBIT Bitcoin Fund ETF lists on SIX in Swiss francs and US dollars](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | 26 Nov 2026 | Chain Minute
+
+  SIX lists BBIT with Pernet von Ballmoos as issuer and BIT Asset Management as sponsor, adding a named Swiss fund to its crypto\-securities market\.
 
 - [HKMA launches CMU Digital Asset Platform for tokenised debt](https://chainminute.com/news/e1676b61-e2a0-4fe1-91bb-367312194f1b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1676b61-e2a0-4fe1-91bb-367312194f1b) | 25 Nov 2026 | Chain Minute
 

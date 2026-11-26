@@ -2,9 +2,17 @@
 
 Source-linked crypto news covering DeFi, stablecoins, Ethereum and protocol governance.
 
-Updated 25 Nov 2026.
+Updated 26 Nov 2026.
 
-[Dated edition](archive/2026-11-25.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+[Dated edition](archive/2026-11-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
+
+## BBIT Bitcoin Fund ETF lists on SIX in Swiss francs and US dollars
+
+SIX lists BBIT with Pernet von Ballmoos as issuer and BIT Asset Management as sponsor, adding a named Swiss fund to its crypto\-securities market\.
+
+[Chain Minute](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | Published 26 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | [www\.finma\.ch](https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/) | [www\.six\-group\.com](https://www.six-group.com/en/newsroom/media-releases/2026/20261126-bit-etf-issuer.html)
 
 ## HKMA launches CMU Digital Asset Platform for tokenised debt
 

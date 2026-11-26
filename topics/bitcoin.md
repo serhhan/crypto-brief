@@ -4,7 +4,11 @@ Bitcoin network developments, market news and related investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-18 distinct developments, newest first.
+19 distinct developments, newest first.
+
+- [BBIT Bitcoin Fund ETF lists on SIX in Swiss francs and US dollars](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | 26 Nov 2026 | Chain Minute
+
+  SIX lists BBIT with Pernet von Ballmoos as issuer and BIT Asset Management as sponsor, adding a named Swiss fund to its crypto\-securities market\.
 
 - [ARK requests withdrawal of proposed CoinDesk 20 ex\-Bitcoin ETF](https://chainminute.com/news/969bb3a2-7496-4bb6-80df-aed6e94cdaf2?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=969bb3a2-7496-4bb6-80df-aed6e94cdaf2) | 22 Nov 2026 | Chain Minute
 
