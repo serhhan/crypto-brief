@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-47 distinct developments, newest first.
+48 distinct developments, newest first.
+
+- [KuCoin sets November 30 Monero spot delisting and December 31 withdrawal deadline](https://chainminute.com/news/b76c21c7-1498-4304-8d3b-1b105d629fc1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b76c21c7-1498-4304-8d3b-1b105d629fc1) | 26 Nov 2026 | Chain Minute
+
+  KuCoin’s XMR service closures have separate UTC deadlines, with spot trading ending November 30 and withdrawals scheduled to close December 31\.
 
 - [BBIT Bitcoin Fund ETF lists on SIX in Swiss francs and US dollars](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | 26 Nov 2026 | Chain Minute
 

@@ -6,6 +6,14 @@ Updated 26 Nov 2026.
 
 [Dated edition](archive/2026-11-26.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## KuCoin sets November 30 Monero spot delisting and December 31 withdrawal deadline
+
+KuCoin’s XMR service closures have separate UTC deadlines, with spot trading ending November 30 and withdrawals scheduled to close December 31\.
+
+[Chain Minute](https://chainminute.com/news/b76c21c7-1498-4304-8d3b-1b105d629fc1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b76c21c7-1498-4304-8d3b-1b105d629fc1) | Published 26 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/b76c21c7-1498-4304-8d3b-1b105d629fc1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b76c21c7-1498-4304-8d3b-1b105d629fc1) | [www\.kucoin\.com](https://www.kucoin.com/announcement/en-kucoin-will-delist-xmr-on-2026-11-30)
+
 ## South Korea’s FSC outlines stablecoin licensing in planned digital\-asset bill
 
 The FSC’s November 24 proposal separates stablecoin issuer licensing, issuance\-plan approval and service\-provider permissions; enactment remains a legislative step\.
@@ -21,11 +29,3 @@ SIX lists BBIT with Pernet von Ballmoos as issuer and BIT Asset Management as sp
 [Chain Minute](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | Published 26 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | [www\.finma\.ch](https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/) | [www\.six\-group\.com](https://www.six-group.com/en/newsroom/media-releases/2026/20261126-bit-etf-issuer.html)
-
-## HKMA launches CMU Digital Asset Platform for tokenised debt
-
-The HKMA says CMU DAP supports debt issuance, lifecycle processing and 24\-hour cash\-token settlement, while stablecoin extensions remain on its roadmap\.
-
-[Chain Minute](https://chainminute.com/news/e1676b61-e2a0-4fe1-91bb-367312194f1b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1676b61-e2a0-4fe1-91bb-367312194f1b) | Published 25 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/e1676b61-e2a0-4fe1-91bb-367312194f1b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=e1676b61-e2a0-4fe1-91bb-367312194f1b) | [www\.hkma\.gov\.hk](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/)
