@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-76 distinct developments, newest first.
+77 distinct developments, newest first.
+
+- [Draft EIP\-7805 specifies versioned FOCIL APIs and EMPTY fork\-choice handling](https://forkbrief.com/news/b45fb1ed-5b78-4d3a-83de-7317d9c6fde5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b45fb1ed-5b78-4d3a-83de-7317d9c6fde5) | 27 Nov 2026 | Fork Brief
+
+  The November 27 draft revision separates inclusion\-list satisfaction from execution validity and specifies versioned Engine API methods\.
 
 - [BNB Chain’s L1 litepaper separates ordering from execution finality](https://forkbrief.com/news/d3b5831c-e01f-4cfb-bb80-c600f96edafd?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3b5831c-e01f-4cfb-bb80-c600f96edafd) | 27 Nov 2026 | Fork Brief
 

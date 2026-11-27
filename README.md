@@ -6,6 +6,14 @@ Updated 27 Nov 2026.
 
 [Dated edition](archive/2026-11-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Draft EIP\-7805 specifies versioned FOCIL APIs and EMPTY fork\-choice handling
+
+The November 27 draft revision separates inclusion\-list satisfaction from execution validity and specifies versioned Engine API methods\.
+
+[Fork Brief](https://forkbrief.com/news/b45fb1ed-5b78-4d3a-83de-7317d9c6fde5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b45fb1ed-5b78-4d3a-83de-7317d9c6fde5) | Published 27 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/b45fb1ed-5b78-4d3a-83de-7317d9c6fde5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b45fb1ed-5b78-4d3a-83de-7317d9c6fde5) | [github\.com](https://github.com/ethereum/EIPs/commit/fbc43ec3a187f0b3dd448e995a041227f4baa7b1) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ethereum/EIPs/fbc43ec3a187f0b3dd448e995a041227f4baa7b1/EIPS/eip-7805.md)
+
 ## B3 names six financial partners for planned Open BRL stablecoin
 
 B3 assigns technology operations to itself and Open BRL issuance to Banco B3, while six institutions will develop integrations and evaluate use cases\.
@@ -29,14 +37,6 @@ BNB Chain’s November 26 architecture overview distinguishes provisional transa
 [Fork Brief](https://forkbrief.com/news/d3b5831c-e01f-4cfb-bb80-c600f96edafd?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3b5831c-e01f-4cfb-bb80-c600f96edafd) | Published 27 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/d3b5831c-e01f-4cfb-bb80-c600f96edafd?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3b5831c-e01f-4cfb-bb80-c600f96edafd) | [cointelegraph\.com](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai) | [docs\.bnbchain\.org](https://docs.bnbchain.org/newl1/faq/general/)
-
-## Draft EIP\-8288 adds dependency\-proof gas to the calldata floor
-
-A November 26 amendment carries dependency\-proof gas into EIP\-8288’s calldata\-floor calculation, while the canonical proposal remains Draft\.
-
-[Fork Brief](https://forkbrief.com/news/805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7) | Published 26 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7) | [github\.com](https://github.com/ethereum/EIPs/blob/c7cc5197513cd062a0fa0dc81cb66e5760228ac6/EIPS/eip-8288.md) | [github\.com](https://github.com/ethereum/EIPs/commit/5e9a0a9ac3e1fab9489d19f0ea16a4b925be9331)
 
 ## South Korea’s FSC outlines stablecoin licensing in planned digital\-asset bill
 
