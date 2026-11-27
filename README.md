@@ -6,13 +6,13 @@ Updated 27 Nov 2026.
 
 [Dated edition](archive/2026-11-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Utexo postpones November 28 Mint launch pending partner integrations
+## B3 names six financial partners for planned Open BRL stablecoin
 
-Utexo has deferred Utexo Mint’s November 28 public rollout, leaving early access open and a replacement date dependent on partner integrations\.
+B3 assigns technology operations to itself and Open BRL issuance to Banco B3, while six institutions will develop integrations and evaluate use cases\.
 
-[Yield Dispatch](https://yielddispatch.com/news/acb1f2bc-7d17-4ab8-b1d6-cfe60a957048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acb1f2bc-7d17-4ab8-b1d6-cfe60a957048) | Published 27 Nov 2026
+[Yield Dispatch](https://yielddispatch.com/news/0e3eefb5-39d3-4682-94ba-ad73fadb266a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0e3eefb5-39d3-4682-94ba-ad73fadb266a) | Published 27 Nov 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/acb1f2bc-7d17-4ab8-b1d6-cfe60a957048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acb1f2bc-7d17-4ab8-b1d6-cfe60a957048) | [www\.cryptotimes\.io](https://www.cryptotimes.io/2026/11/27/utexo-pushes-back-nov-28-mainnet-launch-for-wider-access/) | [www\.utexo\.com](https://www.utexo.com/blog/utexo-opens-early-access-to-usdmnt-on-bitcoin-through-utexo-mint)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/0e3eefb5-39d3-4682-94ba-ad73fadb266a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0e3eefb5-39d3-4682-94ba-ad73fadb266a) | [borainvestir\.b3\.com\.br](https://borainvestir.b3.com.br/noticias/b3-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais/) | [unchainedcrypto\.com](https://unchainedcrypto.com/brazils-b3-enlists-itau-santander-and-four-other-firms-for-open-brl-stablecoin/)
 
 ## MEXC lists WBT for November 27 delisting in ST calendar
 

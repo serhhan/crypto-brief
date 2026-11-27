@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-42 distinct developments, newest first.
+43 distinct developments, newest first.
+
+- [B3 names six financial partners for planned Open BRL stablecoin](https://yielddispatch.com/news/0e3eefb5-39d3-4682-94ba-ad73fadb266a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0e3eefb5-39d3-4682-94ba-ad73fadb266a) | 27 Nov 2026 | Yield Dispatch
+
+  B3 assigns technology operations to itself and Open BRL issuance to Banco B3, while six institutions will develop integrations and evaluate use cases\.
 
 - [Utexo postpones November 28 Mint launch pending partner integrations](https://yielddispatch.com/news/acb1f2bc-7d17-4ab8-b1d6-cfe60a957048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acb1f2bc-7d17-4ab8-b1d6-cfe60a957048) | 27 Nov 2026 | Yield Dispatch
 
