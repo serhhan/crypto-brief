@@ -4,7 +4,11 @@ Protocol proposals, network upgrades and tools for blockchain developers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-75 distinct developments, newest first.
+76 distinct developments, newest first.
+
+- [BNB Chain’s L1 litepaper separates ordering from execution finality](https://forkbrief.com/news/d3b5831c-e01f-4cfb-bb80-c600f96edafd?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3b5831c-e01f-4cfb-bb80-c600f96edafd) | 27 Nov 2026 | Fork Brief
+
+  BNB Chain’s November 26 architecture overview distinguishes provisional transaction feedback from finalized execution, while its network remains a devnet\.
 
 - [Draft EIP\-8288 adds dependency\-proof gas to the calldata floor](https://forkbrief.com/news/805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7) | 26 Nov 2026 | Fork Brief
 
