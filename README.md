@@ -6,6 +6,14 @@ Updated 27 Nov 2026.
 
 [Dated edition](archive/2026-11-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Bluefin schedules perpetual futures shutdown for December 4
+
+Bluefin sets December 4 at 21\:00 UTC for ending its perpetual futures service, with withdrawals available for an unspecified period afterward\.
+
+[Yield Dispatch](https://yielddispatch.com/news/a8d86c30-e774-4f70-93b4-f7e0afddfdc8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8d86c30-e774-4f70-93b4-f7e0afddfdc8) | Published 27 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/a8d86c30-e774-4f70-93b4-f7e0afddfdc8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8d86c30-e774-4f70-93b4-f7e0afddfdc8) | [cointelegraph\.com](https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas) | [x\.com](https://x.com/bluefinapp/status/2125928029692002355)
+
 ## MEXC lists WBT for November 27 delisting in ST calendar
 
 MEXC’s calendar lists WBT for November 27 removal after a November 24 ST date, with separate conditions for trading, Convert and withdrawals\.
@@ -29,14 +37,6 @@ A November 26 amendment carries dependency\-proof gas into EIP\-8288’s calldat
 [Fork Brief](https://forkbrief.com/news/805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7) | Published 26 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=805bd880-b5ab-4c7e-aae7-1c2b2dfb0be7) | [github\.com](https://github.com/ethereum/EIPs/blob/c7cc5197513cd062a0fa0dc81cb66e5760228ac6/EIPS/eip-8288.md) | [github\.com](https://github.com/ethereum/EIPs/commit/5e9a0a9ac3e1fab9489d19f0ea16a4b925be9331)
-
-## KuCoin sets November 30 Monero spot delisting and December 31 withdrawal deadline
-
-KuCoin’s XMR service closures have separate UTC deadlines, with spot trading ending November 30 and withdrawals scheduled to close December 31\.
-
-[Chain Minute](https://chainminute.com/news/b76c21c7-1498-4304-8d3b-1b105d629fc1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b76c21c7-1498-4304-8d3b-1b105d629fc1) | Published 26 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/b76c21c7-1498-4304-8d3b-1b105d629fc1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b76c21c7-1498-4304-8d3b-1b105d629fc1) | [www\.kucoin\.com](https://www.kucoin.com/announcement/en-kucoin-will-delist-xmr-on-2026-11-30)
 
 ## South Korea’s FSC outlines stablecoin licensing in planned digital\-asset bill
 

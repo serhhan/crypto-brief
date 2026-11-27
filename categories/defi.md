@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-40 distinct developments, newest first.
+41 distinct developments, newest first.
+
+- [Bluefin schedules perpetual futures shutdown for December 4](https://yielddispatch.com/news/a8d86c30-e774-4f70-93b4-f7e0afddfdc8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8d86c30-e774-4f70-93b4-f7e0afddfdc8) | 27 Nov 2026 | Yield Dispatch
+
+  Bluefin sets December 4 at 21\:00 UTC for ending its perpetual futures service, with withdrawals available for an unspecified period afterward\.
 
 - [Tether invests in SCRYPT to support institutional stablecoin payments](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | 19 Nov 2026 | Yield Dispatch
 
