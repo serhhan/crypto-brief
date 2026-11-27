@@ -6,13 +6,13 @@ Updated 27 Nov 2026.
 
 [Dated edition](archive/2026-11-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
-## Bluefin schedules perpetual futures shutdown for December 4
+## Utexo postpones November 28 Mint launch pending partner integrations
 
-Bluefin sets December 4 at 21\:00 UTC for ending its perpetual futures service, with withdrawals available for an unspecified period afterward\.
+Utexo has deferred Utexo Mint’s November 28 public rollout, leaving early access open and a replacement date dependent on partner integrations\.
 
-[Yield Dispatch](https://yielddispatch.com/news/a8d86c30-e774-4f70-93b4-f7e0afddfdc8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8d86c30-e774-4f70-93b4-f7e0afddfdc8) | Published 27 Nov 2026
+[Yield Dispatch](https://yielddispatch.com/news/acb1f2bc-7d17-4ab8-b1d6-cfe60a957048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acb1f2bc-7d17-4ab8-b1d6-cfe60a957048) | Published 27 Nov 2026
 
-Sources: [Yield Dispatch](https://yielddispatch.com/news/a8d86c30-e774-4f70-93b4-f7e0afddfdc8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8d86c30-e774-4f70-93b4-f7e0afddfdc8) | [cointelegraph\.com](https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas) | [x\.com](https://x.com/bluefinapp/status/2125928029692002355)
+Sources: [Yield Dispatch](https://yielddispatch.com/news/acb1f2bc-7d17-4ab8-b1d6-cfe60a957048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acb1f2bc-7d17-4ab8-b1d6-cfe60a957048) | [www\.cryptotimes\.io](https://www.cryptotimes.io/2026/11/27/utexo-pushes-back-nov-28-mainnet-launch-for-wider-access/) | [www\.utexo\.com](https://www.utexo.com/blog/utexo-opens-early-access-to-usdmnt-on-bitcoin-through-utexo-mint)
 
 ## MEXC lists WBT for November 27 delisting in ST calendar
 

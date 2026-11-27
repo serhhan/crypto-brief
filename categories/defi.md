@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-41 distinct developments, newest first.
+42 distinct developments, newest first.
+
+- [Utexo postpones November 28 Mint launch pending partner integrations](https://yielddispatch.com/news/acb1f2bc-7d17-4ab8-b1d6-cfe60a957048?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=acb1f2bc-7d17-4ab8-b1d6-cfe60a957048) | 27 Nov 2026 | Yield Dispatch
+
+  Utexo has deferred Utexo Mint’s November 28 public rollout, leaving early access open and a replacement date dependent on partner integrations\.
 
 - [Bluefin schedules perpetual futures shutdown for December 4](https://yielddispatch.com/news/a8d86c30-e774-4f70-93b4-f7e0afddfdc8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a8d86c30-e774-4f70-93b4-f7e0afddfdc8) | 27 Nov 2026 | Yield Dispatch
 
