@@ -4,7 +4,11 @@ Crypto market developments, exchange news and investment products.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-48 distinct developments, newest first.
+49 distinct developments, newest first.
+
+- [MEXC lists WBT for November 27 delisting in ST calendar](https://chainminute.com/news/dbe3c91c-278b-458e-a89c-1e28b6549f15?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dbe3c91c-278b-458e-a89c-1e28b6549f15) | 27 Nov 2026 | Chain Minute
+
+  MEXC’s calendar lists WBT for November 27 removal after a November 24 ST date, with separate conditions for trading, Convert and withdrawals\.
 
 - [KuCoin sets November 30 Monero spot delisting and December 31 withdrawal deadline](https://chainminute.com/news/b76c21c7-1498-4304-8d3b-1b105d629fc1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b76c21c7-1498-4304-8d3b-1b105d629fc1) | 26 Nov 2026 | Chain Minute
 

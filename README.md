@@ -6,6 +6,14 @@ Updated 27 Nov 2026.
 
 [Dated edition](archive/2026-11-27.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## MEXC lists WBT for November 27 delisting in ST calendar
+
+MEXC’s calendar lists WBT for November 27 removal after a November 24 ST date, with separate conditions for trading, Convert and withdrawals\.
+
+[Chain Minute](https://chainminute.com/news/dbe3c91c-278b-458e-a89c-1e28b6549f15?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dbe3c91c-278b-458e-a89c-1e28b6549f15) | Published 27 Nov 2026
+
+Sources: [Chain Minute](https://chainminute.com/news/dbe3c91c-278b-458e-a89c-1e28b6549f15?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dbe3c91c-278b-458e-a89c-1e28b6549f15) | [www\.mexc\.com](https://www.mexc.com/announcements/article/mexc-announcement-on-st-warning-november-2026-17827791539508) | [www\.tradingview\.com](https://www.tradingview.com/news/coinmarketcal%3Aeefe7e8d2094b%3A0-whitebit-coin-mexc-delists-wbt-27-nov-2026/)
+
 ## BNB Chain’s L1 litepaper separates ordering from execution finality
 
 BNB Chain’s November 26 architecture overview distinguishes provisional transaction feedback from finalized execution, while its network remains a devnet\.
@@ -37,11 +45,3 @@ The FSC’s November 24 proposal separates stablecoin issuer licensing, issuance
 [Yield Dispatch](https://yielddispatch.com/news/a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1) | Published 26 Nov 2026
 
 Sources: [Yield Dispatch](https://yielddispatch.com/news/a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=a41ebffa-73b8-45c8-8f0d-dbeb6278c8f1) | [www\.fsc\.go\.kr](https://www.fsc.go.kr/eng/pr010101/88214)
-
-## BBIT Bitcoin Fund ETF lists on SIX in Swiss francs and US dollars
-
-SIX lists BBIT with Pernet von Ballmoos as issuer and BIT Asset Management as sponsor, adding a named Swiss fund to its crypto\-securities market\.
-
-[Chain Minute](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | Published 26 Nov 2026
-
-Sources: [Chain Minute](https://chainminute.com/news/379f2352-35ae-4420-ba7a-d9c9cdda8c9b?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=379f2352-35ae-4420-ba7a-d9c9cdda8c9b) | [www\.finma\.ch](https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/) | [www\.six\-group\.com](https://www.six-group.com/en/newsroom/media-releases/2026/20261126-bit-etf-issuer.html)
