@@ -4,7 +4,11 @@ Tether, USDT and related business developments.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-7 distinct developments, newest first.
+8 distinct developments, newest first.
+
+- [Binance Pay, DK Bank and Tether sign non\-binding Bhutan payments MOU](https://yielddispatch.com/news/492ca334-ebe2-4619-94d4-cdebd559ae65?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=492ca334-ebe2-4619-94d4-cdebd559ae65) | 28 Nov 2026 | Yield Dispatch
+
+  The November 28 agreement would promote USD₮ payments on an existing merchant network, while implementation, timing and rebate terms remain subject to final agreement\.
 
 - [Tether invests in SCRYPT to support institutional stablecoin payments](https://yielddispatch.com/news/46fa77e5-11d5-46d5-bb69-4f5cbcb05a24?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=46fa77e5-11d5-46d5-bb69-4f5cbcb05a24) | 19 Nov 2026 | Yield Dispatch
 

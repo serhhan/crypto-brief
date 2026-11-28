@@ -6,6 +6,14 @@ Updated 28 Nov 2026.
 
 [Dated edition](archive/2026-11-28.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Binance Pay, DK Bank and Tether sign non\-binding Bhutan payments MOU
+
+The November 28 agreement would promote USD₮ payments on an existing merchant network, while implementation, timing and rebate terms remain subject to final agreement\.
+
+[Yield Dispatch](https://yielddispatch.com/news/492ca334-ebe2-4619-94d4-cdebd559ae65?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=492ca334-ebe2-4619-94d4-cdebd559ae65) | Published 28 Nov 2026
+
+Sources: [Yield Dispatch](https://yielddispatch.com/news/492ca334-ebe2-4619-94d4-cdebd559ae65?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=492ca334-ebe2-4619-94d4-cdebd559ae65) | [www\.prnewswire\.com](https://www.prnewswire.com/news-releases/binance-pay-dk-bank-and-tether-sign-mou-to-expand-stablecoin-payments-to-merchants-across-bhutan-starting-with-usd-302952011.html)
+
 ## Draft EIP\-8369 separates Profile 2 fee checks from per\-gas caps
 
 The November 28 reference\-model revision uses EIP\-8141’s transaction\-wide fee check and clarifies the payer balance required during replay\.
@@ -21,14 +29,6 @@ The November 27 draft revision separates inclusion\-list satisfaction from execu
 [Fork Brief](https://forkbrief.com/news/b45fb1ed-5b78-4d3a-83de-7317d9c6fde5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b45fb1ed-5b78-4d3a-83de-7317d9c6fde5) | Published 27 Nov 2026
 
 Sources: [Fork Brief](https://forkbrief.com/news/b45fb1ed-5b78-4d3a-83de-7317d9c6fde5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b45fb1ed-5b78-4d3a-83de-7317d9c6fde5) | [github\.com](https://github.com/ethereum/EIPs/commit/fbc43ec3a187f0b3dd448e995a041227f4baa7b1) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ethereum/EIPs/fbc43ec3a187f0b3dd448e995a041227f4baa7b1/EIPS/eip-7805.md)
-
-## B3 names six financial partners for planned Open BRL stablecoin
-
-B3 assigns technology operations to itself and Open BRL issuance to Banco B3, while six institutions will develop integrations and evaluate use cases\.
-
-[Yield Dispatch](https://yielddispatch.com/news/0e3eefb5-39d3-4682-94ba-ad73fadb266a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0e3eefb5-39d3-4682-94ba-ad73fadb266a) | Published 27 Nov 2026
-
-Sources: [Yield Dispatch](https://yielddispatch.com/news/0e3eefb5-39d3-4682-94ba-ad73fadb266a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0e3eefb5-39d3-4682-94ba-ad73fadb266a) | [borainvestir\.b3\.com\.br](https://borainvestir.b3.com.br/noticias/b3-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais/) | [unchainedcrypto\.com](https://unchainedcrypto.com/brazils-b3-enlists-itau-santander-and-four-other-firms-for-open-brl-stablecoin/)
 
 ## MEXC lists WBT for November 27 delisting in ST calendar
 

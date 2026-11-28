@@ -4,7 +4,11 @@ Developments in decentralized finance, stablecoin payments and digital asset len
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-43 distinct developments, newest first.
+44 distinct developments, newest first.
+
+- [Binance Pay, DK Bank and Tether sign non\-binding Bhutan payments MOU](https://yielddispatch.com/news/492ca334-ebe2-4619-94d4-cdebd559ae65?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=492ca334-ebe2-4619-94d4-cdebd559ae65) | 28 Nov 2026 | Yield Dispatch
+
+  The November 28 agreement would promote USD₮ payments on an existing merchant network, while implementation, timing and rebate terms remain subject to final agreement\.
 
 - [B3 names six financial partners for planned Open BRL stablecoin](https://yielddispatch.com/news/0e3eefb5-39d3-4682-94ba-ad73fadb266a?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=0e3eefb5-39d3-4682-94ba-ad73fadb266a) | 27 Nov 2026 | Yield Dispatch
 
