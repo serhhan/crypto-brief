@@ -4,7 +4,11 @@ Ethereum proposals, protocol changes and developer explainers.
 
 [Latest edition](../README.md) · [Archive](../archive/) · [Categories](../categories/README.md) · [Topics](../topics/README.md)
 
-63 distinct developments, newest first.
+64 distinct developments, newest first.
+
+- [Draft EIP\-8369 separates Profile 2 fee checks from per\-gas caps](https://forkbrief.com/news/11e93662-a72b-4d14-ab7f-d753ba4e34a8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=11e93662-a72b-4d14-ab7f-d753ba4e34a8) | 28 Nov 2026 | Fork Brief
+
+  The November 28 reference\-model revision uses EIP\-8141’s transaction\-wide fee check and clarifies the payer balance required during replay\.
 
 - [Draft EIP\-7805 specifies versioned FOCIL APIs and EMPTY fork\-choice handling](https://forkbrief.com/news/b45fb1ed-5b78-4d3a-83de-7317d9c6fde5?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=b45fb1ed-5b78-4d3a-83de-7317d9c6fde5) | 27 Nov 2026 | Fork Brief
 

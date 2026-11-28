@@ -6,6 +6,14 @@ Updated 28 Nov 2026.
 
 [Dated edition](archive/2026-11-28.md) · [Archive](archive/) · [Categories](categories/README.md) · [Topics](topics/README.md)
 
+## Draft EIP\-8369 separates Profile 2 fee checks from per\-gas caps
+
+The November 28 reference\-model revision uses EIP\-8141’s transaction\-wide fee check and clarifies the payer balance required during replay\.
+
+[Fork Brief](https://forkbrief.com/news/11e93662-a72b-4d14-ab7f-d753ba4e34a8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=11e93662-a72b-4d14-ab7f-d753ba4e34a8) | Published 28 Nov 2026
+
+Sources: [Fork Brief](https://forkbrief.com/news/11e93662-a72b-4d14-ab7f-d753ba4e34a8?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=11e93662-a72b-4d14-ab7f-d753ba4e34a8) | [github\.com](https://github.com/ethereum/EIPs/commit/97dfa8bcae395f6c2344cb945a7ef73171980939) | [raw\.githubusercontent\.com](https://raw.githubusercontent.com/ethereum/EIPs/97dfa8bcae395f6c2344cb945a7ef73171980939/EIPS/eip-8369.md)
+
 ## Draft EIP\-7805 specifies versioned FOCIL APIs and EMPTY fork\-choice handling
 
 The November 27 draft revision separates inclusion\-list satisfaction from execution validity and specifies versioned Engine API methods\.
@@ -29,14 +37,6 @@ MEXC’s calendar lists WBT for November 27 removal after a November 24 ST date,
 [Chain Minute](https://chainminute.com/news/dbe3c91c-278b-458e-a89c-1e28b6549f15?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dbe3c91c-278b-458e-a89c-1e28b6549f15) | Published 27 Nov 2026
 
 Sources: [Chain Minute](https://chainminute.com/news/dbe3c91c-278b-458e-a89c-1e28b6549f15?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=dbe3c91c-278b-458e-a89c-1e28b6549f15) | [www\.mexc\.com](https://www.mexc.com/announcements/article/mexc-announcement-on-st-warning-november-2026-17827791539508) | [www\.tradingview\.com](https://www.tradingview.com/news/coinmarketcal%3Aeefe7e8d2094b%3A0-whitebit-coin-mexc-delists-wbt-27-nov-2026/)
-
-## BNB Chain’s L1 litepaper separates ordering from execution finality
-
-BNB Chain’s November 26 architecture overview distinguishes provisional transaction feedback from finalized execution, while its network remains a devnet\.
-
-[Fork Brief](https://forkbrief.com/news/d3b5831c-e01f-4cfb-bb80-c600f96edafd?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3b5831c-e01f-4cfb-bb80-c600f96edafd) | Published 27 Nov 2026
-
-Sources: [Fork Brief](https://forkbrief.com/news/d3b5831c-e01f-4cfb-bb80-c600f96edafd?utm_source=github&utm_medium=referral&utm_campaign=crypto_brief&utm_content=d3b5831c-e01f-4cfb-bb80-c600f96edafd) | [cointelegraph\.com](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai) | [docs\.bnbchain\.org](https://docs.bnbchain.org/newl1/faq/general/)
 
 ## South Korea’s FSC outlines stablecoin licensing in planned digital\-asset bill
 
